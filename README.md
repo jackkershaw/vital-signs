@@ -1,4 +1,43 @@
+# To do
+
+- Wordpress, can probably get free hosting for this.
+
+  - Posts
+  - Categories
+    - I decided to set up the following categories for posts on the site:
+      - Working Conditions
+      - International
+      - Current Struggles
+      - Debate
+      - History
+      - Leaflets
+      - Newsletters
+      - Meetings
+      - Issue 1
+      - Issue 2
+      - Issue 3
+
+- change isr time - revalkidate: 600 etc. in getstaticprops, basically time to rerender blog content. Test this.
+
+- use app router
+
+- use built in nextjs components
+
+- manage metadata dynamically for better SEO and user experience.
+
+- see are.na channel
+
+- When finished site:
+  - Github Org - Vital Signs
+  - Github Repo - vital-signs
+  - Pull request to that repo and edit
+  - Domain and Vercel
+
 # Planning
+
+- Because the client was already confident using Wordpress for a previous site, I decided to use NextJS for the frontend with Headless Wordpress as the backend. There are several reasons for this over just traditional Wordpress - the primary ones being speed and security.
+
+- NextJS allows me to use static regeneration - a hybrid of server side rendering and static site generation.
 
 # Building
 
@@ -161,16 +200,6 @@ You should now be able to see this post. To exit Preview Mode, you can click on 
 
 ### Step 7. Deploy on Vercel
 
-You can deploy this app to the cloud with [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
-
-#### Deploy Your Local Project
-
 To deploy your local project to Vercel, push it to GitHub/GitLab/Bitbucket and [import to Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example).
 
 **Important**: When you import your project on Vercel, make sure to click on **Environment Variables** and set them to match your `.env.local` file.
-
-#### Deploy from Our Template
-
-Alternatively, you can deploy using our template by clicking on the Deploy button below.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/cms-wordpress&project-name=cms-wordpress&repository-name=cms-wordpress&env=WORDPRESS_API_URL&envDescription=Required%20to%20connect%20the%20app%20with%20WordPress&envLink=https://vercel.link/cms-wordpress-env)
