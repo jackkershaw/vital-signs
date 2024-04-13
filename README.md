@@ -1,6 +1,8 @@
 # To do
 
-- Wordpress, can probably get free hosting for this.
+- Wordpress
+
+  - Use bluehost, sign up in your name and details.
 
   - Posts
   - Categories
@@ -17,8 +19,9 @@
       - Issue 2
       - Issue 3
 
-- change isr time - revalkidate: 600 etc. in getstaticprops, basically time to rerender blog content. Test this.
+- change isr time - revalidate: 600 etc. in getstaticprops, basically time to rerender blog content. Test this.
 
+- see sketches in planning folder for design.
 - use app router
 
 - use built in nextjs components
@@ -52,8 +55,6 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 ## Configuration
 
 ### Step 1. Prepare your WordPress site
-
-First, you need a WordPress site. There are many solutions for WordPress hosting, such as [WP Engine](https://wpengine.com/) and [WordPress.com](https://wordpress.com/).
 
 Once the site is ready, you'll need to install the [WPGraphQL](https://www.wpgraphql.com/) plugin. It will add GraphQL API to your WordPress site, which we'll use to query the posts. Follow these steps to install it:
 
