@@ -1,23 +1,24 @@
 # To do
 
-- Wordpress
+- start with local wordpress, download from: [text](https://localwp.com/)
 
-  - Use bluehost, sign up in your name and details.
+Wordpress
 
-  - Posts
-  - Categories
-    - I decided to set up the following categories for posts on the site:
-      - Working Conditions
-      - International
-      - Current Struggles
-      - Debate
-      - History
-      - Leaflets
-      - Newsletters
-      - Meetings
-      - Issue 1
-      - Issue 2
-      - Issue 3
+- Posts
+- Categories
+
+  - I decided to set up the following categories for posts on the site:
+    - Working Conditions
+    - International
+    - Current Struggles
+    - Debate
+    - History
+    - Leaflets
+    - Newsletters
+    - Meetings
+    - Issue 1
+    - Issue 2
+    - Issue 3
 
 - change isr time - revalidate: 600 etc. in getstaticprops, basically time to rerender blog content. Test this.
 
@@ -29,6 +30,10 @@
 - manage metadata dynamically for better SEO and user experience.
 
 - see are.na channel
+
+- wordpress hosting
+
+  - Use bluehost, sign up in your name and details.
 
 - When finished site:
   - Github Org - Vital Signs
