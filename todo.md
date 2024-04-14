@@ -2,7 +2,7 @@
 
 ### Step 1. Prepare your WordPress site
 
-- set up local wordpress with Local. Use good wifi to download Wordpress on local site.If doesn't work use MAMP.
+- setup stuff on hostinger.
 
 Once the site is ready, you'll need to install the [WPGraphQL](https://www.wpgraphql.com/) plugin. It will add GraphQL API to your WordPress site, which we'll use to query the posts. Follow these steps to install it:
 

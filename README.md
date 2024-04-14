@@ -12,6 +12,9 @@
 npx create-next-app --example cms-wordpress cms-wordpress-app
 ```
 
+- Secured vitalsignsmag.org domain on Porkbun for 1 year.
+- Got hostinger wordpress hosting with 1 year free domain, vitalsignsmagcontenteditor.in
+
 # Debugging
 
 g)
