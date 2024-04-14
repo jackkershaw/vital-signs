@@ -1,0 +1,1 @@
+2024/04/14 12:53:47 [error] 30508#0: *1 directory index of "/Users/coding-2/Documents/projects/vital-signs/wordpress site/app/public/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.0", host: "vital-signs.local"

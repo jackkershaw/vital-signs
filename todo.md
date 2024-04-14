@@ -140,7 +140,8 @@ To deploy your local project to Vercel, push it to GitHub/GitLab/Bitbucket and [
 
 ### Step 8 - other steps
 
-- Wordpress - setrahost, bluehost, wpengine or flywheeel, Asphosportal, Krystal. Sign up in own name and details.
+- Domain - Porkbun, awaiting confirmation from client.
+- Wordpress - use Hostinger.
 
 - Posts
 - Categories
@@ -169,8 +170,4 @@ To deploy your local project to Vercel, push it to GitHub/GitLab/Bitbucket and [
 
 - see are.na channel
 
-- When finished site:
-  - Github Org - Vital Signs
-  - Github Repo - vital-signs
-  - Pull request to that repo and edit
-  - Domain from Porkbun and Vercel
+- Deploy to Vercel
