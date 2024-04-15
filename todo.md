@@ -43,6 +43,7 @@
 - add font
 - add tailwind typography and use the prose classname
 - add iconify for icons.
+- Footer
 - Get logo from client and add favicon in public/favicon - use [this](https://frontendmasters.com/blog/how-to-favicon-in-2024/) to build it.
 
 - Add Categories
