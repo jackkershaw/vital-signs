@@ -1,30 +1,8 @@
 # To do
 
-### Step 1. Prepare your WordPress site
-
-- setup stuff on hostinger.
-
-Once the site is ready, you'll need to install the [WPGraphQL](https://www.wpgraphql.com/) plugin. It will add GraphQL API to your WordPress site, which we'll use to query the posts. Follow these steps to install it:
-
-- Download the [WPGraphQL repo](https://github.com/wp-graphql/wp-graphql) as a ZIP archive.
-- Inside your WordPress admin, go to **Plugins** and then click **Add New**.
-
-![Add new plugin](./docs/plugins-add-new.pn
-![WPGraphiQL page](./docs/wp-graphiql.png)
+[WP admin](https://vitalsignsmagcontenteditor.in/wp-admin)
 
 ### Step 2. Populate Content
-
-Inside your WordPress admin, go to **Posts** and start adding new posts:
-
-- We recommend creating at least **2 posts**
-- Use dummy data for the content
-- Pick an author from your WordPress users
-- Add a **Featured Image**. You can download one from [Unsplash](https://unsplash.com/)
-- Fill the **Excerpt** field
-
-![New post](./docs/new-post.png)
-
-When you’re done, make sure to **Publish** the posts.
 
 > **Note:** Only **published** posts and public fields will be rendered by the app unless [Preview Mode](https://nextjs.org/docs/advanced-features/preview-mode) is enabled.
 

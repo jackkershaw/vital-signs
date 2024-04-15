@@ -15,6 +15,14 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 - Secured vitalsignsmag.org domain on Porkbun for 1 year.
 - Got hostinger wordpress hosting with 1 year free domain, vitalsignsmagcontenteditor.in
 
+- Installed the [WPGraphQL](https://www.wpgraphql.com/) plugin - which will be used to create an API for the posts.
+
+- Added some dummy content - two posts - which will be used for testing.
+
+  - Within these posts I added excerpts and featured images.
+
+- Created an .env.local file and added the Wordpress API URL for WPGraphQL plugin. Added this to gitignore
+
 # Debugging
 
 g)
