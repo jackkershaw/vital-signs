@@ -12,8 +12,10 @@
 npx create-next-app --example cms-wordpress cms-wordpress-app
 ```
 
+- I was hesistant to use this example, because it might complicate the project and make it harder for me to work on it but in the end, I decided to use it, and make sure to read through the code to make sure I understood it.
+
 - Secured vitalsignsmag.org domain on Porkbun for 1 year.
-- Got hostinger wordpress hosting with 1 year free domain, vitalsignsmagcontenteditor.in
+- Got Siteground wordpress hosting with 1 year free domain, vitalsignscontenteditor.co.uk
 
 - Installed the [WPGraphQL](https://www.wpgraphql.com/) plugin - which will be used to create an API for the posts.
 

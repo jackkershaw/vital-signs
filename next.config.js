@@ -12,6 +12,6 @@ const { protocol, hostname, port, pathname } = new URL(
 /** @type {import('next').NextConfig} */
 module.exports = {
   images: {
-    domains: ["vitalsignsmagcontenteditor.in", "secure.gravatar.com"],
+    domains: ["vitalsignscontenteditor.co.uk", "secure.gravatar.com"],
   },
 };
