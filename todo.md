@@ -7,7 +7,7 @@
 
 # To do
 
-- Remove Vercel bits from template.
+- Remove Vercel bits from template and style own way.
 
   - go over files in:
     - [] components

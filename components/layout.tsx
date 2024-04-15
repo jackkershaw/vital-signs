@@ -4,10 +4,10 @@ import Meta from "./meta";
 
 export default function Layout({ preview, children }) {
   return (
-    <div className="container mx-auto px-5">
+    <div>
       <Header />
       <Meta />
-      <div className="min-h-screen">
+      <div className="min-h-screen container mx-auto px-5">
         <main>{children}</main>
       </div>
       <Footer />
