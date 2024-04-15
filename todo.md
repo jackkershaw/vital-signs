@@ -11,36 +11,36 @@
 
   - go over files in:
 
-    - [] components
+    - components
 
-      - []categories
       - [] cover-image
-      - [] date
-      - [] footer
-      - [] header
+      - [x] date
+      - [x] footer
+      - [x] header
       - [] hero-post
-      - [] layout
-      - [] meta
-      - [] more-stories
+      - [x] layout
+      - [x] meta
+      - [x] more-stories
       - [] post-body.module.css
       - [] post-body
       - [] post-header
-      - [] post-preview
+      - [x] post-preview
       - [] post-title
-      - [] section-separator
+      - [x] section-separator
       - [] tags
 
-    - [] lib
+    - lib
       - [] api.ts
-    - [] pages
+    - pages
 
       - [] \_app
       - [] \_document
-
-      - [] index
+      - [x] index
 
     - [] tailwind.config.js
 
+- add font
+- add tailwind typography and use the prose classname
 - add iconify for icons.
 - Get logo from client and add favicon in public/favicon - use [this](https://frontendmasters.com/blog/how-to-favicon-in-2024/) to build it.
 
