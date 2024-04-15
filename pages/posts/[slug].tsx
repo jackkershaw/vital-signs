@@ -39,8 +39,6 @@ export default function Post({ post, posts, preview }) {
               title={post.title}
               coverImage={post.featuredImage}
               date={post.date}
-              author={post.author}
-              categories={post.categories}
             />
             <PostBody content={post.content} />
           </article>

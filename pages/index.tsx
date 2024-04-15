@@ -9,7 +9,7 @@ export default function Index({ allPosts: { edges }, preview }) {
   const morePosts = edges.slice(1);
 
   return (
-    <Layout preview={preview}>
+    <Layout>
       {heroPost && (
         <HeroPost
           title={heroPost.title}
