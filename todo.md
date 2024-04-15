@@ -2,25 +2,45 @@
 
 [WP admin](https://vitalsignsmagcontenteditor.in/wp-admin)
 
-### Step 2. Populate Content
+### Step 7. Deploy on Vercel
 
-> **Note:** Only **published** posts and public fields will be rendered by the app unless [Preview Mode](https://nextjs.org/docs/advanced-features/preview-mode) is enabled.
+To deploy your local project to Vercel, push it to GitHub/GitLab/Bitbucket and [import to Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example).
 
-### Step 4. Run Next.js in development mode
+**Important**: When you import your project on Vercel, make sure to click on **Environment Variables** and set them to match your `.env.local` file.
 
-```bash
-npm install
-npm run dev
+### Step 8 - other steps
 
-# or
+- Domain - Porkbun, awaiting confirmation from client.
+- Wordpress - use Hostinger.
 
-yarn install
-yarn dev
-```
+- Posts
+- Categories
 
-Your blog should be up and running on [http://localhost:3000](http://localhost:3000)! If it doesn't work, post on [GitHub discussions](https://github.com/vercel/next.js/discussions).
+  - I decided to set up the following categories for posts on the site:
+    - Working Conditions
+    - International
+    - Current Struggles
+    - Debate
+    - History
+    - Leaflets
+    - Newsletters
+    - Meetings
+    - Issue 1
+    - Issue 2
+    - Issue 3
 
-### Step 5. Add authentication for Preview Mode (Optional)
+- change isr time - revalidate: 600 etc. in getstaticprops, basically time to rerender blog content. Test this.
+
+- see sketches in planning folder for design.
+- use app router
+
+- use built in nextjs components
+
+- manage metadata dynamically for better SEO and user experience.
+
+- see are.na channel
+
+### Optional step: Add authentication for Preview Mode
 
 **This step is optional.** By default, the blog will work with public posts from your WordPress site. Private content such as unpublished posts and private fields cannot be retrieved. To have access to unpublished posts you'll need to set up authentication.
 
@@ -91,43 +111,3 @@ http://localhost:3000/api/preview?secret=<secret>&id=<id>
 - Alternatively, you can use `<slug>` instead of `<id>`. `<slug>` is generated based on the title.
 
 You should now be able to see this post. To exit Preview Mode, you can click on **Click here to exit preview mode** at the top.
-
-### Step 7. Deploy on Vercel
-
-To deploy your local project to Vercel, push it to GitHub/GitLab/Bitbucket and [import to Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example).
-
-**Important**: When you import your project on Vercel, make sure to click on **Environment Variables** and set them to match your `.env.local` file.
-
-### Step 8 - other steps
-
-- Domain - Porkbun, awaiting confirmation from client.
-- Wordpress - use Hostinger.
-
-- Posts
-- Categories
-
-  - I decided to set up the following categories for posts on the site:
-    - Working Conditions
-    - International
-    - Current Struggles
-    - Debate
-    - History
-    - Leaflets
-    - Newsletters
-    - Meetings
-    - Issue 1
-    - Issue 2
-    - Issue 3
-
-- change isr time - revalidate: 600 etc. in getstaticprops, basically time to rerender blog content. Test this.
-
-- see sketches in planning folder for design.
-- use app router
-
-- use built in nextjs components
-
-- manage metadata dynamically for better SEO and user experience.
-
-- see are.na channel
-
-- Deploy to Vercel

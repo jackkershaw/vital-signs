@@ -23,18 +23,15 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 
 - Created an .env.local file and added the Wordpress API URL for WPGraphQL plugin. Added this to gitignore
 
+-
+
 # Debugging
 
-g)
+# Running on your machine
 
-- Click the **Upload Plugin** button at the top of the page and upload the WPGraphQL plugin.
+### Run Next.js in development mode:
 
-![Upload new plugin](./docs/plugins-upload-new.png)
-
-- Once the plugin has been added, activate it from either the **Activate Plugin** button displayed after uploading or from the **Plugins** page.
-
-![WPGraphQL installed](./docs/plugin-installed.png)
-
-#### GraphiQL
-
-The [WPGraphQL](https://www.wpgraphql.com/) plugin also gives you access to a GraphQL IDE directly from your WordPress Admin, allowing you to inspect and play around with the GraphQL API.
+```bash
+npm install
+npm run dev
+```
