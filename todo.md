@@ -7,38 +7,35 @@
 
 # To do
 
-- Remove Vercel bits from template and style own way.
+- go over files in and make sure you understand:
 
-  - go over files in:
+  - components
 
-    - components
+    - [] cover-image
+    - [x] date
+    - [x] footer
+    - [x] header
+    - [] hero-post
+    - [x] layout
+    - [x] meta
+    - [x] more-stories
+    - [x] post-body.module.css
+    - [x] post-body
+    - [x] post-header
+    - [x] post-preview
+    - [x] post-title
+    - [x] section-separator
 
-      - [] cover-image
-      - [x] date
-      - [x] footer
-      - [x] header
-      - [] hero-post
-      - [x] layout
-      - [x] meta
-      - [x] more-stories
-      - [x] post-body.module.css
-      - [x] post-body
-      - [x] post-header
-      - [x] post-preview
-      - [x] post-title
-      - [x] section-separator
-      - [] tags
+  - lib
+    - [] api.ts
+  - pages
 
-    - lib
-      - [] api.ts
-    - pages
+    - [] slug
+    - [] \_app
+    - [] \_document
+    - [x] index
 
-      - [] slug
-      - [] \_app
-      - [] \_document
-      - [x] index
-
-    - [x] tailwind.config.js
+  - [x] tailwind.config.js
 
 - add font
 - add tailwind typography and use the prose classname
@@ -73,4 +70,10 @@
 
 - Google Lighthouse
 
-- Work out why images not loading on Vercel Deployment.
+## Issues page
+
+- issues page which just has the issues categories in a list
+
+## News page
+
+- should have the different categories on it
