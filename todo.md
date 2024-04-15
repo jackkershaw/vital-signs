@@ -37,7 +37,7 @@
       - [] \_document
       - [x] index
 
-    - [] tailwind.config.js
+    - [x] tailwind.config.js
 
 - add font
 - add tailwind typography and use the prose classname
