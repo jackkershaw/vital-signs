@@ -10,10 +10,38 @@
 - Remove Vercel bits from template and style own way.
 
   - go over files in:
+
     - [] components
+
+      - []categories
+      - [] cover-image
+      - [] date
+      - [] footer
+      - [] header
+      - [] hero-post
+      - [] layout
+      - [] meta
+      - [] more-stories
+      - [] post-body.module.css
+      - [] post-body
+      - [] post-header
+      - [] post-preview
+      - [] post-title
+      - [] section-separator
+      - [] tags
+
     - [] lib
+      - [] api.ts
     - [] pages
 
+      - [] \_app
+      - [] \_document
+
+      - [] index
+
+    - [] tailwind.config.js
+
+- add iconify for icons.
 - Get logo from client and add favicon in public/favicon - use [this](https://frontendmasters.com/blog/how-to-favicon-in-2024/) to build it.
 
 - Add Categories
