@@ -8,7 +8,6 @@ import PostHeader from "../../components/post-header";
 import SectionSeparator from "../../components/section-separator";
 import Layout from "../../components/layout";
 import PostTitle from "../../components/post-title";
-import Tags from "../../components/tags";
 import {
   getAllPostsWithSlug,
   getPostAndMorePosts,
@@ -23,7 +22,7 @@ export default function Post({ post, posts, preview }) {
   }
 
   return (
-    <Layout preview={preview}>
+    <Layout>
       {router.isFallback ? (
         <PostTitle>Loading…</PostTitle>
       ) : (
@@ -44,9 +43,6 @@ export default function Post({ post, posts, preview }) {
               categories={post.categories}
             />
             <PostBody content={post.content} />
-            <footer>
-              {post.tags.edges.length > 0 && <Tags tags={post.tags} />}
-            </footer>
           </article>
           <SectionSeparator />
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}

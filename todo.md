@@ -21,11 +21,11 @@
       - [x] layout
       - [x] meta
       - [x] more-stories
-      - [] post-body.module.css
-      - [] post-body
-      - [] post-header
+      - [x] post-body.module.css
+      - [x] post-body
+      - [x] post-header
       - [x] post-preview
-      - [] post-title
+      - [x] post-title
       - [x] section-separator
       - [] tags
 
@@ -33,6 +33,7 @@
       - [] api.ts
     - pages
 
+      - [] slug
       - [] \_app
       - [] \_document
       - [x] index
