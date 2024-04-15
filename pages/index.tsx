@@ -4,12 +4,12 @@ import HeroPost from "../components/hero-post";
 import Layout from "../components/layout";
 import { getAllPostsForHome } from "../lib/api";
 
-export default function Index({ allPosts }) {
-  const heroPost = allPosts.edges[0]?.node;
-  const morePosts = allPosts.edges.slice(1);
+export default function Index({ allPosts: { edges }, preview }) {
+  const heroPost = edges[0]?.node;
+  const morePosts = edges.slice(1);
 
   return (
-    <Layout>
+    <Layout preview={preview}>
       {heroPost && (
         <HeroPost
           title={heroPost.title}
@@ -24,11 +24,13 @@ export default function Index({ allPosts }) {
   );
 }
 
-export const getStaticProps: GetStaticProps = async () => {
-  const allPosts = await getAllPostsForHome();
+export const getStaticProps: GetStaticProps = async ({
+  preview = false,
+}) => {
+  const allPosts = await getAllPostsForHome(preview);
 
   return {
-    props: { allPosts },
+    props: { allPosts, preview },
     revalidate: 10,
   };
 };
