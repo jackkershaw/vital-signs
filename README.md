@@ -26,6 +26,7 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 - Ran Next.js in development mode using the commands below.
   - This gave me an image error - but [the docs](https://nextjs.org/docs/messages/next-image-unconfigured-host) explained how to fix this by changing the domain path in the next.config.js file.
 - Deployed on Vercel via Github, adding the environment variables.
+- Removed the extra content from the Vercel example I bootstrapped this project off. I also made sure to read through the code to make sure I understood it.
 
 # Debugging
 
