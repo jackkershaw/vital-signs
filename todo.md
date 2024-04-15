@@ -1,16 +1,15 @@
 # Useful links
 
-[WP admin](https://vitalsignsmagcontenteditor.in/wp-admin)
+[WP admin](https://vitalsignscontenteditor.co.uk/wp-admin)
 [Vercel Deploy](https://vercel.com/jones58s-projects/vital-signs/settings/domains)
 [Live site](https://www.vitalsignsmag.org/)
+[Are.na inspo](https://www.are.na/jack-kershaw/vitalsigns)
 
 # To do
 
 - Design site in Figma.
 
-  - see sketches in planning folder for design.
-  - see are.na channe
-  - Integrate banner image to home page.
+  - see are.na channel
 
 - Remove Vercel bits from template.
 
@@ -47,3 +46,5 @@
 - SEO
 
 - Google Lighthouse
+
+- Work out why images not loading on Vercel Deployment.
