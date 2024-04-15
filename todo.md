@@ -1,7 +1,11 @@
 [WP admin](https://vitalsignsmagcontenteditor.in/wp-admin)
+[Vercel Deploy](https://vercel.com/jones58s-projects/vital-signs/settings/domains)
 
 # To do
 
+- Remove Vercel bits from template.
+- Design site
+- Add Cover Image/Banner
 - Add Categories
 
   - I decided to set up the following categories for posts on the site:

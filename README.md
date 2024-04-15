@@ -23,7 +23,9 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 
 - Created an .env.local file and added the Wordpress API URL for WPGraphQL plugin. Added this to gitignore
 
--
+- Ran Next.js in development mode using the commands below.
+  - This gave me an image error - but [the docs](https://nextjs.org/docs/messages/next-image-unconfigured-host) explained how to fix this by changing the domain path in the next.config.js file.
+- Deployed on Vercel via Github, adding the environment variables.
 
 # Debugging
 
