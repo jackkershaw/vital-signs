@@ -4,6 +4,8 @@
 
 - NextJS allows me to use static regeneration - a hybrid of server side rendering and static site generation.
 
+- Designed the site, first by sketching it and then building it in Figma.
+
 # Building
 
 - As this is my first time using NextJS, I decided to use Vercel's NextJS and Wordpress example to bootstrap the project:
