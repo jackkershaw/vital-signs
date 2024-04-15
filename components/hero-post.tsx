@@ -7,12 +7,11 @@ export default function HeroPost({
   coverImage,
   date,
   excerpt,
-  author,
   slug,
 }) {
   return (
     <section>
-      <div className="mb-8 md:mb-16">
+      <div className="mb-8">
         {coverImage && (
           <CoverImage
             title={title}

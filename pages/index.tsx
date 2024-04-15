@@ -1,25 +1,20 @@
-import Head from "next/head";
 import { GetStaticProps } from "next";
 import MoreStories from "../components/more-stories";
 import HeroPost from "../components/hero-post";
 import Layout from "../components/layout";
 import { getAllPostsForHome } from "../lib/api";
 
-export default function Index({ allPosts: { edges }, preview }) {
-  const heroPost = edges[0]?.node;
-  const morePosts = edges.slice(1);
+export default function Index({ allPosts }) {
+  const heroPost = allPosts.edges[0]?.node;
+  const morePosts = allPosts.edges.slice(1);
 
   return (
-    <Layout preview={preview}>
-      <Head>
-        <title>{"Vital Signs Magazine"}</title>
-      </Head>
+    <Layout>
       {heroPost && (
         <HeroPost
           title={heroPost.title}
           coverImage={heroPost.featuredImage}
           date={heroPost.date}
-          author={heroPost.author}
           slug={heroPost.slug}
           excerpt={heroPost.excerpt}
         />
@@ -29,13 +24,11 @@ export default function Index({ allPosts: { edges }, preview }) {
   );
 }
 
-export const getStaticProps: GetStaticProps = async ({
-  preview = false,
-}) => {
-  const allPosts = await getAllPostsForHome(preview);
+export const getStaticProps: GetStaticProps = async () => {
+  const allPosts = await getAllPostsForHome();
 
   return {
-    props: { allPosts, preview },
+    props: { allPosts },
     revalidate: 10,
   };
 };

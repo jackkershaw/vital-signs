@@ -1,15 +1,8 @@
 import Date from "./date";
 import CoverImage from "./cover-image";
 import PostTitle from "./post-title";
-import Categories from "./categories";
 
-export default function PostHeader({
-  title,
-  coverImage,
-  date,
-  author,
-  categories,
-}) {
+export default function PostHeader({ title, coverImage, date }) {
   return (
     <>
       <PostTitle>{title}</PostTitle>
@@ -21,7 +14,6 @@ export default function PostHeader({
         <div className="block md:hidden mb-6"></div>
         <div className="mb-6 text-lg">
           Posted <Date dateString={date} />
-          <Categories categories={categories} />
         </div>
       </div>
     </>
