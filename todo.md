@@ -7,10 +7,6 @@
 
 # To do
 
-- Design site in Figma.
-
-  - see are.na channel
-
 - Remove Vercel bits from template.
 
   - go over files in:
