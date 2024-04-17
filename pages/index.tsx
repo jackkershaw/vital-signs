@@ -14,7 +14,6 @@ export default function Index({ allPosts: { edges }, preview }) {
         <HeroPost
           title={heroPost.title}
           coverImage={heroPost.featuredImage}
-          date={heroPost.date}
           slug={heroPost.slug}
           excerpt={heroPost.excerpt}
         />
