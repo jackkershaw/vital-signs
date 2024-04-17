@@ -31,6 +31,21 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
   - This gave me an image error - but [the docs](https://nextjs.org/docs/messages/next-image-unconfigured-host) explained how to fix this by changing the domain path in the next.config.js file.
 - Deployed on Vercel via Github, adding the environment variables.
 - Removed the extra content from the Vercel example I bootstrapped this project off. I also made sure to read through the code to make sure I understood it.
+- Added categories:
+  - I decided to set up the following categories for posts on the site:
+    - Working Conditions
+    - International
+    - Current Struggles
+    - Debate
+    - History
+    - Leaflets
+    - Newsletters
+    - Meetings
+    - Issue 1
+    - Issue 2
+    - Issue 3
+- Added content
+  - I used draft content supplied by the client to get some key posts on the site. I used stock images from Unsplash for now, to test the image sizing across the site.
 
 # Debugging
 
