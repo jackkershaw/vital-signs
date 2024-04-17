@@ -1,4 +1,3 @@
-import Date from "./date";
 import CoverImage from "./cover-image";
 import PostTitle from "./post-title";
 
@@ -12,9 +11,7 @@ export default function PostHeader({ title, coverImage, date }) {
       </div>
       <div className="max-w-2xl mx-auto">
         <div className="block md:hidden mb-6"></div>
-        <div className="mb-6 text-lg">
-          Posted <Date dateString={date} />
-        </div>
+        <div className="mb-6 text-lg"></div>
       </div>
     </>
   );

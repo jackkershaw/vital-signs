@@ -9,7 +9,6 @@ export default function MoreStories({ posts }) {
             key={node.slug}
             title={node.title}
             coverImage={node.featuredImage}
-            date={node.date}
             slug={node.slug}
             excerpt={node.excerpt}
           />
