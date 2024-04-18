@@ -20,7 +20,7 @@ export default function HeroPost({ title, heroImage, excerpt, slug }) {
         </div>
         <div>
           <div
-            className="text-lg  mb-4"
+            className="text-lg font-serif mb-4"
             dangerouslySetInnerHTML={{ __html: excerpt }}
           />
         </div>

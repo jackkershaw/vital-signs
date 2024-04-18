@@ -7,6 +7,7 @@
 .content ol,
 .content blockquote {
   @apply my-6;
+  @apply font-serif;
 }
 
 .content a {

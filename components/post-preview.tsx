@@ -24,9 +24,8 @@ export default function PostPreview({
           dangerouslySetInnerHTML={{ __html: title }}
         ></Link>
       </h3>
-
       <div
-        className="mb-4"
+        className="mb-4 font-serif"
         dangerouslySetInnerHTML={{ __html: excerpt }}
       />
     </div>
