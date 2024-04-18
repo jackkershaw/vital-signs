@@ -3,16 +3,11 @@ import PostTitle from "./post-title";
 
 export default function PostHeader({ title, coverImage, date }) {
   return (
-    <>
-      <PostTitle>{title}</PostTitle>
-      <div className="hidden md:block md:mb-12"></div>
-      <div className="mb-8 md:mb-16 sm:mx-0">
+    <div className="">
+      <div className="flex flex-col align-middle items-center m-10">
         <CoverImage title={title} coverImage={coverImage} />
       </div>
-      <div className="max-w-2xl mx-auto">
-        <div className="block md:hidden mb-6"></div>
-        <div className="mb-6 text-lg"></div>
-      </div>
-    </>
+      <PostTitle>{title}</PostTitle>
+    </div>
   );
 }
