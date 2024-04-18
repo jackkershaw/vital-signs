@@ -11,27 +11,25 @@ export default function HeroPost({ title, heroImage, excerpt, slug }) {
       </div>
       <div className="">
         <div>
-          <h3 className="mb-3 text-2xl lg:text-3xl">
+          <h3 className="mb-3 text-2xl lg:text-3xl text-orange-700 hover:text-orange-950">
             <Link
               href={`/posts/${slug}`}
-              className="hover:underline"
               dangerouslySetInnerHTML={{ __html: title }}
             ></Link>
           </h3>
         </div>
         <div>
           <div
-            className="text-lg leading-relaxed mb-4"
+            className="text-lg  mb-4"
             dangerouslySetInnerHTML={{ __html: excerpt }}
           />
         </div>
-
         <Link
           href={`/posts/${slug}`}
-          className="text-lg font-bold text-primary-500 hover:underline"
+          className="text-lg font-bold text-primary-500 "
         >
           {" "}
-          <div className="bg-orange-500 p-5 w-full">
+          <div className="bg-orange-700 p-5 w-full">
             {" "}
             Read the Latest Issue
           </div>

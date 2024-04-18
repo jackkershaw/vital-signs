@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function Header() {
   return (
     <div>
-      <div className="mx-auto container px-5 flex flex-row justify-between my-10 space-x-10 text-3xl">
+      <div className="mx-auto container px-5 flex flex-row justify-between my-5 space-x-10 text-3xl">
         <Image
           src="/images/banner-draft.png"
           alt="logo"

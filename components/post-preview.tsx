@@ -9,7 +9,7 @@ export default function PostPreview({
 }) {
   return (
     <div>
-      <div className="mb-5">
+      <div className="mb-4">
         {coverImage && (
           <CoverImage
             title={title}
@@ -18,16 +18,15 @@ export default function PostPreview({
           />
         )}
       </div>
-      <h3 className="text-3xl mb-3 leading-snug">
+      <h3 className="text-2xl mb-4 text-orange-700 hover:text-orange-950">
         <Link
           href={`/posts/${slug}`}
-          className="hover:underline"
           dangerouslySetInnerHTML={{ __html: title }}
         ></Link>
       </h3>
-      <div className="text-lg mb-4"></div>
+
       <div
-        className="text-lg leading-relaxed mb-4"
+        className="mb-4"
         dangerouslySetInnerHTML={{ __html: excerpt }}
       />
     </div>
