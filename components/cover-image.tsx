@@ -22,7 +22,7 @@ export default function CoverImage({
       height={1000}
       alt={title}
       src={coverImage?.node.sourceUrl}
-      className="hover:shadow-medium transition-shadow duration-200"
+      className="hover:shadow-medium transition-shadow duration-200 object-cover w-[100%] sm:h-[220px] "
     />
   );
   return (

@@ -10,15 +10,19 @@ export default function Index({ allPosts: { edges }, preview }) {
 
   return (
     <Layout>
-      {heroPost && (
-        <HeroPost
-          title={heroPost.title}
-          coverImage={heroPost.featuredImage}
-          slug={heroPost.slug}
-          excerpt={heroPost.excerpt}
-        />
-      )}
-      {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+      <div className="wrapper">
+        <div className="grid grid-cols-2 gap-2 grid-rows-2">
+          {heroPost && (
+            <HeroPost
+              title={heroPost.title}
+              heroImage={heroPost.featuredImage}
+              slug={heroPost.slug}
+              excerpt={heroPost.excerpt}
+            />
+          )}
+          {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+        </div>
+      </div>
     </Layout>
   );
 }

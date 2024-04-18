@@ -1,33 +1,23 @@
-import CoverImage from "./cover-image";
+import HeroImage from "./hero-image";
 import Link from "next/link";
 
-export default function HeroPost({
-  title,
-  coverImage,
-  excerpt,
-  slug,
-}) {
+export default function HeroPost({ title, heroImage, excerpt, slug }) {
   return (
-    <section>
-      <div className="mb-8">
-        {coverImage && (
-          <CoverImage
-            title={title}
-            coverImage={coverImage}
-            slug={slug}
-          />
+    <section className="px-5 h-screen">
+      <div className="mb-3">
+        {heroImage && (
+          <HeroImage title={title} heroImage={heroImage} slug={slug} />
         )}
       </div>
-      <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
+      <div className="">
         <div>
-          <h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
+          <h3 className="mb-3 text-2xl lg:text-3xl">
             <Link
               href={`/posts/${slug}`}
               className="hover:underline"
               dangerouslySetInnerHTML={{ __html: title }}
             ></Link>
           </h3>
-          <div className="mb-4 md:mb-0 text-lg"></div>
         </div>
         <div>
           <div
@@ -35,6 +25,17 @@ export default function HeroPost({
             dangerouslySetInnerHTML={{ __html: excerpt }}
           />
         </div>
+
+        <Link
+          href={`/posts/${slug}`}
+          className="text-lg font-bold text-primary-500 hover:underline"
+        >
+          {" "}
+          <div className="bg-orange-500 p-5 w-full">
+            {" "}
+            Read the Latest Issue
+          </div>
+        </Link>
       </div>
     </section>
   );
