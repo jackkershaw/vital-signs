@@ -13,7 +13,8 @@ export default function Footer() {
               target="_blank"
               className="font-bold
               text-orange-700
-              hover:text-orange-950"
+              hover:text-orange-950
+              active:text-orange-500"
             >
               Jack Kershaw.
             </a>
@@ -23,7 +24,7 @@ export default function Footer() {
             <a
               href="https://github.com/jones58/vital-signs"
               target="_blank"
-              className="font-bold text-orange-700 hover:text-orange-950"
+              className="font-bold text-orange-700 hover:text-orange-950 active:text-orange-500"
             >
               Github.
             </a>

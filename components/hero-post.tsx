@@ -11,7 +11,7 @@ export default function HeroPost({ title, heroImage, excerpt, slug }) {
       </div>
       <div className="">
         <div>
-          <h3 className="mb-3 text-2xl lg:text-3xl text-orange-700 hover:text-orange-950">
+          <h3 className="mb-3 text-2xl lg:text-3xl text-orange-700 hover:text-orange-950 active:text-orange-500">
             <Link
               href={`/posts/${slug}`}
               dangerouslySetInnerHTML={{ __html: title }}
@@ -29,7 +29,7 @@ export default function HeroPost({ title, heroImage, excerpt, slug }) {
           className="text-lg font-bold text-primary-500 "
         >
           {" "}
-          <div className="bg-orange-700 p-5 w-full">
+          <div className="bg-orange-700 p-5 w-full text-white hover:bg-orange-950 active:bg-orange-500">
             {" "}
             Read the Latest Issue
           </div>
