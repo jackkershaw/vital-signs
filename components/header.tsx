@@ -3,8 +3,8 @@ import Image from "next/image";
 
 export default function Header() {
   return (
-    <div className="bg-orange-50">
-      <div className="mx-auto container px-5 py-2 flex flex-row justify-between space-x-10 text-3xl bg-orange-50">
+    <div className="bg-white">
+      <div className="mx-auto container px-5 py-2 flex flex-row justify-between space-x-10 text-3xl">
         <Image
           src="/images/banner-draft.png"
           alt="logo"
