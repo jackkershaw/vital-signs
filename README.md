@@ -47,6 +47,7 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 - Added content
   - I used draft content supplied by the client to get some key posts on the site. I used stock images from Unsplash for now, to test the image sizing across the site.
 - Added Charter and Libre Franklin fonts to the site. With Libre Franklin, although I only needed one font weight for the titles, this was my first time using a variable font and something I will definitely look at using again. It allowed rapid prototyping of font weight on the site.
+- Added Iconify to the site via Tailwind.
 
 # Debugging
 
