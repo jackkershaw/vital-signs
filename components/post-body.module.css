@@ -12,7 +12,8 @@
 }
 
 .content a {
-  @apply underline;
+  @apply text-orange-700;
+  @apply hover:text-orange-950;
 }
 
 .content ul,
@@ -38,15 +39,15 @@
 }
 
 .content h2 {
-  @apply text-3xl mt-12 mb-4 leading-snug;
+  @apply text-3xl mt-12 mb-4;
 }
 
 .content h3 {
-  @apply text-2xl mt-8 mb-4 leading-snug;
+  @apply text-2xl mt-8 mb-4;
 }
 
 .content h4 {
-  @apply text-xl mt-6 mb-4 leading-snug;
+  @apply text-xl mt-6 mb-4;
 }
 
 .content pre {
