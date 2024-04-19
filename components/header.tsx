@@ -5,12 +5,14 @@ export default function Header() {
   return (
     <div className="bg-white">
       <div className="mx-auto container px-5 py-2 flex flex-row justify-between space-x-10 text-3xl">
-        <Image
-          src="/images/banner-draft.png"
-          alt="logo"
-          width={300}
-          height={200}
-        ></Image>
+        <Link href="/">
+          <Image
+            src="/images/banner-draft.png"
+            alt="logo"
+            width={300}
+            height={200}
+          ></Image>
+        </Link>
         <div className="flex flex-row space-x-10 h-20 items-center justify-center mt-10">
           <Link href="/about" className="bg-accent-1 p-4">
             ABOUT
