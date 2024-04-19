@@ -43,7 +43,9 @@ export default function Post({ post, posts, preview }) {
             <PostBody content={post.content} />
           </article>
           <SectionSeparator />
+          <h1 className="py-4 text-2xl">Read Next: </h1>
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+          <SectionSeparator />
         </>
       )}
     </Layout>
