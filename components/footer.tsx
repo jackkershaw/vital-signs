@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="bg-accent-1 border-t border-accent-2 w-full">
+    <footer className="bg-orange-50 w-full">
       <div className="py-20 mx-auto px-5 container font-serif justify-between flex flex-row">
         <div>
           <p>Vital signs is a project. </p>
