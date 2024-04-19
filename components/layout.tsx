@@ -11,7 +11,7 @@ export default function Layout({ children }) {
       </Head>
       <Meta />
       <Header />
-      <div className="min-h-screen container mx-auto px-5">
+      <div className="container mx-auto px-5">
         <main>{children}</main>
       </div>
       <Footer />
