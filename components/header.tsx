@@ -12,16 +12,13 @@ export default function Header() {
           height={200}
         ></Image>
         <div className="flex flex-row space-x-10 h-20 items-center justify-center my-10">
-          <Link href="/About" className="bg-accent-1 p-4">
+          <Link href="/about" className="bg-accent-1 p-4">
             ABOUT
           </Link>
-          <Link href="/News" className="bg-accent-1 p-4">
-            NEWS
-          </Link>
-          <Link href="/Issues" className="bg-accent-1 p-4">
+          <Link href="/issues" className="bg-accent-1 p-4">
             ISSUES
           </Link>
-          <Link href="/Contact" className="bg-accent-1 p-4">
+          <Link href="/contact" className="bg-accent-1 p-4">
             CONTACT
           </Link>
           <div className="bg-accent-1 p-4">F, T, I links</div>
