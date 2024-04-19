@@ -18,7 +18,7 @@ exports.modules = {
   \*****************************************/
 /***/ ((module) => {
 
-eval("// Exports\nmodule.exports = {\n\t\"content\": \"post-body_content__ye_eq\"\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jb21wb25lbnRzL3Bvc3QtYm9keS5tb2R1bGUuY3NzIiwibWFwcGluZ3MiOiJBQUFBO0FBQ0E7QUFDQTtBQUNBIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vLy4vY29tcG9uZW50cy9wb3N0LWJvZHkubW9kdWxlLmNzcz8yMjM1Il0sInNvdXJjZXNDb250ZW50IjpbIi8vIEV4cG9ydHNcbm1vZHVsZS5leHBvcnRzID0ge1xuXHRcImNvbnRlbnRcIjogXCJwb3N0LWJvZHlfY29udGVudF9feWVfZXFcIlxufTtcbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./components/post-body.module.css\n");
+eval("// Exports\nmodule.exports = {\n\t\"content\": \"post-body_content__ye_eq\",\n\t\"prose-xl\": \"post-body_prose-xl__q1Pdw\"\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jb21wb25lbnRzL3Bvc3QtYm9keS5tb2R1bGUuY3NzIiwibWFwcGluZ3MiOiJBQUFBO0FBQ0E7QUFDQTtBQUNBO0FBQ0EiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL3Bvc3QtYm9keS5tb2R1bGUuY3NzPzIyMzUiXSwic291cmNlc0NvbnRlbnQiOlsiLy8gRXhwb3J0c1xubW9kdWxlLmV4cG9ydHMgPSB7XG5cdFwiY29udGVudFwiOiBcInBvc3QtYm9keV9jb250ZW50X195ZV9lcVwiLFxuXHRcInByb3NlLXhsXCI6IFwicG9zdC1ib2R5X3Byb3NlLXhsX19xMVBkd1wiXG59O1xuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./components/post-body.module.css\n");
 
 /***/ }),
 

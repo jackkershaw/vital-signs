@@ -8,7 +8,7 @@ export default function About() {
           <img src="/images/about.jpg" className="w-full"></img>
           <div>
             <h1 className="font-sans text-4xl pb-5">About</h1>
-            <p className="font-serif text-xl">
+            <p className="font-serif text-xl prose">
               We are a bunch of people who work in and around the
               health sector and are in the early stages of getting a
               network together. Our main aim is to understand and
