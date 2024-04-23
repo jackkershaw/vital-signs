@@ -18,22 +18,23 @@ export default function CoverImage({
 }: Props) {
   const image = (
     <Image
-      width={2000}
-      height={1000}
+      fill
       alt={title}
       src={coverImage?.node.sourceUrl}
-      className="object-cover w-[100%] sm:h-[220px] "
+      className="object-cover object-center"
     />
   );
   return (
-    <div className="sm:mx-0">
-      {slug ? (
-        <Link href={`/posts/${slug}`} aria-label={title}>
-          {image}
-        </Link>
-      ) : (
-        image
-      )}
+    <div className="mx-0 relative w-[90vw] h-[40vh] sm:w-[22vw] sm:h-[25vh]">
+      <div className="flex-row flex justify-end items-center">
+        {slug ? (
+          <Link href={`/posts/${slug}`} aria-label={title}>
+            {image}
+          </Link>
+        ) : (
+          image
+        )}
+      </div>
     </div>
   );
 }
