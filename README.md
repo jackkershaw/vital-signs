@@ -48,6 +48,15 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
   - I used draft content supplied by the client to get some key posts on the site. I used stock images from Unsplash for now, to test the image sizing across the site.
 - Added Charter and Libre Franklin fonts to the site. With Libre Franklin, although I only needed one font weight for the titles, this was my first time using a variable font and something I will definitely look at using again. It allowed rapid prototyping of font weight on the site.
 - Added Iconify to the site via Tailwind.
+- Read up about [Image components](https://nextjs.org/docs/pages/api-reference/components/image) in NextJS, and decided to use the following structure, wrapping the images in a div to better set their size:
+  <div className="h-[20vh] w-[20vw] relative">
+  <Image
+              src="/images/banner-draft.png"
+              alt="logo"
+              fill
+              className="object-cover"
+            />
+  </div>
 
 # Debugging
 
