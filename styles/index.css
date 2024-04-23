@@ -153,3 +153,12 @@
   src: url("/fonts/franklingothic/LibreFranklin-Italic-VariableFont_wght.ttf")
     format("truetype");
 }
+
+* {
+  @apply text-orange-950;
+}
+
+html {
+  @apply bg-neutral-50;
+  @apply text-orange-950;
+}
