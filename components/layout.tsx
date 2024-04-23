@@ -11,7 +11,7 @@ export default function Layout({ children }) {
       </Head>
       <Meta />
       <Header />
-      <div className="bg-white">
+      <div className="bg-neutral-50 text-orange-950">
         <div className="px-10">
           <main>{children}</main>
         </div>
