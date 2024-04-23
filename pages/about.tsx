@@ -1,11 +1,19 @@
 import Layout from "../components/layout";
+import Image from "next/image";
 
 export default function About() {
   return (
     <div>
       <Layout>
-        <div className="grid grid-cols-2 gap-10 py-10">
-          <img src="/images/about.jpg" className="w-full"></img>
+        <div className="grid grid-cols-2 gap-10 min-h-[70vh] pb-10">
+          <div className="relative max-w-[50vw] ">
+            <Image
+              src="/images/about.jpg"
+              alt=""
+              className=" object-cover"
+              fill
+            ></Image>
+          </div>
           <div>
             <h1 className="font-sans text-4xl pb-5">About</h1>
             <p className="font-serif text-xl prose">
