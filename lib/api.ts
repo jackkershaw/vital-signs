@@ -12,7 +12,6 @@ async function fetchAPI(
     ] = `Bearer ${process.env.WORDPRESS_AUTH_REFRESH_TOKEN}`;
   }
 
-  // WPGraphQL Plugin must be enabled
   const res = await fetch(API_URL, {
     headers,
     method: "POST",
@@ -66,26 +65,21 @@ export async function getAllPostsForHome(preview) {
   const data = await fetchAPI(
     `
     query AllPosts {
-      posts(first: 20, where: { orderby: { field: DATE, order: DESC } }) {
+      posts(first: 10, where: { orderby: { field: DATE, order: DESC } }) {
         edges {
           node {
             title
+            categories {
+              nodes {
+                name
+              }
+            }
             excerpt
             slug
             date
             featuredImage {
               node {
                 sourceUrl
-              }
-            }
-            author {
-              node {
-                name
-                firstName
-                lastName
-                avatar {
-                  url
-                }
               }
             }
           }
@@ -195,16 +189,6 @@ export async function getPostAndMorePosts(slug, preview, previewData) {
       },
     }
   );
-
-  // Draft posts may not have an slug
-  if (isDraft) data.post.slug = postPreview.id;
-  // Apply a revision (changes in a published post)
-  if (isRevision && data.post.revisions) {
-    const revision = data.post.revisions.edges[0]?.node;
-
-    if (revision) Object.assign(data.post, revision);
-    delete data.post.revisions;
-  }
 
   // Filter out the main post
   data.posts.edges = data.posts.edges.filter(

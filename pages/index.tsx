@@ -17,6 +17,9 @@ export default function Index({ allPosts: { edges }, preview }) {
             heroImage={heroPost.featuredImage}
             slug={heroPost.slug}
             excerpt={heroPost.excerpt}
+            category={heroPost.categories.nodes.map(
+              (category) => category.name
+            )}
           />
         )}
         {morePosts.length > 0 && <MoreStories posts={morePosts} />}

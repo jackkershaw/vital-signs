@@ -1,9 +1,15 @@
 import HeroImage from "./hero-image";
 import Link from "next/link";
 
-export default function HeroPost({ title, heroImage, excerpt, slug }) {
+export default function HeroPost({
+  title,
+  heroImage,
+  excerpt,
+  slug,
+  category,
+}) {
   return (
-    <section className="px-5 h-screen">
+    <section className="p-5 ">
       <Link
         href={`/posts/${slug}`}
         className="text-lg font-bold text-primary-500"
@@ -19,8 +25,9 @@ export default function HeroPost({ title, heroImage, excerpt, slug }) {
           <HeroImage title={title} heroImage={heroImage} slug={slug} />
         )}
       </div>
-      <div className="">
+      <div>
         <div>
+          <h1 className="text-right">{category}category</h1>
           <h3 className="mb-3 text-2xl lg:text-3xl text-orange-700 hover:text-orange-950 active:text-orange-500">
             <Link
               href={`/posts/${slug}`}
