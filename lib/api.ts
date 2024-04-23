@@ -199,3 +199,14 @@ export async function getPostAndMorePosts(slug, preview, previewData) {
 
   return data;
 }
+
+export async function getAboutPageContent() {
+  const data = await fetchAPI(`
+    query GetAboutPageContent {
+      page(id: "about") {
+        content
+      }
+    }
+  `);
+  return data?.page?.content;
+}
