@@ -3,33 +3,45 @@ import Image from "next/image";
 
 export default function Header() {
   return (
-    <div className="bg-white p-10 ">
-      <div className="flex flex-row justify-between space-x-10 text-3xl">
+    <div className="bg-orange-50 px-10 py-5 mb-10">
+      <div className="flex flex-row justify-between space-x-10 text-3xl bg-orange-50">
         <Link href="/">
-          <div className="h-[20vh] w-[20vw] relative">
+          <div className="min-w-[20vw] min-h-[20vh] relative">
             <Image
               src="/images/banner-draft.png"
               alt="logo"
               fill
-              className="object-cover"
+              className="object-contain object-center"
             />
           </div>
         </Link>
         <div className="flex flex-col justify-end">
           <div className="flex flex-row space-x-10 h-20 items-center justify-end w-full">
-            <Link href="/about" className="hover:bg-accent-1 p-5">
-              ABOUT
-            </Link>
-            <Link href="/issues" className="hover:bg-accent-1 p-5">
-              ISSUES
-            </Link>
-            <Link href="/contact" className="hover:bg-accent-1 p-5">
-              CONTACT
-            </Link>
-            <div className="hover:bg-accent-1 p-5">
-              <span className="icon-[uil--facebook]"></span>
-              <span className="icon-[bi--twitter-x]"></span>
-              <span className="icon-[mdi--instagram]"></span>
+            <div className="flex items-center space-x-5">
+              <Link
+                href="/about"
+                className="text-orange-700 hover:text-orange-950 active:text-orange-500"
+              >
+                ABOUT
+              </Link>
+              <Link
+                href="/news"
+                className="text-orange-700 hover:text-orange-950 active:text-orange-500"
+              >
+                NEWS
+              </Link>
+              <Link
+                href="/issues"
+                className="text-orange-700 hover:text-orange-950 active:text-orange-500"
+              >
+                ISSUES
+              </Link>
+            </div>
+            <div className="flex flex-row items-center justify-between space-x-6">
+              <span className="icon-[mdi--facebook] text-orange-700 hover:text-orange-950 active:text-orange-500"></span>
+              <span className="icon-[mdi--twitter] text-orange-700 hover:text-orange-950 active:text-orange-500"></span>
+              <span className="icon-[mdi--instagram] text-orange-700 hover:text-orange-950 active:text-orange-500"></span>
+              <span className="icon-[mdi--email] text-orange-700 hover:text-orange-950 active:text-orange-500"></span>
             </div>
           </div>
         </div>
