@@ -18,7 +18,7 @@ export default function heroImage({ title, heroImage, slug }: Props) {
       height={1000}
       alt={title}
       src={heroImage?.node.sourceUrl}
-      className="hover:shadow-medium transition-shadow duration-200 object-cover object-center w-50 h-70"
+      className="object-cover object-center w-50 h-70"
     />
   );
   return (
