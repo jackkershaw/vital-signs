@@ -4,6 +4,16 @@ import Link from "next/link";
 export default function HeroPost({ title, heroImage, excerpt, slug }) {
   return (
     <section className="px-5 h-screen">
+      <Link
+        href={`/posts/${slug}`}
+        className="text-lg font-bold text-primary-500"
+      >
+        {" "}
+        <div className="bg-orange-700 mb-5 p-5 w-full text-neutral-50 hover:bg-orange-950 active:bg-orange-500">
+          {" "}
+          Read the Latest Issue
+        </div>
+      </Link>
       <div className="mb-3">
         {heroImage && (
           <HeroImage title={title} heroImage={heroImage} slug={slug} />
@@ -24,16 +34,6 @@ export default function HeroPost({ title, heroImage, excerpt, slug }) {
             dangerouslySetInnerHTML={{ __html: excerpt }}
           />
         </div>
-        <Link
-          href={`/posts/${slug}`}
-          className="text-lg font-bold text-primary-500 "
-        >
-          {" "}
-          <div className="bg-orange-700 p-5 w-full text-white hover:bg-orange-950 active:bg-orange-500">
-            {" "}
-            Read the Latest Issue
-          </div>
-        </Link>
       </div>
     </section>
   );
