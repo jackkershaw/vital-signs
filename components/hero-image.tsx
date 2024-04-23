@@ -14,15 +14,14 @@ interface Props {
 export default function heroImage({ title, heroImage, slug }: Props) {
   const image = (
     <Image
-      width={2000}
-      height={1000}
+      fill
       alt={title}
       src={heroImage?.node.sourceUrl}
       className="object-cover object-center w-50 h-70"
     />
   );
   return (
-    <div className="sm:mx-0">
+    <div className="sm:mx-0 relative min-w-[40vw] sm:min-h-[80vh]">
       {slug ? (
         <Link href={`/posts/${slug}`} aria-label={title}>
           {image}
