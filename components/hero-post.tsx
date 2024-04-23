@@ -27,7 +27,7 @@ export default function HeroPost({
       </div>
       <div>
         <div>
-          <h1 className="text-right">{category}category</h1>
+          <h1 className="text-right">{category}</h1>
           <h3 className="mb-3 text-2xl lg:text-3xl text-orange-700 hover:text-orange-950 active:text-orange-500">
             <Link
               href={`/posts/${slug}`}

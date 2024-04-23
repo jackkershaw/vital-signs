@@ -9,7 +9,7 @@ export default function PostPreview({
   category,
 }) {
   return (
-    <div className="p-3">
+    <div className="p-5">
       <div className="mb-4">
         {coverImage && (
           <CoverImage
@@ -19,7 +19,7 @@ export default function PostPreview({
           />
         )}
       </div>
-      <h1 className="text-right">{category}category</h1>
+      <h1 className="text-right">{category}</h1>
       <h3 className="text-2xl mb-4 text-orange-700 hover:text-orange-950">
         <Link
           href={`/posts/${slug}`}
