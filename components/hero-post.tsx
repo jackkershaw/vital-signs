@@ -9,7 +9,7 @@ export default function HeroPost({
   category,
 }) {
   return (
-    <section className="sm:p-5 mb-10 sm:mb-0">
+    <section className="sm:py-5 mb-10 sm:mb-0">
       <Link
         href={`/posts/${slug}`}
         className="text-lg font-bold text-primary-500"

@@ -5,7 +5,7 @@ export default function MoreStories({ posts }) {
 
   return (
     <section>
-      <div className="sm:grid sm:grid-cols-2 sm:gap-x-5 gap-y-">
+      <div className="sm:grid sm:grid-cols-2 sm:gap-x-5">
         {limitedPosts.map(({ node }) => (
           <PostPreview
             key={node.slug}
