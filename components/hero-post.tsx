@@ -9,13 +9,13 @@ export default function HeroPost({
   category,
 }) {
   return (
-    <section className="sm:p-5">
+    <section className="sm:p-5 mb-10 sm:mb-0">
       <Link
         href={`/posts/${slug}`}
         className="text-lg font-bold text-primary-500"
       >
         {" "}
-        <div className="bg-orange-700 sm:mb-5 p-5 w-full text-neutral-50 hover:bg-orange-950 active:bg-orange-500">
+        <div className="bg-orange-700 mb-10 sm:mb-5 p-5 w-full text-neutral-50 hover:bg-orange-950 active:bg-orange-500">
           {" "}
           Read the Latest Issue
         </div>

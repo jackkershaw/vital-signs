@@ -9,7 +9,7 @@ export default function PostPreview({
   category,
 }) {
   return (
-    <div className="p-5">
+    <div className="sm:p-5 mb-10 sm:mb-0">
       <div className="mb-4">
         {coverImage && (
           <CoverImage
