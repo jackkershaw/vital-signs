@@ -58,7 +58,7 @@ export default function Header() {
                 ISSUES
               </Link>
             </div>
-            <div className="flex flex-row sm:items-center justify-start sm:justify-between space-x-14 sm:space-x-10 pb-10 sm:pb-0 text-3xl">
+            <div className="flex flex-row sm:items-center justify-start sm:justify-between space-x-10 sm:space-x-10 pb-10 sm:pb-0 text-3xl">
               <span className="icon-[mdi--facebook] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"></span>
               <span className="icon-[mdi--twitter] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"></span>
               <span className="icon-[mdi--instagram] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"></span>
