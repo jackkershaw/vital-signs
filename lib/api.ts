@@ -200,13 +200,16 @@ export async function getPostAndMorePosts(slug, preview, previewData) {
   return data;
 }
 
-export async function getAboutPageContent() {
+export async function getAboutPageContent(aboutPageSlug = "about") {
   const data = await fetchAPI(`
-    query GetAboutPageContent {
-      page(id: "about") {
+  query getAboutPageContent {
+    pages(where: {name: "about"}) {
+      nodes {
         content
       }
     }
-  `);
-  return data?.page?.content;
+  }
+      `);
+  const content = data?.pages?.nodes[0]?.content || "";
+  return content;
 }

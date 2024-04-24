@@ -1,6 +1,7 @@
 import Layout from "../components/layout";
 import Image from "next/image";
 import { getAboutPageContent } from "../lib/api";
+import { GetStaticProps } from "next";
 
 export default function About({ content }) {
   return (
@@ -27,11 +28,12 @@ export default function About({ content }) {
   );
 }
 
-export async function getStaticProps() {
+export const getStaticProps: GetStaticProps = async () => {
   const content = await getAboutPageContent();
   return {
     props: {
       content,
     },
+    revalidate: 10,
   };
-}
+};
