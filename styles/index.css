@@ -150,7 +150,7 @@
   font-family: "Libre Franklin";
   font-style: italic;
   font-weight: 700;
-  src: url("/fonts/franklingothic/LibreFranklin-Italic-VariableFont_wght.ttf")
+  src: url("/fonts/Libre_Franklin/LibreFranklin-Italic-VariableFont_wght.ttf")
     format("truetype");
 }
 
@@ -161,4 +161,8 @@
 html {
   @apply bg-neutral-50;
   @apply text-orange-950;
+}
+
+h1 {
+  @apply font-sans;
 }

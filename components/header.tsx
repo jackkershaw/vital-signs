@@ -38,7 +38,7 @@ export default function Header() {
                 : "hidden sm:flex sm:flex-row"
             } `}
           >
-            <div className="flex flex-col sm:flex-row sm:items-center space-y-5 sm:space-y-0 sm:space-x-8 text-3xl pl-10 sm:pl-0">
+            <div className="flex flex-col sm:flex-row sm:items-center space-y-5 sm:space-y-0 sm:space-x-8 text-3xl font-sans pl-10 sm:pl-0">
               <Link
                 href="/about"
                 className="text-orange-700 hover:text-orange-950 active:text-orange-500"

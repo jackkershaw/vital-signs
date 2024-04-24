@@ -20,7 +20,6 @@ module.exports = {
       fontFamily: {
         serif: ["Charter", "serif"],
         sans: ["Libre Franklin", "sans-serif"],
-        // Add more font families as needed
       },
     },
   },
