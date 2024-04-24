@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer className="bg-orange-50 w-full">
-      <div className="p-10 sm:mx-5 font-serif justify-between flex flex-col sm:flex-row">
+      <div className="p-10 sm:mx-10 font-serif justify-between space-y-10 sm:space-y-0 flex flex-col sm:flex-row">
         <div>
           <p>Vital signs is a project. </p>
         </div>
