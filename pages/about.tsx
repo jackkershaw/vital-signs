@@ -20,7 +20,7 @@ export default function About({ content }) {
           </div>
           <div>
             <h1 className="font-sans text-2xl sm:text-4xl pb-5">
-              About
+              About Vital Signs
             </h1>
             <div className="font-serif text-lg prose">
               {strippedContent}
