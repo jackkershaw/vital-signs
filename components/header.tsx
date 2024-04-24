@@ -17,7 +17,7 @@ export default function Header() {
         </Link>
         <div className="flex flex-col justify-end">
           <div className="flex flex-row space-x-10 h-20 items-center justify-end w-full">
-            <div className="flex items-center space-x-5">
+            <div className="flex items-center space-x-8">
               <Link
                 href="/about"
                 className="text-orange-700 hover:text-orange-950 active:text-orange-500"
@@ -41,7 +41,14 @@ export default function Header() {
               <span className="icon-[mdi--facebook] text-orange-700 hover:text-orange-950 active:text-orange-500"></span>
               <span className="icon-[mdi--twitter] text-orange-700 hover:text-orange-950 active:text-orange-500"></span>
               <span className="icon-[mdi--instagram] text-orange-700 hover:text-orange-950 active:text-orange-500"></span>
-              <span className="icon-[mdi--email] text-orange-700 hover:text-orange-950 active:text-orange-500"></span>
+              <a
+                href="mailto:vitalsignsmag@proton.me"
+                className="flex-col flex justify-end items-end"
+              >
+                <span className="icon-[mdi--email] text-orange-700 hover:text-orange-950 active:text-orange-500">
+                  {" "}
+                </span>
+              </a>
             </div>
           </div>
         </div>
