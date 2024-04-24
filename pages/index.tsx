@@ -10,7 +10,7 @@ export default function Index({ allPosts: { edges }, preview }) {
 
   return (
     <Layout>
-      <div className="grid grid-cols-2 gap-2">
+      <div className="sm:grid sm:grid-cols-2 sm:gap-2">
         {heroPost && (
           <HeroPost
             title={heroPost.title}

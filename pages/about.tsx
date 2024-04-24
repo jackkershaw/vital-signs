@@ -4,22 +4,26 @@ import { getAboutPageContent } from "../lib/api";
 import { GetStaticProps } from "next";
 
 export default function About({ content }) {
+  const strippedContent = content.replace(/<[^>]+>/g, " ");
+
   return (
     <div>
       <Layout>
-        <div className="grid grid-cols-2 gap-10 min-h-[70vh] pb-10">
-          <div className="relative max-w-[50vw] ">
+        <div className="sm:grid sm:grid-cols-2 sm:gap-10 sm:min-h-[70vh] pb-10">
+          <div className="relative min-w-[200px] min-h-[200px] sm:max-w-[50vw]">
             <Image
               src="/images/about.jpg"
               alt=""
-              className=" object-cover"
+              className="object-cover object-center pb-8 sm:pb-0"
               fill
-            ></Image>
+            />
           </div>
           <div>
-            <h1 className="font-sans text-4xl pb-5">About</h1>
-            <div className="font-serif text-xl prose">
-              <div dangerouslySetInnerHTML={{ __html: content }} />
+            <h1 className="font-sans text-2xl sm:text-4xl pb-5">
+              About
+            </h1>
+            <div className="font-serif text-lg prose">
+              {strippedContent}
             </div>
           </div>
         </div>

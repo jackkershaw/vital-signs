@@ -4,7 +4,7 @@ export default function About() {
   return (
     <div>
       <Layout>
-        <div className="grid grid-cols-2 gap-10 py-10">
+        <div className="sm:grid sm:grid-cols-2 sm:gap-10 py-10">
           This is the issues page.
         </div>
       </Layout>

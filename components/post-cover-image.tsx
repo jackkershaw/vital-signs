@@ -18,18 +18,19 @@ export default function PostCoverImage({
 }: Props) {
   const image = (
     <Image
-      width={2000}
-      height={1000}
+      fill
       alt={title}
       src={postCoverImage?.node.sourceUrl}
-      className="object-cover w-[100%] sm:h-[220px] "
+      className="object-cover object-centre"
     />
   );
   return (
     <div className="sm:mx-0">
       {slug ? (
         <Link href={`/posts/${slug}`} aria-label={title}>
-          {image}
+          <div className="relative min-w-[50vw] min-h-[20vh] sm:w-[22vw] sm:h-[25vh]">
+            {image}
+          </div>
         </Link>
       ) : (
         image

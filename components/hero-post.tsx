@@ -9,13 +9,13 @@ export default function HeroPost({
   category,
 }) {
   return (
-    <section className="p-5 ">
+    <section className="sm:p-5">
       <Link
         href={`/posts/${slug}`}
         className="text-lg font-bold text-primary-500"
       >
         {" "}
-        <div className="bg-orange-700 mb-5 p-5 w-full text-neutral-50 hover:bg-orange-950 active:bg-orange-500">
+        <div className="bg-orange-700 sm:mb-5 p-5 w-full text-neutral-50 hover:bg-orange-950 active:bg-orange-500">
           {" "}
           Read the Latest Issue
         </div>
@@ -28,7 +28,7 @@ export default function HeroPost({
       <div>
         <div>
           <h1 className="text-right">{category}</h1>
-          <h3 className="mb-3 text-2xl lg:text-3xl text-orange-700 hover:text-orange-950 active:text-orange-500">
+          <h3 className="sm:mb-3 text-2xl lg:text-3xl text-orange-700 hover:text-orange-950 active:text-orange-500">
             <Link
               href={`/posts/${slug}`}
               dangerouslySetInnerHTML={{ __html: title }}

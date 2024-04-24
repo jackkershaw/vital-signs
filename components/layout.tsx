@@ -12,7 +12,7 @@ export default function Layout({ children }) {
       <Meta />
       <Header />
       <div className="bg-neutral-50 text-orange-950">
-        <div className="px-10 mx-10">
+        <div className="px-10 sm:mx-10">
           <main>{children}</main>
         </div>
       </div>
