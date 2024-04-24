@@ -58,6 +58,8 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
             />
   </div>
 - I found it particularly difficult to add category queries to the site, but after some time using the GraphQL IDE on Wordpress, I managed to edit the API and then reference the API in components.
+- Added rudimentary favicon based off the banner design.
+
 - I then set up the About page as something the client could edit in Wordpress. I used the GraphQL IDE to find the correct API command: query GetAboutPageContent {
   page(id: "about") {
   title
