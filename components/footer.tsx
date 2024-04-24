@@ -1,11 +1,11 @@
 export default function Footer() {
   return (
     <footer className="bg-orange-50 w-full">
-      <div className="p-10 mx-5 font-serif justify-between flex flex-row">
+      <div className="p-10 sm:mx-5 font-serif justify-between flex flex-col sm:flex-row">
         <div>
           <p>Vital signs is a project. </p>
         </div>
-        <div className="text-right">
+        <div className="sm:text-right">
           <p>
             Site by{" "}
             <a
