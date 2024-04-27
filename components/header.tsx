@@ -1,12 +1,12 @@
 import { useState } from "react";
-
 import Link from "next/link";
 import Image from "next/image";
+import { motion } from "framer-motion";
 
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
   return (
-    <header className="bg-orange-50 sm:px-10 pb-2 sm:py-5 mb-10">
+    <header className="bg-orange-50 sm:px-10 pb-5 mb-10">
       <div className="sm:grid sm:grid-cols-2 sm:mx-10">
         <div className="flex flex-row items-center justify-between px-10 sm:px-0 sm:justify-start sm:space-y-10 bg-orange-50">
           <button
