@@ -44,7 +44,7 @@ const Franklin = localFont({
   variable: "--font-franklin",
 });
 
-function MyApp({ Component, pageProps }: AppProps) {
+function MyApp({ Component, pageProps, router }: AppProps) {
   return (
     <main className={`${Charter.variable} ${Franklin.variable}`}>
       <Component {...pageProps} />
