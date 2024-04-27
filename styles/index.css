@@ -146,5 +146,5 @@ html {
 }
 
 h1 {
-  @apply font-sans;
+  @apply font-bold font-sans;
 }

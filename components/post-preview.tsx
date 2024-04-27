@@ -20,12 +20,12 @@ export default function PostPreview({
         )}
       </div>
       <h1 className="text-right">{category}</h1>
-      <h3 className="text-2xl mb-4 text-orange-700 hover:text-orange-950">
+      <h1 className="text-2xl mb-4 text-orange-700 hover:text-orange-950">
         <Link
           href={`/posts/${slug}`}
           dangerouslySetInnerHTML={{ __html: title }}
         ></Link>
-      </h3>
+      </h1>
       <div
         className="mb-4 font-serif"
         dangerouslySetInnerHTML={{ __html: excerpt }}

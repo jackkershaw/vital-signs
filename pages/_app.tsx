@@ -31,7 +31,7 @@ const Charter = localFont({
 const Franklin = localFont({
   src: [
     {
-      path: "./fonts/Libre_Franklin/LibreFranklin-Italic-VariableFont_wght.ttf",
+      path: "./fonts/Libre_Franklin/LibreFranklin-VariableFont_wght.ttf",
       weight: "700",
       style: "normal",
     },

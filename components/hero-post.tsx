@@ -12,7 +12,7 @@ export default function HeroPost({
     <section className="sm:py-5 mb-10 sm:mb-0">
       <Link
         href={`/posts/${slug}`}
-        className="text-lg font-bold text-primary-500"
+        className="text-lg font-bold font-sans text-primary-500"
       >
         {" "}
         <div className="bg-orange-700 mb-10 sm:mb-5 p-5 w-full text-neutral-50 hover:bg-orange-950 active:bg-orange-500">
@@ -28,12 +28,12 @@ export default function HeroPost({
       <div>
         <div>
           <h1 className="text-right">{category}</h1>
-          <h3 className="sm:mb-3 text-2xl lg:text-3xl text-orange-700 hover:text-orange-950 active:text-orange-500">
+          <h1 className="sm:mb-3 text-2xl lg:text-3xl text-orange-700 hover:text-orange-950 active:text-orange-500">
             <Link
               href={`/posts/${slug}`}
               dangerouslySetInnerHTML={{ __html: title }}
             ></Link>
-          </h3>
+          </h1>
         </div>
         <div>
           <div
