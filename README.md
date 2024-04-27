@@ -73,6 +73,8 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 
 - I had an issue loading fonts when deployed on Vercel. Whilst it worked locally, I had to make some changes using Next/font to get it to work. The documentation [here](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts#local-fonts) proved very valuable.
 
+- Added some animations with Framer Motion. For now, I have gone for a simple fade in from the bottom with a slight delay, between each page. This is wrapped around the layout component rather than the whole site. So, the header and footer are not animated.
+
 # Running on your machine
 
 ### Run Next.js in development mode:
