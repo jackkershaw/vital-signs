@@ -85,6 +85,8 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 
 - Added a read more button to the bottom of the home page which links to the news page.
 
+- Used framer motion to add animation to my header opening and closing on mobile. Because of the nature of animating this, I found it simpler to have separate code for mobile and desktop here.
+
 # Running on your machine
 
 ### Run Next.js in development mode:
