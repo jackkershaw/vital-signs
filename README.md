@@ -77,6 +77,12 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 
 - Improved the site's SEO using [the NextJS docs](https://nextjs.org/docs/app/building-your-application/optimizing/metadata). I added static metadata to the Layout file, as well as dynamic metadata for each page. I used [OpenGraph.xyz](https://www.opengraph.xyz) to test how links would appear when shared on social media.
 
+- Added MIT License.
+
+- RSS - for now, I have kept this simple and just added a link to the RSS feed that Worpdress generates rather than creating something in NextJS. I created a /feed page in NextJS which automatically redirects to this URL, to enable the same sort of functionality in NextJS that Wordpress offers.
+
+- Added a custom 404 page to the site, using a page titled 404 in the NextJS pages router.
+
 # Running on your machine
 
 ### Run Next.js in development mode:
