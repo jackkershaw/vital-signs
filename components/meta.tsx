@@ -45,7 +45,7 @@ export default function Meta() {
       <meta name="twitter:title" content="Vital Signs Magazine" />
       <meta
         name="twitter:description"
-        content="Vital Signs Magazine"
+        content="A health workers’ magazine for a new society"
       />
       <meta name="twitter:image" content="/images/banner-draft.png" />
       <meta
@@ -54,7 +54,10 @@ export default function Meta() {
       />
       <meta property="og:type" content="website" />
       <meta property="og:title" content="Vital Signs Magazine" />
-      <meta property="og:description" content="Vital Signs Magazine" />
+      <meta
+        property="og:description"
+        content="A health workers’ magazine for a new society"
+      />
       <meta property="og:image" content="/images/banner-draft.png" />
     </Head>
   );
