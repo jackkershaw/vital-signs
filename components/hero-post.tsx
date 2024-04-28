@@ -11,7 +11,7 @@ export default function HeroPost({
   return (
     <section className="sm:py-5 mb-10 sm:mb-0">
       <Link
-        href={`/posts/${slug}`}
+        href="/issues"
         className="text-lg font-bold font-sans text-primary-500"
       >
         {" "}
