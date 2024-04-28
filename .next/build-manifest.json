@@ -32,11 +32,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/about.js"
     ],
-    "/issues": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/issues.js"
-    ],
     "/posts/[slug]": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
