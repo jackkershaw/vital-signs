@@ -1,5 +1,5 @@
 import PostPreview from "./post-preview";
-
+import Link from "next/link";
 export default function MoreStories({ posts }) {
   const limitedPosts = posts.slice(0, 4);
 
@@ -19,6 +19,16 @@ export default function MoreStories({ posts }) {
           />
         ))}
       </div>
+      <Link
+        href="/news"
+        className="text-lg font-bold font-sans text-primary-500"
+      >
+        {" "}
+        <div className="bg-orange-700 mb-10 sm:mb-5 p-5 w-full text-neutral-50 hover:bg-orange-950 active:bg-orange-500 sm:text-right">
+          {" "}
+          Read more
+        </div>
+      </Link>
     </section>
   );
 }

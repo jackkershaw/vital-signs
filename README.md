@@ -79,9 +79,11 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 
 - Added MIT License.
 
-- RSS - for now, I have kept this simple and just added a link to the RSS feed that Worpdress generates rather than creating something in NextJS. I created a /feed page in NextJS which automatically redirects to this URL, to enable the same sort of functionality in NextJS that Wordpress offers.
+- RSS: I have kept this simple and just added a link to the RSS feed that Worpdress generates rather than creating something in NextJS. I created a /feed page in NextJS which automatically redirects to this URL, to enable the same sort of functionality in NextJS that Wordpress offers.
 
 - Added a custom 404 page to the site, using a page titled 404 in the NextJS pages router.
+
+- Added a read more button at bottom right which links to the news page.
 
 # Running on your machine
 
