@@ -12,6 +12,7 @@ import {
   getAllPostsWithSlug,
   getPostAndMorePosts,
 } from "../../lib/api";
+import type { Metadata, ResolvingMetadata } from "next";
 
 export default function Post({ post, posts, preview }) {
   const router = useRouter();
@@ -82,15 +83,12 @@ export const getStaticPaths: GetStaticPaths = async () => {
   };
 };
 
-import type { Metadata, ResolvingMetadata } from "next";
-
 type Props = {
   params: { id: string };
-  searchParams: { [key: string]: string | string[] | undefined };
 };
 
 export async function generateMetadata(
-  { params, searchParams }: Props,
+  { params }: Props,
   parent: ResolvingMetadata
 ): Promise<Metadata> {
   // read route params
@@ -107,7 +105,7 @@ export async function generateMetadata(
   return {
     title: product.title,
     openGraph: {
-      images: ["/some-specific-page-image.jpg", ...previousImages],
+      images: ["/images/banner-draft.png", ...previousImages],
     },
   };
 }
