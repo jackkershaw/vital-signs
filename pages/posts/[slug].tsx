@@ -105,7 +105,7 @@ export async function generateMetadata(
   return {
     title: product.title,
     openGraph: {
-      images: ["/images/banner-draft.png", ...previousImages],
+      images: [{ url: product.image }, ...previousImages],
     },
   };
 }
