@@ -75,6 +75,8 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 
 - Added some animations with Framer Motion. For now, I have gone for a simple fade in from the bottom with a slight delay, between each page. This is wrapped around the layout component rather than the whole site. So, the header and footer are not animated.
 
+- Improved the site's SEO using [the NextJS docs](https://nextjs.org/docs/app/building-your-application/optimizing/metadata). I added static metadata to the Layout file, as well as dynamic metadata for each page.
+
 # Running on your machine
 
 ### Run Next.js in development mode:

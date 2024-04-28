@@ -29,7 +29,33 @@ export default function Meta() {
         type="application/rss+xml"
         href="/feed.xml"
       />
+      <meta
+        name="description"
+        content="A health workers’ magazine for a new society
+"
+      />
+      <title>Vital Signs Magazine</title>
       <meta name="description" content="Vital Signs Magazine" />
+      <meta name="twitter:card" content="/images/banner-draft.png" />
+      <meta property="twitter:domain" content="vitalsignsmag.org" />
+      <meta
+        property="twitter:url"
+        content="https://www.vitalsignsmag.org/"
+      />
+      <meta name="twitter:title" content="Vital Signs Magazine" />
+      <meta
+        name="twitter:description"
+        content="Vital Signs Magazine"
+      />
+      <meta name="twitter:image" content="/images/banner-draft.png" />
+      <meta
+        property="og:url"
+        content="https://www.vitalsignsmag.org/"
+      />
+      <meta property="og:type" content="website" />
+      <meta property="og:title" content="Vital Signs Magazine" />
+      <meta property="og:description" content="Vital Signs Magazine" />
+      <meta property="og:image" content="/images/banner-draft.png" />
     </Head>
   );
 }

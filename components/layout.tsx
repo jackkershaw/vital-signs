@@ -3,6 +3,12 @@ import Footer from "./footer";
 import Meta from "./meta";
 import Head from "next/head";
 import { motion } from "framer-motion";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Vital Signs Magazine",
+  description: "A Health Workers’ Magazine For a New Society",
+};
 
 export default function Layout({ children }) {
   return (
