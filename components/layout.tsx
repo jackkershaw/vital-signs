@@ -38,7 +38,7 @@ export default function Layout({ children }) {
         }}
       >
         <div className="bg-neutral-50 text-orange-950">
-          <div className="px-10 sm:mx-10">
+          <div className="px-10 sm:mx-10 min-h-[60vh]">
             <main>{children}</main>
           </div>
         </div>

@@ -60,9 +60,16 @@ export default function Header() {
             <div className="flex flex-row sm:items-center justify-start sm:justify-between space-x-10 sm:space-x-10 pb-10 sm:pb-0 text-3xl">
               <span className="icon-[mdi--facebook] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"></span>
               <span className="icon-[mdi--twitter] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"></span>
-              <span className="icon-[mdi--instagram] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"></span>
+              <a
+                href="https://vitalsignscontenteditor.co.uk/rss"
+                target="_blank"
+                className="flex-col flex justify-end items-end"
+              >
+                <span className="icon-[mdi--rss] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"></span>
+              </a>
               <a
                 href="mailto:vitalsignsmag@proton.me"
+                target="_blank"
                 className="flex-col flex justify-end items-end"
               >
                 <span className="icon-[mdi--email] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0">
