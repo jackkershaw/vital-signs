@@ -43,8 +43,10 @@ export default function Post({ post, posts, preview }) {
             <PostBody content={post.content} />
           </article>
           <SectionSeparator />
-          <h1 className="py-4 text-2xl">Read Next: </h1>
-          {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+          <div className="sm:grid sm:grid-cols-2">
+            <h1 className="py-4 text-2xl">Read Next: </h1>
+            {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+          </div>
           <SectionSeparator />
         </>
       )}
@@ -86,26 +88,3 @@ export const getStaticPaths: GetStaticPaths = async () => {
 type Props = {
   params: { id: string };
 };
-
-export async function generateMetadata(
-  { params }: Props,
-  parent: ResolvingMetadata
-): Promise<Metadata> {
-  // read route params
-  const id = params.id;
-
-  // fetch data
-  const product = await fetch(`https://.../${id}`).then((res) =>
-    res.json()
-  );
-
-  // optionally access and extend (rather than replace) parent metadata
-  const previousImages = (await parent).openGraph?.images || [];
-
-  return {
-    title: product.title,
-    openGraph: {
-      images: [{ url: product.image }, ...previousImages],
-    },
-  };
-}

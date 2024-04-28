@@ -83,7 +83,7 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 
 - Added a custom 404 page to the site, using a page titled 404 in the NextJS pages router.
 
-- Added a read more button at bottom right which links to the news page.
+- Added a read more button to the bottom of the home page which links to the news page.
 
 # Running on your machine
 

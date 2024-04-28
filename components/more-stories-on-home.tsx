@@ -24,7 +24,7 @@ export default function MoreStories({ posts }) {
         className="text-lg font-bold font-sans text-primary-500"
       >
         {" "}
-        <div className="bg-orange-700 mb-10 sm:mb-5 p-5 w-full text-neutral-50 hover:bg-orange-950 active:bg-orange-500 sm:text-right">
+        <div className="bg-orange-700 mb-10 sm:mb-5 p-5 w-full text-neutral-50 hover:bg-orange-950 active:bg-orange-500">
           {" "}
           Read more
         </div>
