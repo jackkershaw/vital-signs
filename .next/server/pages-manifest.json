@@ -2,8 +2,13 @@
   "/_error": "pages/_error.js",
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
+<<<<<<< HEAD
   "/posts/[slug]": "pages/posts/[slug].js",
   "/news": "pages/news.js",
   "/about": "pages/about.js",
   "/": "pages/index.js"
+=======
+  "/": "pages/index.js",
+  "/about": "pages/about.js"
+>>>>>>> 9da5d15ab84e90fd092a71f860710d6ca51925ae
 }

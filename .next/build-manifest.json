@@ -26,6 +26,7 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
+<<<<<<< HEAD
     ],
     "/news": [
       "static/chunks/webpack.js",
@@ -36,6 +37,8 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/posts/[slug].js"
+=======
+>>>>>>> 9da5d15ab84e90fd092a71f860710d6ca51925ae
     ]
   },
   "ampFirstPages": []
