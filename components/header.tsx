@@ -67,12 +67,19 @@ export default function Header() {
                 </Link>
               </div>
               <div className="flex flex-row sm:items-center justify-start sm:justify-between space-x-10 sm:space-x-10 pb-10 sm:pb-0 text-3xl">
-                <span className="icon-[mdi--facebook] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"></span>
-                <span className="icon-[mdi--twitter] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"></span>
+                <span
+                  className="icon-[mdi--facebook] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"
+                  aria-label="link to facebook"
+                ></span>
+                <span
+                  className="icon-[mdi--twitter] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"
+                  aria-label="link to twitter"
+                ></span>
                 <a
                   href="https://vitalsignscontenteditor.co.uk/rss"
                   target="_blank"
                   className="flex-col flex justify-end items-end"
+                  aria-label="link to rss feed"
                 >
                   <span className="icon-[mdi--rss] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"></span>
                 </a>
@@ -80,6 +87,7 @@ export default function Header() {
                   href="mailto:vitalsignsmag@proton.me"
                   target="_blank"
                   className="flex-col flex justify-end items-end"
+                  aria-label="link to email"
                 >
                   <span className="icon-[mdi--email] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0">
                     {" "}
