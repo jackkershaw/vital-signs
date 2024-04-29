@@ -33,6 +33,7 @@
       "static/chunks/pages/_app-8c9e68d8ec5e0344.js"
     ],
     "/_error": [
+<<<<<<< HEAD
       "static/chunks/webpack-8fa1640cc84ba8fe.js",
       "static/chunks/framework-ecc4130bc7a58a64.js",
       "static/chunks/main-f61746aa183f4a64.js",
@@ -74,6 +75,16 @@
       "static/chunks/235-1a62286d52cc4ae8.js",
       "static/css/70530f3891570728.css",
       "static/chunks/pages/posts/[slug]-1e00db8e25021e09.js"
+=======
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/_error.js"
+    ],
+    "/about": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/about.js"
+>>>>>>> parent of 9da5d15 (removing references to preview from api)
     ]
   },
   "ampFirstPages": []
