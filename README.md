@@ -90,6 +90,7 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 - Ran Google Lighthouse to improve Accessibility, reaching a score of 100 after the following edits:
 
   - Added aria-label for menu button in header on mobile, and other links in header.
+  - make main top level component in layout
 
 - updated to latest version of nextjs
 
