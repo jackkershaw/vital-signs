@@ -50,29 +50,39 @@ export default function Header() {
                 <Link
                   href="/about"
                   className="text-orange-700 hover:text-orange-950 active:text-orange-500"
+                  aria-label="About"
                 >
                   ABOUT
                 </Link>
                 <Link
                   href="/news"
                   className="text-orange-700 hover:text-orange-950 active:text-orange-500"
+                  aria-label="News"
                 >
                   NEWS
                 </Link>
                 <Link
                   href="/issues"
                   className="text-orange-700 hover:text-orange-950 active:text-orange-500"
+                  aria-label="Issues"
                 >
                   ISSUES
                 </Link>
               </div>
               <div className="flex flex-row sm:items-center justify-start sm:justify-between space-x-10 sm:space-x-10 pb-10 sm:pb-0 text-3xl">
-                <span className="icon-[mdi--facebook] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"></span>
-                <span className="icon-[mdi--twitter] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"></span>
+                <span
+                  className="icon-[mdi--facebook] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"
+                  aria-label="Facebook"
+                ></span>
+                <span
+                  className="icon-[mdi--twitter] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"
+                  aria-label="Twitter"
+                ></span>
                 <a
                   href="https://vitalsignscontenteditor.co.uk/rss"
                   target="_blank"
                   className="flex-col flex justify-end items-end"
+                  aria-label="RSS"
                 >
                   <span className="icon-[mdi--rss] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"></span>
                 </a>
@@ -80,6 +90,7 @@ export default function Header() {
                   href="mailto:vitalsignsmag@proton.me"
                   target="_blank"
                   className="flex-col flex justify-end items-end"
+                  aria-label="Email"
                 >
                   <span className="icon-[mdi--email] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0">
                     {" "}
@@ -91,34 +102,44 @@ export default function Header() {
         </div>
         {/* desktop menu */}
         <div className="hidden sm:flex flex-row sm:flex-col sm:justify-end">
-          <div className="space-x-10 space-y-8 sm:space-y-0 sm:items-center justify-end w-full flex flex-col sm:flex-row z-50 bg-orange-50">
-            <div className="flex flex-col sm:flex-row sm:items-center space-y-5 sm:space-y-0 sm:space-x-8 text-3xl font-sans pl-10 sm:pl-0">
+          <div className="space-x-10 space-y-8 sm:space-y-0 sm:items-center justify-end w-full flex flex-col sm:flexcol">
+            <div className="flex flex-col sm:flex-row sm:items-center space-y-5 sm:space-y-0 sm:space-x-8 text-3xl font-sans">
               <Link
                 href="/about"
                 className="text-orange-700 hover:text-orange-950 active:text-orange-500"
+                aria-label="About"
               >
                 ABOUT
               </Link>
               <Link
                 href="/news"
                 className="text-orange-700 hover:text-orange-950 active:text-orange-500"
+                aria-label="News"
               >
                 NEWS
               </Link>
               <Link
                 href="/issues"
                 className="text-orange-700 hover:text-orange-950 active:text-orange-500"
+                aria-label="Issues"
               >
                 ISSUES
               </Link>
             </div>
-            <div className="flex flex-row sm:items-center justify-start sm:justify-between space-x-10 sm:space-x-10 pb-10 sm:pb-0 text-3xl">
-              <span className="icon-[mdi--facebook] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"></span>
-              <span className="icon-[mdi--twitter] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"></span>
+            <div className="flex flex-row items-center justify-start sm:justify-between space-x-10 pb-10 sm:pb-0 text-3xl">
+              <span
+                className="icon-[mdi--facebook] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"
+                aria-label="Facebook"
+              ></span>
+              <span
+                className="icon-[mdi--twitter] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"
+                aria-label="Twitter"
+              ></span>
               <a
                 href="https://vitalsignscontenteditor.co.uk/rss"
                 target="_blank"
                 className="flex-col flex justify-end items-end"
+                aria-label="RSS"
               >
                 <span className="icon-[mdi--rss] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"></span>
               </a>
@@ -126,6 +147,7 @@ export default function Header() {
                 href="mailto:vitalsignsmag@proton.me"
                 target="_blank"
                 className="flex-col flex justify-end items-end"
+                aria-label="Email"
               >
                 <span className="icon-[mdi--email] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0">
                   {" "}

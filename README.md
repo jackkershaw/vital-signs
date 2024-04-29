@@ -87,9 +87,9 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 
 - Used framer motion to add animation to my header opening and closing on mobile. Because of the nature of animating this, I found it simpler to have separate code for mobile and desktop here.
 
-- Ran Google Lighthouse to improve Accessibility
+- Ran Google Lighthouse to improve Accessibility, reaching a score of 100 after the following edits:
 
-  - Added aria-label for menu button in header on mobile
+  - Added aria-label for menu button in header on mobile, and other links in header.
 
 - updated to latest version of nextjs
 
