@@ -1,100 +1,3 @@
-<<<<<<< HEAD
-"use strict";(()=>{var e={};e.id=405,e.ids=[405],e.modules={1496:(e,t,s)=>{s.a(e,async(e,r)=>{try{s.r(t),s.d(t,{config:()=>p,default:()=>m,getServerSideProps:()=>h,getStaticPaths:()=>g,getStaticProps:()=>u,reportWebVitals:()=>x,routeModule:()=>P,unstable_getServerProps:()=>j,unstable_getServerSideProps:()=>S,unstable_getStaticParams:()=>b,unstable_getStaticPaths:()=>v,unstable_getStaticProps:()=>f});var a=s(7093),n=s(5244),l=s(1323),o=s(7645),i=s(6814),c=s(6209),d=e([c]);c=(d.then?(await d)():d)[0];let m=(0,l.l)(c,"default"),u=(0,l.l)(c,"getStaticProps"),g=(0,l.l)(c,"getStaticPaths"),h=(0,l.l)(c,"getServerSideProps"),p=(0,l.l)(c,"config"),x=(0,l.l)(c,"reportWebVitals"),f=(0,l.l)(c,"unstable_getStaticProps"),v=(0,l.l)(c,"unstable_getStaticPaths"),b=(0,l.l)(c,"unstable_getStaticParams"),j=(0,l.l)(c,"unstable_getServerProps"),S=(0,l.l)(c,"unstable_getServerSideProps"),P=new a.PagesRouteModule({definition:{kind:n.x.PAGES,page:"/index",pathname:"/",bundlePath:"",filename:""},components:{App:i.default,Document:o.default},userland:c});r()}catch(e){r(e)}})},7518:(e,t,s)=>{s.d(t,{Z:()=>i});var r=s(997),a=s(5675),n=s.n(a),l=s(1664),o=s.n(l);function i({title:e,coverImage:t,slug:s}){let a=r.jsx(n(),{fill:!0,alt:e,src:t?.node.sourceUrl,className:"object-cover object-center"});return r.jsx("div",{className:"flex-row flex justify-center items-center",children:r.jsx("div",{className:"relative min-w-[80vw] min-h-[30vh] sm:min-w-[20vw] sm:h-auto",children:s?r.jsx(o(),{href:`/posts/${s}`,"aria-label":e,children:a}):a})})}},2516:(e,t,s)=>{s.d(t,{Z:()=>c});var r=s(997),a=s(5675),n=s.n(a),l=s(1664),o=s.n(l);function i({title:e,heroImage:t,slug:s}){let a=r.jsx(n(),{fill:!0,alt:e,src:t?.node.sourceUrl,className:"object-cover object-center"});return r.jsx("div",{className:"sm:mx-0 relative min-w-[30vw] min-h-[20vh] sm:min-w-[40vw] sm:min-h-[50vh]",children:s?r.jsx(o(),{href:`/posts/${s}`,"aria-label":e,children:a}):a})}function c({title:e,heroImage:t,excerpt:s,slug:a,category:n}){return(0,r.jsxs)("section",{className:"sm:py-5 mb-10 sm:mb-0",children:[(0,r.jsxs)(o(),{href:"/issues",className:"text-lg font-bold font-sans text-primary-500",children:[" ",(0,r.jsxs)("div",{className:"bg-orange-700 mb-10 sm:mb-5 p-5 w-full text-neutral-50 hover:bg-orange-950 active:bg-orange-500",children:[" ","Read the Latest Issue"]})]}),r.jsx("div",{className:"mb-3",children:t&&r.jsx(i,{title:e,heroImage:t,slug:a})}),(0,r.jsxs)("div",{children:[(0,r.jsxs)("div",{children:[r.jsx("h1",{className:"text-right",children:n}),r.jsx("h1",{className:"sm:mb-3 text-2xl lg:text-3xl text-orange-700 hover:text-orange-950 active:text-orange-500",children:r.jsx(o(),{href:`/posts/${a}`,dangerouslySetInnerHTML:{__html:e}})})]}),r.jsx("div",{children:r.jsx("div",{className:"text-lg font-serif mb-4",dangerouslySetInnerHTML:{__html:s}})})]})]})}},8379:(e,t,s)=>{s.d(t,{Z:()=>o});var r=s(997),a=s(2178),n=s(1664),l=s.n(n);function o({posts:e}){let t=e.slice(0,4);return(0,r.jsxs)("section",{children:[r.jsx("div",{className:"sm:grid sm:grid-cols-2 sm:gap-x-5",children:t.map(({node:e})=>r.jsx(a.Z,{title:e.title,coverImage:e.featuredImage,slug:e.slug,excerpt:e.excerpt,category:e.categories.nodes.map(e=>e.name)},e.slug))}),(0,r.jsxs)(l(),{href:"/news",className:"text-lg font-bold font-sans text-primary-500",children:[" ",(0,r.jsxs)("div",{className:"bg-orange-700 mb-10 sm:mb-5 p-5 w-full text-neutral-50 hover:bg-orange-950 active:bg-orange-500",children:[" ","Read more"]})]})]})}},2178:(e,t,s)=>{s.d(t,{Z:()=>o});var r=s(997),a=s(7518),n=s(1664),l=s.n(n);function o({title:e,coverImage:t,excerpt:s,slug:n,category:o}){return(0,r.jsxs)("div",{className:"sm:p-5 mb-10 sm:mb-0",children:[r.jsx("div",{className:"mb-4",children:t&&r.jsx(a.Z,{title:e,coverImage:t,slug:n})}),r.jsx("h1",{className:"text-right",children:o}),r.jsx("h1",{className:"text-2xl mb-4 text-orange-700 hover:text-orange-950",children:r.jsx(l(),{href:`/posts/${n}`,dangerouslySetInnerHTML:{__html:e}})}),r.jsx("div",{className:"mb-4 font-serif",dangerouslySetInnerHTML:{__html:s}})]})}},8484:(e,t,s)=>{s.d(t,{DT:()=>l,ds:()=>o,h9:()=>n,vx:()=>i});let r=process.env.WORDPRESS_API_URL;async function a(e="",{variables:t}={}){let s={"Content-Type":"application/json"};process.env.WORDPRESS_AUTH_REFRESH_TOKEN&&(s.Authorization=`Bearer ${process.env.WORDPRESS_AUTH_REFRESH_TOKEN}`);let a=await fetch(r,{headers:s,method:"POST",body:JSON.stringify({query:e,variables:t})}),n=await a.json();if(n.errors)throw console.error(n.errors),Error("Failed to fetch API");return n.data}async function n(){let e=await a(`
-    {
-      posts(first: 10000) {
-        edges {
-          node {
-            slug
-          }
-        }
-      }
-    }
-  `);return e?.posts}async function l(){let e=await a(`
-    query AllPosts {
-      posts(first: 10, where: { orderby: { field: DATE, order: DESC } }) {
-        edges {
-          node {
-            title
-            categories {
-              nodes {
-                name
-              }
-            }
-            excerpt
-            slug
-            date
-            featuredImage {
-              node {
-                sourceUrl
-              }
-            }
-          }
-        }
-      }
-    }
-  `);return e?.posts}async function o(e){Number.isInteger(Number(e));let t=await a(`
-    fragment AuthorFields on User {
-      name
-      firstName
-      lastName
-      avatar {
-        url
-      }
-    }
-    fragment PostFields on Post {
-      title
-      excerpt
-      slug
-      date
-      featuredImage {
-        node {
-          sourceUrl
-        }
-      }
-      author {
-        node {
-          ...AuthorFields
-        }
-      }
-      categories {
-        edges {
-          node {
-            name
-          }
-        }
-      }
-      tags {
-        edges {
-          node {
-            name
-          }
-        }
-      }
-    }
-    query PostBySlug($id: ID!, $idType: PostIdType!) {
-      post(id: $id, idType: $idType) {
-        ...PostFields
-        content
-      }
-        }
-      posts(first: 3, where: { orderby: { field: DATE, order: DESC } }) {
-        edges {
-          node {
-            ...PostFields
-          }
-        }
-      }
-    }
-  `);return t.posts.edges=t.posts.edges.filter(({node:t})=>t.slug!==e),t.posts.edges.length>2&&t.posts.edges.pop(),t}async function i(e="about"){let t=await a(`
-  query getAboutPageContent {
-    pages(where: {name: "about"}) {
-      nodes {
-        content
-      }
-    }
-  }
-      `);return t?.pages?.nodes[0]?.content||""}},6209:(e,t,s)=>{s.a(e,async(e,r)=>{try{s.r(t),s.d(t,{default:()=>d,getStaticProps:()=>m});var a=s(997),n=s(8379),l=s(2516),o=s(6836),i=s(8484),c=e([o]);function d({allPosts:{edges:e}}){let t=e[0]?.node,s=e.slice(1);return a.jsx(o.Z,{children:(0,a.jsxs)("div",{className:"sm:grid sm:grid-cols-2 sm:gap-2",children:[t&&a.jsx(l.Z,{title:t.title,heroImage:t.featuredImage,slug:t.slug,excerpt:t.excerpt,category:t.categories.nodes.map(e=>e.name)}),s.length>0&&a.jsx(n.Z,{posts:s})]})})}o=(c.then?(await c)():c)[0];let m=async({})=>({props:{allPosts:await (0,i.DT)()},revalidate:10});r()}catch(e){r(e)}})},2785:e=>{e.exports=require("next/dist/compiled/next-server/pages.runtime.prod.js")},968:e=>{e.exports=require("next/head")},6689:e=>{e.exports=require("react")},6405:e=>{e.exports=require("react-dom")},997:e=>{e.exports=require("react/jsx-runtime")},6197:e=>{e.exports=import("framer-motion")},1017:e=>{e.exports=require("path")}};var t=require("../webpack-runtime.js");t.C(e);var s=e=>t(t.s=e),r=t.X(0,[859,21,673],()=>s(1496));module.exports=r})();
-=======
 /*
  * ATTENTION: An "eval-source-map" devtool has been used.
  * This devtool is neither made for production nor for readable output files.
@@ -259,7 +162,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {\n__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Index),\n/* harmony export */   getStaticProps: () => (/* binding */ getStaticProps)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _components_more_stories_on_home__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/more-stories-on-home */ \"./components/more-stories-on-home.tsx\");\n/* harmony import */ var _components_hero_post__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/hero-post */ \"./components/hero-post.tsx\");\n/* harmony import */ var _components_layout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/layout */ \"./components/layout.tsx\");\n/* harmony import */ var _lib_api__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../lib/api */ \"./lib/api.ts\");\nvar __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_components_layout__WEBPACK_IMPORTED_MODULE_3__]);\n_components_layout__WEBPACK_IMPORTED_MODULE_3__ = (__webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__)[0];\n\n\n\n\n\nfunction Index({ allPosts: { edges }, preview }) {\n    const heroPost = edges[0]?.node;\n    const morePosts = edges.slice(1);\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_layout__WEBPACK_IMPORTED_MODULE_3__[\"default\"], {\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n            className: \"sm:grid sm:grid-cols-2 sm:gap-2\",\n            children: [\n                heroPost && /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_hero_post__WEBPACK_IMPORTED_MODULE_2__[\"default\"], {\n                    title: heroPost.title,\n                    heroImage: heroPost.featuredImage,\n                    slug: heroPost.slug,\n                    excerpt: heroPost.excerpt,\n                    category: heroPost.categories.nodes.map((category)=>category.name)\n                }, void 0, false, {\n                    fileName: \"/Users/coding-2/Documents/projects/vital-signs/pages/index.tsx\",\n                    lineNumber: 15,\n                    columnNumber: 11\n                }, this),\n                morePosts.length > 0 && /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_more_stories_on_home__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n                    posts: morePosts\n                }, void 0, false, {\n                    fileName: \"/Users/coding-2/Documents/projects/vital-signs/pages/index.tsx\",\n                    lineNumber: 25,\n                    columnNumber: 34\n                }, this)\n            ]\n        }, void 0, true, {\n            fileName: \"/Users/coding-2/Documents/projects/vital-signs/pages/index.tsx\",\n            lineNumber: 13,\n            columnNumber: 7\n        }, this)\n    }, void 0, false, {\n        fileName: \"/Users/coding-2/Documents/projects/vital-signs/pages/index.tsx\",\n        lineNumber: 12,\n        columnNumber: 5\n    }, this);\n}\nconst getStaticProps = async ({ preview = false })=>{\n    const allPosts = await (0,_lib_api__WEBPACK_IMPORTED_MODULE_4__.getAllPostsForHome)(preview);\n    return {\n        props: {\n            allPosts,\n            preview\n        },\n        revalidate: 10\n    };\n};\n\n__webpack_async_result__();\n} catch(e) { __webpack_async_result__(e); } });//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9pbmRleC50c3giLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7Ozs7O0FBQzZEO0FBQ2Q7QUFDTDtBQUNNO0FBRWpDLFNBQVNJLE1BQU0sRUFBRUMsVUFBVSxFQUFFQyxLQUFLLEVBQUUsRUFBRUMsT0FBTyxFQUFFO0lBQzVELE1BQU1DLFdBQVdGLEtBQUssQ0FBQyxFQUFFLEVBQUVHO0lBQzNCLE1BQU1DLFlBQVlKLE1BQU1LLEtBQUssQ0FBQztJQUU5QixxQkFDRSw4REFBQ1QsMERBQU1BO2tCQUNMLDRFQUFDVTtZQUFJQyxXQUFVOztnQkFDWkwsMEJBQ0MsOERBQUNQLDZEQUFRQTtvQkFDUGEsT0FBT04sU0FBU00sS0FBSztvQkFDckJDLFdBQVdQLFNBQVNRLGFBQWE7b0JBQ2pDQyxNQUFNVCxTQUFTUyxJQUFJO29CQUNuQkMsU0FBU1YsU0FBU1UsT0FBTztvQkFDekJDLFVBQVVYLFNBQVNZLFVBQVUsQ0FBQ0MsS0FBSyxDQUFDQyxHQUFHLENBQ3JDLENBQUNILFdBQWFBLFNBQVNJLElBQUk7Ozs7OztnQkFJaENiLFVBQVVjLE1BQU0sR0FBRyxtQkFBSyw4REFBQ3hCLHdFQUFXQTtvQkFBQ3lCLE9BQU9mOzs7Ozs7Ozs7Ozs7Ozs7OztBQUlyRDtBQUVPLE1BQU1nQixpQkFBaUMsT0FBTyxFQUNuRG5CLFVBQVUsS0FBSyxFQUNoQjtJQUNDLE1BQU1GLFdBQVcsTUFBTUYsNERBQWtCQSxDQUFDSTtJQUUxQyxPQUFPO1FBQ0xvQixPQUFPO1lBQUV0QjtZQUFVRTtRQUFRO1FBQzNCcUIsWUFBWTtJQUNkO0FBQ0YsRUFBRSIsInNvdXJjZXMiOlsid2VicGFjazovLy8uL3BhZ2VzL2luZGV4LnRzeD8wN2ZmIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IEdldFN0YXRpY1Byb3BzIH0gZnJvbSBcIm5leHRcIjtcbmltcG9ydCBNb3JlU3RvcmllcyBmcm9tIFwiLi4vY29tcG9uZW50cy9tb3JlLXN0b3JpZXMtb24taG9tZVwiO1xuaW1wb3J0IEhlcm9Qb3N0IGZyb20gXCIuLi9jb21wb25lbnRzL2hlcm8tcG9zdFwiO1xuaW1wb3J0IExheW91dCBmcm9tIFwiLi4vY29tcG9uZW50cy9sYXlvdXRcIjtcbmltcG9ydCB7IGdldEFsbFBvc3RzRm9ySG9tZSB9IGZyb20gXCIuLi9saWIvYXBpXCI7XG5cbmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEluZGV4KHsgYWxsUG9zdHM6IHsgZWRnZXMgfSwgcHJldmlldyB9KSB7XG4gIGNvbnN0IGhlcm9Qb3N0ID0gZWRnZXNbMF0/Lm5vZGU7XG4gIGNvbnN0IG1vcmVQb3N0cyA9IGVkZ2VzLnNsaWNlKDEpO1xuXG4gIHJldHVybiAoXG4gICAgPExheW91dD5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwic206Z3JpZCBzbTpncmlkLWNvbHMtMiBzbTpnYXAtMlwiPlxuICAgICAgICB7aGVyb1Bvc3QgJiYgKFxuICAgICAgICAgIDxIZXJvUG9zdFxuICAgICAgICAgICAgdGl0bGU9e2hlcm9Qb3N0LnRpdGxlfVxuICAgICAgICAgICAgaGVyb0ltYWdlPXtoZXJvUG9zdC5mZWF0dXJlZEltYWdlfVxuICAgICAgICAgICAgc2x1Zz17aGVyb1Bvc3Quc2x1Z31cbiAgICAgICAgICAgIGV4Y2VycHQ9e2hlcm9Qb3N0LmV4Y2VycHR9XG4gICAgICAgICAgICBjYXRlZ29yeT17aGVyb1Bvc3QuY2F0ZWdvcmllcy5ub2Rlcy5tYXAoXG4gICAgICAgICAgICAgIChjYXRlZ29yeSkgPT4gY2F0ZWdvcnkubmFtZVxuICAgICAgICAgICAgKX1cbiAgICAgICAgICAvPlxuICAgICAgICApfVxuICAgICAgICB7bW9yZVBvc3RzLmxlbmd0aCA+IDAgJiYgPE1vcmVTdG9yaWVzIHBvc3RzPXttb3JlUG9zdHN9IC8+fVxuICAgICAgPC9kaXY+XG4gICAgPC9MYXlvdXQ+XG4gICk7XG59XG5cbmV4cG9ydCBjb25zdCBnZXRTdGF0aWNQcm9wczogR2V0U3RhdGljUHJvcHMgPSBhc3luYyAoe1xuICBwcmV2aWV3ID0gZmFsc2UsXG59KSA9PiB7XG4gIGNvbnN0IGFsbFBvc3RzID0gYXdhaXQgZ2V0QWxsUG9zdHNGb3JIb21lKHByZXZpZXcpO1xuXG4gIHJldHVybiB7XG4gICAgcHJvcHM6IHsgYWxsUG9zdHMsIHByZXZpZXcgfSxcbiAgICByZXZhbGlkYXRlOiAxMCxcbiAgfTtcbn07XG4iXSwibmFtZXMiOlsiTW9yZVN0b3JpZXMiLCJIZXJvUG9zdCIsIkxheW91dCIsImdldEFsbFBvc3RzRm9ySG9tZSIsIkluZGV4IiwiYWxsUG9zdHMiLCJlZGdlcyIsInByZXZpZXciLCJoZXJvUG9zdCIsIm5vZGUiLCJtb3JlUG9zdHMiLCJzbGljZSIsImRpdiIsImNsYXNzTmFtZSIsInRpdGxlIiwiaGVyb0ltYWdlIiwiZmVhdHVyZWRJbWFnZSIsInNsdWciLCJleGNlcnB0IiwiY2F0ZWdvcnkiLCJjYXRlZ29yaWVzIiwibm9kZXMiLCJtYXAiLCJuYW1lIiwibGVuZ3RoIiwicG9zdHMiLCJnZXRTdGF0aWNQcm9wcyIsInByb3BzIiwicmV2YWxpZGF0ZSJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./pages/index.tsx\n");
+eval("__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {\n__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Index),\n/* harmony export */   getStaticProps: () => (/* binding */ getStaticProps)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _components_more_stories_on_home__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/more-stories-on-home */ \"./components/more-stories-on-home.tsx\");\n/* harmony import */ var _components_hero_post__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/hero-post */ \"./components/hero-post.tsx\");\n/* harmony import */ var _components_layout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/layout */ \"./components/layout.tsx\");\n/* harmony import */ var _lib_api__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../lib/api */ \"./lib/api.ts\");\nvar __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_components_layout__WEBPACK_IMPORTED_MODULE_3__]);\n_components_layout__WEBPACK_IMPORTED_MODULE_3__ = (__webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__)[0];\n\n\n\n\n\nfunction Index({ allPosts: { edges } }) {\n    const heroPost = edges[0]?.node;\n    const morePosts = edges.slice(1);\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_layout__WEBPACK_IMPORTED_MODULE_3__[\"default\"], {\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n            className: \"sm:grid sm:grid-cols-2 sm:gap-2\",\n            children: [\n                heroPost && /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_hero_post__WEBPACK_IMPORTED_MODULE_2__[\"default\"], {\n                    title: heroPost.title,\n                    heroImage: heroPost.featuredImage,\n                    slug: heroPost.slug,\n                    excerpt: heroPost.excerpt,\n                    category: heroPost.categories.nodes.map((category)=>category.name)\n                }, void 0, false, {\n                    fileName: \"/Users/coding-2/Documents/projects/vital-signs/pages/index.tsx\",\n                    lineNumber: 15,\n                    columnNumber: 11\n                }, this),\n                morePosts.length > 0 && /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_more_stories_on_home__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n                    posts: morePosts\n                }, void 0, false, {\n                    fileName: \"/Users/coding-2/Documents/projects/vital-signs/pages/index.tsx\",\n                    lineNumber: 25,\n                    columnNumber: 34\n                }, this)\n            ]\n        }, void 0, true, {\n            fileName: \"/Users/coding-2/Documents/projects/vital-signs/pages/index.tsx\",\n            lineNumber: 13,\n            columnNumber: 7\n        }, this)\n    }, void 0, false, {\n        fileName: \"/Users/coding-2/Documents/projects/vital-signs/pages/index.tsx\",\n        lineNumber: 12,\n        columnNumber: 5\n    }, this);\n}\nconst getStaticProps = async ({})=>{\n    const allPosts = await (0,_lib_api__WEBPACK_IMPORTED_MODULE_4__.getAllPostsForHome)();\n    return {\n        props: {\n            allPosts\n        },\n        revalidate: 10\n    };\n};\n\n__webpack_async_result__();\n} catch(e) { __webpack_async_result__(e); } });//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9pbmRleC50c3giLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7Ozs7O0FBQzZEO0FBQ2Q7QUFDTDtBQUNNO0FBRWpDLFNBQVNJLE1BQU0sRUFBRUMsVUFBVSxFQUFFQyxLQUFLLEVBQUUsRUFBRTtJQUNuRCxNQUFNQyxXQUFXRCxLQUFLLENBQUMsRUFBRSxFQUFFRTtJQUMzQixNQUFNQyxZQUFZSCxNQUFNSSxLQUFLLENBQUM7SUFFOUIscUJBQ0UsOERBQUNSLDBEQUFNQTtrQkFDTCw0RUFBQ1M7WUFBSUMsV0FBVTs7Z0JBQ1pMLDBCQUNDLDhEQUFDTiw2REFBUUE7b0JBQ1BZLE9BQU9OLFNBQVNNLEtBQUs7b0JBQ3JCQyxXQUFXUCxTQUFTUSxhQUFhO29CQUNqQ0MsTUFBTVQsU0FBU1MsSUFBSTtvQkFDbkJDLFNBQVNWLFNBQVNVLE9BQU87b0JBQ3pCQyxVQUFVWCxTQUFTWSxVQUFVLENBQUNDLEtBQUssQ0FBQ0MsR0FBRyxDQUNyQyxDQUFDSCxXQUFhQSxTQUFTSSxJQUFJOzs7Ozs7Z0JBSWhDYixVQUFVYyxNQUFNLEdBQUcsbUJBQUssOERBQUN2Qix3RUFBV0E7b0JBQUN3QixPQUFPZjs7Ozs7Ozs7Ozs7Ozs7Ozs7QUFJckQ7QUFFTyxNQUFNZ0IsaUJBQWlDLE9BQU8sRUFBRTtJQUNyRCxNQUFNcEIsV0FBVyxNQUFNRiw0REFBa0JBO0lBQ3pDLE9BQU87UUFDTHVCLE9BQU87WUFBRXJCO1FBQVM7UUFDbEJzQixZQUFZO0lBQ2Q7QUFDRixFQUFFIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vLy4vcGFnZXMvaW5kZXgudHN4PzA3ZmYiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgR2V0U3RhdGljUHJvcHMgfSBmcm9tIFwibmV4dFwiO1xuaW1wb3J0IE1vcmVTdG9yaWVzIGZyb20gXCIuLi9jb21wb25lbnRzL21vcmUtc3Rvcmllcy1vbi1ob21lXCI7XG5pbXBvcnQgSGVyb1Bvc3QgZnJvbSBcIi4uL2NvbXBvbmVudHMvaGVyby1wb3N0XCI7XG5pbXBvcnQgTGF5b3V0IGZyb20gXCIuLi9jb21wb25lbnRzL2xheW91dFwiO1xuaW1wb3J0IHsgZ2V0QWxsUG9zdHNGb3JIb21lIH0gZnJvbSBcIi4uL2xpYi9hcGlcIjtcblxuZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gSW5kZXgoeyBhbGxQb3N0czogeyBlZGdlcyB9IH0pIHtcbiAgY29uc3QgaGVyb1Bvc3QgPSBlZGdlc1swXT8ubm9kZTtcbiAgY29uc3QgbW9yZVBvc3RzID0gZWRnZXMuc2xpY2UoMSk7XG5cbiAgcmV0dXJuIChcbiAgICA8TGF5b3V0PlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJzbTpncmlkIHNtOmdyaWQtY29scy0yIHNtOmdhcC0yXCI+XG4gICAgICAgIHtoZXJvUG9zdCAmJiAoXG4gICAgICAgICAgPEhlcm9Qb3N0XG4gICAgICAgICAgICB0aXRsZT17aGVyb1Bvc3QudGl0bGV9XG4gICAgICAgICAgICBoZXJvSW1hZ2U9e2hlcm9Qb3N0LmZlYXR1cmVkSW1hZ2V9XG4gICAgICAgICAgICBzbHVnPXtoZXJvUG9zdC5zbHVnfVxuICAgICAgICAgICAgZXhjZXJwdD17aGVyb1Bvc3QuZXhjZXJwdH1cbiAgICAgICAgICAgIGNhdGVnb3J5PXtoZXJvUG9zdC5jYXRlZ29yaWVzLm5vZGVzLm1hcChcbiAgICAgICAgICAgICAgKGNhdGVnb3J5KSA9PiBjYXRlZ29yeS5uYW1lXG4gICAgICAgICAgICApfVxuICAgICAgICAgIC8+XG4gICAgICAgICl9XG4gICAgICAgIHttb3JlUG9zdHMubGVuZ3RoID4gMCAmJiA8TW9yZVN0b3JpZXMgcG9zdHM9e21vcmVQb3N0c30gLz59XG4gICAgICA8L2Rpdj5cbiAgICA8L0xheW91dD5cbiAgKTtcbn1cblxuZXhwb3J0IGNvbnN0IGdldFN0YXRpY1Byb3BzOiBHZXRTdGF0aWNQcm9wcyA9IGFzeW5jICh7fSkgPT4ge1xuICBjb25zdCBhbGxQb3N0cyA9IGF3YWl0IGdldEFsbFBvc3RzRm9ySG9tZSgpO1xuICByZXR1cm4ge1xuICAgIHByb3BzOiB7IGFsbFBvc3RzIH0sXG4gICAgcmV2YWxpZGF0ZTogMTAsXG4gIH07XG59O1xuIl0sIm5hbWVzIjpbIk1vcmVTdG9yaWVzIiwiSGVyb1Bvc3QiLCJMYXlvdXQiLCJnZXRBbGxQb3N0c0ZvckhvbWUiLCJJbmRleCIsImFsbFBvc3RzIiwiZWRnZXMiLCJoZXJvUG9zdCIsIm5vZGUiLCJtb3JlUG9zdHMiLCJzbGljZSIsImRpdiIsImNsYXNzTmFtZSIsInRpdGxlIiwiaGVyb0ltYWdlIiwiZmVhdHVyZWRJbWFnZSIsInNsdWciLCJleGNlcnB0IiwiY2F0ZWdvcnkiLCJjYXRlZ29yaWVzIiwibm9kZXMiLCJtYXAiLCJuYW1lIiwibGVuZ3RoIiwicG9zdHMiLCJnZXRTdGF0aWNQcm9wcyIsInByb3BzIiwicmV2YWxpZGF0ZSJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./pages/index.tsx\n");
 
 /***/ }),
 
@@ -372,4 +275,3 @@ var __webpack_exports__ = __webpack_require__.X(0, ["vendor-chunks/next","vendor
 module.exports = __webpack_exports__;
 
 })();
->>>>>>> parent of 9da5d15 (removing references to preview from api)

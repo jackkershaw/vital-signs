@@ -1,18 +1,9 @@
 {
   "/_app": "pages/_app.js",
-  "/404": "pages/404.js",
-  "/_document": "pages/_document.js",
-<<<<<<< HEAD
-  "/feed": "pages/feed.js",
-  "/issues": "pages/issues.js",
-  "/about": "pages/about.js",
   "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
   "/": "pages/index.js",
+  "/404": "pages/404.js",
   "/news": "pages/news.js",
   "/posts/[slug]": "pages/posts/[slug].js"
-=======
-  "/about": "pages/about.js",
-  "/": "pages/index.js",
-  "/issues": "pages/issues.js"
->>>>>>> parent of 9da5d15 (removing references to preview from api)
 }

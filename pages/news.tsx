@@ -31,7 +31,7 @@ export default function About({ allPosts }) {
 }
 
 export const getStaticProps: GetStaticProps = async ({}) => {
-  const allPosts = await getAllPostsForHome();
+  const allPosts = await getAllPostsForHome({ preview: false });
   return {
     props: { allPosts },
     revalidate: 10,
