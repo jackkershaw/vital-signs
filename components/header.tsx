@@ -18,6 +18,7 @@ export default function Header() {
           <button
             onClick={() => setMenuOpen(!menuOpen)}
             className="sm:hidden text-4xl text-orange-700"
+            aria-label="menu"
           >
             {menuOpen ? (
               <span className="icon-[mdi--arrow-up] text-orange-700"></span>
