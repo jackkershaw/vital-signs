@@ -29,23 +29,6 @@ async function fetchAPI(
   return json.data;
 }
 
-export async function getPreviewPost(id, idType = "DATABASE_ID") {
-  const data = await fetchAPI(
-    `
-    query PreviewPost($id: ID!, $idType: PostIdType!) {
-      post(id: $id, idType: $idType) {
-        databaseId
-        slug
-        status
-      }
-    }`,
-    {
-      variables: { id, idType },
-    }
-  );
-  return data.post;
-}
-
 export async function getAllPostsWithSlug() {
   const data = await fetchAPI(`
     {
@@ -61,7 +44,7 @@ export async function getAllPostsWithSlug() {
   return data?.posts;
 }
 
-export async function getAllPostsForHome(preview) {
+export async function getAllPostsForHome() {
   const data = await fetchAPI(
     `
     query AllPosts {
@@ -86,27 +69,16 @@ export async function getAllPostsForHome(preview) {
         }
       }
     }
-  `,
-    {
-      variables: {
-        onlyEnabled: !preview,
-        preview,
-      },
-    }
+  `
   );
 
   return data?.posts;
 }
 
-export async function getPostAndMorePosts(slug, preview, previewData) {
-  const postPreview = preview && previewData?.post;
+export async function getPostAndMorePosts(slug) {
   // The slug may be the id of an unpublished post
   const isId = Number.isInteger(Number(slug));
-  const isSamePost = isId
-    ? Number(slug) === postPreview.id
-    : slug === postPreview.slug;
-  const isDraft = isSamePost && postPreview?.status === "draft";
-  const isRevision = isSamePost && postPreview?.status === "publish";
+
   const data = await fetchAPI(
     `
     fragment AuthorFields on User {
@@ -151,28 +123,8 @@ export async function getPostAndMorePosts(slug, preview, previewData) {
       post(id: $id, idType: $idType) {
         ...PostFields
         content
-        ${
-          // Only some of the fields of a revision are considered as there are some inconsistencies
-          isRevision
-            ? `
-        revisions(first: 1, where: { orderby: { field: MODIFIED, order: DESC } }) {
-          edges {
-            node {
-              title
-              excerpt
-              content
-              author {
-                node {
-                  ...AuthorFields
-                }
-              }
-            }
-          }
-        }
-        `
-            : ""
-        }
       }
+        }
       posts(first: 3, where: { orderby: { field: DATE, order: DESC } }) {
         edges {
           node {
@@ -181,13 +133,7 @@ export async function getPostAndMorePosts(slug, preview, previewData) {
         }
       }
     }
-  `,
-    {
-      variables: {
-        id: isDraft ? postPreview.id : slug,
-        idType: isDraft ? "DATABASE_ID" : "SLUG",
-      },
-    }
+  `
   );
 
   // Filter out the main post
