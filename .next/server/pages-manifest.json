@@ -3,6 +3,6 @@
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
-  "/issues": "pages/issues.js",
-  "/news": "pages/news.js"
+  "/about": "pages/about.js",
+  "/posts/[slug]": "pages/posts/[slug].js"
 }
