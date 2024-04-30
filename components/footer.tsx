@@ -1,12 +1,12 @@
 export default function Footer() {
   return (
     <footer className="bg-orange-50 w-full">
-      <div className="p-10 sm:mx-10 font-serif justify-between space-y-10 sm:space-y-0 flex flex-col sm:flex-row">
+      <div className="p-5 sm:p-10 sm:mx-10 font-serif justify-between space-y-10 sm:space-y-0 flex flex-col sm:flex-row">
         <div>
           <p>A Health Workers’ Magazine For a New Society</p>
         </div>
         <div className="sm:text-right">
-          <p>
+          <p className="py-5 sm:py-0">
             Site by{" "}
             <a
               href="https://www.jackkershaw.net"
@@ -19,7 +19,7 @@ export default function Footer() {
               Jack Kershaw.
             </a>
           </p>
-          <p>
+          <p className="py-5 sm:py-0">
             Source on{" "}
             <a
               href="https://github.com/jones58/vital-signs"
