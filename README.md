@@ -104,3 +104,35 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 npm install
 npm run dev
 ```
+
+### Useful links
+
+[WP admin](https://vitalsignscontenteditor.co.uk/wp-admin)
+[Vercel Deploy](https://vercel.com/jones58s-projects/vital-signs/settings/domains)
+[Live site](https://www.vitalsignsmag.org/)
+[Are.na inspo here](https://www.are.na/jack-kershaw/vitalsigns)
+and [use this website built in nextjs as a guide](https://www.stylist.co.uk/)
+
+# To do
+
+- send to A and to client to review.
+
+## News
+
+- List all the categories at top with API.
+- Click on category to get just articles for that category.[see this solution](https://stackoverflow.com/questions/73687998/how-to-get-related-post-by-category-in-headless-wordpressgraphql).
+- If doesn't work, could just have page for each category maybe.
+
+## Issues
+
+- Issues page which just has the PDFS of the issues - i.e anything tagged PDF. Tbh it should also have articles from latest issue all clustered together - like issue 1 issues. There will be a way to do this dynamically. Edit in API.
+- If necessary, can just have a page for all the PDF issues/one for each. Simpler to embed the PDF then too.
+
+## Slug/ posts
+
+- PDFs - Work out how to show these when it's a pdf embedded in an article - see testpdf post. Edit in API.
+
+## More Stories
+
+- More stories should include next one and previous one, not just two most recent etc - see graphql ide - has before and after, options for posts
+- [see this solution](https://stackoverflow.com/questions/73687998/how-to-get-related-post-by-category-in-headless-wordpressgraphql). Edit in API.
