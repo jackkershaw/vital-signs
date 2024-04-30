@@ -41,12 +41,12 @@ export default function Header() {
         <div className="flex flex-row sm:flex-col sm:justify-end sm:hidden">
           {menuOpen && (
             <motion.div
-              className="absolute sm:static space-x-10 space-y-8 sm:space-y-0 sm:items-center justify-end w-full flex flex-col sm:flex-row z-50 bg-orange-50 sm:hidden"
+              className="absolute sm:static space-y-8 justify-start w-full flex flex-col z-50 bg-orange-50 pl-5 sm:pl-0"
               initial={{ opacity: 0, y: -20 }}
               animate={{ opacity: 1, y: 0 }}
               exit={{ opacity: 0, y: -20 }}
             >
-              <div className="flex flex-col sm:flex-row sm:items-center space-y-5 sm:space-y-0 sm:space-x-8 text-3xl font-sans pl-10 sm:pl-0">
+              <div className="flex flex-col sm:flex-row sm:items-center space-y-5 sm:space-y-0 sm:space-x-8 text-3xl font-sans">
                 <Link
                   href="/about"
                   className="text-orange-700 hover:text-orange-950 active:text-orange-500"
@@ -66,7 +66,7 @@ export default function Header() {
                   ISSUES
                 </Link>
               </div>
-              <div className="flex flex-row sm:items-center justify-start sm:justify-between space-x-10 sm:space-x-10 pb-10 sm:pb-0 text-3xl">
+              <div className="flex flex-row sm:items-center justify-start sm:justify-between space-x-14 pb-10 sm:pb-0 text-3xl">
                 <span
                   className="icon-[mdi--facebook] text-orange-700 hover:text-orange-950 active:text-orange-500 p-5 sm:p-0"
                   aria-label="link to facebook"
