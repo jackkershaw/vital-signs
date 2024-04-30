@@ -9,9 +9,9 @@ export default function About({ allPosts: { edges } }) {
   return (
     <div>
       <Layout>
-        <div className="grid grid-cols-2 py-10">
-          This is the news categories page. All categories listed and
-          selectable at top
+        <div className="py-10 font-bold font-sans text-4xl">
+          WIP. There will be a list of all the categories at the top.
+          Click on category to get just articles for that category.
         </div>
         <div className="sm:grid sm:grid-cols-4 sm:gap-x-5 sm:gap-y-5">
           {Posts.map(({ node }) => (

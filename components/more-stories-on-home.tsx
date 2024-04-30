@@ -19,7 +19,7 @@ export default function MoreStories({ posts }) {
           />
         ))}
       </div>
-      <div className="sm:grid sm:grid-cols-3 sm:gap-x-5 sm:gap-y-5 sm:items-end sm:w-full sm:gap-x-5">
+      <div className="sm:grid sm:grid-cols-3 sm:space-x-5 sm:gap-y-5 sm:items-end sm:w-full sm:gap-x-8">
         <Link
           href="/news"
           className="text-lg font-bold font-sans text-primary-500 sm:col-span-1"

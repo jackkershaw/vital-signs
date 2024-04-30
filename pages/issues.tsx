@@ -4,8 +4,9 @@ export default function About() {
   return (
     <div>
       <Layout>
-        <div className="sm:grid sm:grid-cols-2 sm:gap-10 py-10">
-          This is the issues page.
+        <div className="py-10 text-4xl font-bold font-sans">
+          WIP. This page will have the PDF issues of the magazine on
+          it.
         </div>
       </Layout>
     </div>

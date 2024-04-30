@@ -94,6 +94,8 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 
 - updated to latest version of nextjs
 
+- Made layout changes across the site. I went for a mobile-first approach to this, making sure the mobile site looked clean and used up the available width before moving to desktop.
+
 # Running on your machine
 
 ### Run Next.js in development mode:
