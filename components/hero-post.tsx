@@ -9,8 +9,8 @@ export default function HeroPost({
   category,
 }) {
   return (
-    <section className="sm:py-5 mb-8 sm:mb-0 sm:mx-auto">
-      <div className="flex flex-col space-y-4 sm:flex-row sm:space-x-5">
+    <section className="sm:py-5 mb-8 sm:mb-0 sm:grid sm:grid-cols-3 sm:items-end sm:w-full sm:gap-x-5">
+      <div className="flex flex-col space-y-4 sm:flex-row sm:space-x-5 sm:items-end sm:flex-between mb-8 sm:mb-0 sm:col-span-2">
         {heroImage && (
           <HeroImage title={title} heroImage={heroImage} slug={slug} />
         )}
@@ -28,6 +28,16 @@ export default function HeroPost({
           />
         </div>
       </div>
+      <Link
+        href="/issues"
+        className="text-lg font-bold font-sans text-primary-500"
+      >
+        {" "}
+        <div className="bg-orange-700 mb-10 sm:mb-0 p-5 w-full text-neutral-50 hover:bg-orange-950 active:bg-orange-500 right-0 ">
+          {" "}
+          Read The Latest Issue
+        </div>
+      </Link>
     </section>
   );
 }

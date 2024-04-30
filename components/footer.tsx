@@ -6,7 +6,7 @@ export default function Footer() {
           <p>A Health Workers’ Magazine For a New Society</p>
         </div>
         <div className="sm:text-right">
-          <p className="py-5 sm:py-0">
+          <p className="py-2 sm:py-0">
             Site by{" "}
             <a
               href="https://www.jackkershaw.net"
@@ -19,7 +19,7 @@ export default function Footer() {
               Jack Kershaw.
             </a>
           </p>
-          <p className="py-5 sm:py-0">
+          <p className="py-2 sm:py-0">
             Source on{" "}
             <a
               href="https://github.com/jones58/vital-signs"

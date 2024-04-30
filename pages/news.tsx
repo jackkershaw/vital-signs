@@ -3,16 +3,18 @@ import { getAllPostsForHome } from "../lib/api";
 import PostPreview from "../components/post-preview";
 import { GetStaticProps } from "next";
 
-export default function About({ allPosts }) {
+export default function About({ allPosts: { edges } }) {
+  const Posts = edges;
+
   return (
     <div>
       <Layout>
-        <div className="grid grid-cols-2 gap-10 py-10">
+        <div className="grid grid-cols-2 py-10">
           This is the news categories page. All categories listed and
           selectable at top
         </div>
-        <div className="sm:grid sm:grid-cols-2 sm:gap-x-5">
-          {allPosts.map(({ node }) => (
+        <div className="sm:grid sm:grid-cols-4 sm:gap-x-5 sm:gap-y-5">
+          {Posts.map(({ node }) => (
             <PostPreview
               key={node.slug}
               title={node.title}

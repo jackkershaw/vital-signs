@@ -11,7 +11,7 @@ export default function Index({ allPosts: { edges } }) {
 
   return (
     <Layout>
-      <div className="sm:flex sm:flex-col sm:-mt-10">
+      <div className="sm:-mt-10">
         {heroPost && (
           <HeroPost
             title={heroPost.title}
@@ -23,16 +23,6 @@ export default function Index({ allPosts: { edges } }) {
             )}
           />
         )}
-        <Link
-          href="/issues"
-          className="text-lg font-bold font-sans text-primary-500"
-        >
-          {" "}
-          <div className="bg-orange-700 mb-10 sm:mb-5 p-5 w-full text-neutral-50 hover:bg-orange-950 active:bg-orange-500">
-            {" "}
-            Read The Latest Issue
-          </div>
-        </Link>
       </div>
       {morePosts.length > 0 && <MoreStories posts={morePosts} />}
     </Layout>

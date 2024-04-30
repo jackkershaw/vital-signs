@@ -9,7 +9,7 @@ export default function PostPreview({
   category,
 }) {
   return (
-    <div className="sm:p-5 mb-8 sm:mb-0">
+    <div className="mb-8 sm:mb-0">
       <div className="flex flex-col space-y-4">
         {coverImage && (
           <CoverImage
