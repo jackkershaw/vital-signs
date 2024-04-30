@@ -25,16 +25,14 @@ export default function CoverImage({
     />
   );
   return (
-    <div className="flex-row flex justify-center items-center">
-      <div className="relative min-w-[80vw] min-h-[30vh] sm:min-w-[20vw] sm:h-auto">
-        {slug ? (
-          <Link href={`/posts/${slug}`} aria-label={title}>
-            {image}
-          </Link>
-        ) : (
-          image
-        )}
-      </div>
+    <div className="relative min-w-[30vw] min-h-[30vh] sm:min-w-[21vw] sm:min-h-[25vh]">
+      {slug ? (
+        <Link href={`/posts/${slug}`} aria-label={title}>
+          {image}
+        </Link>
+      ) : (
+        image
+      )}
     </div>
   );
 }

@@ -21,7 +21,7 @@ export default function heroImage({ title, heroImage, slug }: Props) {
     />
   );
   return (
-    <div className="sm:mx-0 relative min-w-[30vw] min-h-[20vh] sm:min-w-[40vw] sm:min-h-[50vh]">
+    <div className="relative min-w-[30vw] min-h-[30vh] sm:min-w-[30vw] sm:min-h-[40vh]">
       {slug ? (
         <Link href={`/posts/${slug}`} aria-label={title}>
           {image}

@@ -37,7 +37,7 @@ export default function Layout({ children }) {
           },
         }}
       >
-        <main className="bg-neutral-50 text-orange-950 px-5 sm:px-10 sm:mx-10 min-h-[60vh]">
+        <main className="bg-neutral-50 text-orange-950 px-5 sm:px-10 sm:mx-10 min-h-[60vh] sm:mt-10">
           {children}
         </main>
       </motion.div>

@@ -9,8 +9,8 @@ export default function PostPreview({
   category,
 }) {
   return (
-    <div className="sm:p-5 mb-10 sm:mb-0">
-      <div className="mb-4">
+    <div className="sm:p-5 mb-8 sm:mb-0">
+      <div className="flex flex-col space-y-4">
         {coverImage && (
           <CoverImage
             title={title}
@@ -18,18 +18,20 @@ export default function PostPreview({
             slug={slug}
           />
         )}
+        <h1 className=" text-orange-800 uppercase text-sm">
+          {category}
+        </h1>
+        <h1 className="text-2xl text-orange-700 hover:text-orange-950 capitalize">
+          <Link
+            href={`/posts/${slug}`}
+            dangerouslySetInnerHTML={{ __html: title }}
+          ></Link>
+        </h1>
+        <div
+          className="font-serif text-lg"
+          dangerouslySetInnerHTML={{ __html: excerpt }}
+        />
       </div>
-      <h1 className="text-right">{category}</h1>
-      <h1 className="text-2xl mb-4 text-orange-700 hover:text-orange-950">
-        <Link
-          href={`/posts/${slug}`}
-          dangerouslySetInnerHTML={{ __html: title }}
-        ></Link>
-      </h1>
-      <div
-        className="mb-4 font-serif"
-        dangerouslySetInnerHTML={{ __html: excerpt }}
-      />
     </div>
   );
 }
