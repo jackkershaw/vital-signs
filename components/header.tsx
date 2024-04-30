@@ -14,10 +14,10 @@ export default function Header() {
   return (
     <header className="bg-orange-50 sm:px-10 pb-5 mb-10">
       <div className="sm:grid sm:grid-cols-2 sm:mx-10">
-        <div className="flex flex-row items-center justify-between px-10 sm:px-0 sm:justify-start sm:space-y-10 bg-orange-50">
+        <div className="flex flex-row items-end justify-between px-5 sm:px-0 sm:justify-start sm:space-y-10 bg-orange-50">
           <button
             onClick={() => setMenuOpen(!menuOpen)}
-            className="sm:hidden text-4xl text-orange-700"
+            className="sm:hidden text-5xl text-orange-700 pr-5"
             aria-label="menu"
           >
             {menuOpen ? (

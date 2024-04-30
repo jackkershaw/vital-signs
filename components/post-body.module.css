@@ -8,7 +8,10 @@
 .content blockquote {
   @apply my-6;
   @apply font-serif;
-  @apply prose-xl;
+  @apply prose-lg;
+  @apply sm:prose-xl;
+  @apply leading-normal;
+  @apply sm:leading-loose;
 }
 
 .content a {
