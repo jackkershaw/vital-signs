@@ -6,12 +6,6 @@ async function fetchAPI(
 ) {
   const headers = { "Content-Type": "application/json" };
 
-  if (process.env.WORDPRESS_AUTH_REFRESH_TOKEN) {
-    headers[
-      "Authorization"
-    ] = `Bearer ${process.env.WORDPRESS_AUTH_REFRESH_TOKEN}`;
-  }
-
   const res = await fetch(API_URL, {
     headers,
     method: "POST",
@@ -65,7 +59,7 @@ export async function getAllPostsForHome(preview) {
   const data = await fetchAPI(
     `
     query AllPosts {
-      posts(first: 10, where: { orderby: { field: DATE, order: DESC } }) {
+      posts(first: 10000, where: { orderby: { field: DATE, order: DESC } }) {
         edges {
           node {
             title
@@ -100,13 +94,7 @@ export async function getAllPostsForHome(preview) {
 
 export async function getPostAndMorePosts(slug, preview, previewData) {
   const postPreview = preview && previewData?.post;
-  // The slug may be the id of an unpublished post
-  const isId = Number.isInteger(Number(slug));
-  const isSamePost = isId
-    ? Number(slug) === postPreview.id
-    : slug === postPreview.slug;
-  const isDraft = isSamePost && postPreview?.status === "draft";
-  const isRevision = isSamePost && postPreview?.status === "publish";
+
   const data = await fetchAPI(
     `
     fragment AuthorFields on User {
@@ -151,29 +139,8 @@ export async function getPostAndMorePosts(slug, preview, previewData) {
       post(id: $id, idType: $idType) {
         ...PostFields
         content
-        ${
-          // Only some of the fields of a revision are considered as there are some inconsistencies
-          isRevision
-            ? `
-        revisions(first: 1, where: { orderby: { field: MODIFIED, order: DESC } }) {
-          edges {
-            node {
-              title
-              excerpt
-              content
-              author {
-                node {
-                  ...AuthorFields
-                }
-              }
-            }
-          }
-        }
-        `
-            : ""
-        }
       }
-      posts(first: 3, where: { orderby: { field: DATE, order: DESC } }) {
+      posts(first: 4, where: { orderby: { field: DATE, order: DESC } }) {
         edges {
           node {
             ...PostFields
@@ -184,8 +151,8 @@ export async function getPostAndMorePosts(slug, preview, previewData) {
   `,
     {
       variables: {
-        id: isDraft ? postPreview.id : slug,
-        idType: isDraft ? "DATABASE_ID" : "SLUG",
+        id: slug,
+        idType: "SLUG",
       },
     }
   );
