@@ -1,11 +1,11 @@
 import PostPreview from "./post-preview";
 
 export default function MoreStories({ posts }) {
-  const limitedPosts = posts.slice(0, 4);
+  const limitedPosts = posts;
 
   return (
     <section>
-      <div className="sm:flex sm:justify-between sm:gap-x-10">
+      <div className="sm:flex sm:flex-row sm:justify-between sm:gap-x-10">
         {limitedPosts.map(({ node }) => (
           <PostPreview
             key={node.slug}

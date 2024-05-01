@@ -12,7 +12,6 @@ import {
   getAllPostsWithSlug,
   getPostAndMorePosts,
 } from "../../lib/api";
-import type { Metadata, ResolvingMetadata } from "next";
 
 export default function Post({ post, posts, preview }) {
   const router = useRouter();
