@@ -15,7 +15,7 @@ export default function HeroPost({
           <HeroImage title={title} heroImage={heroImage} slug={slug} />
         )}
         <div className="flex flex-col space-y-4">
-          <h1 className="uppercase text-customRed-800">{category}</h1>
+          <h1 className="uppercase text-customRed-950">{category}</h1>
           <h1 className="text-2xl sm:text-4xl text-customRed-700 hover:text-customRed-950 capitalize">
             <Link
               href={`/posts/${slug}`}

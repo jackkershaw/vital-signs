@@ -18,7 +18,7 @@ export default function PostPreview({
             slug={slug}
           />
         )}
-        <h1 className=" text-customRed-800 uppercase text-sm">
+        <h1 className=" text-customRed-950 uppercase text-sm">
           {category}
         </h1>
         <h1 className="text-2xl text-customRed-700 hover:text-customRed-950 capitalize">

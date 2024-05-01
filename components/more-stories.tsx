@@ -5,7 +5,7 @@ export default function MoreStories({ posts }) {
 
   return (
     <section>
-      <div className="sm:flex sm:justify-between">
+      <div className="sm:flex sm:justify-between sm:gap-x-10">
         {limitedPosts.map(({ node }) => (
           <PostPreview
             key={node.slug}

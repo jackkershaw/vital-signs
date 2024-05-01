@@ -96,7 +96,7 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 
 - Made layout changes across the site. I went for a mobile-first approach to this, making sure the mobile site looked clean and used up the available width before moving to desktop.
 
-- When the client asked me make the red of the page brighter, I was inititally a bit worried since using bright colours can reduce accessibility. I consulted the WCAG Contrast Checker (available as a Firefox extension) and was able to reach a set of colours I was happy with.
+- When the client asked me make the red of the page brighter, I was inititally a bit worried since using bright colours can reduce accessibility. I used [Tailwind Shades](https://www.tailwindshades.com/#color=360%2C84.68085106382979%2C46.07843137254902&step-up=6&step-down=12&hue-shift=10&name=crimson&base-stop=7&v=1&overrides=eyIwLjUiOnsiaHVlIjowLCJzYXR1cmF0aW9uIjotMSwibGlnaHRuZXNzIjotMSwiaGV4IjoiRjlCOUI5IiwidGV4dENvbG9yIjoiYmxhY2sifX0%3D) to help me iterate through different options. Using the same colour name I had used across the site already,"orange", as the colour to extend while testing worked well and helped me see live updates across the site quickly.I consulted the WCAG Contrast Checker (available as a Firefox extension) and was able to reach a set of colours I was happy with.
 
 # Running on your machine
 
@@ -116,8 +116,6 @@ npm run dev
 and [use this website built in nextjs as a guide](https://www.stylist.co.uk/)
 
 # Roadmap/To Do
-
-make text a dark orange/red rather than just black. Make background lightest colour rather than just white.
 
 ## News
 
