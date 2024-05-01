@@ -98,7 +98,7 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 
 - When the client asked me make the red of the page brighter, I was inititally a bit worried since using bright colours can reduce accessibility. I used [Tailwind Shades](https://www.tailwindshades.com/#color=360%2C84.68085106382979%2C46.07843137254902&step-up=6&step-down=12&hue-shift=10&name=crimson&base-stop=7&v=1&overrides=eyIwLjUiOnsiaHVlIjowLCJzYXR1cmF0aW9uIjotMSwibGlnaHRuZXNzIjotMSwiaGV4IjoiRjlCOUI5IiwidGV4dENvbG9yIjoiYmxhY2sifX0%3D) to help me iterate through different options. Using the same colour name I had used across the site already,"orange", as the colour to extend while testing worked well and helped me see live updates across the site quickly.I consulted the WCAG Contrast Checker (available as a Firefox extension) and was able to reach a set of colours I was happy with.
 
-- The next issue I wanted to resolve was more stories should include two next ones and previous one, not just two most recent etc - see graphql ide - has before and after, options for posts
+-
 
 ## Run Next.js in development mode:
 
@@ -117,6 +117,10 @@ and [use this website built in nextjs as a guide](https://www.stylist.co.uk/)
 
 # Roadmap/To Do
 
+## More stories
+
+Fix API so more stories include three next ones just three most recent. Tbh should do this by fetching the post, then fetching the posts for more stories in two separate queries. Rather than at the moment one query and another for getting cursor. So should be one query, which returns a cursor and the post, and then another query, which returns the next 3 posts.
+
 ## News
 
 - List all the categories at top with API.
@@ -130,4 +134,4 @@ and [use this website built in nextjs as a guide](https://www.stylist.co.uk/)
 
 ## Slug/ posts
 
-- PDFs - Work out how to show these when it's a pdf embedded in an article - see testpdf post. Edit in API.
+- PDFs - Work out how to show these when it's a pdf embedded in an article - see testpdf post. Show the PDF as an embedded PDF not just a link. Way of sorting links so that if it has pdf in it it's embedded?

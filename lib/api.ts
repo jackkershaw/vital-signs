@@ -92,9 +92,8 @@ export async function getAllPostsForHome(preview) {
   return data?.posts;
 }
 
-export async function getPostAndMorePosts(slug, preview, previewData) {
-  const postPreview = preview && previewData?.post;
-
+export async function getPostAndMorePosts(slug) {
+  const slugCursor = await getCursor(slug);
   const data = await fetchAPI(
     `
     fragment AuthorFields on User {
@@ -135,17 +134,50 @@ export async function getPostAndMorePosts(slug, preview, previewData) {
         }
       }
     }
-    query PostBySlug($id: ID!, $idType: PostIdType!) {
+    query PostBySlug($id: ID!, $idType: PostIdType!, $cursor: String) {
       post(id: $id, idType: $idType) {
         ...PostFields
         content
       }
-      posts(first: 4) {
+      posts(first: 4, after: $cursor) {
         edges {
           node {
             ...PostFields
+            content
           }
+          cursor
         }
+        pageInfo {
+          endCursor
+          hasNextPage
+        }
+      }
+    }
+  `,
+    {
+      variables: {
+        id: slug,
+        idType: "SLUG",
+        cursor: slugCursor,
+      },
+    }
+  );
+
+  data.posts.edges = data.posts.edges.filter(
+    ({ node }) => node.slug !== slug
+  );
+
+  if (data.posts.edges.length > 3) data.posts.edges.pop();
+
+  return data;
+}
+
+export async function getCursor(slug) {
+  const data = await fetchAPI(
+    `
+    query PostBySlug($id: ID!, $idType: PostIdType!) {
+      post(id: $id, idType: $idType) {
+        date
       }
     }
   `,
@@ -156,15 +188,7 @@ export async function getPostAndMorePosts(slug, preview, previewData) {
       },
     }
   );
-
-  // Filter out the main post
-  data.posts.edges = data.posts.edges.filter(
-    ({ node }) => node.slug !== slug
-  );
-  // If there are still 4 posts, remove the last one
-  if (data.posts.edges.length > 3) data.posts.edges.pop();
-
-  return data;
+  return data?.post?.date;
 }
 
 export async function getAboutPageContent(aboutPageSlug = "about") {
