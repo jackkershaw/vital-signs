@@ -42,8 +42,8 @@ export default function Post({ post, posts, preview }) {
             <PostBody content={post.content} />
           </article>
           <SectionSeparator />
-          <div className="sm:grid sm:grid-cols-2">
-            <h1 className="py-4 text-2xl">Read Next: </h1>
+          <div className="sm:grid sm:grid-cols-4">
+            <h1 className="pb-6 sm:py-0 text-2xl">Read Next: </h1>
             {morePosts.length > 0 && <MoreStories posts={morePosts} />}
           </div>
           <SectionSeparator />
