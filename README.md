@@ -98,16 +98,16 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 
 - When the client asked me make the red of the page brighter, I was inititally a bit worried since using bright colours can reduce accessibility. I used [Tailwind Shades](https://www.tailwindshades.com/#color=360%2C84.68085106382979%2C46.07843137254902&step-up=6&step-down=12&hue-shift=10&name=crimson&base-stop=7&v=1&overrides=eyIwLjUiOnsiaHVlIjowLCJzYXR1cmF0aW9uIjotMSwibGlnaHRuZXNzIjotMSwiaGV4IjoiRjlCOUI5IiwidGV4dENvbG9yIjoiYmxhY2sifX0%3D) to help me iterate through different options. Using the same colour name I had used across the site already,"orange", as the colour to extend while testing worked well and helped me see live updates across the site quickly.I consulted the WCAG Contrast Checker (available as a Firefox extension) and was able to reach a set of colours I was happy with.
 
-# Running on your machine
+- The next issue I wanted to resolve was more stories should include two next ones and previous one, not just two most recent etc - see graphql ide - has before and after, options for posts
 
-### Run Next.js in development mode:
+## Run Next.js in development mode:
 
 ```bash
 npm install
 npm run dev
 ```
 
-### Useful links
+## Useful links
 
 [WP admin](https://vitalsignscontenteditor.co.uk/wp-admin)
 [Vercel Deploy](https://vercel.com/jones58s-projects/vital-signs/settings/domains)
@@ -116,10 +116,6 @@ npm run dev
 and [use this website built in nextjs as a guide](https://www.stylist.co.uk/)
 
 # Roadmap/To Do
-
-## More Stories
-
-- More stories should include two next ones and previous one, not just two most recent etc - see graphql ide - has before and after, options for posts
 
 ## News
 

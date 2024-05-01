@@ -13,7 +13,7 @@ import {
   getPostAndMorePosts,
 } from "../../lib/api";
 
-export default function Post({ post, posts, preview }) {
+export default function Post({ post, posts }) {
   const router = useRouter();
   const morePosts = posts?.edges;
 
