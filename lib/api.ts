@@ -140,7 +140,7 @@ export async function getPostAndMorePosts(slug, preview, previewData) {
         ...PostFields
         content
       }
-      posts(first: 4, where: { orderby: { field: DATE, order: DESC } }) {
+      posts(first: 4) {
         edges {
           node {
             ...PostFields
@@ -161,8 +161,8 @@ export async function getPostAndMorePosts(slug, preview, previewData) {
   data.posts.edges = data.posts.edges.filter(
     ({ node }) => node.slug !== slug
   );
-  // If there are still 3 posts, remove the last one
-  if (data.posts.edges.length > 2) data.posts.edges.pop();
+  // If there are still 4 posts, remove the last one
+  if (data.posts.edges.length > 3) data.posts.edges.pop();
 
   return data;
 }

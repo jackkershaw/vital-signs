@@ -10,7 +10,7 @@ export default function PostPreview({
 }) {
   return (
     <div className="mb-6 sm:mb-0">
-      <div className="flex flex-col space-y-2 sm:space-y-4">
+      <div className="flex flex-col space-y-2 sm:space-y-3">
         {coverImage && (
           <CoverImage
             title={title}
