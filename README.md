@@ -96,6 +96,8 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 
 - Made layout changes across the site. I went for a mobile-first approach to this, making sure the mobile site looked clean and used up the available width before moving to desktop.
 
+- When the client asked me make the red of the page brighter, I was inititally a bit worried since using bright colours can reduce
+
 # Running on your machine
 
 ### Run Next.js in development mode:
@@ -115,7 +117,7 @@ and [use this website built in nextjs as a guide](https://www.stylist.co.uk/)
 
 # Roadmap/To Do
 
-- send to A and to client to review.
+make text a dark orange/red rather than just black. Make background lightest colour rather than just white.
 
 ## News
 
