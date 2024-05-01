@@ -117,6 +117,10 @@ and [use this website built in nextjs as a guide](https://www.stylist.co.uk/)
 
 # Roadmap/To Do
 
+## More Stories
+
+- More stories should include two next ones and previous one, not just two most recent etc - see graphql ide - has before and after, options for posts
+
 ## News
 
 - List all the categories at top with API.
@@ -131,8 +135,3 @@ and [use this website built in nextjs as a guide](https://www.stylist.co.uk/)
 ## Slug/ posts
 
 - PDFs - Work out how to show these when it's a pdf embedded in an article - see testpdf post. Edit in API.
-
-## More Stories
-
-- More stories should include next one and previous one, not just two most recent etc - see graphql ide - has before and after, options for posts
-- [see this solution](https://stackoverflow.com/questions/73687998/how-to-get-related-post-by-category-in-headless-wordpressgraphql). Edit in API.
