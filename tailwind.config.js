@@ -9,9 +9,19 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "accent-1": "#ddd4c6",
-        "accent-2": "#EAEAEA",
-        "accent-3": "#333",
+        orange: {
+          50: "#fff2ed",
+          100: "#ffe2d4",
+          200: "#ffc0a8",
+          300: "#ff9471",
+          400: "#ff5d38",
+          500: "#fe3311",
+          600: "#ef1a07",
+          700: "#c60d08",
+          800: "#9d0f11",
+          900: "#7e1011",
+          950: "#440609",
+        },
       },
       boxShadow: {
         small: "0 5px 10px rgba(0, 0, 0, 0.12)",
