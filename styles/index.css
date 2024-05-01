@@ -137,12 +137,12 @@
 }
 
 * {
-  @apply text-orange-950;
+  @apply text-customRed-950;
 }
 
 html {
   @apply bg-neutral-50;
-  @apply text-orange-950;
+  @apply text-customRed-950;
 }
 
 h1 {

@@ -15,7 +15,7 @@ export default function NotFound() {
           href="/"
           className="text-xl text-center mb-10 sm:text-left"
         >
-          <p className="text-orange-700 hover:text-orange-950 active:text-orange-500 sm:text-4xl font-sans">
+          <p className="text-customRed-700 hover:text-customRed-950 active:text-customRed-500 sm:text-4xl font-sans">
             Click here to return to the home page
           </p>
         </Link>

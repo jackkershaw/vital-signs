@@ -15,8 +15,8 @@ export default function HeroPost({
           <HeroImage title={title} heroImage={heroImage} slug={slug} />
         )}
         <div className="flex flex-col space-y-4">
-          <h1 className="uppercase text-orange-800">{category}</h1>
-          <h1 className="text-2xl sm:text-4xl text-orange-700 hover:text-orange-950 capitalize">
+          <h1 className="uppercase text-customRed-800">{category}</h1>
+          <h1 className="text-2xl sm:text-4xl text-customRed-700 hover:text-customRed-950 capitalize">
             <Link
               href={`/posts/${slug}`}
               dangerouslySetInnerHTML={{ __html: title }}
@@ -33,7 +33,7 @@ export default function HeroPost({
         className="text-lg font-bold font-sans text-primary-500"
       >
         {" "}
-        <div className="bg-orange-800 mb-10 sm:mb-0 p-5 w-full text-neutral-50 hover:bg-orange-950 active:bg-orange-500 right-0">
+        <div className="bg-customRed-800 mb-10 sm:mb-0 p-5 w-full text-neutral-50 hover:bg-customRed-950 active:bg-customRed-500 right-0">
           {" "}
           Read The Latest Issue
         </div>

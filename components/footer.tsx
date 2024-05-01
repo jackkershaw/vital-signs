@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="bg-orange-50 w-full">
+    <footer className="bg-customRed-50 w-full">
       <div className="p-5 sm:p-10 sm:mx-10 font-serif justify-between space-y-10 sm:space-y-0 flex flex-col sm:flex-row">
         <div>
           <p>A Health Workers’ Magazine For a New Society</p>
@@ -12,9 +12,9 @@ export default function Footer() {
               href="https://www.jackkershaw.net"
               target="_blank"
               className="font-bold
-              text-orange-800
-              hover:text-orange-950
-              active:text-orange-500"
+              text-customRed-800
+              hover:text-customRed-950
+              active:text-customRed-500"
             >
               Jack Kershaw.
             </a>
@@ -24,7 +24,7 @@ export default function Footer() {
             <a
               href="https://github.com/jones58/vital-signs"
               target="_blank"
-              className="font-bold text-orange-800 hover:text-orange-950 active:text-orange-500"
+              className="font-bold text-customRed-800 hover:text-customRed-950 active:text-customRed-500"
             >
               Github.
             </a>

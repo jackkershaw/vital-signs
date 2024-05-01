@@ -96,7 +96,7 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 
 - Made layout changes across the site. I went for a mobile-first approach to this, making sure the mobile site looked clean and used up the available width before moving to desktop.
 
-- When the client asked me make the red of the page brighter, I was inititally a bit worried since using bright colours can reduce
+- When the client asked me make the red of the page brighter, I was inititally a bit worried since using bright colours can reduce accessibility. I consulted the WCAG Contrast Checker (available as a Firefox extension) and was able to reach a set of colours I was happy with.
 
 # Running on your machine
 

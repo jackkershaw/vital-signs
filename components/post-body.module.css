@@ -15,9 +15,9 @@
 }
 
 .content a {
-  @apply text-orange-800;
-  @apply hover:text-orange-950;
-  @apply active:text-orange-500;
+  @apply text-customRed-800;
+  @apply hover:text-customRed-950;
+  @apply active:text-customRed-500;
 }
 
 .content ul,

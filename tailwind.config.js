@@ -9,7 +9,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        orange: {
+        customRed: {
           50: "#fff2ed",
           100: "#ffe2d4",
           200: "#ffc0a8",
