@@ -12,13 +12,17 @@ import {
   getAllPostsWithSlug,
   getPostAndMorePosts,
 } from "../../lib/api";
+import { useEffect } from "react";
 
 export default function Post({ post, posts }) {
   const router = useRouter();
   const morePosts = posts?.edges;
 
   if (!router.isFallback && !post?.slug) {
-    return <ErrorPage statusCode={404} />;
+    useEffect(() => {
+      window.location.href = "/404";
+    }, []);
+    return null;
   }
 
   return (
