@@ -125,7 +125,11 @@ and [use this website built in nextjs as a guide](https://www.stylist.co.uk/)
 
 # Roadmap/To Do
 
-Write out user guide and send to them.
+Write out user guide and send to them: [user](https://docs.google.com/document/d/15b1BsL_N7juXm-dLcq64IQnLwN_tcb6rK1kKYZ3LF5o/edit?usp=sharing)
+
+check alt text comes through from wordpress for images and implement.
+
+# API Issues
 
 ## More stories
 
