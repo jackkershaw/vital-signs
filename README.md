@@ -108,6 +108,8 @@ and then wrapped this in a div with overflow-hidden to make sure the image didn'
 
 - Added social share icons at the bottom of each article to increase potential reach. I also moved the social icons to the footer as well as the header, to improve click-through rate.
 
+- I created a [guide](https://docs.google.com/document/d/15b1BsL_N7juXm-dLcq64IQnLwN_tcb6rK1kKYZ3LF5o/edit?usp=sharing) for the client to help them understand how to edit the site.
+
 ## Run Next.js in development mode:
 
 ```bash
@@ -125,10 +127,6 @@ and [use this website built in nextjs as a guide](https://www.stylist.co.uk/)
 
 # Roadmap/To Do
 
-Write out user guide and send to them: [user](https://docs.google.com/document/d/15b1BsL_N7juXm-dLcq64IQnLwN_tcb6rK1kKYZ3LF5o/edit?usp=sharing)
-
-check alt text comes through from wordpress.
-
 # API Issues
 
 ## More stories
@@ -141,11 +139,17 @@ Fix API so more stories include three next ones just three most recent. Tbh shou
 - Click on category to get just articles for that category.[see this solution](https://stackoverflow.com/questions/73687998/how-to-get-related-post-by-category-in-headless-wordpressgraphql).
 - If doesn't work, could just have page for each category maybe.
 
-## Issues
+## PDF
 
 - Issues page which just has the PDFS of the issues - i.e anything tagged PDF. Tbh it should also have articles from latest issue all clustered together - like issue 1 issues. There will be a way to do this dynamically. Edit in API.
 - If necessary, can just have a page for all the PDF issues/one for each. Simpler to embed the PDF then too.
+  //
+  ( clarify this on word doc) If you want to add something as a pdf, you should add it as a post within Wordpress, making sure to set the category to the appropiate issue or leaflets, and then add PDF as a tag.
 
 ## Slug/ posts
 
 - PDFs - Work out how to show these when it's a pdf embedded in an article - see testpdf post. Show the PDF as an embedded PDF not just a link. Way of sorting links so that if it has pdf in it it's embedded?
+
+# Other
+
+- check alt text comes through from wordpress.
