@@ -200,6 +200,7 @@ export async function getAboutPageContent(aboutPageSlug = "about") {
         content
         featuredImage {
           node {
+            altText
             sourceUrl
           }
         }
@@ -208,7 +209,6 @@ export async function getAboutPageContent(aboutPageSlug = "about") {
   }
       `);
   const content = data?.pages?.nodes[0]?.content || "";
-  const featuredImage =
-    data?.pages?.nodes[0]?.featuredImage?.node?.sourceUrl || "";
+  const featuredImage = data?.pages?.nodes[0]?.featuredImage || "";
   return { content, featuredImage };
 }

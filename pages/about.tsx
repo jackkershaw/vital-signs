@@ -3,7 +3,17 @@ import Image from "next/image";
 import { getAboutPageContent } from "../lib/api";
 import { GetStaticProps } from "next";
 
-export default function About({ content, featuredImage }) {
+interface Props {
+  content: string;
+  featuredImage: {
+    node: {
+      sourceUrl: string;
+      altText: string;
+    };
+  };
+}
+
+export default function About({ content, featuredImage }: Props) {
   const strippedContent = content.replace(/<[^>]+>/g, " ");
 
   return (
@@ -12,8 +22,8 @@ export default function About({ content, featuredImage }) {
         <div className="sm:grid sm:grid-cols-2 sm:gap-10 sm:min-h-[70vh] pb-10">
           <div className="relative min-w-[200px] min-h-[200px] sm:max-w-[50vw]">
             <Image
-              src={featuredImage}
-              alt="Cover Image For About Vital Signs"
+              src={featuredImage?.node.sourceUrl}
+              alt={featuredImage?.node.altText}
               className="object-cover object-center pb-8 sm:pb-0"
               fill
             />
@@ -33,11 +43,11 @@ export default function About({ content, featuredImage }) {
 }
 
 export const getStaticProps: GetStaticProps = async () => {
-  const { content, featuredImage } = await getAboutPageContent();
+  const data = await getAboutPageContent();
   return {
     props: {
-      content,
-      featuredImage,
+      content: data.content,
+      featuredImage: data.featuredImage,
     },
     revalidate: 10,
   };
