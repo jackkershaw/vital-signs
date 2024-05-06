@@ -6,6 +6,7 @@ interface Props {
   heroImage: {
     node: {
       sourceUrl: string;
+      altText: string;
     };
   };
   slug?: string;
@@ -15,7 +16,7 @@ export default function heroImage({ title, heroImage, slug }: Props) {
   const image = (
     <Image
       fill
-      alt={title}
+      alt={heroImage?.node.altText}
       src={heroImage?.node.sourceUrl}
       className="object-cover object-center hover:scale-110 transition-transform duration-300 ease-in-out"
     />

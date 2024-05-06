@@ -6,6 +6,7 @@ interface Props {
   coverImage: {
     node: {
       sourceUrl: string;
+      altText: string;
     };
   };
   slug?: string;
@@ -19,7 +20,7 @@ export default function CoverImage({
   const image = (
     <Image
       fill
-      alt={title}
+      alt={coverImage?.node.altText}
       src={coverImage?.node.sourceUrl}
       className="object-cover object-center min-w-100 max-w-100 hover:scale-110 hover:scale-110 transition-transform duration-300 ease-in-out"
     />
