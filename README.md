@@ -131,13 +131,13 @@ and [use this website built in nextjs as a guide](https://www.stylist.co.uk/)
 
 ## More stories
 
-Fix API so more stories include three next ones just three most recent. Tbh should do this by fetching the post, then fetching the posts for more stories in two separate queries. Rather than at the moment one query and another for getting cursor. So should be one query, which returns a cursor and the post, and then another query, which returns the next 3 posts.
+- Fix API so more stories include three next ones just three most recent. Or do so it shows random, not just three most recent. Fix this by looking up how to do pagination with GraphQL I think.
 
 ## News
 
 - List all the categories at top with API.
 - Click on category to get just articles for that category.[see this solution](https://stackoverflow.com/questions/73687998/how-to-get-related-post-by-category-in-headless-wordpressgraphql).
-- If doesn't work, could just have page for each category maybe.
+- If creating page by category dynamically doesn't work, could just have page for each category.
 
 ## PDF
 
@@ -146,10 +146,8 @@ Fix API so more stories include three next ones just three most recent. Tbh shou
   //
   ( clarify this on word doc) If you want to add something as a pdf, you should add it as a post within Wordpress, making sure to set the category to the appropiate issue or leaflets, and then add PDF as a tag.
 
-## Slug/ posts
-
 - PDFs - Work out how to show these when it's a pdf embedded in an article - see testpdf post. Show the PDF as an embedded PDF not just a link. Way of sorting links so that if it has pdf in it it's embedded?
 
 # Other
 
-- check alt text comes through from wordpress.
+- check alt text comes through from wordpress images.
