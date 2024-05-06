@@ -117,6 +117,8 @@ and [use this website built in nextjs as a guide](https://www.stylist.co.uk/)
 
 # Roadmap/To Do
 
+- vital signs - animate images like this, scale and hover both on home page and more stories etc.[this](https://efprocycling.com/tips-recipes/team-recipe-on-the-bike-rice-cakes/)
+
 ## More stories
 
 Fix API so more stories include three next ones just three most recent. Tbh should do this by fetching the post, then fetching the posts for more stories in two separate queries. Rather than at the moment one query and another for getting cursor. So should be one query, which returns a cursor and the post, and then another query, which returns the next 3 posts.
