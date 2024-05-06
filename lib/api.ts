@@ -112,6 +112,7 @@ export async function getPostAndMorePosts(slug) {
       featuredImage {
         node {
           sourceUrl
+          altText
         }
       }
       author {
@@ -197,10 +198,17 @@ export async function getAboutPageContent(aboutPageSlug = "about") {
     pages(where: {name: "about"}) {
       nodes {
         content
+        featuredImage {
+          node {
+            sourceUrl
+          }
+        }
       }
     }
   }
       `);
   const content = data?.pages?.nodes[0]?.content || "";
-  return content;
+  const featuredImage =
+    data?.pages?.nodes[0]?.featuredImage?.node?.sourceUrl || "";
+  return { content, featuredImage };
 }
