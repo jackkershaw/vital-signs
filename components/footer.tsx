@@ -6,7 +6,9 @@ export default function Footer() {
       <div className="p-5 sm:p-10 sm:mx-10 font-serif justify-between space-y-10 sm:space-y-0 flex flex-col sm:flex-row">
         <SocialIcons />
         <div>
-          <p>A Health Workers’ Magazine For a New Society</p>
+          <p className="text-xl font-sans">
+            A Health Workers’ Magazine For a New Society
+          </p>
         </div>
         <div className="sm:text-right">
           <p className="py-2 sm:py-0">

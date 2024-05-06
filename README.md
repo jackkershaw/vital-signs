@@ -106,7 +106,7 @@ hover: scale-110 transition-transform duration-300 ease-in-out;
 
 and then wrapped this in a div with overflow-hidden to make sure the image didn't overflow it's original container.
 
-- Added social share icons at the bottom of each article to increase potential reach.
+- Added social share icons at the bottom of each article to increase potential reach. I also moved the social icons to the footer as well as the header, to improve click-through rate.
 
 ## Run Next.js in development mode:
 
@@ -125,7 +125,7 @@ and [use this website built in nextjs as a guide](https://www.stylist.co.uk/)
 
 # Roadmap/To Do
 
-Write out user guide.
+Write out user guide and send to them.
 
 ## More stories
 
