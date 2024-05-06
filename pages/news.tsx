@@ -1,6 +1,6 @@
 import Layout from "../components/layout";
 import { getAllPostsForHome } from "../lib/api";
-import PostPreview from "../components/post-preview";
+import PostPreview from "../components/more-stories-preview";
 import { GetStaticProps } from "next";
 
 export default function About({ allPosts: { edges } }) {

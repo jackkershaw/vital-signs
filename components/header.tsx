@@ -2,6 +2,7 @@ import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { motion } from "framer-motion";
+import SocialIcons from "./social-icons";
 
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -66,34 +67,7 @@ export default function Header() {
                   ISSUES
                 </Link>
               </div>
-              <div className="flex flex-row sm:items-center justify-start sm:justify-between space-x-14 pb-10 sm:pb-0 text-3xl">
-                <span
-                  className="icon-[mdi--facebook] text-customRed-700 hover:text-customRed-950 active:text-customRed-500 p-5 sm:p-0"
-                  aria-label="link to facebook"
-                ></span>
-                <span
-                  className="icon-[mdi--twitter] text-customRed-700 hover:text-customRed-950 active:text-customRed-500 p-5 sm:p-0"
-                  aria-label="link to twitter"
-                ></span>
-                <a
-                  href="https://vitalsignscontenteditor.co.uk/rss"
-                  target="_blank"
-                  className="flex-col flex justify-end items-end"
-                  aria-label="link to rss feed"
-                >
-                  <span className="icon-[mdi--rss] text-customRed-700 hover:text-customRed-950 active:text-customRed-500 p-5 sm:p-0"></span>
-                </a>
-                <a
-                  href="mailto:vitalsignsmag@proton.me"
-                  target="_blank"
-                  className="flex-col flex justify-end items-end"
-                  aria-label="link to email"
-                >
-                  <span className="icon-[mdi--email] text-customRed-700 hover:text-customRed-950 active:text-customRed-500 p-5 sm:p-0">
-                    {" "}
-                  </span>
-                </a>
-              </div>
+              <SocialIcons />
             </motion.div>
           )}
         </div>
@@ -123,26 +97,7 @@ export default function Header() {
                 ISSUES
               </Link>
             </div>
-            <div className="flex flex-row sm:items-center justify-start sm:justify-between space-x-10 sm:space-x-10 pb-10 sm:pb-0 text-3xl">
-              <span className="icon-[mdi--facebook] text-customRed-700 hover:text-customRed-950 active:text-customRed-500 p-5 sm:p-0"></span>
-              <span className="icon-[mdi--twitter] text-customRed-700 hover:text-customRed-950 active:text-customRed-500 p-5 sm:p-0"></span>
-              <a
-                href="https://vitalsignscontenteditor.co.uk/rss"
-                target="_blank"
-                className="flex-col flex justify-end items-end"
-              >
-                <span className="icon-[mdi--rss] text-customRed-700 hover:text-customRed-950 active:text-customRed-500 p-5 sm:p-0"></span>
-              </a>
-              <a
-                href="mailto:vitalsignsmag@proton.me"
-                target="_blank"
-                className="flex-col flex justify-end items-end"
-              >
-                <span className="icon-[mdi--email] text-customRed-700 hover:text-customRed-950 active:text-customRed-500 p-5 sm:p-0">
-                  {" "}
-                </span>
-              </a>
-            </div>
+            <SocialIcons />
           </div>
         </div>
       </div>

@@ -1,4 +1,4 @@
-import PostPreview from "./post-preview";
+import PostPreview from "./more-stories-preview";
 import Link from "next/link";
 export default function MoreStories({ posts }) {
   const limitedPosts = posts.slice(0, 9);

@@ -1,4 +1,4 @@
-import CoverImage from "./cover-image";
+import CoverImage from "./more-stories-image";
 import Link from "next/link";
 
 export default function PostPreview({

@@ -17,11 +17,11 @@ export default function heroImage({ title, heroImage, slug }: Props) {
       fill
       alt={title}
       src={heroImage?.node.sourceUrl}
-      className="object-cover object-center"
+      className="object-cover object-center hover:scale-110 transition-transform duration-300 ease-in-out"
     />
   );
   return (
-    <div className="relative min-w-[30vw] min-h-[30vh] sm:min-w-[35vw] sm:min-h-[40vh]">
+    <div className="relative min-w-[30vw] min-h-[30vh] sm:min-w-[35vw] sm:min-h-[40vh] overflow-hidden">
       {slug ? (
         <Link href={`/posts/${slug}`} aria-label={title}>
           {image}

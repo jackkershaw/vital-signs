@@ -98,7 +98,15 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 
 - When the client asked me make the red of the page brighter, I was inititally a bit worried since using bright colours can reduce accessibility. I used [Tailwind Shades](https://www.tailwindshades.com/#color=360%2C84.68085106382979%2C46.07843137254902&step-up=6&step-down=12&hue-shift=10&name=crimson&base-stop=7&v=1&overrides=eyIwLjUiOnsiaHVlIjowLCJzYXR1cmF0aW9uIjotMSwibGlnaHRuZXNzIjotMSwiaGV4IjoiRjlCOUI5IiwidGV4dENvbG9yIjoiYmxhY2sifX0%3D) to help me iterate through different options. Using the same colour name I had used across the site already,"orange", as the colour to extend while testing worked well and helped me see live updates across the site quickly.I consulted the WCAG Contrast Checker (available as a Firefox extension) and was able to reach a set of colours I was happy with.
 
--
+- I came across some interesting image animations on [EF Pro Cycling](https://efprocycling.com/tips-recipes/team-recipe-on-the-bike-rice-cakes/) and decided I wanted to emulate these on my site to add some more interactivity. I built something similar using Tailwind:
+
+```css
+hover: scale-110 transition-transform duration-300 ease-in-out;
+```
+
+and then wrapped this in a div with overflow-hidden to make sure the image didn't overflow it's original container.
+
+- Added social share icons at the bottom of each article to increase potential reach.
 
 ## Run Next.js in development mode:
 
@@ -117,7 +125,7 @@ and [use this website built in nextjs as a guide](https://www.stylist.co.uk/)
 
 # Roadmap/To Do
 
-- vital signs - animate images like this, scale and hover both on home page and more stories etc.[this](https://efprocycling.com/tips-recipes/team-recipe-on-the-bike-rice-cakes/)
+Write out user guide.
 
 ## More stories
 
