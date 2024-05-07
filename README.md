@@ -109,12 +109,11 @@ and then wrapped this in a div with overflow-hidden to make sure the image didn'
 - Added social share icons at the bottom of each article to increase potential reach. I also moved the social icons to the footer as well as the header, to improve click-through rate.
 
 - I created a guide (see below) for the client to help them understand how to edit the site.
-<<<<<<< HEAD
+  <<<<<<< HEAD
 
 - Next I added the list of categories to the top of the News page. This would allow me to let visitors choose between the different categories.
-  - set up dynamic routes to display articles from each category on a separate page.
-=======
->>>>>>> f8233d871149fe5017d00aa50f5d0ec4b11a2045
+  - # set up dynamic routes to display articles from each category on a separate page.
+    > > > > > > > f8233d871149fe5017d00aa50f5d0ec4b11a2045
 
 ## Run Next.js in development mode:
 
@@ -164,31 +163,4 @@ From here it is very easy to create new posts, just click the “add new post”
 
 - This can be edited in a similar way to posts/articles, and has a featured image that can be changed. Edits will be reflected on vitalsignsmag.org/about
 
-If you have any other questions about editing the site, please feel free to email me on jackkershaw@protonmail.com
-
-# Roadmap/To Do
-
-# API Issues
-
-## More stories
-
-- Fix API so more stories include three next ones just three most recent. Or do so it shows random, not just three most recent. Fix this by looking up how to do pagination with GraphQL I think.
-
-## News
-
-- List all the categories at top with API.
-- Click on category to get just articles for that category.[see this solution](https://stackoverflow.com/questions/73687998/how-to-get-related-post-by-category-in-headless-wordpressgraphql).
-- If creating page by category dynamically doesn't work, could just have page for each category.
-
-## PDF
-
-- Issues page which just has the PDFS of the issues - i.e anything tagged PDF. Tbh it should also have articles from latest issue all clustered together - like issue 1 issues. There will be a way to do this dynamically. Edit in API.
-- If necessary, can just have a page for all the PDF issues/one for each. Simpler to embed the PDF then too.
-  //
-  ( clarify this on word doc) If you want to add something as a pdf, you should add it as a post within Wordpress, making sure to set the category to the appropiate issue or leaflets, and then add PDF as a tag.
-
-- PDFs - Work out how to show these when it's a pdf embedded in an article - see testpdf post. Show the PDF as an embedded PDF not just a link. Way of sorting links so that if it has pdf in it it's embedded?
-
-# Other
-
-- check alt text comes through from wordpress images.
+If you have any other questions about editing the site, please feel free to email me on [jackkershaw@protonmail.com](mailto:jackkershaw@protonmail.com)
