@@ -212,3 +212,50 @@ export async function getAboutPageContent(aboutPageSlug = "about") {
   const featuredImage = data?.pages?.nodes[0]?.featuredImage || "";
   return { content, featuredImage };
 }
+
+export async function getCategories() {
+  const data = await fetchAPI(`
+query allcategories {
+  categories(first: 10000) {
+    edges {
+      node {
+        name
+      }
+    }
+  }
+}
+`);
+  return data?.categories?.edges || [];
+}
+
+export async function getPostsWithCategory(slug) {
+  const data = await fetchAPI(
+    `
+    query PostsByCategory($slug: ID!) {
+      category(id: $slug, idType: SLUG) {
+        posts(first: 10000) {
+          edges {
+            node {
+              title
+              excerpt
+              slug
+              date
+              featuredImage {
+                node {
+                  sourceUrl
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    `,
+    {
+      variables: {
+        slug: slug,
+      },
+    }
+  );
+  return data?.category?.posts?.edges || [];
+}
