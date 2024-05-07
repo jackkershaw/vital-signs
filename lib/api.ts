@@ -228,11 +228,13 @@ query allcategories {
   return data?.categories?.edges || [];
 }
 
-export async function getPostsWithCategory(slug) {
-  const data = await fetchAPI(
-    `
-    query PostsByCategory($slug: ID!) {
-      category(id: $slug, idType: SLUG) {
+export async function getPostsWithCategory(category) {
+  const categoryId = await getCategoryIDByName(category);
+  if (categoryId) {
+    const data = await fetchAPI(
+      `
+    query PostsByCategory($id: ID!) {
+      category(id: $id) {
         posts(first: 10000) {
           edges {
             node {
@@ -251,11 +253,37 @@ export async function getPostsWithCategory(slug) {
       }
     }
     `,
+      {
+        variables: {
+          id: categoryId,
+        },
+      }
+    );
+    console.log(data);
+    return data?.category?.posts?.edges || [];
+  } else {
+    return [];
+  }
+}
+
+async function getCategoryIDByName(category) {
+  const data = await fetchAPI(
+    `
+    query CategoryIDByName($name: String!) {
+      categories(name: $name) {
+        edges {
+          node {
+            id
+          }
+        }
+      }
+    }
+    `,
     {
       variables: {
-        slug: slug,
+        name: category,
       },
     }
   );
-  return data?.category?.posts?.edges || [];
+  return data?.categories?.edges[0]?.node?.id || null;
 }

@@ -21,19 +21,24 @@ export default function CategoryPage({ category, posts }) {
   return (
     <Layout>
       <Head>
-        <title>{`${category.node.name} | Vital Signs Magazine`}</title>
+        <title>{`${category} | Vital Signs Magazine`}</title>
       </Head>
-      <h1>{category.node.name}</h1>
+      <h1>{category}</h1>
+      Here is some info
       {/* Add posts under the category */}
     </Layout>
   );
 }
 
-export const getStaticProps: GetStaticProps = async (category) => {
-  const posts = await getPostsWithCategory(category);
+export const getStaticProps: GetStaticProps = async ({
+  params,
+}: {
+  params: { category: string };
+}) => {
+  const posts = await getPostsWithCategory(params.category);
   return {
     props: {
-      category: category,
+      category: params.category,
       posts: posts,
     },
     revalidate: 10,
@@ -43,9 +48,8 @@ export const getStaticProps: GetStaticProps = async (category) => {
 export const getStaticPaths: GetStaticPaths = async () => {
   const categories = await getCategories();
   return {
-    paths: categories.map(({ category }) => ({
-      params: { categoryName: category.node.name },
-    })),
+    paths:
+      categories.map(({ node }) => `/categories/${node.name}`) || [],
     fallback: true,
   };
 };
