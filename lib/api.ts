@@ -233,12 +233,16 @@ export async function getPostsWithCategory(category) {
   if (categoryId) {
     const data = await fetchAPI(
       `
-    query PostsByCategory($id: ID!) {
-      category(id: $id) {
-        posts(first: 10000) {
+      query PostsByCategory {
+        posts(first: 10000, where: { categoryIn: [$categoryId] }) {
           edges {
             node {
               title
+              categories {
+                nodes {
+                  name
+                }
+              }
               excerpt
               slug
               date
@@ -251,16 +255,14 @@ export async function getPostsWithCategory(category) {
           }
         }
       }
-    }
-    `,
+      `,
       {
         variables: {
-          id: categoryId,
+          categoryId: categoryId,
         },
       }
     );
-    console.log(data);
-    return data?.category?.posts?.edges || [];
+    return data?.posts?.edges || [];
   } else {
     return [];
   }
@@ -269,11 +271,11 @@ export async function getPostsWithCategory(category) {
 async function getCategoryIDByName(category) {
   const data = await fetchAPI(
     `
-    query CategoryIDByName($name: String!) {
-      categories(name: $name) {
+    query CategoryIDByName{
+      categories(where: {name: $name}) {
         edges {
           node {
-            id
+            categoryId
           }
         }
       }

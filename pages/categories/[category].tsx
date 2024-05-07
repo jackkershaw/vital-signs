@@ -30,16 +30,12 @@ export default function CategoryPage({ category, posts }) {
   );
 }
 
-export const getStaticProps: GetStaticProps = async ({
-  params,
-}: {
-  params: { category: string };
-}) => {
+export const getStaticProps: GetStaticProps = async ({ params }) => {
   const posts = await getPostsWithCategory(params.category);
   return {
     props: {
       category: params.category,
-      posts: posts,
+      posts: posts || [], // Ensure posts is an array even if empty
     },
     revalidate: 10,
   };
@@ -49,7 +45,9 @@ export const getStaticPaths: GetStaticPaths = async () => {
   const categories = await getCategories();
   return {
     paths:
-      categories.map(({ node }) => `/categories/${node.name}`) || [],
+      categories.map(
+        ({ node }) => `/categories/${encodeURIComponent(node.name)}`
+      ) || [],
     fallback: true,
   };
 };
