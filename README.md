@@ -109,9 +109,12 @@ and then wrapped this in a div with overflow-hidden to make sure the image didn'
 - Added social share icons at the bottom of each article to increase potential reach. I also moved the social icons to the footer as well as the header, to improve click-through rate.
 
 - I created a guide (see below) for the client to help them understand how to edit the site.
+<<<<<<< HEAD
 
 - Next I added the list of categories to the top of the News page. This would allow me to let visitors choose between the different categories.
   - set up dynamic routes to display articles from each category on a separate page.
+=======
+>>>>>>> f8233d871149fe5017d00aa50f5d0ec4b11a2045
 
 ## Run Next.js in development mode:
 

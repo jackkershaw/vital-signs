@@ -12,10 +12,17 @@
   ],
   "rootMainFiles": [],
   "pages": {
+<<<<<<< HEAD
     "/404": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/404.js"
+=======
+    "/": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/index.js"
+>>>>>>> f8233d871149fe5017d00aa50f5d0ec4b11a2045
     ],
     "/_app": [
       "static/chunks/webpack.js",
@@ -27,9 +34,20 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
+<<<<<<< HEAD
     "/news": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
+=======
+    "/about": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/about.js"
+    ],
+    "/news": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+>>>>>>> f8233d871149fe5017d00aa50f5d0ec4b11a2045
       "static/chunks/pages/news.js"
     ]
   },
