@@ -108,7 +108,7 @@ and then wrapped this in a div with overflow-hidden to make sure the image didn'
 
 - Added social share icons at the bottom of each article to increase potential reach. I also moved the social icons to the footer as well as the header, to improve click-through rate.
 
-- I created a [guide](https://docs.google.com/document/d/15b1BsL_N7juXm-dLcq64IQnLwN_tcb6rK1kKYZ3LF5o/edit?usp=sharing) for the client to help them understand how to edit the site.
+- I created a guide (see below) for the client to help them understand how to edit the site.
 
 ## Run Next.js in development mode:
 
@@ -124,6 +124,41 @@ npm run dev
 [Live site](https://www.vitalsignsmag.org/)
 [Are.na inspo here](https://www.are.na/jack-kershaw/vitalsigns)
 and [use this website built in nextjs as a guide](https://www.stylist.co.uk/)
+
+## How To Edit This Site in Wordpress
+
+(This is a copy of the text I sent to the client to help them edit the site)
+
+### Intro
+
+- The basic structure of the site is built in Wordpress - all the content for the articles and the about page is stored there.
+- On top of this, I've made a custom design for displaying the content well, making it interactive and including colours, fonts and animations. You can see this on vitalsignsmag.org. What’s on here can’t be edited directly, but you can send me an email on jackkershaw@protonmail.com and I'll see what I can do.
+
+### Editing the site
+
+To edit the site, you’ll need to go to the following link: https://vitalsignscontenteditor.co.uk/wp-admin/ and login with the credentials.
+
+You’ll be greeted by a dashboard screen, which you can ignore. You need to find the “posts” section on the sidebar. Here, you can edit the articles, their categories and featured images. For now, I have just copy pasted from the Google Doc but each article will need the right info and formatting.
+
+![List of posts on Wordpress](readme-images/image.png)
+
+From here it is very easy to create new posts, just click the “add new post” button and a dialog box will come up.
+
+![Add posts Dialog box](readme-images/image-1.png)
+
+- Add a title
+- Add content
+- Add an excerpt (this is a sentence about the article - can just be first line from the article - which will be displayed on the homepage)
+- Add a category (make sure to just add one here, and make sure “uncategorized” is deselected)
+- Add a featured image - this is the image that will show on the homepage, as well as at the top of the article. Landscape images work best here.
+
+- Separate from the usual "posts" icon, you will find another called "pages". Inside this, you will find the about page.
+
+![About page](readme-images/image-2.png)
+
+- This can be edited in a similar way to posts/articles, and has a featured image that can be changed. Edits will be reflected on vitalsignsmag.org/about
+
+If you have any other questions about editing the site, please feel free to email me on jackkershaw@protonmail.com
 
 # Roadmap/To Do
 
