@@ -48,7 +48,7 @@ export default function Post({ post, posts }) {
             <h1 className="text-2xl font-bold font-sans">
               Share this article:
             </h1>
-            <div className="flex justify-between sm:justify-start space-x-14 sm:space-x-5 text-4xl mx-auto sm:mx-0 pt-5 sm:pt-0">
+            <div className="flex justify-between sm:justify-start space-x-14 sm:space-x-5 text-4xl mx-auto sm:mx-0 pt-10 pb-5 sm:pt-0 sm:pb-0">
               <a
                 href={`https://twitter.com/intent/tweet?text=${post.title}&url=https://www.vitalsignsmag.org/posts/${post.slug}`}
                 target="_blank"
