@@ -8,6 +8,7 @@ export default function PostPreview({
   slug,
   category,
 }) {
+  const sentence = excerpt.split(/[.()]/)[0].trim().concat(".");
   return (
     <div className="mb-6 sm:mb-0">
       <div className="flex flex-col space-y-2 sm:space-y-3">
@@ -29,7 +30,7 @@ export default function PostPreview({
         </h1>
         <div
           className="font-serif text-lg"
-          dangerouslySetInnerHTML={{ __html: excerpt }}
+          dangerouslySetInnerHTML={{ __html: sentence }}
         />
       </div>
     </div>

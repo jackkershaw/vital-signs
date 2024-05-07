@@ -8,6 +8,8 @@ export default function HeroPost({
   slug,
   category,
 }) {
+  const sentence = excerpt.split(/[.()]/)[0].trim().concat("."); // Get the first sentence
+
   return (
     <section className="sm:py-5 mb-8 sm:mb-0 sm:grid sm:grid-cols-3 sm:items-end sm:w-full sm:gap-x-8">
       <div className="flex flex-col space-y-4 sm:flex-row sm:space-x-5 sm:items-end sm:flex-between mb-8 sm:mb-0 sm:col-span-2">
@@ -22,9 +24,10 @@ export default function HeroPost({
               dangerouslySetInnerHTML={{ __html: title }}
             ></Link>
           </h1>
+
           <h2
             className="text-lg font-serif"
-            dangerouslySetInnerHTML={{ __html: excerpt }}
+            dangerouslySetInnerHTML={{ __html: sentence }}
           />
         </div>
       </div>
