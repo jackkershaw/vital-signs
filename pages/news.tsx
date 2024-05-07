@@ -12,7 +12,9 @@ export default function News({ allPosts: { edges }, Categories }) {
         <div className="font-bold font-sans text-xl flex flex-col pb-10 space-y-4 sm:space-y-0 sm:flex-row justify-between flex-wrap">
           {Categories.map((category) => (
             <a
-              href={`/categories/${category.node.name}`}
+              href={`/categories/${encodeURIComponent(
+                category.node.name
+              )}`}
               key={category.node.name}
               className="text-xl"
             >
