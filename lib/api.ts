@@ -228,64 +228,33 @@ query allcategories {
   return data?.categories?.edges || [];
 }
 
-export async function getPostsWithCategory(category) {
-  const categoryId = await getCategoryIDByName(category);
-  if (categoryId) {
-    const data = await fetchAPI(
-      `
-      query PostsByCategory {
-        posts(first: 10000, where: { categoryIn: [$categoryId] }) {
-          edges {
-            node {
-              title
-              categories {
-                nodes {
-                  name
-                }
+export async function getAllPDFs() {
+  const data = await fetchAPI(
+    `
+    query AllPosts {
+      posts(first: 10000, where: { orderby: { field: DATE, order: DESC }, tag: "pdf"}) {
+        edges {
+          node {
+            title
+            categories {
+              nodes {
+                name
               }
-              excerpt
-              slug
-              date
-              featuredImage {
-                node {
-                  sourceUrl
-                }
+            }
+            excerpt
+            slug
+            date
+            featuredImage {
+              node {
+                sourceUrl
               }
             }
           }
         }
       }
-      `,
-      {
-        variables: {
-          categoryId: categoryId,
-        },
-      }
-    );
-    return data?.posts?.edges || [];
-  } else {
-    return [];
-  }
-}
-
-async function getCategoryIDByName(category) {
-  const data = await fetchAPI(
-    `
-    query CategoryIDByName{
-      categories(where: {name: $name}) {
-        edges {
-          node {
-            categoryId
-          }
-        }
-      }
     }
-    `,
-    {
-      variables: {
-        name: category,
-      },
-    }
+  `
   );
-  return data?.categories?.edges[0]?.node?.id || null;
+
+  return data?.posts;
 }
