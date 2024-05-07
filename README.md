@@ -111,12 +111,11 @@ and then wrapped this in a div with overflow-hidden to make sure the image didn'
 - I created a guide (see below) for the client to help them understand how to edit the site.
 - As the client added content to the site, I noticed that some of the excerpts were far too long, so I decided to edit them to just one setence long. I split each excerpt according to full stop and brackets and took the first instance as a sentence to be used as the new excerpt:
 
-```jss
+```js
 const sentence = excerpt.split(/[.()]/)[0].trim().concat(".");
 ```
 
-- Next I added the list of categories to the top of the News page. This would allow me to let visitors choose between the different categories.
-  - set up dynamic routes to display articles from each category on a separate page.
+- Set up the Issues page so it just has has the PDFS of the issues - i.e anything tagged PDF in Wordpres. I did this by editing the API and then using the GraphQL IDE in Wordpress to find and test the correct API command for posts with PDF as the tag.
 
 ## Run Next.js in development mode:
 
