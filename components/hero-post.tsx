@@ -23,7 +23,7 @@ export default function HeroPost({
           >
             {category}
           </Link>
-          <h1 className="text-2xl sm:text-4xl text-customRed-700 hover:text-customRed-950 capitalize">
+          <h1 className="text-2xl sm:text-3xl text-customRed-700 hover:text-customRed-950 capitalize">
             <Link
               href={`/posts/${slug}`}
               dangerouslySetInnerHTML={{ __html: title }}

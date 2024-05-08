@@ -27,6 +27,16 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
+    "/issues": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/issues.js"
+    ],
+    "/news": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/news.js"
+    ],
     "/posts/[slug]": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
