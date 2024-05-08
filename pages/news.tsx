@@ -3,6 +3,8 @@ import Layout from "../components/layout";
 import { getAllPostsForHome, getCategories } from "../lib/api";
 import PostPreview from "../components/more-stories-preview";
 import { GetStaticProps } from "next";
+import { useRouter } from "next/router";
+import { useEffect } from "react";
 
 export default function News({ allPosts: { edges }, Categories }) {
   const [selectedCategory, setSelectedCategory] = useState(null);
@@ -14,6 +16,15 @@ export default function News({ allPosts: { edges }, Categories }) {
         )
       )
     : Posts;
+
+  const router = useRouter();
+
+  useEffect(() => {
+    const { category } = router.query;
+    if (category) {
+      setSelectedCategory(category);
+    }
+  }, [router.query]);
 
   return (
     <div>

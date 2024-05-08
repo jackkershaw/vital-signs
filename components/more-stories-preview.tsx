@@ -19,9 +19,12 @@ export default function PostPreview({
             slug={slug}
           />
         )}
-        <h1 className=" text-customRed-950 uppercase text-sm">
+        <Link
+          className="text-customRed-950 uppercase text-sm font-bold font-sans"
+          href={`/news?category=${category}`}
+        >
           {category}
-        </h1>
+        </Link>
         <h1 className="text-2xl text-customRed-700 hover:text-customRed-950 capitalize">
           <Link
             href={`/posts/${slug}`}
