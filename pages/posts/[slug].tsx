@@ -41,6 +41,7 @@ export default function Post({ post, posts }) {
             <PostHeader
               title={post.title}
               coverImage={post.featuredImage}
+              category={post.categories.edges}
             />
             <PostBody content={post.content} />
           </article>
