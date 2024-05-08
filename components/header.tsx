@@ -13,7 +13,7 @@ export default function Header() {
   };
 
   return (
-    <header className="bg-customRed-50 sm:px-10 pb-5 mb-10 sm:mb-0">
+    <header className="bg-customRed-50 sm:px-10 pb-5 mb-5 sm:mb-0">
       <div className="sm:grid sm:grid-cols-2 sm:mx-10">
         <div className="flex flex-row items-end justify-between px-5 sm:px-0 sm:justify-start sm:space-y-10 bg-customRed-50">
           <button
