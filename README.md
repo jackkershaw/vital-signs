@@ -117,6 +117,8 @@ const sentence = excerpt.split(/[.()]/)[0].trim().concat(".");
 
 - Set up the Issues page so it just has has the PDFS of the issues - i.e anything tagged PDF in Wordpres. I did this by editing the API and then using the GraphQL IDE in Wordpress to find and test the correct API command for posts with PDF as the tag.
 
+- Next I added the list of categories to the top of the News page. This would allow me to let visitors choose between the different categories. I used a filter to remove the default Wordpress "uncategorized" category. I wanted these categories to be clickable, so I used State to keep track of which one is selected and then filtered the posts on the page based on the selected category. I used routing to navigate to this filtered list of posts based on an url query, e.g. [https:vitalsignsmag.org/news?category=international/](https://vitalsignsmag.org/news?category=International/) would show only posts in the "International" category. I previously attempted to do this with dynamic page routing for each category, but this solution is sleeker in my opinion.
+
 ## Run Next.js in development mode:
 
 ```bash
