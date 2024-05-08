@@ -3,6 +3,7 @@ import Footer from "./footer";
 import Meta from "./meta";
 import Head from "next/head";
 import { motion } from "framer-motion";
+import { Analytics } from "@vercel/analytics/react";
 
 export default function Layout({ children }) {
   return (
@@ -14,6 +15,7 @@ export default function Layout({ children }) {
           content={"A Health Workers’ Magazine For a New Society"}
         />
       </Head>
+      <Analytics />
       <Meta />
       <Header />
       <motion.div
