@@ -1,3 +1,11 @@
+# Useful links
+
+[WP admin](https://vitalsignscontenteditor.co.uk/wp-admin)
+[Vercel Deploy](https://vercel.com/jones58s-projects/vital-signs/settings/domains)
+[Live site](https://www.vitalsignsmag.org/)
+[Are.na inspo here](https://www.are.na/jack-kershaw/vitalsigns)
+and [use this website built in nextjs as a guide](https://www.stylist.co.uk/)
+
 # Planning
 
 - Because the client was already confident using Wordpress for a previous site, I decided to use NextJS for the frontend with Headless Wordpress as the backend. There are several reasons for this over just traditional Wordpress - the primary ones being speed and security.
@@ -119,20 +127,14 @@ const sentence = excerpt.split(/[.()]/)[0].trim().concat(".");
 
 - Next I added the list of categories to the top of the News page. This would allow me to let visitors choose between the different categories. I used a filter to remove the default Wordpress "uncategorized" category. I wanted these categories to be clickable, so I used State to keep track of which one is selected and then filtered the posts on the page based on the selected category. I used routing to navigate to this filtered list of posts based on an url query, e.g. [https:vitalsignsmag.org/news?category=international/](https://vitalsignsmag.org/news?category=International/) would show only posts in the "International" category. I previously attempted to do this with dynamic page routing for each category, but this solution is sleeker in my opinion.
 
+# Running on your machine
+
 ## Run Next.js in development mode:
 
 ```bash
 npm install
 npm run dev
 ```
-
-## Useful links
-
-[WP admin](https://vitalsignscontenteditor.co.uk/wp-admin)
-[Vercel Deploy](https://vercel.com/jones58s-projects/vital-signs/settings/domains)
-[Live site](https://www.vitalsignsmag.org/)
-[Are.na inspo here](https://www.are.na/jack-kershaw/vitalsigns)
-and [use this website built in nextjs as a guide](https://www.stylist.co.uk/)
 
 ## How To Edit This Site in Wordpress
 
