@@ -27,20 +27,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/issues": [
+    "/about": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/issues.js"
+      "static/chunks/pages/about.js"
     ],
     "/news": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/news.js"
-    ],
-    "/posts/[slug]": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/posts/[slug].js"
     ]
   },
   "ampFirstPages": []

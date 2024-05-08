@@ -26,27 +26,31 @@ export default function News({ allPosts: { edges }, Categories }) {
     }
   }, [router.query]);
 
+  const handleCategoryChange = (event) => {
+    setSelectedCategory(event.target.value);
+  };
+
   return (
     <div>
       <Layout>
-        <div className="font-bold font-sans text-xl flex flex-col pb-10 space-y-4 sm:space-y-0 sm:flex-row justify-between flex-wrap">
-          {Categories.filter(
-            (category) => category.node.name !== "Uncategorized"
-          ).map((category) => (
-            <button
-              key={category.node.name}
-              className={`text-xl ${
-                selectedCategory === category.node.name
-                  ? "text-customRed-800"
-                  : ""
-              }`}
-              onClick={() => setSelectedCategory(category.node.name)}
-            >
-              <div className="hover:text-customRed-950 active:text-customRed-500">
+        <div className="font-bold font-sans text-2xl p-10 bg-customRed-800 text-neutral-50 mb-5 sm:mb-10">
+          <select
+            value={selectedCategory || ""}
+            onChange={handleCategoryChange}
+            className="bg-transparent"
+          >
+            <option value="">Choose a category</option>
+            {Categories.filter(
+              (category) => category.node.name !== "Uncategorized"
+            ).map((category) => (
+              <option
+                key={category.node.name}
+                value={category.node.name}
+              >
                 {category.node.name}
-              </div>
-            </button>
-          ))}
+              </option>
+            ))}
+          </select>
         </div>
         <div className="sm:grid sm:grid-cols-4 sm:gap-x-5 sm:gap-y-5">
           {filteredPosts.map(({ node }) => (

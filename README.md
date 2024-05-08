@@ -129,6 +129,8 @@ const sentence = excerpt.split(/[.()]/)[0].trim().concat(".");
 
 - To increase navigation to these new category pages, I added the category to each post page in the top left, like on [novaramedia.com](https://novaramedia.com/).
 
+- I improved the news page by adding a select menu instead of the list of categories.
+
 # Running on your machine
 
 ## Run Next.js in development mode:

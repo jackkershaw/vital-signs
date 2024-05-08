@@ -20,6 +20,7 @@ export default function Footer() {
               text-customRed-800
               hover:text-customRed-950
               active:text-customRed-500"
+              aria-label="link to Jack Kershaw's website"
             >
               Jack Kershaw.
             </a>
@@ -30,6 +31,7 @@ export default function Footer() {
               href="https://github.com/jones58/vital-signs"
               target="_blank"
               className="font-bold text-customRed-800 hover:text-customRed-950 active:text-customRed-500"
+              aria-label="link to the Vital Signs Magazine GitHub repository"
             >
               Github.
             </a>

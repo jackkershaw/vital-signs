@@ -7,10 +7,12 @@ export default function SocialIcons() {
         href="https://vitalsignscontenteditor.co.uk/rss"
         target="_blank"
         className="flex-col flex justify-end items-end"
+        aria-label="link to the Vital Signs Magazine RSS feed"
       >
         <span className="icon-[mdi--rss] text-customRed-700 hover:text-customRed-950 active:text-customRed-500 p-5 sm:p-0"></span>
       </a>
       <a
+        aria-label="link to the Vital Signs email"
         href="mailto:vitalsignsmag@proton.me"
         target="_blank"
         className="flex-col flex justify-end items-end"
