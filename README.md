@@ -127,6 +127,8 @@ const sentence = excerpt.split(/[.()]/)[0].trim().concat(".");
 
 - Next I added the list of categories to the top of the News page. This would allow me to let visitors choose between the different categories. I used a filter to remove the default Wordpress "uncategorized" category. I wanted these categories to be clickable, so I used State to keep track of which one is selected and then filtered the posts on the page based on the selected category. I used routing to navigate to this filtered list of posts based on an url query, e.g. [https:vitalsignsmag.org/news?category=international/](https://vitalsignsmag.org/news?category=International/) would show only posts in the "International" category. I previously attempted to do this with dynamic page routing for each category, but this solution is sleeker in my opinion.
 
+- To increase navigation to these new category pages, I added the category to each post page in the top left, like on [novaramedia.com](https://novaramedia.com/).
+
 # Running on your machine
 
 ## Run Next.js in development mode:
