@@ -37,6 +37,14 @@ export default function Post({ post, posts }) {
                 property="og:image"
                 content={post.featuredImage?.node.sourceUrl}
               />
+              <meta
+                name="twitter:card"
+                content={post.featuredImage?.node.sourceUrl}
+              />
+              <meta
+                property="twitter:image"
+                content={post.featuredImage?.node.sourceUrl}
+              />
             </Head>
             <PostHeader
               title={post.title}
