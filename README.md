@@ -134,7 +134,7 @@ const sentence = excerpt.split(/[.()]/)[0].trim().concat(".");
 - Fixed the API so that under "read next" it has three posts from the same category, rather than the three most recent posts from any category. I edited the API to check the category of the post, then filter all the posts by that category. I used .slice() to limit the number of posts to 3.
 - I noticed that when sharing the link for a post on Twitter, no image was displayed. I fixed this by adding an image to the post's meta tag for twitter.
 
-  - This was being undone by the default meta values, so I made new post-layout post-meta components without the meta tags that the [slug].tsx file contains. I stripped html from the excerpts, when setting them as meta descriptions, here too as it was causing issues.
+  - This was being undone by the default meta values, so I made new post-layout post-meta components without the meta tags that the [slug].tsx file contains. I stripped html from the excerpts, when setting them as meta descriptions, here too as it was causing issues. As I did this debugging and fixing, I checked social share images (twitter and opengraph) with [opengraph.xyz](https://www.opengraph.xyz)
 
 - Added vercel speed insights
 
