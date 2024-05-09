@@ -165,7 +165,7 @@ From here it is very easy to create new posts, just click the “add new post”
 
 - Add a title
 - Add content
-- Add an excerpt (this is a sentence about the article - can just be first line from the article - which will be displayed on the homepage)
+- Add an excerpt (this is one sentence about the article - can just be first line from the article – which will be displayed on the homepage). If more than one sentence is written, it will get clipped automatically to one sentence.
 - Add a category (make sure to just add one here, and make sure “uncategorized” is deselected)
 - Add a featured image - this is the image that will show on the homepage, as well as at the top of the article. Landscape images work best here. Make sure to add alt text, for accessibility reasons.
 
