@@ -7,7 +7,7 @@ export default function Footer() {
         <SocialIcons />
         <div>
           <p className="text-xl font-sans">
-            A Health Workers’ Magazine For a New Society
+            Vital Signs - A Health Workers’ Magazine For a New Society
           </p>
         </div>
         <div className="sm:text-right">

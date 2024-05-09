@@ -131,7 +131,7 @@ const sentence = excerpt.split(/[.()]/)[0].trim().concat(".");
 
 - I improved the news page by adding a select menu instead of the list of categories.
 
-- Fixed the API so that under "read next" it has three posts from the same category, rather than the three most recent posts from any category. I used filter,
+- Fixed the API so that under "read next" it has three posts from the same category, rather than the three most recent posts from any category. I edited the API to check the category of the post, then filter all the posts by that category. I used .slice() to limit the number of posts to 3.
 
 # Running on your machine
 
