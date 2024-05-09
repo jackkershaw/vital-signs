@@ -34,7 +34,7 @@ export default function Meta() {
         content="A health workers’ magazine for a new society
 "
       />
-      <title>Vital Signs Magazine</title>
+      <title>Vital Signs</title>
       <meta
         name="description"
         content="A health workers’ magazine for a new society"

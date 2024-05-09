@@ -32,14 +32,14 @@ export default function Post({ post, posts }) {
         <>
           <article>
             <Head>
-              <title>{`${post.title} | Vital Signs Magazine`}</title>
+              <title>{`${post.title} | Vital Signs`}</title>
               <meta
                 property="og:image"
                 content={post.featuredImage?.node.sourceUrl}
               />
               <meta
                 property="og:title"
-                content={`${post.title} | Vital Signs Magazine`}
+                content={`${post.title} | Vital Signs`}
               />
 
               <meta
@@ -52,7 +52,7 @@ export default function Post({ post, posts }) {
               />
               <meta
                 name="twitter:title"
-                content={`${post.title} | Vital Signs Magazine`}
+                content={`${post.title} | Vital Signs`}
               />
             </Head>
             <PostHeader
