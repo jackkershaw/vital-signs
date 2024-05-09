@@ -24,6 +24,10 @@ export default function Post({ post, posts }) {
     return null;
   }
 
+  const strippedExcerpt = post.excerpt
+    .replace(/<[^>]+>/g, " ")
+    .replace(/&#[^\s;]+;/g, "");
+
   return (
     <Layout>
       {router.isFallback ? (
@@ -44,7 +48,7 @@ export default function Post({ post, posts }) {
               <meta
                 property="og:description"
                 content={
-                  post.excerpt ||
+                  strippedExcerpt ||
                   "A health workers’ magazine for a new society"
                 }
               />
@@ -63,7 +67,7 @@ export default function Post({ post, posts }) {
               <meta
                 name="twitter:description"
                 content={
-                  post.excerpt ||
+                  strippedExcerpt ||
                   "A health workers’ magazine for a new society"
                 }
               />
