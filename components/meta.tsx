@@ -3,6 +3,7 @@ import Head from "next/head";
 export default function Meta() {
   return (
     <Head>
+      {/* Favicon */}
       <link
         rel="apple-touch-icon"
         sizes="180x180"
@@ -22,50 +23,41 @@ export default function Meta() {
       />
       <link rel="manifest" href="/favicon/site.webmanifest" />
       <link rel="shortcut icon" href="/favicon/favicon.ico" />
-      <meta name="msapplication-TileColor" content="#000000" />
+
+      {/* Theme color */}
       <meta name="theme-color" content="#000" />
-      <link
-        rel="alternate"
-        type="application/rss+xml"
-        href="/feed.xml"
-      />
-      <meta
-        name="description"
-        content="A health workers’ magazine for a new society
-"
-      />
-      <title>Vital Signs</title>
+      <meta name="msapplication-TileColor" content="#000000" />
+
+      {/* Description */}
       <meta
         name="description"
         content="A health workers’ magazine for a new society"
       />
+
+      {/* Title */}
+      <title>Vital Signs</title>
+
+      {/* Twitter Meta Tags */}
       <meta name="twitter:card" content="/images/banner-draft.png" />
-      <meta property="twitter:domain" content="vitalsignsmag.org" />
-      <meta
-        property="twitter:url"
-        content="https://www.vitalsignsmag.org/"
-      />
       <meta name="twitter:title" content="Vital Signs Magazine" />
       <meta
         name="twitter:description"
         content="A health workers’ magazine for a new society"
       />
       <meta name="twitter:image" content="/images/banner-draft.png" />
+
+      {/* Open Graph Meta Tags */}
+      <meta property="og:type" content="website" />
       <meta
         property="og:url"
         content="https://www.vitalsignsmag.org/"
       />
-      <meta property="og:type" content="website" />
       <meta property="og:title" content="Vital Signs Magazine" />
       <meta
         property="og:description"
         content="A health workers’ magazine for a new society"
       />
       <meta property="og:image" content="/images/banner-draft.png" />
-      <meta
-        property="twitter:image"
-        content="/images/banner-draft.png"
-      />
     </Head>
   );
 }
