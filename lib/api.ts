@@ -93,7 +93,6 @@ export async function getAllPostsForHome(preview) {
 }
 
 export async function getPostAndMorePosts(slug) {
-  const slugCursor = await getCursor(slug);
   const data = await fetchAPI(
     `
     fragment AuthorFields on User {
@@ -135,22 +134,17 @@ export async function getPostAndMorePosts(slug) {
         }
       }
     }
-    query PostBySlug($id: ID!, $idType: PostIdType!, $cursor: String) {
+    query PostBySlug($id: ID!, $idType: PostIdType!) {
       post(id: $id, idType: $idType) {
         ...PostFields
         content
       }
-      posts(first: 4, after: $cursor) {
+      posts(first: 10000) {
         edges {
           node {
             ...PostFields
             content
           }
-          cursor
-        }
-        pageInfo {
-          endCursor
-          hasNextPage
         }
       }
     }
@@ -159,37 +153,42 @@ export async function getPostAndMorePosts(slug) {
       variables: {
         id: slug,
         idType: "SLUG",
-        cursor: slugCursor,
       },
     }
   );
+
+  const originalPostCategory = data.post.categories.edges.map(
+    ({ node }) => node.name
+  );
+
+  // don't display same post in more posts //
 
   data.posts.edges = data.posts.edges.filter(
     ({ node }) => node.slug !== slug
   );
 
-  if (data.posts.edges.length > 3) data.posts.edges.pop();
+  // display category of posts, check against category of original post and choose posts from the same category //
+
+  data.posts.edges = data.posts.edges.filter(({ node }) => {
+    const postCategories = node.categories.edges.map(
+      ({ node }) => node.name
+    );
+    return postCategories.some((category) =>
+      originalPostCategory.includes(category)
+    );
+  });
+
+  const filteredPosts = data.posts.edges.filter(({ node }) =>
+    node.categories.edges.some(({ node }) =>
+      originalPostCategory.includes(node.name)
+    )
+  );
+
+  //  limit posts to three //
+
+  data.posts.edges = filteredPosts.slice(0, 3);
 
   return data;
-}
-
-export async function getCursor(slug) {
-  const data = await fetchAPI(
-    `
-    query PostBySlug($id: ID!, $idType: PostIdType!) {
-      post(id: $id, idType: $idType) {
-        date
-      }
-    }
-  `,
-    {
-      variables: {
-        id: slug,
-        idType: "SLUG",
-      },
-    }
-  );
-  return data?.post?.date;
 }
 
 export async function getAboutPageContent(aboutPageSlug = "about") {
