@@ -8,7 +8,10 @@ export default function PostPreview({
   slug,
   category,
 }) {
-  const sentence = excerpt.split(/[.()]/)[0].trim().concat(".");
+  let sentence: string = excerpt
+    ? excerpt.split(/[.!?()]/)[0].trim()
+    : "";
+
   return (
     <div className="mb-6 sm:mb-0">
       <div className="flex flex-col space-y-2 sm:space-y-3">
