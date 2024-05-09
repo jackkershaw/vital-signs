@@ -1,6 +1,39 @@
 import Head from "next/head";
+import { useEffect } from "react";
 
 export default function Meta() {
+  useEffect(() => {
+    const existingMetaTags = document.head.querySelectorAll(
+      'meta[name="description"], meta[name="twitter:description"], meta[property="og:description"], meta[name="twitter:image"], meta[property="og:image"]'
+    );
+
+    existingMetaTags.forEach((tag) => {
+      // Check if the content attribute is empty or null
+      if (!tag.getAttribute("content")) {
+        // Fill the content attribute if it's empty
+        if (tag.getAttribute("name") === "description") {
+          tag.setAttribute(
+            "content",
+            "A health workers’ magazine for a new society"
+          );
+        } else if (
+          tag.getAttribute("name") === "twitter:description" ||
+          tag.getAttribute("property") === "og:description"
+        ) {
+          tag.setAttribute(
+            "content",
+            "A health workers’ magazine for a new society"
+          );
+        } else if (
+          tag.getAttribute("name") === "twitter:image" ||
+          tag.getAttribute("property") === "og:image"
+        ) {
+          tag.setAttribute("content", "/images/banner-draft.png");
+        }
+      }
+    });
+  }, []);
+
   return (
     <Head>
       <link
@@ -29,24 +62,15 @@ export default function Meta() {
         type="application/rss+xml"
         href="/feed.xml"
       />
-      <meta
-        name="description"
-        content="A health workers’ magazine for a new society
-"
-      />
-      <title>Vital Signs Magazine</title>
       <meta name="description" content="Vital Signs Magazine" />
-      <meta name="twitter:card" content="/images/banner-draft.png" />
+      <title>Vital Signs Magazine</title>
+      <meta name="twitter:card" content="summary_large_image" />
       <meta property="twitter:domain" content="vitalsignsmag.org" />
       <meta
         property="twitter:url"
         content="https://www.vitalsignsmag.org/"
       />
       <meta name="twitter:title" content="Vital Signs Magazine" />
-      <meta
-        name="twitter:description"
-        content="A health workers’ magazine for a new society"
-      />
       <meta name="twitter:image" content="/images/banner-draft.png" />
       <meta
         property="og:url"
@@ -54,10 +78,6 @@ export default function Meta() {
       />
       <meta property="og:type" content="website" />
       <meta property="og:title" content="Vital Signs Magazine" />
-      <meta
-        property="og:description"
-        content="A health workers’ magazine for a new society"
-      />
       <meta property="og:image" content="/images/banner-draft.png" />
     </Head>
   );
