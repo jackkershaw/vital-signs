@@ -35,8 +35,10 @@ export default function Meta() {
 "
       />
       <title>Vital Signs Magazine</title>
-
-      <meta name="description" content="Vital Signs Magazine" />
+      <meta
+        name="description"
+        content="A health workers’ magazine for a new society"
+      />
       <meta name="twitter:card" content="/images/banner-draft.png" />
       <meta property="twitter:domain" content="vitalsignsmag.org" />
       <meta
