@@ -5,7 +5,7 @@ import PostBody from "../../components/post-body";
 import MoreStories from "../../components/more-stories";
 import PostHeader from "../../components/post-header";
 import SectionSeparator from "../../components/section-separator";
-import Layout from "../../components/layout";
+import Layout from "../../components/post-layout";
 import PostTitle from "../../components/post-title";
 import {
   getAllPostsWithSlug,
@@ -38,12 +38,21 @@ export default function Post({ post, posts }) {
                 content={post.featuredImage?.node.sourceUrl}
               />
               <meta
+                property="og:title"
+                content={`${post.title} | Vital Signs Magazine`}
+              />
+
+              <meta
                 name="twitter:card"
                 content={post.featuredImage?.node.sourceUrl}
               />
               <meta
                 property="twitter:image"
                 content={post.featuredImage?.node.sourceUrl}
+              />
+              <meta
+                name="twitter:title"
+                content={`${post.title} | Vital Signs Magazine`}
               />
             </Head>
             <PostHeader
