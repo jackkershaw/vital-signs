@@ -24,9 +24,9 @@ export default function Post({ post, posts }) {
     return null;
   }
 
-  const strippedExcerpt = post.excerpt
-    .replace(/<[^>]+>/g, " ")
-    .replace(/&#[^\s;]+;/g, "");
+  const strippedExcerpt = post?.excerpt
+    ? post.excerpt.replace(/<[^>]+>/g, " ").replace(/&#[^\s;]+;/g, "")
+    : "";
 
   return (
     <Layout>
