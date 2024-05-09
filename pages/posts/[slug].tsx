@@ -41,18 +41,31 @@ export default function Post({ post, posts }) {
                 property="og:title"
                 content={`${post.title} | Vital Signs`}
               />
-
+              <meta
+                property="og:description"
+                content={
+                  post.excerpt ||
+                  "A health workers’ magazine for a new society"
+                }
+              />
               <meta
                 name="twitter:card"
                 content={post.featuredImage?.node.sourceUrl}
               />
               <meta
-                property="twitter:image"
+                name="twitter:image"
                 content={post.featuredImage?.node.sourceUrl}
               />
               <meta
                 name="twitter:title"
                 content={`${post.title} | Vital Signs`}
+              />
+              <meta
+                name="twitter:description"
+                content={
+                  post.excerpt ||
+                  "A health workers’ magazine for a new society"
+                }
               />
             </Head>
             <PostHeader
