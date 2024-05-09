@@ -136,6 +136,8 @@ const sentence = excerpt.split(/[.()]/)[0].trim().concat(".");
 
   - This was being undone by the default meta values, so I made new post-layout post-meta components without the meta tags that the [slug].tsx file contains. I stripped html from the excerpts, when setting them as meta descriptions, here too as it was causing issues.
 
+- Added vercel speed insights
+
   # Running on your machine
 
 ## Run Next.js in development mode:
