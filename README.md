@@ -165,7 +165,7 @@ From here it is very easy to create new posts, just click the “add new post”
 - Add content
 - Add an excerpt (this is a sentence about the article - can just be first line from the article - which will be displayed on the homepage)
 - Add a category (make sure to just add one here, and make sure “uncategorized” is deselected)
-- Add a featured image - this is the image that will show on the homepage, as well as at the top of the article. Landscape images work best here.
+- Add a featured image - this is the image that will show on the homepage, as well as at the top of the article. Landscape images work best here. Make sure to add alt text, for accessibility reasons.
 
 - Separate from the usual "posts" icon, you will find another called "pages". Inside this, you will find the about page.
 

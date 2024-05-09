@@ -55,7 +55,7 @@ export default function Header() {
                   ABOUT
                 </Link>
                 <Link
-                  href="/news"
+                  href="/news?category="
                   className="text-customRed-700 hover:text-customRed-950 active:text-customRed-500"
                 >
                   NEWS
