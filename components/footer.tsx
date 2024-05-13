@@ -3,15 +3,15 @@ import SocialIcons from "./social-icons";
 export default function Footer() {
   return (
     <footer className="bg-customRed-50 w-full">
-      <div className="p-5 sm:p-10 sm:mx-10 font-serif justify-between space-y-10 sm:space-y-0 flex flex-col sm:flex-row">
+      <div className="p-5 lg:p-10 lg:mx-10 font-serif justify-between space-y-10 lg:space-y-0 flex flex-col lg:flex-row">
         <SocialIcons />
         <div className="flex items-center">
           <p className="text-xl font-sans">
             Vital Signs: A Health Workers’ Magazine For a New Society
           </p>
         </div>
-        <div className="sm:text-right">
-          <p className="py-2 sm:py-0">
+        <div className="lg:text-right">
+          <p className="py-2 lg:py-0">
             Site by{" "}
             <a
               href="https://www.jackkershaw.net"
@@ -25,7 +25,7 @@ export default function Footer() {
               Jack Kershaw.
             </a>
           </p>
-          <p className="py-2 sm:py-0">
+          <p className="py-2 lg:py-0">
             Source on{" "}
             <a
               href="https://github.com/jones58/vital-signs"

@@ -13,12 +13,12 @@ export default function Header() {
   };
 
   return (
-    <header className="bg-customRed-50 sm:px-10 pb-5 mb-5 sm:mb-0">
-      <div className="sm:grid sm:grid-cols-2 sm:mx-10">
-        <div className="flex flex-row items-end justify-between px-5 sm:px-0 sm:justify-start sm:space-y-10 bg-customRed-50">
+    <header className="bg-customRed-50 lg:px-10 pb-5 mb-5 lg:mb-0">
+      <div className="lg:grid lg:grid-cols-2 lg:mx-10">
+        <div className="flex flex-row items-end justify-between px-5 lg:px-0 lg:justify-start lg:space-y-10 bg-customRed-50">
           <button
             onClick={() => setMenuOpen(!menuOpen)}
-            className="sm:hidden text-5xl text-customRed-700 pr-5"
+            className="lg:hidden text-5xl text-customRed-700 pr-5"
             aria-label="menu"
           >
             {menuOpen ? (
@@ -28,7 +28,7 @@ export default function Header() {
             )}
           </button>
           <Link href="/" className="max-h-[220px] ">
-            <div className="min-w-[250px] min-h-[250px] sm:min-w-[20vw] sm:min-h-[20vh] relative">
+            <div className="min-w-[250px] min-h-[250px] lg:min-w-[20vw] lg:min-h-[20vh] relative">
               <Image
                 src="/images/banner-draft.png"
                 alt="logo"
@@ -39,15 +39,15 @@ export default function Header() {
           </Link>
         </div>
         {/* mobile menu */}
-        <div className="flex flex-row sm:flex-col sm:justify-end sm:hidden">
+        <div className="flex flex-row lg:flex-col lg:justify-end lg:hidden">
           {menuOpen && (
             <motion.div
-              className="absolute sm:static space-y-8 justify-start w-full flex flex-col z-50 bg-customRed-50 pl-5 sm:pl-0"
+              className="absolute lg:static space-y-8 justify-start w-full flex flex-col z-50 bg-customRed-50 pl-5 lg:pl-0"
               initial={{ opacity: 0, y: -20 }}
               animate={{ opacity: 1, y: 0 }}
               exit={{ opacity: 0, y: -20 }}
             >
-              <div className="flex flex-col sm:flex-row sm:items-center space-y-5 sm:space-y-0 sm:space-x-8 text-3xl font-sans">
+              <div className="flex flex-col lg:flex-row lg:items-center space-y-5 lg:space-y-0 lg:space-x-8 text-3xl font-sans">
                 <Link
                   href="/about"
                   className="text-customRed-700 hover:text-customRed-950 active:text-customRed-500"
@@ -72,9 +72,9 @@ export default function Header() {
           )}
         </div>
         {/* desktop menu */}
-        <div className="hidden sm:flex flex-row sm:flex-col sm:justify-end">
-          <div className="space-x-10 space-y-8 sm:space-y-0 sm:items-center justify-end w-full flex flex-col sm:flex-row z-50 bg-customRed-50">
-            <div className="flex flex-col sm:flex-row sm:items-center space-y-5 sm:space-y-0 sm:space-x-8 text-3xl font-sans pl-10 sm:pl-0">
+        <div className="hidden lg:flex flex-row lg:flex-col lg:justify-end">
+          <div className="space-x-10 space-y-8 lg:space-y-0 lg:items-center justify-end w-full flex flex-col lg:flex-row z-50 bg-customRed-50">
+            <div className="flex flex-col lg:flex-row lg:items-center space-y-5 lg:space-y-0 lg:space-x-8 text-3xl font-sans pl-10 lg:pl-0">
               <Link
                 href="/about"
                 className="text-customRed-700 hover:text-customRed-950 active:text-customRed-500"

@@ -3,7 +3,7 @@ import PostPreview from "./more-stories-preview";
 export default function MoreStories({ posts }) {
   return (
     <section>
-      <div className="sm:flex sm:flex-row sm:justify-between sm:gap-x-6">
+      <div className="lg:flex lg:flex-row lg:justify-between lg:gap-x-6">
         {posts.map(({ node }) => (
           <PostPreview
             key={node.slug}

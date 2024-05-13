@@ -9,9 +9,9 @@
   @apply my-6;
   @apply font-serif;
   @apply prose-lg;
-  @apply sm:prose-xl;
+  @apply lg:prose-xl;
   @apply leading-normal;
-  @apply sm:leading-loose;
+  @apply lg:leading-loose;
 }
 
 .content a {

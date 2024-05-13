@@ -33,7 +33,7 @@ export default function News({ allPosts: { edges }, Categories }) {
   return (
     <div>
       <Layout>
-        <div className="font-bold font-sans text-2xl p-10 bg-customRed-800 text-neutral-50 mb-5 sm:mb-10">
+        <div className="font-bold font-sans text-2xl p-10 bg-customRed-800 text-neutral-50 mb-5 lg:mb-10">
           <select
             value={selectedCategory || ""}
             onChange={handleCategoryChange}
@@ -52,7 +52,7 @@ export default function News({ allPosts: { edges }, Categories }) {
             ))}
           </select>
         </div>
-        <div className="sm:grid sm:grid-cols-4 sm:gap-x-5 sm:gap-y-5">
+        <div className="lg:grid lg:grid-cols-4 lg:gap-x-5 lg:gap-y-5">
           {filteredPosts.map(({ node }) => (
             <PostPreview
               key={node.slug}

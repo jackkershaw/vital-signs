@@ -11,7 +11,7 @@ export default function Index({ allPosts: { edges } }) {
 
   return (
     <Layout>
-      <div className="sm:-mt-10">
+      <div className="lg:-mt-10">
         {heroPost && (
           <HeroPost
             title={heroPost.title}

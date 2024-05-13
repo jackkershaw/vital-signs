@@ -138,7 +138,11 @@ const sentence = excerpt.split(/[.()]/)[0].trim().concat(".");
 
 - Added vercel speed insights
 
-  # Running on your machine
+- Added correct social icon links to the site for fb, twitter and instagram
+- Edit styling of about page, using a CSS Module similar to that of the post body.
+- I noticed the site didn't look good on tablets, so I changed the Tailwind media queries from "sm" to "lg" to improve the design, effectively making tablets have a larger version of the mobile site design.
+
+# Running on your machine
 
 ## Run Next.js in development mode:
 

@@ -13,8 +13,8 @@ export default function HeroPost({
     : "";
 
   return (
-    <section className="sm:py-5 mb-8 sm:mb-0 sm:grid sm:grid-cols-3 sm:items-end sm:w-full sm:gap-x-8">
-      <div className="flex flex-col space-y-4 sm:flex-row sm:space-x-5 sm:items-end sm:flex-between mb-8 sm:mb-0 sm:col-span-2">
+    <section className="lg:py-5 mb-8 lg:mb-0 lg:grid lg:grid-cols-3 lg:items-end lg:w-full lg:gap-x-8">
+      <div className="flex flex-col space-y-4 lg:flex-row lg:space-x-5 lg:items-end lg:flex-between mb-8 lg:mb-0 lg:col-span-2">
         {heroImage && (
           <HeroImage title={title} heroImage={heroImage} slug={slug} />
         )}
@@ -25,7 +25,7 @@ export default function HeroPost({
           >
             {category}
           </Link>
-          <h1 className="text-2xl sm:text-3xl text-customRed-700 hover:text-customRed-950 capitalize">
+          <h1 className="text-2xl lg:text-3xl text-customRed-700 hover:text-customRed-950 capitalize">
             <Link
               href={`/posts/${slug}`}
               dangerouslySetInnerHTML={{ __html: title }}
@@ -42,7 +42,7 @@ export default function HeroPost({
         className="text-lg font-bold font-sans text-primary-500"
       >
         {" "}
-        <div className="bg-customRed-800 mb-10 sm:mb-0 p-5 w-full text-neutral-50 hover:bg-customRed-950 active:bg-customRed-500 right-0">
+        <div className="bg-customRed-800 mb-10 lg:mb-0 p-5 w-full text-neutral-50 hover:bg-customRed-950 active:bg-customRed-500 right-0">
           {" "}
           Read The Latest Issue
         </div>

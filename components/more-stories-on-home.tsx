@@ -5,7 +5,7 @@ export default function MoreStories({ posts }) {
 
   return (
     <section>
-      <div className="sm:grid sm:grid-cols-3 sm:gap-x-8 sm:gap-y-8 sm:my-5">
+      <div className="lg:grid lg:grid-cols-3 lg:gap-x-8 lg:gap-y-8 lg:my-5">
         {limitedPosts.map(({ node }) => (
           <PostPreview
             key={node.slug}
@@ -19,13 +19,13 @@ export default function MoreStories({ posts }) {
           />
         ))}
       </div>
-      <div className="sm:grid sm:grid-cols-3 sm:space-x-5 sm:gap-y-5 sm:items-end sm:w-full sm:gap-x-8">
+      <div className="lg:grid lg:grid-cols-3 lg:space-x-5 lg:gap-y-5 lg:items-end lg:w-full lg:gap-x-8">
         <Link
           href="/news"
-          className="text-lg font-bold font-sans text-primary-500 sm:col-span-1"
+          className="text-lg font-bold font-sans text-primary-500 lg:col-span-1"
         >
           {" "}
-          <div className="bg-customRed-800 mb-10 sm:mb-5 p-5 w-full text-neutral-50 hover:bg-customRed-950 active:bg-customRed-500">
+          <div className="bg-customRed-800 mb-10 lg:mb-5 p-5 w-full text-neutral-50 hover:bg-customRed-950 active:bg-customRed-500">
             {" "}
             Read More
           </div>

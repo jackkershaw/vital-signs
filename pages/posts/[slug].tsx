@@ -79,11 +79,11 @@ export default function Post({ post, posts }) {
             />
             <PostBody content={post.content} />
           </article>
-          <div className="flex flex-col justify-start sm:grid sm:grid-cols-4 ">
+          <div className="flex flex-col justify-start lg:grid lg:grid-cols-4 ">
             <h1 className="text-2xl font-bold font-sans">
               Share this article:
             </h1>
-            <div className="flex justify-between sm:justify-start space-x-14 sm:space-x-5 text-4xl mx-auto sm:mx-0 pt-10 pb-5 sm:pt-0 sm:pb-0">
+            <div className="flex justify-between lg:justify-start space-x-14 lg:space-x-5 text-4xl mx-auto lg:mx-0 pt-10 pb-5 lg:pt-0 lg:pb-0">
               <a
                 href={`https://twitter.com/intent/tweet?text=${post.title}&url=https://www.vitalsignsmag.org/posts/${post.slug}`}
                 target="_blank"
@@ -120,8 +120,8 @@ export default function Post({ post, posts }) {
             </div>
           </div>
           <SectionSeparator />
-          <div className="sm:grid sm:grid-cols-4">
-            <h1 className="pb-6 sm:py-0 text-2xl">Read Next: </h1>
+          <div className="lg:grid lg:grid-cols-4">
+            <h1 className="pb-6 lg:py-0 text-2xl">Read Next: </h1>
             {morePosts.length > 0 && <MoreStories posts={morePosts} />}
           </div>
           <SectionSeparator />

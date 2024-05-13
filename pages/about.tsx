@@ -18,17 +18,17 @@ export default function About({ content, featuredImage }: Props) {
   return (
     <div>
       <Layout>
-        <div className="sm:grid sm:grid-cols-2 sm:gap-10 sm:min-h-[70vh] pb-10">
-          <div className="relative min-w-[200px] min-h-[200px] sm:max-w-[50vw]">
+        <div className="lg:grid lg:grid-cols-2 lg:gap-10 lg:min-h-[70vh] pb-10">
+          <div className="relative min-w-[200px] min-h-[200px] lg:max-w-[50vw]">
             <Image
               src={featuredImage?.node.sourceUrl}
               alt={featuredImage?.node.altText}
-              className="object-cover object-center pb-8 sm:pb-0"
+              className="object-cover object-center pb-8 lg:pb-0"
               fill
             />
           </div>
           <div>
-            <h1 className="font-sans text-2xl sm:text-4xl pb-5">
+            <h1 className="font-sans text-2xl lg:text-4xl pb-5">
               About Vital Signs
             </h1>
             <div

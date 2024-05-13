@@ -9,7 +9,7 @@ export default function News({ allPosts: { edges } }) {
   return (
     <div>
       <Layout>
-        <div className="sm:grid sm:grid-cols-4 sm:gap-x-5 sm:gap-y-5">
+        <div className="lg:grid lg:grid-cols-4 lg:gap-x-5 lg:gap-y-5">
           {Posts.map(({ node }) => (
             <PostPreview
               key={node.slug}
