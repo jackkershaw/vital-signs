@@ -18,7 +18,7 @@ exports.modules = {
   \********************************/
 /***/ ((module) => {
 
-eval("// Exports\nmodule.exports = {\n\t\"content\": \"about_content__ADrHp\",\n\t\"prose-lg\": \"about_prose-lg__vj_j5\",\n\t\"sm:prose-xl\": \"about_sm__prose-xl__aiOMF\"\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9hYm91dC5tb2R1bGUuY3NzIiwibWFwcGluZ3MiOiJBQUFBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQSIsInNvdXJjZXMiOlsid2VicGFjazovLy8uL3BhZ2VzL2Fib3V0Lm1vZHVsZS5jc3M/NzA0ZSJdLCJzb3VyY2VzQ29udGVudCI6WyIvLyBFeHBvcnRzXG5tb2R1bGUuZXhwb3J0cyA9IHtcblx0XCJjb250ZW50XCI6IFwiYWJvdXRfY29udGVudF9fQURySHBcIixcblx0XCJwcm9zZS1sZ1wiOiBcImFib3V0X3Byb3NlLWxnX192al9qNVwiLFxuXHRcInNtOnByb3NlLXhsXCI6IFwiYWJvdXRfc21fX3Byb3NlLXhsX19haU9NRlwiXG59O1xuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./pages/about.module.css\n");
+eval("// Exports\nmodule.exports = {\n\t\"content\": \"about_content__ADrHp\",\n\t\"prose-lg\": \"about_prose-lg__vj_j5\",\n\t\"sm:prose-lg\": \"about_sm__prose-lg__bjBGo\"\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9hYm91dC5tb2R1bGUuY3NzIiwibWFwcGluZ3MiOiJBQUFBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQSIsInNvdXJjZXMiOlsid2VicGFjazovLy8uL3BhZ2VzL2Fib3V0Lm1vZHVsZS5jc3M/NzA0ZSJdLCJzb3VyY2VzQ29udGVudCI6WyIvLyBFeHBvcnRzXG5tb2R1bGUuZXhwb3J0cyA9IHtcblx0XCJjb250ZW50XCI6IFwiYWJvdXRfY29udGVudF9fQURySHBcIixcblx0XCJwcm9zZS1sZ1wiOiBcImFib3V0X3Byb3NlLWxnX192al9qNVwiLFxuXHRcInNtOnByb3NlLWxnXCI6IFwiYWJvdXRfc21fX3Byb3NlLWxnX19iakJHb1wiXG59O1xuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./pages/about.module.css\n");
 
 /***/ }),
 

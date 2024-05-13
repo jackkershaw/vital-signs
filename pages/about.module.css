@@ -1,18 +1,15 @@
-.content {
-  @apply text-lg leading-relaxed;
-}
-
 .content p,
 .content ul,
 .content ol,
 .content blockquote {
   @apply font-serif;
   @apply prose-lg;
-  @apply sm:prose-xl;
+  @apply sm:prose-lg;
   @apply leading-normal;
 }
 
 .content a {
+  @apply no-underline;
   @apply text-customRed-800;
   @apply hover:text-customRed-950;
   @apply active:text-customRed-500;
