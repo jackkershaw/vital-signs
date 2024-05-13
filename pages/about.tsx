@@ -2,6 +2,7 @@ import Layout from "../components/layout";
 import Image from "next/image";
 import { getAboutPageContent } from "../lib/api";
 import { GetStaticProps } from "next";
+import styles from "./about.module.css";
 
 interface Props {
   content: string;
@@ -14,8 +15,6 @@ interface Props {
 }
 
 export default function About({ content, featuredImage }: Props) {
-  const strippedContent = content.replace(/<[^>]+>/g, " ");
-
   return (
     <div>
       <Layout>
@@ -32,9 +31,10 @@ export default function About({ content, featuredImage }: Props) {
             <h1 className="font-sans text-2xl sm:text-4xl pb-5">
               About Vital Signs
             </h1>
-            <div className="font-serif text-lg prose">
-              {strippedContent}
-            </div>
+            <div
+              className={`font-serif text-lg prose ${styles.content}`}
+              dangerouslySetInnerHTML={{ __html: content }}
+            ></div>
           </div>
         </div>
       </Layout>
