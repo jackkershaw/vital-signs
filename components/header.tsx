@@ -47,7 +47,7 @@ export default function Header() {
               animate={{ opacity: 1, y: 0 }}
               exit={{ opacity: 0, y: -20 }}
             >
-              <div className="flex flex-col lg:flex-row lg:items-center space-y-5 lg:space-y-0 lg:space-x-8 text-3xl font-sans">
+              <div className="flex flex-col lg:flex-row lg:items-center space-y-5 lg:space-y-0 lg:space-x-8 text-3xl font-sans pb-5">
                 <Link
                   href="/about"
                   className="text-customRed-700 hover:text-customRed-950 active:text-customRed-500"
@@ -66,8 +66,13 @@ export default function Header() {
                 >
                   ISSUES
                 </Link>
+                <Link
+                  href="/events"
+                  className="text-customRed-700 hover:text-customRed-950 active:text-customRed-500"
+                >
+                  EVENTS
+                </Link>
               </div>
-              <SocialIcons />
             </motion.div>
           )}
         </div>
@@ -96,8 +101,13 @@ export default function Header() {
               >
                 ISSUES
               </Link>
+              <Link
+                href="/events"
+                className="text-customRed-700 hover:text-customRed-950 active:text-customRed-500"
+              >
+                EVENTS
+              </Link>
             </div>
-            <SocialIcons />
           </div>
         </div>
       </div>
