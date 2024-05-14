@@ -78,6 +78,11 @@ export default function Post({ post, posts }) {
               category={post.categories.edges}
             />
             <PostBody content={post.content} />
+            <h1 className="text-2xl font-bold font-sans text-red">
+              {post.pdf.pdf.node.sourceUrl |
+                post.pdf.pdf.node.mediaItemUrl |
+                post.pdf.pdf.node.src}
+            </h1>
           </article>
           <div className="flex flex-col justify-start lg:grid lg:grid-cols-4 ">
             <h1 className="text-2xl font-bold font-sans">

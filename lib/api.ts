@@ -119,6 +119,14 @@ export async function getPostAndMorePosts(slug) {
           ...AuthorFields
         }
       }
+      pdf {
+        pdf {
+          node {
+          sourceUrl
+          mediaItemUrl
+        }
+        }
+      }
       categories {
         edges {
           node {
