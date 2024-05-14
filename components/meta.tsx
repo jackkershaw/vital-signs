@@ -58,6 +58,12 @@ export default function Meta() {
         content="A health workers’ magazine for a new society"
       />
       <meta property="og:image" content="/images/banner-draft.png" />
+
+      {/* Viewport */}
+      <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1"
+      />
     </Head>
   );
 }

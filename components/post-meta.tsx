@@ -22,6 +22,10 @@ export default function Meta() {
       />
       <link rel="manifest" href="/favicon/site.webmanifest" />
       <link rel="shortcut icon" href="/favicon/favicon.ico" />
+      <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1"
+      />
       <meta name="msapplication-TileColor" content="#000000" />
       <meta name="theme-color" content="#000" />
       <link

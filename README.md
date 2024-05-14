@@ -146,6 +146,12 @@ const sentence = excerpt.split(/[.()]/)[0].trim().concat(".");
 
 - Checked the social share images on opengraph.xyz, as well as my personal Facebook and Twitter. I identified an issue with the twitter_card property and fixed it by changing the value to "summary_large_image".
 
+- I noticed the backend (vitalsignscontenteditor.co.uk) was showing up on Google, so I used a Wordpress plugin to redirect to vitalsignsmag.org, instead of the backend (except for /wp-admin).
+
+- I noticed the site itself (vitalsignsmag.org) wasn't showing up well in searches on google, so I improved SEO by:
+  - Adding the NPM package,[next-sitemap](https://www.npmjs.com/package/next-sitemap) to generate a sitemap and robots.txt on site build.
+  - This, along with the dynamic (for blog posts) and static (for pages/the homepage) metadata that I have created, improved the SEO of the site.
+
 # Running on your machine
 
 ## Run the Frontend (Next.js) in development mode:
