@@ -142,9 +142,11 @@ const sentence = excerpt.split(/[.()]/)[0].trim().concat(".");
 - Edit styling of about page, using a CSS Module similar to that of the post body.
 - I noticed the site didn't look good on tablets, so I changed the Tailwind media queries from "sm" to "lg" to improve the design, effectively making tablets have a larger version of the mobile site design.
 
+- The client asked for an events page, instead of an events category so I built something similar to the about page, which could be edited in Wordpress.
+
 # Running on your machine
 
-## Run Next.js in development mode:
+## Run the Frontend (Next.js) in development mode:
 
 ```bash
 npm install
