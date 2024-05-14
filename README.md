@@ -144,6 +144,8 @@ const sentence = excerpt.split(/[.()]/)[0].trim().concat(".");
 
 - The client asked for an events page, instead of an events category so I built something similar to the about page, which could be edited in Wordpress.
 
+- Checked the social share images on opengraph.xyz, as well as my personal Facebook and Twitter. I identified an issue with the twitter_card property and fixed it by changing the value to "summary_large_image".
+
 # Running on your machine
 
 ## Run the Frontend (Next.js) in development mode:
