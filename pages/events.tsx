@@ -1,6 +1,6 @@
 import Layout from "../components/layout";
 import Image from "next/image";
-import { getAboutPageContent } from "../lib/api";
+import { getEventsPageContent } from "../lib/api";
 import { GetStaticProps } from "next";
 import styles from "./about.module.css";
 
@@ -14,7 +14,7 @@ interface Props {
   };
 }
 
-export default function About({ content, featuredImage }: Props) {
+export default function Events({ content, featuredImage }: Props) {
   return (
     <div>
       <Layout>
@@ -29,7 +29,7 @@ export default function About({ content, featuredImage }: Props) {
           </div>
           <div>
             <h1 className="font-sans text-2xl lg:text-4xl pb-5">
-              About Vital Signs
+              Events
             </h1>
             <div
               className={`font-serif text-lg prose ${styles.content}`}
@@ -43,7 +43,7 @@ export default function About({ content, featuredImage }: Props) {
 }
 
 export const getStaticProps: GetStaticProps = async () => {
-  const data = await getAboutPageContent();
+  const data = await getEventsPageContent();
   return {
     props: {
       content: data.content,
