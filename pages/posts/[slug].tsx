@@ -54,7 +54,7 @@ export default function Post({ post, posts }) {
               />
               <meta
                 name="twitter:card"
-                content={post.featuredImage?.node.sourceUrl}
+                content="summary_large_image"
               />
               <meta
                 name="twitter:image"
