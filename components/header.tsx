@@ -51,24 +51,28 @@ export default function Header() {
                 <Link
                   href="/about"
                   className="text-customRed-700 hover:text-customRed-950 active:text-customRed-500"
+                  aria-label="link to the about page"
                 >
                   ABOUT
                 </Link>
                 <Link
                   href="/news?category="
                   className="text-customRed-700 hover:text-customRed-950 active:text-customRed-500"
+                  aria-label="link to the news page"
                 >
                   NEWS
                 </Link>
                 <Link
                   href="/issues"
                   className="text-customRed-700 hover:text-customRed-950 active:text-customRed-500"
+                  aria-label="link to the issues page"
                 >
                   ISSUES
                 </Link>
                 <Link
                   href="/events"
                   className="text-customRed-700 hover:text-customRed-950 active:text-customRed-500"
+                  aria-label="link to the events page"
                 >
                   EVENTS
                 </Link>
@@ -104,6 +108,7 @@ export default function Header() {
               <Link
                 href="/events"
                 className="text-customRed-700 hover:text-customRed-950 active:text-customRed-500"
+                aria-label="link to the events page"
               >
                 EVENTS
               </Link>
