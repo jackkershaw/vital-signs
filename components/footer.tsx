@@ -3,10 +3,10 @@ import SocialIcons from "./social-icons";
 export default function Footer() {
   return (
     <footer className="bg-customRed-50 w-full">
-      <div className="p-5 lg:p-10 lg:mx-10 font-serif justify-between space-y-10 lg:space-y-0 flex flex-col lg:flex-row">
+      <div className="p-5 lg:p-10 lg:mx-10 font-serif justify-between space-y-10 lg:space-y-0 flex flex-col lg:flex-row lg:items-end">
         <SocialIcons />
         <div className="flex items-center">
-          <p className="text-xl font-sans">
+          <p className="text-xl font-sans ">
             Vital Signs: A Health Workers’ Magazine For a New Society
           </p>
         </div>
