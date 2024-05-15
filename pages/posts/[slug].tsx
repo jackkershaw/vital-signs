@@ -80,13 +80,24 @@ export default function Post({ post, posts }) {
             <PostBody content={post.content} />
             {/* only show if pdf exists on page */}
             {post.pdf?.pdf?.node?.mediaItemUrl && (
-              <embed
-                className="text-2xl font-bold font-sans text-red -mt-14 pb-10 mx-auto max-w-2xl"
-                src={post.pdf.pdf.node.mediaItemUrl}
-                type="application/pdf"
-                width="50%"
-                height="800px"
-              ></embed>
+              <div className="-mt-14 -pt-14 mx-auto max-w-2xl pb-14">
+                <div className="flex flex-row justify-between ">
+                  <a
+                    className="text-customRed-800 hover:text-customRed-950 active:text-customRed-500 font-sans font-bold pb-8"
+                    aria-label="link to view PDF full screen"
+                    href={post.pdf.pdf.node.mediaItemUrl}
+                    target="_blankl"
+                  >
+                    View Full Screen
+                  </a>
+                </div>
+                <embed
+                  src={post.pdf.pdf.node.mediaItemUrl}
+                  type="application/pdf"
+                  width="100%"
+                  height="800px"
+                ></embed>
+              </div>
             )}
           </article>
           <div className="flex flex-col justify-start lg:grid lg:grid-cols-4 ">
