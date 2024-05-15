@@ -148,8 +148,16 @@ const sentence = excerpt.split(/[.()]/)[0].trim().concat(".");
 - I noticed the backend (vitalsignscontenteditor.co.uk) was showing up on Google, so I used a Wordpress plugin to redirect to vitalsignsmag.org, instead of the backend (except for /wp-admin).
 
 - I noticed the site itself (vitalsignsmag.org) wasn't showing up well in searches on google, so I improved SEO by:
+
   - Adding the NPM package,[next-sitemap](https://www.npmjs.com/package/next-sitemap) to generate a sitemap and robots.txt on site build.
   - This, along with the dynamic (for blog posts) and static (for pages/the homepage) metadata that I have created, improved the SEO of the site.
+
+- I faced an issue with PDFs on the site - instead of embedding, they showed up as links.
+
+  - using advanced custom fields, I created a PDF uploader in the Wordpress editor.
+  - I used a GraphQL query to fetch the link of pdfs attached to posts.
+  - Displayed this as an embed, with an anchor tag to view the pdf full screen. Unfortunately, the download attribute doesn't work anymore for Chrome and Firefox on cross-origin requests, but a full screen view is usually more than sufficient. Social share icons for the articles will prove invaluable here.
+  - Edited instructions for the client on how to upload PDF posts.
 
 # Running on your machine
 
@@ -186,11 +194,14 @@ From here it is very easy to create new posts, just click the “add new post”
 - Add an excerpt (this is one sentence about the article - can just be first line from the article – which will be displayed on the homepage). If more than one sentence is written, it will get clipped automatically to one sentence.
 - Add a category (make sure to just add one here, and make sure “uncategorized” is deselected)
 - Add a featured image - this is the image that will show on the homepage, as well as at the top of the article. Landscape images work best here. Make sure to add alt text, for accessibility reasons.
+- Add a PDF - If you want to add something as a pdf, you should add it as a post within Wordpress, making sure to set the category to the appropriate issue or leaflets, and then add PDF as a tag (this means it will display on the issues page). There is also now an area on the posts screen where you can upload PDFs. PDFs should be uploaded here rather than in the body of the post.
 
 - Separate from the usual "posts" icon, you will find another called "pages". Inside this, you will find the about page.
 
 ![About page](readme-images/image-2.png)
 
 - This can be edited in a similar way to posts/articles, and has a featured image that can be changed. Edits will be reflected on vitalsignsmag.org/about
+
+- The same process goes for the events page - it is edited in the same way and changes are reflected on vitalsignsmag.org/events.
 
 If you have any other questions about editing the site, please feel free to email me on [jackkershaw@protonmail.com](mailto:jackkershaw@protonmail.com)
