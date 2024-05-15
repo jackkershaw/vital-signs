@@ -1,0 +1,48 @@
+"%@ requires memory to be on. Adjust in **settings**." = "%@ के लिए मेमोरी चालू होना ज़रूरी है। **सेटिंग्स** में एडजस्ट करें";
+
+"ChatGPT" = "ChatGPT";
+
+"Unable to load GPT." = "GPT लोड नहीं की जा सकी।";
+
+"Share" = "शेयर करें";
+
+"%lld more" = "%lld ज़्यादा";
+
+"Upgrade Plan" = "प्लान को अपग्रेड करें";
+
+"See less" = "कम देखें";
+
+"Temporary Chat" = "टेम्पररी चैट";
+
+"Share GPT" = "GPT शेयर करें";
+
+"Manage Chat" = "चैट मैनेज करें";
+
+"Explore GPTs" = "GPTs को एक्सप्लोर करें";
+
+"Menu" = "मेनू";
+
+"Your workspace owner hasn't approved this GPT" = "आपके वर्कस्पेस ओनर ने इस GPT को अप्रूव नहीं किया है";
+
+"ChatGPT %@" = "ChatGPT %@";
+
+"Rename Chat" = "चैट का नाम बदलें";
+
+"Title" = "शीर्षक";
+
+"This GPT is no longer available." = "ये GPT अब उपलब्ध नहीं है";
+
+"Archive" = "आर्काइव करें";
+
+"Review GPT" = "GPT का रिव्यु करें";
+
+"Rename" = "नाम बदलें";
+
+"Memory Off" = "मेमोरी बंद";
+
+"Remove From Sidebar" = "साइडबार से हटाएँ";
+
+"Keep in Sidebar" = "साइडबार में रखें";
+
+"No results for **%@**" = "**%@** के लिए कोई रिज़ल्ट्स नहीं";
+

@@ -1,0 +1,40 @@
+"Learn More" = "了解更多";
+
+"Memory is disabled" = "記憶功能已停用";
+
+"Error deleting memory" = "刪除記憶時發生錯誤";
+
+"Select a GPT" = "選取一個 GPT";
+
+"Are you sure?" = "你確定嗎？";
+
+"Clear ChatGPT’s memory" = "清除 ChatGPT 的記憶";
+
+"%@'s memories" = "%@ 的記憶";
+
+"Clear this GPT's memory" = "清除此 GPT 的記憶";
+
+"Open menu to select which GPT to show memories for" = "開啟選單，選取要顯示的 GPT 記憶";
+
+"No memories" = "無記憶";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ 將會忘記你們交談時的所有內容，此操作無法撤銷。";
+
+"Search memories" = "搜尋記憶";
+
+"Memory" = "記憶";
+
+"Could not reset memory. Please try again later." = "無法重設記憶，請稍後再試。";
+
+"Turn On" = "開啟";
+
+"Error loading GPTs" = "載入 GPT 時發生錯誤";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "當你與 %@ 交談時，系統記住的細節和偏好將在此處顯示。";
+
+"Error loading memories" = "載入記憶時發生錯誤";
+
+"%@ won't use or create memories" = "%@ 不會使用或建立記憶";
+
+"Clear Memory" = "清除記憶";
+

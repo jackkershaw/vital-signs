@@ -1,0 +1,70 @@
+"Select" = "തിരഞ്ഞെടുക്കുക";
+
+"View prompt" = "പ്രോംപ്റ്റ് കാണുക";
+
+"Back" = "തിരികെ പോകുക";
+
+"Flash on, tap to toggle off" = "ഫ്ലാഷ് ഓൺ ആണ്, ഓഫ് ചെയ്യാൻ ടോഗിൾ ചെയ്യുക";
+
+"Next" = "അടുത്തത്";
+
+"Select an area to edit" = "എഡിറ്റ് ചെയ്യാൻ ഒരു ഏരിയ തിരഞ്ഞെടുക്കുക";
+
+"Flash off, tap to toggle to auto" = "ഫ്ലാഷ് ഓഫാണ്, ഓട്ടോയിലേക്ക് മാറ്റാൻ ടോഗിൾ ചെയ്യുക";
+
+"Pick photo" = "ഫോട്ടോ തിരഞ്ഞെടുക്കുക";
+
+"Camera Access Restricted" = "ക്യാമറ ആക്‌സസിന് നിയന്ത്രണം ഏർപ്പെടുത്തിയിരിക്കുന്നു";
+
+"Annotate" = "വ്യാഖ്യാനിക്കുക";
+
+"Thank you for your feedback!" = "നിങ്ങളുടെ ഫീഡ്ബാക്കിന് നന്ദി!";
+
+"Annotate by drawing on the image" = "ചിത്രത്തിൽ വരച്ചുകൊണ്ട് വ്യാഖ്യാനിക്കുക";
+
+"Prompt" = "പ്രോംപ്റ്റ്";
+
+"Flash auto, tap to toggle on" = "ഫ്ലാഷ് ഓട്ടോയിലാണ്, ഓൺ ചെയ്യാൻ ടോഗിൾ ചെയ്യുക";
+
+"Rear camera selected, tap to toggle to front" = "പുറകിലെ ക്യാമറ തിരഞ്ഞെടുത്തു, മുന്നിലേക്ക് മാറ്റാൻ ടോഗിൾ ടാപ്പ് ചെയ്യുക";
+
+"Camera access is restricted on this device. Please check your parental control or system settings." = "ഈ ഉപകരണത്തിൽ ക്യാമറ ആക്‌സസിന് നിയന്ത്രണം ഏർപ്പെടുത്തിയിരിക്കുന്നു. നിങ്ങളുടെ രക്ഷാകർതൃ നിയന്ത്രണമോ സിസ്റ്റം ക്രമീകരണമോ പരിശോധിക്കുക.";
+
+"Camera Access Denied" = "ക്യാമറ ആക്‌സസ് നിരസിച്ചു";
+
+"Dismiss" = "ഒഴിവാക്കുക";
+
+"Good response" = "നല്ല മറുപടി";
+
+"Redo" = "വീണ്ടും ചെയ്യുക";
+
+"Learn more" = "കൂടുതലറിയുക";
+
+"Bad response" = "മോശം മറുപടി";
+
+"This file has expired." = "ഈ ഫയൽ കാലഹരണപ്പെട്ടു.";
+
+"More" = "കൂടുതൽ";
+
+"Undo" = "പഴയപടിയാക്കുക";
+
+"The file was not found." = "ഫയൽ കണ്ടെത്താനായില്ല.";
+
+"This file is not available." = "ഈ ഫയൽ ലഭ്യമല്ല.";
+
+"Image saved" = "ചിത്രം സംരക്ഷിച്ചു";
+
+"Enable camera access in Settings to take photos." = "ഫോട്ടോകൾ എടുക്കാൻ ക്രമീകരണത്തിൽ ക്യാമറ ആക്‌സസ് പ്രവർത്തനക്ഷമമാക്കുക.";
+
+"Copied" = "പകർത്തി";
+
+"Front camera selected, tap to toggle to rear" = "മുൻപിലെ ക്യാമറ തിരഞ്ഞെടുത്തു, പിന്നിലേക്ക് മാറ്റാൻ ടോഗിൾ ടാപ്പ് ചെയ്യുക";
+
+"Failed to load image" = "ചിത്രം ലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു";
+
+"Download complete" = "ഡൗൺലോഡ് പൂർത്തിയായി";
+
+"Select camera device" = "ക്യാമറയുള്ള ഉപകരണം തിരഞ്ഞെടുക്കുക";
+
+"The file download failed. Please try again later." = "ഫയൽ ഡൗൺലോഡ് പരാജയപ്പെട്ടു. ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക.";
+

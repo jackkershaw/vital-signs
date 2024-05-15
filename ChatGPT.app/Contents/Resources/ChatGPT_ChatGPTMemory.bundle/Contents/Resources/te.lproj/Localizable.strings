@@ -1,0 +1,40 @@
+"Turn On" = "ఆన్ చేయండి";
+
+"Clear Memory" = "మెమరీని క్లియర్ చేయండి";
+
+"Select a GPT" = "GPTని ఎంచుకోండి";
+
+"Could not reset memory. Please try again later." = "మెమరీని రీసెట్ చేయడం సాధ్యం కాలేదు. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.";
+
+"Search memories" = "జ్ఞాపకాలను శోధించండి";
+
+"Learn More" = "మరింత తెలుసుకోండి";
+
+"%@ won't use or create memories" = "<%@> ఉపయోగించరు లేదా జ్ఞాపకాలను సృష్టించరు";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "మీ చాట్‌ల నుండి గుర్తుంచుకున్న ప్రతిదాన్ని %@ మరచిపోతారు. ఇది రద్దు చేయబడదు.";
+
+"Memory is disabled" = "మెమొరీ నిలిపివేయబడింది";
+
+"No memories" = "జ్ఞాపకాలు లేవు";
+
+"Open menu to select which GPT to show memories for" = "జ్ఞాపకాలను చూపించడానికి ఏ GPTని ఎంచుకోవడానికి మెనుని తెరవండి";
+
+"Are you sure?" = "మీరు ఖచ్చితంగా చెప్పగలరా?";
+
+"Error deleting memory" = "మెమరీని తొలగించడంలో లోపం";
+
+"Clear this GPT's memory" = "ఈ GPT మెమరీని క్లియర్ చేయండి";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "మీరు <%@>తో చాట్ చేస్తున్నప్పుడు, అది గుర్తుంచుకునే వివరాలు మరియు ప్రాధాన్యతలు ఇక్కడ చూపబడతాయి.";
+
+"Error loading memories" = "జ్ఞాపకాలను లోడ్ చేయడంలో లోపం";
+
+"Clear ChatGPT’s memory" = "ChatGPT మెమరీని క్లియర్ చేయండి";
+
+"Error loading GPTs" = "GPTలను లోడ్ చేయడంలో లోపం";
+
+"%@'s memories" = "%@ యొక్క జ్ఞాపకాలు";
+
+"Memory" = "మెమొరీ";
+

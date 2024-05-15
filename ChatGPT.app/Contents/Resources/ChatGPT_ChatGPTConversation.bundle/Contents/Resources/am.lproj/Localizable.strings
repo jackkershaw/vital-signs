@@ -1,0 +1,48 @@
+"Rename Chat" = "የውይይቱን ስም ቀይር";
+
+"Manage Chat" = "ውይይት አስተዳድር";
+
+"ChatGPT" = "ChatGPT";
+
+"%@ requires memory to be on. Adjust in **settings**." = "%@ ለመብራት ትውስታን ይጠይቃል።**ማቀነባበሪያዎች **ውስጥ አስተካክል።";
+
+"Review GPT" = "GPTን ይገምግሙ";
+
+"Memory Off" = "ትውስታ ጠፍቷል";
+
+"Share GPT" = "GPT አጋራ";
+
+"Explore GPTs" = "GPTዎችን ያስሱ";
+
+"Keep in Sidebar" = "በጎን ማጠራቀሚያ ውስጥ ያስቀምጡ";
+
+"No results for **%@**" = "ለ **%@** ምንም ውጤቶች አልተገኙም";
+
+"Rename" = "ስም ቀይር";
+
+"Temporary Chat" = "ጊዜያዊ ውይይት";
+
+"Upgrade Plan" = "እቅድ ያሻሽሉ";
+
+"Unable to load GPT." = "GPTን መጫን አልተቻለም።";
+
+"Menu" = "ምናሌ";
+
+"Remove From Sidebar" = "ከአቋራጭ መንገድ አስወግድ";
+
+"Title" = "ርዕስ";
+
+"Share" = "ያጋሩ";
+
+"Your workspace owner hasn't approved this GPT" = "የስራ ቦታ ባለቤትዎ ይህንን GPT አላጸደቀውም።";
+
+"See less" = "ያነሰ ይመልከቱ";
+
+"Archive" = "መዝገብ";
+
+"This GPT is no longer available." = "ይህ GPT ከአሁን በኋላ አይገኝም።";
+
+"ChatGPT %@" = "ChatGPT %@";
+
+"%lld more" = "%lld ተጨማሪ";
+

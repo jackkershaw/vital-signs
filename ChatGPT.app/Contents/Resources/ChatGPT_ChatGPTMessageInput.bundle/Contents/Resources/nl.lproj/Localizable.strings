@@ -1,0 +1,82 @@
+"Send" = "Verzenden";
+
+"Are you sure?" = "Weet je het zeker?";
+
+"Scroll to bottom" = "Naar eind scrollen";
+
+"Stop" = "Stoppen";
+
+"Message" = "Bericht";
+
+"Remove attachment" = "Bijlage verwijderen";
+
+"Image attachment failed." = "Bijvoegen van afbeelding is mislukt.";
+
+"You need %@ to continue this chat because it has attachments." = "You need %@ to continue this chat because it has attachments.";
+
+"New Message" = "Nieuw bericht";
+
+"Upload File" = "Bestand uploaden";
+
+"File upload failed." = "Uploaden van bestand is mislukt.";
+
+"Message ChatGPT" = "Bericht sturen aan ChatGPT";
+
+"Attached image" = "Bijgevoegde afbeelding";
+
+"Attach files" = "Bestanden bijvoegen";
+
+"Stop Generating" = "Stoppen met genereren";
+
+"You need %@ to continue this chat because this GPT requires it." = "You need %@ to continue this chat because this GPT requires it.";
+
+"Attach photos" = "Foto's bijvoegen";
+
+"Continue Generating" = "Doorgaan met genereren";
+
+"Replace attachment?" = "Bijlage vervangen?";
+
+"You need %@ to continue this chat because it uses audio." = "You need %@ to continue this chat because it uses audio.";
+
+"Image upload failed." = "Uploaden van afbeelding is mislukt.";
+
+"You've reached your %@ limit." = "You've reached your %@ limit.";
+
+"This chat uses an older version of your custom instructions" = "Deze chat gebruikt een oudere versie van je aangepaste instructies";
+
+"Switch to Voice mode" = "Overschakelen naar spraakmodus";
+
+"Shows the voice recording interface and begins recording" = "Geeft de spraakopname-interface weer en start de opname";
+
+"Failed, retry?" = "Mislukt. Opnieuw proberen?";
+
+"Editing message" = "Bericht wordt bewerkt";
+
+"Edit image" = "Afbeelding bewerken";
+
+"You need %@ to continue this chat because it uses tools." = "You need %@ to continue this chat because it uses tools.";
+
+"Get Plus to Chat" = "Abonneer je op Plus om te chatten";
+
+"This chat is currently unavailable" = "This chat is currently unavailable";
+
+"Fullscreen" = "Volledig scherm";
+
+"Microphone access required" = "Microphone access required";
+
+"Replace" = "Vervangen";
+
+"Dictation" = "Dicteren";
+
+"Edit selection" = "Selectie bewerken";
+
+"Confirm" = "Bevestigen";
+
+"No connection" = "No connection";
+
+"To continue, you’ll need to replace the current attachment." = "Om door te gaan, moet je de huidige bijlage vervangen.";
+
+"If you cancel the text conversion you will lose the recording." = "Als je de tekstconversie annuleert, raak je de opname kwijt.";
+
+"You need %@ to continue this chat because it has images." = "You need %@ to continue this chat because it has images.";
+

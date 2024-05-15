@@ -1,0 +1,16 @@
+"Expected a non-file URL, but received a file URL" = "ایک غیر فائل URL کی توقع تھی لیکن ایک فائل URL موصول ہوا ہے۔";
+
+"Enable photo library access in Settings to save photos." = "تصاویر کو محفوظ کرنے کے لیے ترتیبات میں فوٹو لائبریری تک رسائی کو فعال کریں۔";
+
+"Please try again later.\n\n(%@)" = "براہ کرم کچھ دیر دوبارہ کوشش کریں۔\n\n(%@)";
+
+"Photos Access Denied" = "تصاویر تک رسائی سے انکار کر دیا گیا ہے";
+
+"Image conversion failed" = "تصویری گفتگو نہیں ہوئی";
+
+"Failed to Save Image" = "تصویر محفوظ نہیں ہوئی";
+
+"Not authorized" = "مجاز نہیں ہے";
+
+"Expected a file URL, but received a non-file URL" = "ایک فائل URL کی توقع تھی لیکن ایک غیر فائل URL موصول ہوا ہے۔";
+

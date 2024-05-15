@@ -1,0 +1,52 @@
+"Execute code using Code Interpreter" = "Fuli koodhka adigoo isticmaalaya Code Interpreter";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Maxaad jeclaan lahayd in ChatGPT kaa ogaato si jawaabo sidan ka fiican u bixiso?";
+
+"Customize ChatGPT" = "Gaaryeelo ChatGPT";
+
+"Show tips" = "Muuji tallooyin";
+
+"Generate images using DALL•E" = "Soo saar sawirada adigoo isticmaalaya DALL•E";
+
+"Choose which tools can be used with GPT-4." = "Dooro agabyada lala isticmaali karo GPT-4.";
+
+"Saving Custom Instructions" = "Kaydinta Tilmaamo Shakhsiyeysan";
+
+"Error loading customizations. Please try again later." = "Cillad lagala kulmey soo-rarida shakhsiyeyaashaada.";
+
+"Keep editing" = "Sii wad ka tifatirid";
+
+"Custom Instructions Enabled or Disabled" = "Tilmaamaha shakhsiyeysan loo Furay ama laga Xirey";
+
+"How would you like ChatGPT to respond?" = "Sideed jeclaan lahayd in ChatGPT usoo jawaabto?";
+
+"Browsing" = "Raadinaya";
+
+"Error saving custom instructions" = "Cillad lagala kulmay kaydinta tilmaamaha shakhsiyeysan";
+
+"GPT-4 Capabilities" = "Awoodaha GPT-4";
+
+"DALL•E" = "DALL•E";
+
+"Unsaved changes" = "Isbedelada aan la kaydin";
+
+"Discard changes" = "Tuur isbedelada";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Ma hubtaa inaad dooneysid inaad tuurtid isbedeladaada?\nWixii isbedelo ah ee aad sameyso waa lumi doonaan.";
+
+"Thought starters" = "Afkaar bilaabayaasha";
+
+"Browse the internet to find answers" = "Ka raadi interneetka si aad u raadisid jawaabo";
+
+"Error updating state for customizations. Please try again later." = "Cillad lagala kulmey cusbooneysiinta xaalada shakhsiyeynada. Fadlan iskuday markale hadhow.";
+
+"Code" = "Koodh";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Tilmaamo gaar ah ayaa lagu dabaqi dhammaan sheekeysiyada. [Wax badan ka baro](chat-preferences-disclosures)";
+
+"Save" = "Kaydi";
+
+"An unknown error occurred. Please try again later" = "Cillad aan la garaneyn ayaa dhacday. Fadlan iskuday markale hadhow";
+
+"Enable for new chats" = "U fur sheekeysiyo cusub";
+

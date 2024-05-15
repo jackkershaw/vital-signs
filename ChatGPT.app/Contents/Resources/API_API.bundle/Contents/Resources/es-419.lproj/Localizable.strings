@@ -1,0 +1,18 @@
+"System error" = "Error del sistema";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "El servidor está experimentando un problema. Inténtalo nuevamente más tarde. (%lld, %@)";
+
+"There is a problem with your request. (%lld, %@)" = "Ocurrió un problema con tu solicitud. (%lld, %@)";
+
+"Unsupported content" = "Contenido no compatible";
+
+"The response is invalid. Please try again." = "La respuesta es inválida. Inténtalo nuevamente.";
+
+"You've made too many requests. Please try again later. (429, %@)" = "Realizaste demasiadas solicitudes. Inténtalo nuevamente más tarde. (429, %@)";
+
+"This content may violate our content policy. Please try again with different content." = "Este contenido podría infringir nuestra Política de contenido. Inténtalo nuevamente con otro contenido.";
+
+"There is a problem with your account info. Please try signing out then in." = "Ocurrió un problema con la información de tu cuenta. Intenta cerrar la sesión y volver a iniciarla.";
+
+"The server is overloaded. Please try again later." = "El servidor está sobrecargado. Inténtalo nuevamente más tarde.";
+

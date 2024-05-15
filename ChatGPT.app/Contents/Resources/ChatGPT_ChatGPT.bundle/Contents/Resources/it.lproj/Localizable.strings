@@ -1,0 +1,16 @@
+"You do not have access to this app yet!" = "Non hai ancora accesso a questa app.";
+
+"Received an empty response from ChatGPT. Please try again." = "ChatGPT ha inviato una risposta vuota. Riprova.";
+
+"You do not have access to the Desktop app yet. You can still use ChatGPT at %@" = "You do not have access to the Desktop app yet. You can still use ChatGPT at %@";
+
+"Did not receive a response from ChatGPT. Please try again." = "ChatGPT non ha inviato alcuna risposta. Riprova.";
+
+"You do not have access to this app yet. You can still use ChatGPT at %@" = "You do not have access to this app yet. You can still use ChatGPT at %@";
+
+"You are logged out. Please open the ChatGPT app to log in." = "Hai effettuato la disconnessione. Apri l'app ChatGPT per effettuare l'accesso.";
+
+"Your most recent request failed. Please try again." = "La tua richiesta più recente non è andata a buon fine. Riprova.";
+
+"Can't determine the right ChatGPT model to use. Please try again." = "Impossibile determinare il modello ChatGPT corretto da usare. Riprova.";
+

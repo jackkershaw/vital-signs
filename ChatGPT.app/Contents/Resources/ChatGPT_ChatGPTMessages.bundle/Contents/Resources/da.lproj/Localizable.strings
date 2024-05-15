@@ -1,0 +1,76 @@
+"Stop Generating" = "Stop med at generere";
+
+"Memory updated" = "Hukommelsen er nu opdateret";
+
+"Sign in to %@" = "Log ind på %@";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Filen er ikke længere tilgængelig. Start en ny samtale eller upload en ny fil for at fortsætte din samtale.";
+
+"Upgraded response" = "Opgraderet respons";
+
+"Continue Generating" = "Fortsæt med at generere";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT opbevarer kun filer i en begrænset periode. Start en ny samtale eller upload en ny fil for at fortsætte din samtale.";
+
+"Change Model" = "Skift model";
+
+"Your most recent request failed. Please retry!" = "Din seneste anmodning mislykkedes. Prøv igen!";
+
+"Quick Look" = "Hurtig visning";
+
+"#%lld row" = "række #%lld";
+
+"Please try again later.%@" = "Prøv venligst igen senere.%@";
+
+"Regenerate" = "Regenerer";
+
+"Select Text" = "Vælg tekst";
+
+"Always allow" = "Tillad altid";
+
+"Deny" = "Nægt handling";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "Uploader ^[%lld vedhæftede filer ](inflect: true)…";
+
+"\"%@\" cell" = "\"%@\" celle";
+
+"Selection" = "Valgte";
+
+"Response rating failed." = "Svarbedømmelse mislykkedes.";
+
+"Bad" = "Dårlig";
+
+"Manage memories" = "Administrer hukommelse";
+
+"\"%@\" column" = "\"%@\" kolonne";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Skrevet med vores mest kompetente model, GPT-4, tilgængelig på ChatGPT Plus";
+
+"File unavailable" = "Filen er utilgængelig";
+
+"A GPT" = "En GPT";
+
+"Failed, retry?" = "Mislykkedes, prøv igen?";
+
+"Memories updated" = "Hukommelsen er nu opdateret";
+
+"Decline" = "Afvis";
+
+"Read Aloud" = "Læs højt";
+
+"Analysis" = "Analyse";
+
+"Response rating failed." = "Responsbedømmelse mislykkedes.";
+
+"You" = "Dig";
+
+"How would you rate this GPT?" = "Hvordan vil du bedømme denne GPT?";
+
+"Loading…" = "Indlæser...";
+
+"Save File As…" = "Gem fil som...";
+
+"File expired" = "Filen er udløbet";
+
+"Edit" = "Rediger";
+

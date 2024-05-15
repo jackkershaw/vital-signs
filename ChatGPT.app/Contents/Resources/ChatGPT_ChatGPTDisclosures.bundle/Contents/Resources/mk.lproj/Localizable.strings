@@ -1,0 +1,150 @@
+"Custom Instructions will still be followed if you have them enabled." = "Приспособените упатства и понатаму ќе се следат, ако ги имаш овозможено.";
+
+"Get Started" = "Започни";
+
+"Just start talking" = "Само почни да зборуваш";
+
+"Language is auto-detected" = "Јазикот се открива автоматски";
+
+"Active for new chats" = "Активно за нови разговори";
+
+"Chat with voice" = "Разговарај со глас";
+
+"Chats may be reviewed by our AI trainers to improve our systems." = "Разговорите може да бидат прегледани од нашите обучувачи за ВИ за да ги подобрат нашите системи.";
+
+"Manage what it remembers" = "Управувај со она што го памети";
+
+"Welcome to\nChatGPT" = "Добре дојде на \nChatGPT";
+
+"Welcome to your company's workspace" = "Добре дојде на работниот простор на твојата компанија";
+
+"Welcome to ChatGPT" = "Добре дојде на ChatGPT";
+
+"Help improve voice" = "Помогни да се подобри гласот";
+
+"Not in history" = "Не е во историјата";
+
+"Temporary Chat" = "Привремен разговор";
+
+"Now you can have spoken conversations with GPTs." = "Сега може да имаш говорни разговори со GPT.";
+
+"Temporary Chats won’t be used to improve our models." = "Привремените разговори нема да се користат за подобрување на нашите модели.";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "Привремените разговори нема да се појават во твојата историја. Заради безбедност, може да задржиме копија од твојот разговор до 30 дена.";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "Обиди се да користиш слики за да си го поправиш велосипедот, да креираш рецепт или да анализираш сложени графикони.";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "ChatGPT може да одговара на прашања, да ти помогне да учиш, да пишуваш код, да размислувате заедно и многу повеќе.";
+
+"No model training" = "Нема обука на модели";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "Оваа официјална апликација е бесплатна, ја синхронизира твојата историја на сите уреди и ти ги носи најновите подобрувања на моделот од OpenAI.";
+
+"Picture perfect" = "Совршено";
+
+"Continue" = "Продолжи";
+
+"Tap Select, highlight the area, and describe changes in chat." = "Допри Избери, означи ја областа и опиши ги промените во разговорот.";
+
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "Приспособи ги твоите интеракции со ChatGPT со обезбедување конкретни детали и упатства за твоите разговори.";
+
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "Ти контролираш. Прегледај и избриши одредени мемории, започни од нула или исклучи ја функцијата во поставките.";
+
+"ChatGPT can be inaccurate" = "ChatGPT може да биде неточен";
+
+"Follows custom instructions" = "Следи приспособени упатства";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "Обезбеди контекст за твојата индустрија, својство или конкретни проекти за да добиеш подобри одговори приспособени за тебе.";
+
+"Control your chat history" = "Контролирај ја твојата историја на разговори";
+
+"Share audio from future voice chats to improve and train our models." = "Сподели аудио од идните гласовни разговори за подобрување и обука на нашите модели.";
+
+"Hands-free" = "Без раце";
+
+"Start with a photo" = "Започни со слика";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "Додека е во привремен разговор, ChatGPT нема да користи или креира мемории. Приспособените упатства сè уште ќе се следат ако ги имаш овозможено.";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "Прегледај ги гласовните транскрипции во твојата историја. Аудиоклиповите не се зачувани.";
+
+"More helpful over time" = "Покорисно со текот на времето";
+
+"Chats are saved" = "Разговорите се зачувани";
+
+"You’re in control" = "Ти контролираш";
+
+"ChatGPT now has memory across chats" = "ChatGPT сега има меморија низ разговорите";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "Овде може да ги користиш нашите најнови модели, со повеќе способности и помалку ограничувања.";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "Одлучи дали новите разговори на уредов ќе се појават во твојата историја и ќе се користат за подобрување на нашите системи.";
+
+"Introducing\nCustom Instructions" = "Воведување\nприспособени упатства";
+
+"Chat with images" = "Разговарај со слики";
+
+"Ask away" = "Прашај";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "ChatGPT може да обезбеди неточни информации за луѓе, места или факти.";
+
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "ChatGPT ќе ти стане покорисен како што разговараш, постојано запомнувајќи ги деталите и преференциите.";
+
+"Choose a voice" = "Избери глас";
+
+"Snap a picture to ask ChatGPT about the world around you." = "Направи слика за да го прашаш ChatGPT за светот околу тебе.";
+
+"Taking steps to protect privacy" = "Преземање чекори за заштита на приватноста";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "Иако имаме заштитни мерки, ChatGPT може да ти даде неточни информации. Не е наменет да дава совети.";
+
+"Edit the full image" = "Уреди ја целосната слика";
+
+"Now you can have spoken conversations with ChatGPT." = "Сега може да имаш говорни разговори со ChatGPT.";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "За да ги подобриме гласовните разговори, нашиот тим може да го прегледа аудиото. Преземаме чекори за намалување на количината на лични информации во аудио што се користи за обука на нашите модели.";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "Твоите упатства ќе ги подобрат нашите модели. Посети го нашиот [Центар за помош](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) за да дознаеш повеќе за тоа како ќе се користат твоите податоци.";
+
+"Don’t share sensitive info" = "Не споделувај чувствителни информации";
+
+"Learn more" = "Дознај повеќе";
+
+"Tap Edit and describe changes in chat." = "Допри Уреди и опиши ги промените во разговорот.";
+
+"Select an area of the image to edit" = "Избери област на сликата за да ја уредиш";
+
+"Built for business" = "Верзија за бизнис";
+
+"Keep the conversation going" = "Продолжи со разговорот";
+
+"Check your facts" = "Провери ги твоите факти";
+
+"Don't Share" = "Не споделувај";
+
+"By default, chats in this workspace are not used to train our AI models." = "Стандардно, разговорите во овој работен простор не се користат за обука на нашите модели со ВИ.";
+
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "ChatGPT ќе го пренесе она што го учи од разговорите, што ќе му овозможи да обезбеди посоодветни одговори.";
+
+"Help improve our models" = "Помогни ни да ги подобриме нашите модели";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Ако не сакаш да продолжиш, може да престанеш да споделуваш во секое време во поставките. \n\n[Дознај повеќе](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Made for use at work" = "Направено за употреба на работа";
+
+"Welcome to the %@ workspace" = "Добре дојде на работниот простор на %@";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "За попрецизно откривање може да наведеш претпочитан јазик во Поставки.";
+
+"Memory off" = "Меморијата е исклучена";
+
+"Refine DALL·E Images" = "Усоврши ги DALL·E-сликите";
+
+"Improve voice chats for everyone" = "Подобри ги гласовните разговори за секого";
+
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "Секогаш кога ги уредуваш твоите приспособени упатства, тие ќе важат за сите нови разговори што ги креираш. Постарите разговори нема да се ажурираат.";
+
+"Share" = "Сподели";
+
+"Chat without having to look at your screen." = "Разговарај без да гледаш во екранот.";
+

@@ -1,0 +1,170 @@
+"Select %@" = "Atlasīt %@";
+
+"Tap to cancel" = "Pieskaries, lai atceltu";
+
+"Connecting" = "Izveido savienojumu";
+
+"It interrupted me" = "Tas mani pārtrauca";
+
+"%lld." = "%lld.";
+
+"Listening intently" = "Klausās uzmanīgi";
+
+"Connect" = "Savienot";
+
+"Tap to interrupt" = "Pieskaries, lai pārtrauktu";
+
+"Voice feedback: give thumbs down" = "Balss atsauksme: neapstiprināt";
+
+"Connecting.." = "Izveido savienojumu…";
+
+"Thank you!" = "Paldies!";
+
+"Flip camera to the front" = "Apvērs kameru uz priekšu";
+
+"Stop listening" = "Pārtraukt klausīties";
+
+"Error: '%@'" = "Kļūda: „%@”";
+
+"You can change this later." = "Vari to mainīt vēlāk.";
+
+"Unknown error" = "Nezināma kļūda";
+
+"Idle" = "Dīks";
+
+"Open camera" = "Atvērt kameru";
+
+"Save to Photos" = "Saglabāt Fotoattēlos";
+
+"Voice chat ended after " = "Balss tērzēšana beigsies pēc ";
+
+"Other" = "Cits";
+
+"Audio issues" = "Audio problēmas";
+
+"Pause" = "Pauze";
+
+"Paused" = "Pauzēts";
+
+"Restart" = "Restartēt";
+
+"Pick photo" = "Atlasi fotoattēlu";
+
+"Learn more" = "Uzzināt vairāk";
+
+"Connection failed, click to retry" = "Savienojums neizdevās, noklikšķini, lai mēģinātu vēlreiz";
+
+"Listening" = "Klausās";
+
+"Unable to send response. Please try again." = "Nevar nosūtīt atbildi. Lūdzu, mēģini vēlreiz.";
+
+"Voice feedback: give thumbs up" = "Balss atsauksme: patīk";
+
+"Hold for manual control" = "Turi nospiestu manuālai kontrolei";
+
+"Voice chat ended" = "Balss tērzēšana beigusies";
+
+"Excellent" = "Izcili";
+
+"What went wrong?" = "Kas nogāja greizi?";
+
+"Thinking" = "Domā";
+
+"Start speaking" = "Sākt runāt";
+
+"Close" = "Aizvērt";
+
+"It misheard me" = "Tas mani pārklausījās";
+
+"Helping improve voice" = "Palīdz uzlabot balsi";
+
+"Connection failed, tap to retry" = "Savienojums neizdevās, pieskaries, lai mēģinātu vēlreiz";
+
+"Enable microphone access in Settings" = "Iespējo mikrofona piekļuvi Iestatījumos";
+
+"Failed to connect" = "Neizdevās savienot";
+
+"Halted" = "Apstādināts";
+
+"Take picture" = "Uzņemt attēlu";
+
+"Good" = "Labi";
+
+"Resume listening" = "Atsākt klausīšanos";
+
+"On for training" = "Ieslēgts apmācībai";
+
+"Speak to keep active" = "Runā, lai saglabātu aktīvo statusu";
+
+"Go backward 15 seconds" = "Attīt 15 sekundes";
+
+"Choose a voice" = "Izvēlies balsi";
+
+"I didn’t like the responses" = "Man nepatika atbildes";
+
+"Submit feedback" = "Iesniegt atsauksmi";
+
+"Unselect %@" = "Noņemt atlasi no %@";
+
+"Finish speaking to send" = "Beidz runāt, lai nosūtītu";
+
+"Release to send" = "Atlaid, lai nosūtītu";
+
+"Poor" = "Slikts";
+
+"%lldms" = "%lld ms";
+
+"Tap to dismiss" = "Pieskaries, lai nerādītu";
+
+"Connecting." = "Izveido savienojumu.";
+
+"Click to activate" = "Noklikšķini, lai aktivizētu";
+
+"Grace Period for %@s" = "Termiņa pagarinājums %@ s";
+
+"Voice mode" = "Balss režīms";
+
+"Click to cancel" = "Noklikšķini, lai atceltu";
+
+"Tap to connect" = "Pieskaries, lai savienotu";
+
+"Speak now" = "Runāt tagad";
+
+"Lost" = "Pazaudēts";
+
+"Speaking" = "Runā";
+
+"Flip camera to the rear" = "Apvērs kameru uz aizmuguri";
+
+"•" = "•";
+
+"Select all that apply" = "Atlasi visas iespējas, kas attiecas";
+
+"Go forward 15 seconds" = "Pārtīt 15 sekundes";
+
+"Tap to send manually" = "Pieskaries, lai nosūtītu manuāli";
+
+"Click to connect" = "Noklikšķini, lai savienotu";
+
+"Click to interrupt" = "Noklikšķini, lai pārtrauktu";
+
+"Close camera" = "Aizvērt kameru";
+
+"See more information about voice research" = "Skatīt vairāk informācijas par balss izpēti";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "Tu izvēlējies koplietot savu balss tērzētavu audio, lai uzlabotu un apmācītu mūsu modeļus. Tas ietver skaņu no mikrofona, kad modelis domā vai runā. Vari pārtraukt koplietošanu iestatījumos.";
+
+"Tap to activate" = "Pieskaries, lai aktivizētu";
+
+"Poor connection" = "Slikts savienojums";
+
+"Play" = "Atskaņot";
+
+"Unable to review action" = "Nevar pārskatīt rīcību";
+
+"Connected" = "Savienots";
+
+"Click to send manually" = "Noklikšķini, lai nosūtītu manuāli";
+
+"Unknown" = "Nezināms";
+

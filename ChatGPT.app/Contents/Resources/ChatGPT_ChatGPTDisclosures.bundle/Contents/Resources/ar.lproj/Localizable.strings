@@ -1,0 +1,150 @@
+"Chats may be reviewed by our AI trainers to improve our systems." = "قد تتم مراجعة الدردشات بواسطة مدربو الذكاء الاصطناعي لدينا بهدف تحسين أنظمتنا.";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "ستؤدي التعليمات التي تقدمها إلى تحسين نماذجنا. يرجى زيارة [مركز المساعدة](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) للتعرف على المزيد حول كيفية استخدام بياناتك.";
+
+"Just start talking" = "ابدأ التحدث فحسب";
+
+"Check your facts" = "تأكد من مراجعة الحقائق";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "على الرغم من أن لدينا تدابير احترازية، فإن ChatGPT قد يقدم لك معلومات غير دقيقة. فليس الهدف منه تقديم النصائح.";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "لن تظهر الدردشات المؤقتة في سجلك. ولأغراض تتعلق بالأمان، قد نحتفظ بنسخة من الدردشة التي أجريتها لمدة تصل إلى 30 يومًا.";
+
+"Chat with images" = "الدردشة باستخدام الصور";
+
+"Don’t share sensitive info" = "عدم مشاركة المعلومات الحساسة";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "عرض النصوص المكتوبة المحولة من المحادثة الصوتية في سجلك. لا يتم تخزين المقاطع الصوتية.";
+
+"Don't Share" = "عدم المشاركة";
+
+"Help improve voice" = "المساعدة على تحسين جودة الصوت";
+
+"Active for new chats" = "مفعلة للدردشات الجديدة";
+
+"Control your chat history" = "التحكم في سجل الدردشة الخاص بك";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "هنا يمكنك استخدام أحدث نماذجنا، بإمكانيات أكبر وحدود أقل.";
+
+"Start with a photo" = "ابدأ بصورة";
+
+"Temporary Chat" = "دردشة مؤقتة";
+
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "في أي وقت تحرر فيه التعليمات المخصصة، ستطبق تغييراتك على جميع الدردشات الجديدة التي ستنشئها. ولكن لن يتم تحديث الدردشات القديمة.";
+
+"Not in history" = "لا يتم حفظها في السجل";
+
+"Built for business" = "مُصمم للأعمال التجارية";
+
+"ChatGPT now has memory across chats" = "يتمتع ChatGPT الآن بذاكرة تنتقل عبر الدردشات";
+
+"Chat with voice" = "الدردشة باستخدام الصوت";
+
+"Manage what it remembers" = "التحكم فيما يتذكره";
+
+"Welcome to\nChatGPT" = "مرحبًا بك في\nChatGPT";
+
+"You’re in control" = "أنت صاحب القرار";
+
+"Choose a voice" = "اختر صوتًا";
+
+"Ask away" = "اطرح سؤالك";
+
+"Welcome to ChatGPT" = "مرحبًا بك في ChatGPT";
+
+"Follows custom instructions" = "تتبع التعليمات المخصصة";
+
+"Chats are saved" = "تم حفظ الدردشات";
+
+"By default, chats in this workspace are not used to train our AI models." = "بصورة افتراضية، لا يتم استخدام الدردشات في مساحة العمل هذه لتدريب نماذج الذكاء الاصطناعي خاصتنا.";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "قد يقدم ChatGPT معلومات غير دقيقة حول الأشخاص أو الأماكن أو الحقائق.";
+
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "سيصبح ChatGPT أكثر فائدة مع مواصلة الدردشة، حيث يتذكر التفاصيل والتفضيلات باستمرار.";
+
+"Introducing\nCustom Instructions" = "التعريف\nبالتعليمات المخصصة";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "لتحسين جودة الدردشات الصوتية، قد يراجع فريقنا المقاطع الصوتية. ونحن نتخذ إجراءات لتقليل كم المعلومات الشخصية الموجودة في المقاطع الصوتية التي تستخدم في تدريب نماذجنا.";
+
+"Tap Edit and describe changes in chat." = "اضغط على \"تحرير\" وقم بوصف التغييرات التي أجريت في الدردشة.";
+
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "أنت صاحب القرار. قم باستعراض وحذف أي معلومات محددة محفوظة في الذاكرة أو البدء من جديد أو إيقاف تشغيل الخاصية من الإعدادات.";
+
+"More helpful over time" = "يصبح أكثر فائدة بمرور الوقت";
+
+"Now you can have spoken conversations with GPTs." = "يمكنك الآن إجراء محادثات منطوقة مع نماذج GPT.";
+
+"Welcome to your company's workspace" = "مرحبًا بك في مساحة العمل الخاصة بشركتك";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "هذا التطبيق الرسمي مجاني وهو يقوم بمزامنة سجلك عبر الأجهزة ويقدم لك أحدث تحسينات النماذج من OpenAI.";
+
+"Welcome to the %@ workspace" = "مرحبًا بك في مساحة العمل %@";
+
+"Continue" = "متابعة";
+
+"Snap a picture to ask ChatGPT about the world around you." = "التقط صورة لتسأل ChatGPT عن المكان المحيط بك.";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "بينما تستخدم الدردشات المؤقتة، لن يقوم ChatGPT باستخدام ذاكرات أو ينشئها. إذا كانت لديك تعليمات مخصصة، فسيتم الاستمرار في اتباعها إذا كانت مُمكنة.";
+
+"Refine DALL·E Images" = "تحسين صور DALL E";
+
+"Learn more" = "تعرف على المزيد";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "قدم سياقًا حول مجال عملك أو منصبك أو مشروعاتك المحددة للحصول على إجابات أفضل مصممة خصيصًا لك.";
+
+"Picture perfect" = "صورة مثالية";
+
+"Edit the full image" = "تحرير الصورة بالكامل";
+
+"Now you can have spoken conversations with ChatGPT." = "يمكنك الآن إجراء محادثات منطوقة مع ChatGPT.";
+
+"Tap Select, highlight the area, and describe changes in chat." = "اضغط على \"تحديد\" وحدد المنطقة وقم بوصف التغييرات التي أجريت في الدردشة.";
+
+"Improve voice chats for everyone" = "تحسين جودة الدردشات الصوتية للجميع";
+
+"Help improve our models" = "المساعدة على تحسين نماذجنا";
+
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "سينقل ChatGPT ما يتعلمه بين الدردشات، ما يتيح له تقديم إجابات أكثر ملاءمة.";
+
+"Memory off" = "الحفظ في الذاكرة غير نشط";
+
+"ChatGPT can be inaccurate" = "يمكن أن يكون ChatGPT غير دقيق";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "يمكنك تحديد اللغة المفضلة في الإعدادات لاكتشاف لغوي أكثر دقة.";
+
+"Keep the conversation going" = "استمر في المحادثة";
+
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "قم بتخصيص تفاعلاتك مع ChatGPT عن طريق تقديم تفاصيل وإرشادات محددة للدردشات التي تجريها.";
+
+"Hands-free" = "دون استخدام اليدين";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "إذا كنت لا ترغب في المتابعة، فيمكنك إيقاف المشاركة في أي وقت من الإعدادات.\n\n[تعرف على المزيد](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Chat without having to look at your screen." = "قم بالدردشة دون الحاجة للنظر إلى شاشتك.";
+
+"Custom Instructions will still be followed if you have them enabled." = "سيتم الاستمرار في اتباع التعليمات المخصصة إذا كان قد تم تمكينها.";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "اتخذ قرارًا بشأن ما إذا كانت الدردشات الجديدة على هذا الجهاز ستظهر في سجلك وتُستخدم لتحسين أنظمتنا.";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "يستطيع ChatGPT الإجابة عن الأسئلة ومساعدتك على التعلم وكتابة التعليمات البرمجية وتبادل الأفكار معك وغير ذلك الكثير.";
+
+"Share" = "مشاركة";
+
+"Language is auto-detected" = "يتم اكتشاف اللغة تلقائيًا";
+
+"Select an area of the image to edit" = "تحديد منطقة في الصورة لتحريرها";
+
+"Made for use at work" = "صُمم للاستخدام في العمل";
+
+"Get Started" = "البدء";
+
+"Taking steps to protect privacy" = "اتخاذ الإجراءات اللازمة لحماية الخصوصية";
+
+"No model training" = "لا يتم تدريب النماذج بها";
+
+"Share audio from future voice chats to improve and train our models." = "شارك الصوت من الدردشات الصوتية التي ستجرى لاحقًا لتحسين نماذجنا وتدريبها.";
+
+"Temporary Chats won’t be used to improve our models." = "لن يتم استخدام الدردشات المؤقتة لتحسين نماذجنا.";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "جرب استخدام الصور لإصلاح دراجتك أو إعداد وصفة طعام أو تحليل الرسومات البيانية المعقدة.";
+

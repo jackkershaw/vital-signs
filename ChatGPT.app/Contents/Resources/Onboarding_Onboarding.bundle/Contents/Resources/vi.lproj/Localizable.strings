@@ -1,0 +1,96 @@
+"Verify your email" = "Xác minh email của bạn";
+
+"Resend email" = "Gửi lại email";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "Không thể tìm nạp thông tin cần thiết. Vui lòng kiểm tra kết nối internet của bạn và khởi động lại ứng dụng. (%@)";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Bằng cách nhấp vào \"Tiếp tục\", bạn đồng ý với [Điều Khoản](https://openai.com/policies/terms-of-use) của chúng tôi và công nhận [Chính Sách Riêng Tư](https://openai.com/policies/privacy-policy) của chúng tôi cũng như [Phụ Lục Hàn Quốc](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Đã xảy ra sự cố với kết nối internet của bạn. Vui lòng thử lại. (%lld)";
+
+"Please solve this puzzle so we know you're a person." = "Hãy giải câu đố này để chúng tôi biết bạn là con người.";
+
+"Finish creating your OpenAI account" = "Hoàn tất việc tạo tài khoản OpenAI của bạn";
+
+"Tell us about you." = "Hãy cho chúng tôi biết về bạn.";
+
+"error" = "lỗi";
+
+"Area code" = "Mã vùng";
+
+"Verify phone number" = "Xác minh số điện thoại";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Bằng cách nhấp vào \"Tiếp tục\", bạn xác nhận rằng bạn được cha mẹ hoặc người giám hộ cho phép sử dụng ChatGPT, đồng ý với [Điều Khoản](https://openai.com/policies/terms-of-use) của chúng tôi và công nhận [Chính Sách Riêng Tư](https://openai.com/policies/privacy-policy) của chúng tôi cũng như [Phụ Lục Hàn Quốc](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Continue" = "Tiếp tục";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "Chúng tôi không thể tạo tài khoản cho bạn theo [Điều Khoản Sử Dụng](https://openai.com/policies/terms-of-use) của chúng tôi.";
+
+"Select your area code" = "Chọn mã vùng của bạn";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "Không thể tìm nạp các quốc gia. Vui lòng kiểm tra kết nối internet của bạn và khởi động lại ứng dụng. %@";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "Chúng tôi đã gửi email tới %@.\nNhấp vào liên kết bên trong để bắt đầu.";
+
+"Please provide a phone number for verification." = "Vui lòng cung cấp số điện thoại để xác minh.";
+
+"I've verified my email" = "Tôi đã xác minh email của mình";
+
+"Your email is not yet verified. Please check your email inbox." = "Email của bạn chưa được xác minh. Vui lòng kiểm tra hộp thư email của bạn.";
+
+"Select your Birthday" = "Chọn Ngày sinh của bạn";
+
+"Something went wrong. Sign out and try again." = "Đã xảy ra lỗi. Đăng xuất và thử lại.";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "Đã xảy ra lỗi. Vui lòng khởi động lại ứng dụng hoặc đăng xuất và thử lại.";
+
+"There was a problem, please try again. (%@)" = "Đã xảy ra sự cố, vui lòng thử lại. (%@)";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Đã xảy ra lỗi. Tài khoản đã được tạo nhưng không thể làm mới. Vui lòng đăng xuất và đăng nhập lại.";
+
+"Resend code" = "Gửi lại mã";
+
+"Enter the code we just sent to your number ending in **%@" = "Nhập mã chúng tôi vừa gửi tới số kết thúc bằng **%@ của bạn";
+
+"Email resent!" = "Đã gửi lại email!";
+
+"Please check your internet connection and retry." = "Vui lòng kiểm tra kết nối internet của bạn và thử lại.";
+
+"Your account could not be created. Please try again. %@" = "Không thể tạo tài khoản cho bạn. Vui lòng thử lại. %@";
+
+"Please choose a valid date for your birthday." = "Vui lòng chọn ngày hợp lệ cho ngày sinh của bạn.";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Bằng cách nhấp vào \"Tiếp tục\", bạn xác nhận rằng bạn được cha mẹ hoặc người giám hộ cho phép sử dụng ChatGPT, đồng ý với [Điều Khoản](https://openai.com/policies/terms-of-use) của chúng tôi và công nhận [Chính Sách Riêng Tư](https://openai.com/policies/privacy-policy).";
+
+"First name" = "Tên";
+
+"Something went wrong. Please try again." = "Đã xảy ra lỗi. Vui lòng thử lại.";
+
+"You have made too many attempts. Please try again later." = "Bạn đã thử quá nhiều lần. Vui lòng thử lại sau.";
+
+"Last name" = "Họ";
+
+"There was a problem verifying your phone number. %@" = "Đã xảy ra sự cố khi xác minh số điện thoại của bạn. %@";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Bằng cách nhấp vào \"Tiếp tục\", bạn đồng ý với [Điều Khoản](https://openai.com/policies/terms-of-use) của chúng tôi và công nhận [Chính Sách Riêng Tư](https://openai.com/policies/privacy-policy) của chúng tôi.";
+
+"Phone number" = "Số điện thoại";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "Để được trợ giúp, vui lòng xem [hướng dẫn xác minh số điện thoại](https://help.openai.com/articles/6613520-phone-verification).";
+
+"There was a problem verifying the code. %@" = "Đã xảy ra sự cố khi xác minh mã. %@";
+
+"Open Mail App" = "Mở Ứng Dụng Thư";
+
+"Sorry, we aren't able to create your account" = "Rất tiếc, chúng tôi không thể tạo tài khoản cho bạn";
+
+"There was a problem, please try again." = "Đã xảy ra sự cố, vui lòng thử lại.";
+
+"Birthday" = "Sinh nhật";
+
+"Verify you're human" = "Xác minh bạn là con người";
+
+"Code" = "Mã";
+
+"Failed to load required information." = "Không thể tải thông tin cần thiết.";
+

@@ -1,0 +1,52 @@
+"Customize ChatGPT" = "Prilagodi ChatGPT";
+
+"Error updating state for customizations. Please try again later." = "Pojavila se pogreška pri ažuriranju stanja prilagodbi. Pokušajte ponovno kasnije.";
+
+"Saving Custom Instructions" = "Spremanje prilagođenih uputa";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Prilagođene upute primijenit će se na sva nova čavrljanja. [Saznajte više](chat-preferences-disclosures)";
+
+"GPT-4 Capabilities" = "Sposobnosti modela GPT-4";
+
+"Keep editing" = "Nastavi uređivati";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Jeste li sigurni da želite odbaciti promjene?\nIzgubit ćete sve promjene koje ste unijeli.";
+
+"Execute code using Code Interpreter" = "Izvrši kôd s pomoću Tumača koda";
+
+"Show tips" = "Prikaži savjete";
+
+"Choose which tools can be used with GPT-4." = "Odaberite koji se alati mogu upotrebljavati s modelom GPT-4.";
+
+"Discard changes" = "Odbaci promjene";
+
+"Error saving custom instructions" = "Pojavila se pogreška pri spremanju prilagođenih uputa";
+
+"Code" = "Kôd";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Što želite da ChatGPT zna o vama da bi vam mogao davati bolje odgovore?";
+
+"DALL•E" = "DALL•E";
+
+"Error loading customizations. Please try again later." = "Pojavila se pogreška pri učitavanju prilagodbi. Pokušajte ponovno kasnije.";
+
+"Save" = "Spremi";
+
+"Enable for new chats" = "Omogući za nove razgovore";
+
+"Unsaved changes" = "Nespremljene promjene";
+
+"Thought starters" = "Inspiracija za misli";
+
+"An unknown error occurred. Please try again later" = "Pojavila se nepoznata pogreška. Pokušajte ponovno kasnije";
+
+"Generate images using DALL•E" = "Generiraj slike s pomoću modela DALL E";
+
+"Browsing" = "Pretraživanje";
+
+"How would you like ChatGPT to respond?" = "Kako želite da ChatGPT odgovara?";
+
+"Custom Instructions Enabled or Disabled" = "Prilagođene upute su omogućene ili nisu omogućene";
+
+"Browse the internet to find answers" = "Pregledavanjem interneta pronađi odgovore";
+

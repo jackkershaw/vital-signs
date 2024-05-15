@@ -1,0 +1,34 @@
+"Auto-Detect" = "Автоматаар илрүүлэх";
+
+"Retry transcription" = "Галиглалыг дахин оролдох";
+
+"There was a problem starting the recording." = "Бичлэг хийж эхлэхэд асуудал гарлаа.";
+
+"There was an unexpected error. %@" = "Гэнэтийн алдаа гарлаа. %@";
+
+"Click to stop recording" = "Бичлэгийг зогсоох бол товшино уу";
+
+"Click to record" = "Бичлэг хийх бол товшино уу";
+
+"Tap to stop recording" = "Бичлэгийг зогсоох бол дарна уу";
+
+"The recording was cancelled." = "Бичлэг цуцлагдсан.";
+
+"To use Whisper, you need to allow ChatGPT to use your microphone." = "Whisper-г ашиглахын тулд, таны микрофоныг ашиглахыг ChatGPT-д зөвшөөрөх шаардлагатай.";
+
+"Converting to text…" = "Текст болгож хувиргаж байна…";
+
+"Open Settings" = "Тохиргоог нээх";
+
+"Tap to record" = "Бичлэг хийх бол дарна уу";
+
+"Recordings must be longer than 1s." = "Бичлэг нь 1 секундээс урт байх ёстой.";
+
+"There was a problem with the recording." = "Бичлэг хийхэд асуудал гарлаа.";
+
+"An internet connection is required" = "Интернэт холболт шаардлагатай";
+
+"Start new recording" = "Шинэ бичлэг эхлүүлэх";
+
+"The recording could not be processed. Please check your internet connection. (%lld)" = "Бичлэгийг боловсруулж чадсангүй. Интернэт холболтоо шалгана уу. (%lld)";
+

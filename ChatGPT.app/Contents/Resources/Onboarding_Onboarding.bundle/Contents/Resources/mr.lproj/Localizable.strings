@@ -1,0 +1,90 @@
+"Area code" = "क्षेत्र कोड";
+
+"Verify your email" = "तुमचा ईमेल सत्यापित करा";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "आमच्या वापराच्या अटींमुळे आम्ही तुमचे खाते तयार करू [शकत नाही](https://openai.com/policies/terms-of-use).";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "आम्ही ला ईमेल पाठवला आहे %@. \nप्रारंभ करण्यासाठी आतील दुव्यावर क्लिक करा.";
+
+"Something went wrong. Please try again." = "काहीतरी चूक झाली. पुन्हा प्रयत्न करा.";
+
+"Your email is not yet verified. Please check your email inbox." = "तुमचा ईमेल अद्याप सत्यापित झालेला नाही. कृपया तुमचा ईमेल इनबॉक्स तपासा.";
+
+"Last name" = "आडनाव";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "काहीतरी चूक झाली. कृपया ॲप रीस्टार्ट करा किंवा साइन आउट करा आणि पुन्हा प्रयत्न करा.";
+
+"There was a problem verifying your phone number. %@" = "तुमचा फोन नंबर सत्यापित करताना समस्या आली आहे.%@";
+
+"Verify phone number" = "फोन नंबर सत्यापित करा";
+
+"First name" = "पहिले नाव";
+
+"Resend email" = "ईमेल पुन्हा पाठवा";
+
+"Continue" = "सुरू ठेवा";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "देश आणले जाऊ शकले नाहीत. कृपया तुमचे इंटरनेट कनेक्शन तपासा आणि ॲप रीस्टार्ट करा. %@";
+
+"Something went wrong. Sign out and try again." = "काहीतरी चूक झाली. साइन आउट करा आणि पुन्हा प्रयत्न करा.";
+
+"Code" = "कोड";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "मदतीसाठी, कृपया फोन [सत्यापन मार्गदर्शक पहा](https://help.openai.com/articles/6613520-phone-verification).";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "काहीतरी चुकले. खाते आधीच तयार केले गेले आहे परंतु रीफ्रेश केले जाऊ शकत नाही. कृपया साइन आउट करा आणि पुन्हा साइन इन करा.";
+
+"Select your area code" = "तुमचा क्षेत्र कोड निवडा";
+
+"Enter the code we just sent to your number ending in **%@" = "आम्ही नुकताच तुमच्या नंबरवर पाठवलेला कोड एंटर करा **%@";
+
+"Verify you're human" = "तुम्ही मनुष्य आहात याची खात्री करा";
+
+"Your account could not be created. Please try again. %@" = "तुमचे खाते तयार करता आले नाही. कृपया पुन्हा प्रयत्न करा. %@";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "“सुरू ठेवा” वर क्लिक करून तुम्ही [आमच्या](https://openai.com/policies/terms-of-use)अटींना सहमती देता आणि आमचे [गोपनीयता धोरण](https://openai.com/policies/privacy-policy) आणि त्याचे कोरिया परिशिष्] [टमान्य करता](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Open Mail App" = "मेल ॲप उघडा";
+
+"Resend code" = "कोड पुन्हा पाठवा";
+
+"Phone number" = "फोन नंबर";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "तुमच्या इंटरनेट कनेक्शनमध्ये समस्या आली. कृपया पुन्हा प्रयत्न करा. (%lld)";
+
+"Please solve this puzzle so we know you're a person." = "कृपया हे कोडे सोडवा म्हणजे तुम्ही एक मनुष्य आहात हे आम्हाला कळेल.";
+
+"Failed to load required information." = "आवश्यक माहिती लोड करण्यात अयशस्वी.";
+
+"There was a problem, please try again." = "एक समस्या आली आहे, कृपया पुन्हा प्रयत्न करा.";
+
+"There was a problem verifying the code. %@" = "कोड सत्यापित करताना समस्या आली.%@";
+
+"Birthday" = "वाढदिवस";
+
+"Email resent!" = "ईमेल पुन्हा पाठवला!";
+
+"I've verified my email" = "मी माझ्या ईमेलची पडताळणी केली आहे";
+
+"There was a problem, please try again. (%@)" = "एक समस्या आली आहे, कृपया पुन्हा प्रयत्न करा.(%@)";
+
+"Finish creating your OpenAI account" = "तुमचे OpenAI खाते तयार करणे पूर्ण करा";
+
+"Select your Birthday" = "तुमचा वाढदिवस निवडा";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "आवश्यक माहिती मिळवता आली नाही. कृपया तुमचे इंटरनेट कनेक्शन तपासा आणि ॲप रीस्टार्ट करा. (%@)";
+
+"Sorry, we aren't able to create your account" = "क्षमस्व, आम्ही तुमचे खाते तयार करू शकत नाही";
+
+"Please choose a valid date for your birthday." = "कृपया तुमच्या वाढदिवसासाठी वैध तारीख निवडा.";
+
+"Please provide a phone number for verification." = "कृपया पडताळणीसाठी फोन नंबर द्या.";
+
+"Please check your internet connection and retry." = "कृपया तुमचे इंटरनेट कनेक्शन तपासा आणि पुन्हा प्रयत्न करा.";
+
+"Tell us about you." = "तुमच्याबद्दल सांगा.";
+
+"error" = "त्रुटी";
+
+"You have made too many attempts. Please try again later." = "तुम्ही खूप प्रयत्न केले आहेत. कृपया नंतर पुन्हा प्रयत्न करा.";
+

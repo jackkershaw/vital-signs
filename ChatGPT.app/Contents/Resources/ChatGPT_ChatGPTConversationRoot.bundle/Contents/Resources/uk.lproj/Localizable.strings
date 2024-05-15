@@ -1,0 +1,34 @@
+"Memory off" = "Пам’ять вимкнено";
+
+"Turn history on" = "Увімкнути історію";
+
+"Deleting chat failed" = "Помилка видалення чата";
+
+"Toggle Sidebar" = "Перемикати бічну панель";
+
+"Open Settings" = "Відкрити налаштування";
+
+"Deleting chat…" = "Видалення чата…";
+
+"Voice capabilities aren’t currently available when history is turned off." = "Голосові можливості наразі недоступні, якщо історію вимкнено.";
+
+"Error reading message out loud" = "Помилка читання повідомлення вголос";
+
+"There is a problem with your internet connection." = "Виникла проблема з вашим підключенням до Інтернету.";
+
+"Voice capabilities aren’t currently available with this GPT because it requires memory to be on." = "Голосові можливості наразі недоступні в цьому GPT, оскільки для нього потрібно ввімкнути пам’ять.";
+
+"Please make sure this feature is enabled for your account." = "Переконайтеся, що цю функцію ввімкнено для вашого облікового запису.";
+
+"History off" = "Історію вимкнено";
+
+"Thank you for your feedback!" = "Дякуємо за відгук!";
+
+"Voice unavailable" = "Голосові функції недоступні";
+
+"Open Memory Settings" = "Відкрити налаштування пам’яті";
+
+"Deleted chat" = "Чат видалено";
+
+"Close menu" = "Закрити меню";
+

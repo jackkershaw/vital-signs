@@ -1,0 +1,150 @@
+"Temporary Chat" = "臨時交談";
+
+"Ask away" = "儘管發問";
+
+"Help improve voice" = "協助改善語音品質";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "你可以在「設定」中指定偏好語言，獲得更準確的偵測結果。";
+
+"Chat with images" = "用圖像交談";
+
+"Chat without having to look at your screen." = "交談時無須查看螢幕。";
+
+"Share" = "分享";
+
+"Temporary Chats won’t be used to improve our models." = "臨時交談不會用來改善我們的模型。";
+
+"Chats are saved" = "交談已儲存";
+
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "一切由你掌控。請檢閱並刪除特定記憶、從頭開始，或在設定中關閉該功能。";
+
+"Get Started" = "開始使用";
+
+"Start with a photo" = "從照片開始";
+
+"Welcome to your company's workspace" = "歡迎使用貴公司的工作空間";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "如果不想繼續，你可以隨時在設定中停止分享。\n\n[了解更多](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Welcome to ChatGPT" = "歡迎使用 ChatGPT";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "ChatGPT 可以回答問題、協助你學習、編寫程式碼、一起腦力激盪等等。";
+
+"Control your chat history" = "控制你的交談歷程";
+
+"Follows custom instructions" = "遵循自訂指令";
+
+"Hands-free" = "免持";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "這款官方應用程式不會收取費用，可以跨裝置同步你的歷程紀錄，並為你帶來 OpenAI 最新模型的改善功能。";
+
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "只要你每次編輯自訂指令，就會在建立的所有新交談中生效。舊的對話將不會更新。";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "在臨時交談期間，ChatGPT 不會使用或建立記憶。如果你已啟用自訂指令，則系統仍會加以遵循。";
+
+"No model training" = "不會用來訓練模型";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "臨時交談不會出現在你的歷程紀錄中。為了安全起見，我們可能會保留你的交談副本長達 30 天。";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "決定此裝置上的新交談是否會顯示在你的歷程紀錄中，並用於改善我們的系統。";
+
+"Active for new chats" = "對新交談有效";
+
+"Check your facts" = "查核事實";
+
+"Tap Select, highlight the area, and describe changes in chat." = "輕點「選取」並醒目提示該區域，然後在交談中說明變更。";
+
+"Welcome to\nChatGPT" = "歡迎使用\nChatGPT";
+
+"Made for use at work" = "專為工作使用";
+
+"By default, chats in this workspace are not used to train our AI models." = "依預設，此工作空間的交談內容不會用來訓練我們的 AI 模型。";
+
+"Chat with voice" = "用語音交談";
+
+"Not in history" = "不在歷程紀錄中";
+
+"Taking steps to protect privacy" = "採取措施保護隱私權";
+
+"Memory off" = "記憶功能關閉";
+
+"Select an area of the image to edit" = "選取要編輯的圖像區域";
+
+"Snap a picture to ask ChatGPT about the world around you." = "拍張照片，向 ChatGPT 詢問關於你周圍環境的問題。";
+
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "當你不斷地交談時，ChatGPT 將變得更實用，持續記住各種細節和偏好。";
+
+"Keep the conversation going" = "持續進行對話";
+
+"Don't Share" = "不要分享";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "你能在此處使用我們最新的模型，功能更多樣、限制更少。";
+
+"Learn more" = "了解更多";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "雖然我們有保障措施，但 ChatGPT 可能會向你提供不準確的資訊。此服務並非為了提供建議所設計。";
+
+"Picture perfect" = "完美無瑕";
+
+"Don’t share sensitive info" = "請勿分享敏感資訊";
+
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "透過提供交談的具體細節和指引，自訂你與 ChatGPT 的互動。";
+
+"You’re in control" = "一切由你掌控";
+
+"Refine DALL·E Images" = "改善 DALL·E 圖像";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "不妨使用照片來修理自行車、製作食譜或分析複雜的圖表。";
+
+"Choose a voice" = "選擇聲音";
+
+"Built for business" = "專為企業打造";
+
+"ChatGPT now has memory across chats" = "ChatGPT 現在可以跨交談記憶相關內容";
+
+"Edit the full image" = "編輯完整圖像";
+
+"Tap Edit and describe changes in chat." = "輕點「編輯」並說明交談中的變更。";
+
+"Now you can have spoken conversations with GPTs." = "現在你可以使用 GPT 進行口語對話。";
+
+"Just start talking" = "只要開始說話即可";
+
+"More helpful over time" = "隨著時間變得更實用";
+
+"Manage what it remembers" = "管理記憶的內容";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "ChatGPT 提供的人物、地點或事實資訊有可能不準確。";
+
+"Language is auto-detected" = "語言已自動偵測";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "提供關於你所屬的產業、職務角色或特定專案的前後關聯，獲得更適合你的答案。";
+
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "ChatGPT 會在交談間保留所學習的內容，以便提供更相關的回應。";
+
+"Continue" = "繼續";
+
+"Chats may be reviewed by our AI trainers to improve our systems." = "我們的 AI 訓練員可能會審查交談來改善系統。";
+
+"Welcome to the %@ workspace" = "歡迎使用 %@ 工作空間";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "為了改善語音交談品質，我們的團隊可能會審查音訊品質。我們也會採取措施減少其中所含的個人資訊來訓練模型。";
+
+"Now you can have spoken conversations with ChatGPT." = "現在你可以使用 ChatGPT 進行口語對話。";
+
+"Share audio from future voice chats to improve and train our models." = "分享未來語音交談中的音訊內容，來改善和訓練我們的模型。";
+
+"Help improve our models" = "協助改善我們的模型";
+
+"Improve voice chats for everyone" = "改善每個人的語音交談品質";
+
+"Introducing\nCustom Instructions" = "自訂\n指令介紹";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "檢視歷程紀錄中的語音轉錄內容。系統不會存放音訊片段。";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "你的指令將使我們的模型更加完善。請造訪我們的[說明中心](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt)，進一步了解我們將如何使用你的資料。";
+
+"Custom Instructions will still be followed if you have them enabled." = "如果你已啟用自訂指令，則系統仍會加以遵循。";
+
+"ChatGPT can be inaccurate" = "ChatGPT 有可能不準確";
+

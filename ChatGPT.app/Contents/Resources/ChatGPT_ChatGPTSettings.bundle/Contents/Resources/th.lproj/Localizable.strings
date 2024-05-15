@@ -1,0 +1,178 @@
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "รายละเอียดบัญชีและบทสนทนาของคุณจะอยู่ในข้อมูลที่ส่งออก\n\nข้อมูลจะส่งให้ทางอีเมลที่คุณลงทะเบียนไว้ในรูปแบบไฟล์ที่สามารถดาวน์โหลดได้\n\nการดำเนินการอาจใช้เวลาสักพัก โดยคุณจะได้รับแจ้งเมื่อข้อมูลพร้อมแล้ว";
+
+"Subscription" = "บริการสมาชิก";
+
+"Subscription Cancellation" = "การยกเลิกบริการสมาชิก";
+
+"Workspace" = "พื้นที่ทำงาน";
+
+"Data Controls" = "การควบคุมข้อมูล";
+
+"Search Archive" = "ค้นหาจากที่เก็บถาวร";
+
+"Memory" = "หน่วยความจำ";
+
+"Archived conversations will be available here" = "บทสนทนาที่เก็บถาวรทั้งหมดจะอยู่ที่นี่";
+
+"ChatGPT for %@" = "ChatGPT สำหรับ %@";
+
+"Voice" = "เสียง";
+
+"Off" = "ปิด";
+
+"Confirm Export" = "ยืนยันการส่งออก";
+
+"App Language" = "ภาษาในแอป";
+
+"Error deleting all chats" = "เกิดข้อผิดพลาดในการลบแชตทั้งหมด";
+
+"Improve voice for everyone" = "ปรับปรุงเสียงเพื่อทุกคน";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "อนุญาตให้ใช้เนื้อหาของคุณเพื่อสอนโมเดลของเรา ซึ่งทำให้ ChatGPT ดีขึ้นสำหรับคุณและผู้ใช้งานทุกคน โดยเรามีขั้นตอนในการปกป้องความเป็นส่วนตัวของคุณ [เรียนรู้เพิ่มเติม](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Unarchive" = "ยกเลิกการเก็บถาวร";
+
+"Color Scheme" = "ชุดสี";
+
+"Archived Chats" = "แชตที่เก็บถาวร";
+
+"Manage workspace" = "จัดการพื้นที่ทำงาน";
+
+"Always show ChatGPT in dock" = "แสดง ChatGPT ใน dock";
+
+"Are you sure?" = "คุณแน่ใจใช่ไหม";
+
+"Customize ChatGPT" = "ปรับแต่ง ChatGPT";
+
+"ChatGPT Enterprise" = "ChatGPT Enterprise";
+
+"Terms of Use" = "เงื่อนไขการใช้งาน";
+
+"Export Data" = "ส่งออกข้อมูล";
+
+"We couldn't load your archived chats" = "เราไม่สามารถโหลดแชตที่เก็บถาวรแล้วของคุณได้";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "คุณจะลบบัญชีได้เมื่อลงชื่อเข้าใช้ภายใน 10 นาทีเท่านั้น\n\nโปรดลงชื่อเข้าใช้อีกครั้งแล้วกลับมาที่นี่เพื่อดำเนินการต่อ";
+
+"This workspace is private and opted out of training." = "พื้นที่ทำงานนี้เป็นส่วนตัวและเลือกไม่นำไปใช้ในการสอน";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "เพื่อผลลัพธ์ที่ดีที่สุด ให้เลือกภาษาที่คุณใช้เป็นหลัก หากไม่มีอยู่ในรายการ ภาษานั้นอาจยังมีการรองรับผ่านการตรวจจับอัตโนมัติ";
+
+"Upgrade to ChatGPT Plus" = "อัปเกรดเป็น ChatGPT Plus";
+
+"Help Center" = "ศูนย์ช่วยเหลือ";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "การลบบัญชีของคุณเป็นการดำเนินการที่ถาวรและไม่สามารถยกเลิกได้ ข้อมูลทั้งหมดของคุณ รวมทั้งโปรไฟล์ บทสนทนา และการใช้ API จะถูกลบ\n\nคุณจะไม่สามารถใช้อีเมลหรือหมายเลขโทรศัพท์เดิมกับบัญชีใหม่ได้\n\nหากคุณได้เคยใช้ ChatGPT ผ่าน API การเข้าถึงดังกล่าวจะถูกลบไปด้วย";
+
+"Light" = "สว่าง";
+
+"Could not delete conversation. Please try again later." = "ไม่สามารถลบบทสนทนาได้ โปรดลองอีกครั้งในภายหลัง";
+
+"Conversation not found" = "ไม่พบบทสนทนา";
+
+"All your chats will be archived. This cannot be undone." = "แชตทั้งหมดของคุณจะถูกเก็บถาวรโดยไม่สามารถยกเลิกได้";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "ChatGPTจะมีประโยชน์มากขึ้นเมื่อคุณแชต โดยจะรับรู้รายละเอียดและความต้องการเพื่อปรับแต่งคำตอบให้กับคุณ [เรียนรู้เพิ่มเติม](%@)\n\nเพื่อทำความเข้าใจว่า ChatGPT จำอะไรบ้างหรือเพื่อสอนเรื่องใหม่ๆ เพียงแค่แชตกับมัน:\n\n• “จำไว้ว่าฉันชอบคำตอบสั้นๆ”\n• “ฉันเพิ่งได้ลูกหมามาตัวนึง”\n• “คุณจำอะไรเกี่ยวกับฉันได้บ้าง”\n• “โครงการก่อนของฉันถึงไหนแล้วนะ”";
+
+"ChatGPT Team" = "ChatGPT Team";
+
+"System" = "ระบบ";
+
+"Dark" = "มืด";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "บันทึกแชตใหม่ในอุปกรณ์นี้ไปที่ประวัติของคุณ และอนุญาตให้นำมาใช้ปรับปรุงโมเดลของเราได้ แชตที่ไม่ได้บันทึกจะถูกลบออกจากระบบของเราภายใน 30 วัน การตั้งค่านี้ไม่ซิงก์กับอุปกรณ์อื่น [เรียนรู้เพิ่มเติม](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Haptic Feedback" = "การตอบสนองแบบแฮปติก";
+
+"None" = "ไม่มี";
+
+"Yesterday" = "เมื่อวาน";
+
+"Successfully exported data. You should receive an email shortly with your data." = "ส่งออกข้อมูลเรียบร้อยแล้ว คุณจะได้รับอีเมลพร้อมข้อมูลในอีกสักครู่";
+
+"Manage Memory" = "จัดการหน่วยความจำ";
+
+"Could not delete all chats" = "ไม่สามารถลบแชตทั้งหมดได้";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "คุณไม่สามารถแก้ไขเปลี่ยนแปลงบริการสมาชิกภายในแอปนี้ได้ เนื่องจากคุณได้ซื้อบริการสมาชิกจากแพลตฟอร์มอื่น";
+
+"All your chats will be cleared from history. This cannot be undone." = "แชตทั้งหมดของคุณจะถูกล้างออกจากประวัติโดยไม่สามารถยกเลิกได้";
+
+"We were unable to process your export at this time. Please try again later." = "เราไม่สามารถทำการส่งออกให้คุณได้ในขณะนี้ โปรดลองอีกครั้งในภายหลัง";
+
+"Desktop Launcher" = "Desktop Launcher";
+
+"On" = "เปิด";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "การลบบัญชีของคุณไม่ถือเป็นการยกเลิกบริการสมาชิกในแอปที่คุณใช้งานอยู่ คุณสามารถยกเลิกบริการสมาชิกเหล่านั้นได้จากการตั้งค่า Apple ID";
+
+"Speech" = "การพูด";
+
+"Keep ChatGPT on top" = "เก็บ ChatGPT ไว้ด้านบน";
+
+"Help" = "ช่วยเหลือ";
+
+"Today" = "วันนี้";
+
+"New Features" = "คุณสมบัติใหม่";
+
+"Chat training" = "การสอนแชต";
+
+"Chat History & Training" = "ประวัติการแชตและการสอน";
+
+"Free Plan" = "บริการแบบ Free";
+
+"ChatGPT Plus" = "ChatGPT Plus";
+
+"Delete All Chats" = "ลบแชตทั้งหมด";
+
+"Error updating setting. Please try again later" = "เกิดข้อผิดพลาดในการอัปเดตการตั้งค่า โปรดลองอีกครั้งในภายหลัง";
+
+"Keyboard Shortcut" = "แป้นพิมพ์ลัด";
+
+"Archive All Chats" = "เก็บถาวรแชตทั้งหมด";
+
+"Email missing!" = "ไม่มีข้อมูลอีเมล";
+
+"Recent login required" = "ต้องมีการลงชื่อเข้าใช้เมื่อเร็วๆ นี้";
+
+"Main Language" = "ภาษาหลัก";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "พบข้อผิดพลาดในการลบบัญชี โปรดลองอีกครั้ง หากยังคงพบปัญหา โปรดไปที่ help.openai.com";
+
+"Email" = "อีเมล";
+
+"View" = "ดู";
+
+"No archived chats" = "ไม่มีแชตที่เก็บถาวร";
+
+"Manage Subscriptions" = "จัดการบริการสมาชิก";
+
+"Error archiving all chats" = "เกิดข้อผิดพลาดในการเก็บถาวรแชตทั้งหมด";
+
+"Could not unarchive conversation. Please try again later." = "ไม่สามารถยกเลิกการเก็บถาวรบทสนทนาได้ โปรดลองอีกครั้งในภายหลัง";
+
+"About" = "เกี่ยวกับ";
+
+"Restore purchases" = "เรียกคืนรายการที่ซื้อ";
+
+"Improve the model for everyone" = "ปรับปรุงโมเดลเพื่อทุกคน";
+
+"Could not archive all chats" = "ไม่สามารถเก็บถาวรแชตทั้งหมดได้";
+
+"Delete Account" = "ลบบัญชี";
+
+"Could not update the memory setting. Please try again later." = "ไม่สามารถอัปเดตการตั้งค่าหน่วยความจำได้ โปรดลองอีกครั้งในภายหลัง";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "บันทึกแชตใหม่ในเครื่องนี้ไปที่ประวัติของคุณ แชตที่ไม่ได้บันทึกจะถูกลบออกจากระบบของเราภายใน 30 วัน การตั้งค่านี้ไม่ซิงก์กับอุปกรณ์อื่น [เรียนรู้เพิ่มเติม](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Your account has been queued for deletion." = "บัญชีของคุณอยู่ในคิวรอการลบ";
+
+"Chat history" = "ประวัติการแชต";
+
+"Privacy Policy" = "นโยบายความเป็นส่วนตัว";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "แบ่งปันเสียงจากการแชตด้วยเสียงในอนาคตเพื่อช่วยปรับปรุงและสอนโมเดลของเรา ซึ่งจะเป็นการปรับปรุงคุณภาพการแชตด้วยเสียงสำหรับทุกคน [เรียนรู้เพิ่มเติม](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"App" = "แอป";
+

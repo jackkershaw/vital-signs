@@ -1,0 +1,52 @@
+"Connected Accounts" = "Tengdir reikningar";
+
+"Are you sure you want to log out of %@?" = "Viltu örugglega skrá þig út af %@?";
+
+"No connected accounts are available for this GPT." = "Engir tengdir reikningar eru tiltækir fyrir þetta GPT.";
+
+"Report Conversation" = "Tilkynna samtal";
+
+"Failed to update setting, retry?" = "Ekki tókst að uppfæra stillingar, viltu reyna aftur?";
+
+"Privacy & Safety" = "Persónuvernd og öryggi";
+
+"Actions" = "Aðgerðir";
+
+"Report" = "Tilkynna";
+
+"Ask" = "Spyrja";
+
+"Capabilities" = "Geta";
+
+"Description" = "Lýsing";
+
+"Error loading connected accounts.\n\n(%@)" = "Villa við að hlaða tengda reikninga\n\n(%@)";
+
+"Confirm Logout" = "Staðfesta útskráningu";
+
+"Accounts" = "Reikningar";
+
+"Error loading action settings" = "Villa við að hlaða aðgerðastillingum";
+
+"Privacy Policy" = "Persónuverndarstefna";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "Stjórnaðu hvaða reikningum þriðju aðila er hægt að fá aðgang að með %@.";
+
+"Report GPT" = "Tilkynna GPT";
+
+"Please try again later.\n\n(%@)" = "Reyndu aftur síðar.\n\n(%@)";
+
+"Custom instructions" = "Sérsniðnar leiðbeiningar";
+
+"Always" = "Alltaf";
+
+"No actions are available for this GPT" = "Engar aðgerðir eru tiltækar fyrir þetta GPT";
+
+"None" = "Ekkert";
+
+"This chat uses an older version of your custom instructions." = "Þetta spjall notar eldri útgáfu sérsniðinna leiðbeininga þinna.";
+
+"Select which websites are allowed to see data from conversations with %@." = "Veldu hvaða vefsvæði mega sjá gögn úr samtölum við %@.";
+
+"Model Info" = "Upplýsingar um líkan";
+

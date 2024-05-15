@@ -1,0 +1,96 @@
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "\"जारी रखें\" पर क्लिक करके, आप हमारी [शर्तों](https://openai.com/policies/terms-of-use) से सहमत होते हैं और हमारी [गोपनीयता नीति](https://openai.com/policies/privacy-policy) को स्वीकार करते हैं।";
+
+"Sorry, we aren't able to create your account" = "माफ़ कीजिए, हम आपका अकाउंट नहीं बना पा रहे हैं";
+
+"Select your Birthday" = "अपना जन्मदिन चुनें";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "आपके इंटरनेट कनेक्शन में कोई समस्या थी। कृपया दोबारा कोशिश करें। (%lld)";
+
+"Something went wrong. Please try again." = "कुछ गड़बड़ हो गई। कृपया दोबारा कोशिश करें।";
+
+"Please solve this puzzle so we know you're a person." = "कृपया इस पहेली को हल करें ताकि हम जान सकें कि आप एक इंसान हैं।";
+
+"Your email is not yet verified. Please check your email inbox." = "आपका ईमेल अभी तक वेरिफ़ाई नहीं हुआ है। कृपया अपना ईमेल का इन्बॉक्स चेक करें।";
+
+"Failed to load required information." = "ज़रूरी जानकारी लोड नहीं कर पाए।";
+
+"Birthday" = "जन्मदिन";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "सहायता के लिए, कृपया [फ़ोन वेरिफ़िकेशन गाइड](https://help.openai.com/articles/6613520-phone-verification) देखें।";
+
+"You have made too many attempts. Please try again later." = "आपने बहुत ज़्यादा बार प्रयास किये हैं। कृपया बाद में दोबारा कोशिश करें।";
+
+"Please check your internet connection and retry." = "कृपया अपना इंटरनेट कनेक्शन चेक करें और दोबारा कोशिश करें।";
+
+"Email resent!" = "ईमेल दोबारा भेजा गया!";
+
+"Your account could not be created. Please try again. %@" = "आपका अकाउंट नहीं बनाया जा सका। कृपया दोबारा कोशिश करें। %@";
+
+"Continue" = "जारी रखें";
+
+"Resend email" = "ईमेल दोबारा भेजें";
+
+"There was a problem, please try again." = "कोई समस्या थी, कृपया दोबारा कोशिश करें।";
+
+"Please choose a valid date for your birthday." = "कृपया अपने जन्मदिन के लिए एक सही तारीख़ चुनें।";
+
+"Verify your email" = "अपना ईमेल वेरिफ़ाई करें";
+
+"Select your area code" = "अपना एरिया कोड चुनें";
+
+"Something went wrong. Sign out and try again." = "कुछ गड़बड़ हो गई। साइन आउट करें और दोबारा कोशिश करें।";
+
+"First name" = "पहला नाम";
+
+"Code" = "कोड";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "कुछ गड़बड़ हो गई। अकाउंट पहले ही बनाया जा चुका है लेकिन रीफ़्रेश नहीं किया जा सका। कृपया साइन आउट करें और वापस साइन इन करें।";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "देश नहीं प्राप्त किये जा सके। कृपया अपना इंटरनेट कनेक्शन चेक करें और ऐप को रीस्टार्ट करें। %@";
+
+"There was a problem, please try again. (%@)" = "कोई समस्या थी, कृपया दोबारा कोशिश करें। (%@)";
+
+"There was a problem verifying the code. %@" = "कोड को वेरिफ़ाई करने में एक समस्या हुई। %@";
+
+"Resend code" = "कोड दोबारा भेजें";
+
+"Tell us about you." = "हमें अपने बारे में बताएं।";
+
+"There was a problem verifying your phone number. %@" = "आपके फ़ोन नंबर को वेरिफ़ाई करने में एक समस्या हुई। %@";
+
+"Verify you're human" = "वेरिफ़ाई करें कि आप इंसान हैं";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "हमने %@ को एक ईमेल भेजा है।\nशुरू करने के लिए अंदर दिए गए लिंक पर क्लिक करें।";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "\"जारी रखें\" पर क्लिक करके, आप कन्फ़र्म करते हैं कि ChatGPT का इस्तेमाल करने के लिए आपके पास माता-पिता या अभिभावक की सहमति है, हमारी [शर्तों](https://openai.com/policies/terms-of-use) से सहमत हैं और हमारी [गोपनीयता नीति](https://openai.com/policies/privacy-policy) को स्वीकार करते हैं।";
+
+"Phone number" = "फ़ोन नंबर";
+
+"Please provide a phone number for verification." = "कृपया वेरिफ़िकेशन के लिए फ़ोन नंबर प्रदान करें।";
+
+"Open Mail App" = "मेल ऐप खोलें";
+
+"error" = "एरर";
+
+"Verify phone number" = "फ़ोन नंबर वेरिफ़ाई करें";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "\"जारी रखें\" पर क्लिक करके, आप कन्फ़र्म करते हैं कि ChatGPT का इस्तेमाल करने के लिए आपके पास माता-पिता या अभिभावक की सहमति है, हमारी [शर्तों](https://openai.com/policies/terms-of-use) से सहमत हैं और हमारी [गोपनीयता नीति](https://openai.com/policies/privacy-policy) और इसके [कोरिया परिशिष्ट](https://openai.com/policies/kr-privacy-policy-addendum) को स्वीकार करते हैं।";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "\"जारी रखें\" पर क्लिक करके, आप हमारी [शर्तों](https://openai.com/policies/terms-of-use) से सहमत होते हैं और हमारी [गोपनीयता नीती](https://openai.com/policies/privacy-policy) और उसके [कोरिया परिशिष्ट](https://openai.com/policies/kr-privacy-policy-addendum) को स्वीकार करते हैं।";
+
+"Last name" = "उपनाम";
+
+"I've verified my email" = "मैंने अपना ईमेल वेरिफ़ाई कर लिया है";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "हम अपनी [उपयोग की शर्तों](https://openai.com/policies/terms-of-use) की वजह से आपका अकाउंट नहीं बना सकते।";
+
+"Finish creating your OpenAI account" = "अपना OpenAI अकाउंट बनाना पूरा करें";
+
+"Enter the code we just sent to your number ending in **%@" = "वो कोड दर्ज करें जो हमने अभी आपके नंबर पर भेजा है, जिसके आखिर में **%@ है";
+
+"Area code" = "एरिया कोड";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "ज़रूरी जानकारी मिल नहीं सकी। कृपया अपना इंटरनेट कनेक्शन चेक करें और ऐप को रीस्टार्ट करें। (%@)";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "कुछ गड़बड़ हो गई। कृपया ऐप को रीस्टार्ट करें, या साइन आउट करें और दोबारा कोशिश करें।";
+

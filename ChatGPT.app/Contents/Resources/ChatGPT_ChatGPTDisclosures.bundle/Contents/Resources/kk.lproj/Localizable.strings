@@ -1,0 +1,150 @@
+"Ask away" = "Сұраңыз";
+
+"Select an area of the image to edit" = "Суреттің өзгертілуі тиіс аймағын таңдаңыз";
+
+"Language is auto-detected" = "Тіл автоматты анықталады";
+
+"Help improve voice" = "Дауысты жақсартуға көмектесіңіз";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "Дауыстық чаттарды жақсарту үшін командамыз аудионы тексеруі мүмкін. Үлгілерімізді үйрету үшін пайдаланылатын аудиодағы жеке ақпарат көлемін азайту мақсатында шаралар қолданамыз.";
+
+"Temporary Chat" = "Уақытша чат";
+
+"Built for business" = "Бизнес үшін жасалды";
+
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "ChatGPT үйренгенін чаттар арасында тасымалдап, бұрынғыдан сәйкес келетін жауаптар ұсынуға мүмкіндік береді.";
+
+"Improve voice chats for everyone" = "Дауыстық чаттарды барлығы үшін жақсарту";
+
+"Custom Instructions will still be followed if you have them enabled." = "Арнаулы нұсқауларды іске қоссаңыз, олар орындала береді.";
+
+"Not in history" = "Тарихта емес";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "Осы құрылғыдағы жаңа чаттардың тарихыңызда пайда болатынын не болмайтынын және жүйелерімізді жақсарту үшін пайдаланып-пайдаланылмайтынын шешіңіз.";
+
+"Choose a voice" = "Дауыс таңдаңыз";
+
+"Chat without having to look at your screen." = "Экраныңызға қарамай чат арқылы сөйлесіңіз.";
+
+"ChatGPT now has memory across chats" = "Енді ChatGPT-дің барлық чат үшін жады бар";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "Нұсқауларыңыз үлгілерімізді жақсартады. Деректеріңіздің қалай пайдаланылатынын толығырақ білу үшін [Анықтама орталығына](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) кіріңіз.";
+
+"Welcome to\nChatGPT" = "ChatGPT-ге\nқош келдіңіз!";
+
+"Check your facts" = "Фактілеріңізді тексеріңіз";
+
+"Chat with voice" = "Дауысы бар чат";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "Мұнда мүмкіндіктері көп және шектеулері аз соңғы үлгілерімізді пайдалана аласыз.";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Жалғастырғыңыз келмесе, бөлісуді кез келген уақытта параметрлерде тоқтатуға болады.\n\n[Көбірек білу](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Control your chat history" = "Чат тарихын басқарыңыз";
+
+"Refine DALL·E Images" = "DALL·E суреттерін жақсарту";
+
+"Continue" = "Жалғастыру";
+
+"Share" = "Бөлісу";
+
+"Tap Select, highlight the area, and describe changes in chat." = "«Таңдау» түймесін түртіңіз, аймақты белгілеңіз және өзгертулерді чатта сипаттаңыз.";
+
+"Don’t share sensitive info" = "Құпия ақпаратты бөліспеңіз";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "ChatGPT сұрақтарға жауап беріп, оқуда көмектесе алады, код жаза алады, мәселелерді бірге шеше алады және т.б.";
+
+"Start with a photo" = "Фотосуреттен бастаңыз";
+
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "ChatGPT мәліметтерді және қалауларды үздіксіз есте сақтай отырып, сіз чатта сөйлескен сайын оның пайдасы арта түседі.";
+
+"Made for use at work" = "Жұмыста пайдалану үшін жасалған";
+
+"Active for new chats" = "Жаңа чаттар үшін белсенді";
+
+"Get Started" = "Жұмысты бастау";
+
+"No model training" = "Үлгіні үйретусіз";
+
+"Welcome to your company's workspace" = "Компанияңыздың жұмыс кеңістігіне қош келдіңіз!";
+
+"Introducing\nCustom Instructions" = "Арнаулы нұсқауларды\nқарсы алыңыз";
+
+"Picture perfect" = "Мінсіз";
+
+"More helpful over time" = "Уақыт өте келе пайдасы артады";
+
+"By default, chats in this workspace are not used to train our AI models." = "Әдепкісінше осы жұмыс кеңістігіндегі чаттар ЖИ (жасанды интеллект) үлгілерін үйрету үшін пайдаланылмайды.";
+
+"Share audio from future voice chats to improve and train our models." = "Үлгілерімізді жақсарту және үйрету үшін болашақ дауыстық чаттардағы аудионы бөлісіңіз.";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "Бұл ресми қолданба — тегін. Ол тарихыңызды құрылғылар арасында синхрондайды және OpenAI-дан соңғы үлгі жақсартуларын ұсынады.";
+
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "Сіз барлығын басқарасыз. Белгілі бір жадтарды тексеріңіз және жойыңыз, басынан қайта бастаңыз немесе функцияны параметрлерде өшіріңіз.";
+
+"Chats are saved" = "Чаттар сақталды";
+
+"Just start talking" = "Сөйлей бастасаңыз болғаны";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "ChatGPT адамдар, орындар немесе фактілер туралы дәл емес ақпарат беруі мүмкін.";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "Дауыс транскрипцияларын тарихтан көріңіз. Аудиоклиптер сақталмайды.";
+
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "Арнаулы нұсқауларыңызды өзгерткенде, өзгертулер сіз жасаған жаңа чаттың барлығында күшіне енеді. Ескі әңгімелер жаңартылмайды.";
+
+"Chat with images" = "Суреттері бар чат";
+
+"ChatGPT can be inaccurate" = "ChatGPT дәл болмауы мүмкін";
+
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "Чаттарыңыз үшін нақты мәліметтер және нұсқаулар беру арқылы ChatGPT-мен әрекеттесуді бейімдеңіз.";
+
+"Welcome to the %@ workspace" = "%@ жұмыс кеңістігіне қош келдіңіз!";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "Дәлірек анықталуы үшін, параметрлерде қалаулы тілді көрсетуіңізге болады.";
+
+"Learn more" = "Көбірек білу";
+
+"Now you can have spoken conversations with GPTs." = "Енді GPT-лермен дауыс арқылы әңгімелесе аласыз.";
+
+"Keep the conversation going" = "Әңгімені жалғастыру";
+
+"Follows custom instructions" = "Арнаулы нұсқауларды орындайды";
+
+"Chats may be reviewed by our AI trainers to improve our systems." = "Жүйелерімізді жақсарту үшін жасанды интеллект бойынша нұсқаушылар чаттарды тексеруі мүмкін.";
+
+"Hands-free" = "Қолыңызды пайдаланбайсыз";
+
+"Snap a picture to ask ChatGPT about the world around you." = "ChatGPT-ден айналаңыздағы әлем туралы сұрау үшін суретке түсіріңіз.";
+
+"Edit the full image" = "Толық суретті өзгерту";
+
+"Tap Edit and describe changes in chat." = "«Өзгерту» түймесін түртіңіз және өзгертулерді чатта сипаттаңыз.";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "Қауіпсіздік шараларымыз бар болса да, ChatGPT сізге дәл емес ақпарат беруі мүмкін. Ол кеңес беруге арналмаған.";
+
+"Manage what it remembers" = "Оның нені есте сақтайтынын басқарыңыз";
+
+"Welcome to ChatGPT" = "ChatGPT-ге қош келдіңіз!";
+
+"Help improve our models" = "Үлгілерімізді жақсартуға көмектесіңіз";
+
+"Temporary Chats won’t be used to improve our models." = "Уақытша чаттар үлгілерімізді жақсарту үшін пайдаланылмайды.";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "Өзіңізге бейімделген дәлірек жауаптар алу үшін салаңыз, рөліңіз немесе нақты жобалар туралы контекст ұсыныңыз.";
+
+"Taking steps to protect privacy" = "Құпиялылықты қорғау үшін шаралар қолдану";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "Уақытша чаттар тарихыңызда көрсетілмейді. Қауіпсіздік үшін чатыңыздың көшірмесін 30 күнге дейін сақтауымыз мүмкін.";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "Велосипед жөндеу, рецепт жасау немесе күрделі графиктерді талдау үшін фотосуреттерді пайдаланыңыз.";
+
+"Now you can have spoken conversations with ChatGPT." = "Енді ChatGPT-мен дауыс арқылы әңгімелесе аласыз.";
+
+"Memory off" = "Жад өшірулі";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "Уақытша чатта ChatGPT жадтарды пайдаланбайды не жасамайды. Арнаулы нұсқауларды қосып қойсаңыз, олар қадағаланады.";
+
+"You’re in control" = "Сіз басқарасыз";
+
+"Don't Share" = "Бөліспеу";
+

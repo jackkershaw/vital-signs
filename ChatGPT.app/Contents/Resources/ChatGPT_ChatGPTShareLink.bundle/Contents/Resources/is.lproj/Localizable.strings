@@ -1,0 +1,50 @@
+"Update title" = "Uppfæra titil";
+
+"Edit title" = "Breyta titli";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "Skilaboðum sem eru send eða móttekin eftir að tenglinum er deilt verður ekki deilt. Allir með vefslóðina geta skoðað samnýtt spjall.";
+
+"The share link is invalid. %@" = "Deilingartengillinn er ógildur. %@";
+
+"There was an error preparing the conversation. Please try again. %@" = "Villa kom upp við að undirbúa samtalið. Reyndu aftur. %@";
+
+"Missing Name" = "Heiti vantar";
+
+"Share link" = "Deila tengli";
+
+"Shared Link Owner" = "Eigandi tengils sem var deilt";
+
+"Shared link deleted." = "Tengli sem var deilt hefur verið eytt.";
+
+"Help and FAQ" = "Hjálp og algengar spurningar";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "Viltu örugglega eyða tenglinum „%@“ sem var deilt? Þú getur alltaf búið til nýjan tengil með því að deila þessu spjalli aftur.";
+
+"Your custom instructions won’t be shared with viewers." = "Sérsniðnum leiðbeiningum verður ekki deilt með þeim sem skoða.";
+
+"Share link to chat" = "Deila tengli á spjall";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "Þú hefur nú þegar deilt tengli á þetta spjall. Ef þú vilt láta ný skilaboð fylgja með skaltu eyða þessum tengli og deila spjallinu aftur.";
+
+"The conversation has no messages." = "Engin skilaboð eru í samtalinu.";
+
+"Delete link" = "Eyða tengli";
+
+"There was an error deleting your shared link." = "Villa kom upp við að eyða tengli sem var deilt.";
+
+"Shared Link Title" = "Titill tengils sem var deilt";
+
+"Shared Link Date" = "Dagsetning tengils sem var deilt";
+
+"Share your name" = "Deila nafni þínu";
+
+"Share anonymously" = "Deila nafnlaust";
+
+"Recipients won't be able to view images." = "Viðtakendur munu ekki geta skoðað myndir.";
+
+"There was an error sharing the conversation. Please try again. %@" = "Villa kom upp við að deila samtalinu. Reyndu aftur. %@";
+
+"Title" = "Titill";
+
+"Options" = "Valkostir";
+

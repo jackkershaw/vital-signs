@@ -1,0 +1,16 @@
+"Image conversion failed" = "Falha na conversão de imagem";
+
+"Please try again later.\n\n(%@)" = "Tente novamente mais tarde.\n\n(%@)";
+
+"Expected a non-file URL, but received a file URL" = "Era esperado um ficheiro não-URL, mas foi recebido um ficheiro URL";
+
+"Failed to Save Image" = "Falha ao guardar imagem";
+
+"Enable photo library access in Settings to save photos." = "Autorize o acesso às fotografias nas Definições para guardar fotografias.";
+
+"Not authorized" = "Não autorizado";
+
+"Expected a file URL, but received a non-file URL" = "Era esperado um ficheiro URL, mas foi recebido um ficheiro não-URL";
+
+"Photos Access Denied" = "Acesso às fotografias recusado";
+

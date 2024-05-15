@@ -1,0 +1,74 @@
+"Analysis" = "Аналіз";
+
+"Failed, retry?" = "Помилка. Повторити спробу?";
+
+"How would you rate this GPT?" = "Як би ви оцінили цей GPT?";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Написано за допомогою нашої найпродуктивнішої моделі GPT-4, доступної в ChatGPT Plus";
+
+"Bad" = "Погано";
+
+"Upgraded response" = "Поліпшена відповідь";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT зберігає файли лише протягом обмеженого проміжку часу. Почніть нову розмову або передайте новий файл, щоб продовжити розмову.";
+
+"Your most recent request failed. Please retry!" = "Не вдалось обробити ваш останній запит. Повторіть спробу!";
+
+"Change Model" = "Змінити модель";
+
+"Edit" = "Редагувати";
+
+"Sign in to %@" = "Увійти в %@";
+
+"#%lld row" = "Рядок № %lld";
+
+"Always allow" = "Завжди дозволяти";
+
+"Memories updated" = "Пам’ять оновлено";
+
+"Deny" = "Заборонити";
+
+"Loading…" = "Завантаження…";
+
+"Manage memories" = "Керувати пам’яттю";
+
+"\"%@\" cell" = "Клітинка «%@»";
+
+"Please try again later.%@" = "Повторіть спробу пізніше.%@";
+
+"Selection" = "Вибір";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "Передавання вкладень (^[%lld)](inflect: true)…";
+
+"Save File As…" = "Зберегти файл як…";
+
+"Continue Generating" = "Продовжити створення";
+
+"\"%@\" column" = "Стовпець «%@»";
+
+"Decline" = "Відхилити";
+
+"Regenerate" = "Створити повторно";
+
+"Quick Look" = "Швидкий перегляд";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Цей файл більше не доступний. Почніть нову розмову чи передайте новий файл, щоб продовжити розмову.";
+
+"You" = "Ви";
+
+"Response rating failed." = "Помилка оцінювання відповіді.";
+
+"Select Text" = "Вибрати текст";
+
+"Read Aloud" = "Читати вголос";
+
+"A GPT" = "GPT";
+
+"File unavailable" = "Файл недоступний";
+
+"Memory updated" = "Пам’ять оновлено";
+
+"File expired" = "Термін дії файлу закінчився";
+
+"Stop Generating" = "Припинити створення";
+

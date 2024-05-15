@@ -1,0 +1,94 @@
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "No s’han pogut obtenir els països. Comprova la teva connexió a Internet i reinicia l’app. %@";
+
+"Select your Birthday" = "Selecciona la teva data de naixement";
+
+"Sorry, we aren't able to create your account" = "No podem crear el teu compte.";
+
+"Email resent!" = "Correu electrònic enviat de nou!";
+
+"Resend email" = "Torna a enviar el correu electrònic";
+
+"There was a problem verifying the code. %@" = "S’ha produït un problema mentre es verificava el codi. %@";
+
+"Something went wrong. Please try again." = "Alguna cosa no ha anat bé. Torna-ho a provar.";
+
+"There was a problem verifying your phone number. %@" = "S’ha produït un problema mentre es verificava el teu número de telèfon. %@";
+
+"Area code" = "Codi d’àrea";
+
+"Your email is not yet verified. Please check your email inbox." = "El teu correu electrònic encara no s’ha verificat. Comprova la teva safata d’entrada.";
+
+"There was a problem, please try again. (%@)" = "S’ha produït un problema. Torna-ho a provar. (%@)";
+
+"error" = "error";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "En fer clic a «Continua», acceptes les nostres [Condicions](https://openai.com/policies/terms-of-use), la nostra [Política de privadesa](https://openai.com/policies/privacy-policy) i l’[Addenda per a Corea](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "Per obtenir ajuda, consulta la [guia de verificació telefònica](https://help.openai.com/articles/6613520-phone-verification).";
+
+"Verify your email" = "Verifica el teu correu electrònic.";
+
+"There was a problem, please try again." = "S’ha produït un problema. Torna-ho a provar.";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "Alguna cosa no ha funcionat. Reinicia l’aplicació o tanca la sessió i torna-ho a provar.";
+
+"Last name" = "Cognoms";
+
+"Please solve this puzzle so we know you're a person." = "Resol aquest trencaclosques perquè sapiguem que ets una persona.";
+
+"Birthday" = "Aniversari";
+
+"Enter the code we just sent to your number ending in **%@" = "Introdueix el codi que t’acabem d’enviar al teu número que acaba en **%@.";
+
+"I've verified my email" = "He verificat el meu correu electrònic";
+
+"First name" = "Nom";
+
+"Verify you're human" = "Verifica que ets humà.";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "En fer clic a «Continua», acceptes les nostres [Condicions](https://openai.com/policies/terms-of-use) i la nostra [Política de privadesa](https://openai.com/policies/privacy-policy).";
+
+"Resend code" = "Torna a enviar el codi";
+
+"Code" = "Codi";
+
+"Phone number" = "Número de telèfon";
+
+"Please provide a phone number for verification." = "Proporciona un número de telèfon per a la verificació.";
+
+"Select your area code" = "Selecciona el teu codi d’àrea";
+
+"Tell us about you." = "Explica’ns alguna cosa sobre tu.";
+
+"Verify phone number" = "Verifica el número de telèfon.";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "En fer clic a «Continua», confirmes que tens el consentiment dels teus pares o el teu tutor per utilitzar ChatGPT, i acceptes les nostres [Condicions](https://openai.com/policies/terms-of-use) i la nostra [Política de privadesa](https://openai.com/policies/privacy-policy).";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "No s’ha pogut obtenir la informació obligatòria. Comprova la teva connexió a Internet i reinicia l’aplicació. (%@)";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "No podem crear el teu compte a causa de les nostres [Condicions d'ús](https://openai.com/policies/terms-of-use).";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "T’hem enviat un correu electrònic a %@.\nFes clic a l’enllaç que conté per començar.";
+
+"Please check your internet connection and retry." = "Comprova la teva connexió a Internet i torna-ho a provar.";
+
+"Finish creating your OpenAI account" = "Acaba de crear el teu compte d’OpenAI.";
+
+"Something went wrong. Sign out and try again." = "Alguna cosa no ha anat bé. Tanca la sessió i torna-ho a provar.";
+
+"Continue" = "Continua";
+
+"Your account could not be created. Please try again. %@" = "No s’ha pogut crear el teu compte. Torna-ho a provar. %@";
+
+"You have made too many attempts. Please try again later." = "Has fet massa intents. Torna-ho a provar més endavant.";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Hi ha un problema amb la teva connexió a Internet. Torna-ho a provar. (%lld)";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Alguna cosa no ha funcionat. El compte ja s’ha creat, però no s’ha pogut actualitzar. Tanca la sessió i torna-la a iniciar.";
+
+"Please choose a valid date for your birthday." = "Escull una data d’aniversari vàlida.";
+
+"Open Mail App" = "Obre l’app de correu";
+
+"Failed to load required information." = "No s’ha pogut carregar la informació necessària.";
+

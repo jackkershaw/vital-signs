@@ -1,0 +1,142 @@
+"Reading documents" = "Dokumentide lugemine";
+
+"Unsupported content" = "Toetamata sisu";
+
+"Are you sure you want to archive this chat?\nYou can view archived chats in Settings" = "Kas olete kindel, et soovite selle vestluse arhiivida?\nArhiivitud vestlusi saate vaadata Sätetes";
+
+"Any created memories will be retained." = "Kõik loodud mälud säilitatakse.";
+
+"System error" = "Süstemiviga";
+
+"Error analyzing" = "Viga analüüsimisel";
+
+"Writing prompts…" = "Käskude kirjutamine...";
+
+"Searched %lld sites" = "Otsiti %lld saidilt";
+
+"Unable to find citation ID" = "Tsitaadi ID leidmine ebaõnnestus";
+
+"Delete Chat" = "Kustuta vestlus";
+
+"Searching “%@”" = "„%@“ otsing";
+
+"Search stopped" = "Search stopped";
+
+"Read document" = "Loe dokumenti";
+
+"Reading document" = "Dokumendi lugemine";
+
+"Stopped browsing" = "Sirvimine peatatud";
+
+"Stopped creating image" = "Pildi loomine peatatud";
+
+"Searching" = "otsing";
+
+"Stopped talking to %@" = "%@-ga rääkimine lõpetatud";
+
+"Invalid citation" = "Kehtetu tsitaat";
+
+"Stopped analyzing" = "Analüüsimine peatatud";
+
+"Creating image" = "Pildi loomine";
+
+"Stopped researching" = "Uurimistöö peatatud";
+
+"Searched 1 site" = "Otsiti 1 saidilt";
+
+"Talking to %@" = "Räägite %@-ga";
+
+"Analyzing" = "Analüüsimine";
+
+"Visiting %@" = "%@ külastamine";
+
+"Creating %lld images…" = "%lld pildi loomine";
+
+"Stopped reading documents" = "Dokumentide lugemine peatatud";
+
+"Talked to %@" = "Rääkisite %@-ga";
+
+"Search stopped" = "Otsing peatatud";
+
+"Error reading documents" = "Viga dokumentide lugemisel";
+
+"This can't be undone." = "Seda pole võimalik ennistada.";
+
+"Error researching" = "Viga uurimistöös";
+
+"site" = "sait";
+
+"Visited the web" = "Sirvisite veebi";
+
+"Creating %lld images…" = "Piltide %lld loomine";
+
+"Searching" = "Otsimine";
+
+"Error reading document" = "Viga dokumendi lugemisel";
+
+"Unable to find metadata" = "Metaandmete leidmine ebaõnnestus";
+
+"Browsing %@" = "%@ sirvimine";
+
+"Search failed" = "Search failed";
+
+"Error creating images" = "Viga piltide loomisel";
+
+"Stopped" = "Peatatud";
+
+"Visited %@" = "Külastasite %@";
+
+"Archive" = "Arhiiv";
+
+"Research complete" = "Uurimistöö on lõpetatud";
+
+"Creating 1 image…" = "1 pildi loomine";
+
+"Read documents" = "Loe dokumente";
+
+"Starting action" = "Toimingu alustamine";
+
+"Making a research plan" = "Uurimisplaani koostamine";
+
+"Stopped talking to site" = "Saidiga suhtlemine peatatud";
+
+"Reading %@" = "%@ lugemine";
+
+"Read %@" = "Loe %@";
+
+"Research complete" = "Otsingud lõpule viidud";
+
+"an external site" = "väline sait";
+
+"Searched %lld sites" = "Searched %lld sites";
+
+"Searching “%@”" = "„%@“ otsimine";
+
+"Error talking to %@" = "Viga %@-ga rääkimisel";
+
+"Archive Chat" = "Arhiivi vestlus";
+
+"Searched 1 site" = "Searched 1 site";
+
+"Visited %lld sites" = "Külastasite %lld saiti";
+
+"Error browsing" = "Viga sirvimisel";
+
+"Unable to generate URL" = "URL-i genereerimine ebaõnnestus";
+
+"Read %lld documents" = "Loe %lld dokumente";
+
+"You declined this action" = "Keeldusite sellest toimingust";
+
+"Stopped reading document" = "Dokumendi lugemine peatatud";
+
+"Are you sure you want to archive this chat?\nYou can view archived chats in Settings" = "Kas olete kindel, et soovite selle vestluse arhiivida?\nArhiivitud vestlusi saate vaadata menüüs Seaded";
+
+"Search failed" = "Otsing nurjus";
+
+"Doing research with Bing" = "Uurimistöö tegemine Bingiga";
+
+"Finished analyzing" = "Analüüsimine lõpetatud";
+
+"Error creating image" = "Viga pildi loomisel";
+

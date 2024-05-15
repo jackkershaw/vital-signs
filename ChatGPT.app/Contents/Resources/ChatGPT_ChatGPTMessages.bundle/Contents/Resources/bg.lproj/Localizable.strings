@@ -1,0 +1,76 @@
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Написано с нашия най-способен модел, GPT-4, наличен в ChatGPT Plus";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Този файл вече не е достъпен. Започнете нов разговор или качете нов файл, за да продължите разговора си.";
+
+"Select Text" = "Изберете текст";
+
+"Upgraded response" = "Подобрен отговор";
+
+"Always allow" = "Винаги разрешено";
+
+"Change Model" = "Смяна на модела";
+
+"File unavailable" = "Файлът е недостъпен";
+
+"Edit" = "Редактиране";
+
+"Quick Look" = "Бърз поглед";
+
+"Regenerate" = "Регенерирайте";
+
+"#%lld row" = "№%lld ред";
+
+"\"%@\" cell" = "клетка „%@“.";
+
+"Analysis" = "Анализ";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "Качват се ^[%lld прикачени файлове](inflect: true)…";
+
+"You" = "Вие";
+
+"Failed, retry?" = "Неуспешно. Искате ли да опитате отново?";
+
+"Decline" = "Откажете";
+
+"Memories updated" = "Актуализиране на памет";
+
+"Deny" = "Отказвам се";
+
+"Loading…" = "Зареждане...";
+
+"Manage memories" = "Управление на памет";
+
+"Read Aloud" = "Прочетете на глас";
+
+"Memory updated" = "Паметта е актуализирана";
+
+"File expired" = "Файлът е изтекъл";
+
+"How would you rate this GPT?" = "Как бихте оценили този GPT?";
+
+"Save File As…" = "Запазване на файла като…";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT съхранява файлове само за ограничен период от време. Започнете нов разговор или качете нов файл, за да продължите разговора си.";
+
+"Selection" = "Избор";
+
+"\"%@\" column" = "колона „%@“.";
+
+"A GPT" = "GPT";
+
+"Manage memories" = "Управление на памети";
+
+"Sign in to %@" = "Вписване в %@";
+
+"Stop Generating" = "Спрете генерирането";
+
+"Response rating failed." = "Неуспешна оценка на отговора.";
+
+"Please try again later.%@" = "Моля, опитайте отново по-късно.%@";
+
+"Continue Generating" = "Продължете с генерирането";
+
+"Bad" = "Лошо";
+
+"Your most recent request failed. Please retry!" = "Последната ви заявка е неуспешна. Моля, опитайте отново!";
+

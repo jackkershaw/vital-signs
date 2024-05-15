@@ -1,0 +1,48 @@
+"Keep in Sidebar" = "Պահպանել կողագոտում";
+
+"Rename Chat" = "Վերանվանել զրույցը";
+
+"Share" = "Համօգտագործել";
+
+"ChatGPT" = "ChatGPT";
+
+"%@ requires memory to be on. Adjust in **settings**." = "%@-ը պահանջում է, որ հիշողությունը միացված լինի։ Կարգաբերեք **կարգավորումներից**։";
+
+"No results for **%@**" = "Արդյունքներ չգտնվեցին **%@**-ով";
+
+"Menu" = "Ընտրացանկ";
+
+"Memory Off" = "Հիշողությունն անջատված է";
+
+"Upgrade Plan" = "Նորացնել փաթեթը";
+
+"Review GPT" = "Վերանայել GPT-ն";
+
+"Share GPT" = "Համօգտագործել GPT-ն";
+
+"This GPT is no longer available." = "Այս GPT-ն այլևս հասանելի չէ։";
+
+"%lld more" = "Եվս %lld";
+
+"Rename" = "Վերանվանել";
+
+"Title" = "Վերնագիր";
+
+"Unable to load GPT." = "Հնարավոր չէ բեռնել GPT-ն։";
+
+"Explore GPTs" = "Դիտել GPT-ները";
+
+"Archive" = "Արխիվացնել";
+
+"Temporary Chat" = "Ժամանակավոր զրույց";
+
+"Your workspace owner hasn't approved this GPT" = "Ձեր աշխատատարածքը տնօրինողը չի հաստատել այս GPT-ն";
+
+"See less" = "Կոծկել";
+
+"Remove From Sidebar" = "Հեռացնել կողագոտուց";
+
+"ChatGPT %@" = "ChatGPT %@";
+
+"Manage Chat" = "Կառավարել զրույցը";
+

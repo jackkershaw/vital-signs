@@ -1,0 +1,16 @@
+"Expected a file URL, but received a non-file URL" = "預期為檔案網址，但收到非檔案網址";
+
+"Image conversion failed" = "圖像轉換失敗";
+
+"Photos Access Denied" = "照片存取被拒";
+
+"Not authorized" = "未授權";
+
+"Please try again later.\n\n(%@)" = "請稍後重試。\n\n（%@）";
+
+"Failed to Save Image" = "無法儲存圖像";
+
+"Expected a non-file URL, but received a file URL" = "預期為非檔案網址，但收到檔案網址";
+
+"Enable photo library access in Settings to save photos." = "在「設定」中啟用照片圖庫存取權限以儲存照片。";
+

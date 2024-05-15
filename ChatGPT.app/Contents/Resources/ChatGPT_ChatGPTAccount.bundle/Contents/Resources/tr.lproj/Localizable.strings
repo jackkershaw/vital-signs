@@ -1,0 +1,24 @@
+"Continue" = "Devam et";
+
+"Deactivated" = "Devre dışı bırakıldı";
+
+"Your chat history and settings will not be available." = "Sohbet geçmişine ve ayarlarına erişimin olmayacak.";
+
+"An error occurred. Please try again." = "Bir hata oluştu. Lütfen tekrar dene.";
+
+"Your team owner has deactivated the workspace." = "Ekip sahibin çalışma alanını devre dışı bıraktı";
+
+"Your workspace is deactivated" = "Çalışma alanın devre dışı bırakıldı";
+
+"%@ workspace is deactivated" = "%@ çalışma alanı devre dışı bırakıldı";
+
+"You will still be able to use ChatGPT with the other workspaces associated with this email address." = "Yine de bu e-posta adresiyle ilişkili diğer çalışma alanlarında ChatGPT’yi kullanabileceksin.";
+
+"Personal account" = "Kişisel hesap";
+
+"Workspaces" = "Çalışma alanları";
+
+"Start using ChatGPT for free" = "ChatGPT’yi ücretsiz olarak kullanmaya başla";
+
+"This will create your personal workspace automatically, using the Free plan." = "Böylece, Free planı kullanılarak kişisel çalışma alanının otomatik olarak oluşturulacak.";
+

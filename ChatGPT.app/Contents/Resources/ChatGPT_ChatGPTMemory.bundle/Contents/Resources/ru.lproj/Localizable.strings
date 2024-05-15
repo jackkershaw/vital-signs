@@ -1,0 +1,40 @@
+"%@'s memories" = "Память %@";
+
+"Error deleting memory" = "Ошибка при удалении памяти";
+
+"Search memories" = "Поиск в памяти";
+
+"Could not reset memory. Please try again later." = "Не удалось сбросить память. Повторите попытку позже.";
+
+"No memories" = "Без памяти";
+
+"Are you sure?" = "Вы уверены?";
+
+"Error loading GPTs" = "Ошибка при загрузке GPT";
+
+"Memory" = "Память";
+
+"Open menu to select which GPT to show memories for" = "Откройте меню, чтобы выбрать, для какого GPT показывать память";
+
+"Learn More" = "Узнать больше";
+
+"Clear Memory" = "Очистить память";
+
+"Error loading memories" = "Ошибка при загрузке памяти";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ забудет все, что запомнил из ваших чатов. Это действие невозможно отменить.";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "Когда вы общаетесь с %@, здесь будут отображаться сведения и предпочтения, которые он запомнил.";
+
+"Select a GPT" = "Выбрать GPT";
+
+"Memory is disabled" = "Память отключена";
+
+"Clear this GPT's memory" = "Очистить память этого GPT";
+
+"%@ won't use or create memories" = "%@ не будет использовать или создавать память";
+
+"Turn On" = "Включить";
+
+"Clear ChatGPT’s memory" = "Очистить память ChatGPT";
+

@@ -1,0 +1,90 @@
+"Your email is not yet verified. Please check your email inbox." = "உங்கள் மின்னஞ்சல் இன்னும் சரிபார்க்கப்படவில்லை. உங்கள் மின்னஞ்சல் இன்பாக்ஸை சரிபார்க்கவும்.";
+
+"First name" = "முதல் பெயர்";
+
+"Something went wrong. Please try again." = "ஏதோ தவறாகிவிட்டது. பிறகு முயற்சிக்கவும்.";
+
+"Finish creating your OpenAI account" = "உங்கள் OpenAI கணக்கை உருவாக்கி முடிக்கவும்";
+
+"Select your Birthday" = "உங்கள் பிறந்தநாளைத் தேர்ந்தெடுக்கவும்";
+
+"Sorry, we aren't able to create your account" = "மன்னிக்கவும், உங்கள் கணக்கை எங்களால் உருவாக்க முடியவில்லை";
+
+"error" = "பிழை";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "“தொடரவும்” என்பதைக் கிளிக் செய்வதன் மூலம், ChatGPT -ஐப் பயன்படுத்த உங்களுக்கு பெற்றோர் அல்லது பாதுகாவலரின் ஒப்புதல் இருப்பதை உறுதிசெய்கிறீர்கள், எங்கள் [விதிமுறைகளை](https://openai.com/policies/terms-of-use) ஒப்புக்கொள்கிறீர்கள் மற்றும் எங்கள் [தனியுரிமைக் கொள்கையை](https://openai.com/policies/privacy-policy) ஒப்புக்கொள்கிறீர்கள்.";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "நாடுகளைப் பெற முடியவில்லை. தயவுசெய்து உங்கள் இணைய இணைப்பைச் சரிபார்த்து, செயலியை மறுதொடக்கம் செய்யவும். %@";
+
+"Please choose a valid date for your birthday." = "தயவுசெய்து சரியான பிறந்த தேதியைத் தேர்வு செய்யவும்.";
+
+"Failed to load required information." = "தேவையான தகவலை ஏற்றுவது தோல்வியடைந்தது.";
+
+"Continue" = "தொடரவும்";
+
+"Please check your internet connection and retry." = "உங்கள் இணைய இணைப்பைச் சரிபார்த்து மீண்டும் முயற்சிக்கவும்.";
+
+"Resend email" = "மின்னஞ்சலை மீண்டும் அனுப்பவும்";
+
+"Please provide a phone number for verification." = "சரிபார்ப்பிற்கு ஒரு தொலைபேசி எண்ணைத் தரவும்.";
+
+"There was a problem, please try again. (%@)" = "ஒரு சிக்கல் உள்ளது, தயவுசெய்து மீண்டும் முயற்சிக்கவும். (%@)";
+
+"Area code" = "பகுதிக் குறியீடு";
+
+"Code" = "குறியீடு";
+
+"Birthday" = "பிறந்தநாள்";
+
+"There was a problem, please try again." = "ஒரு சிக்கல் உள்ளது, தயவுசெய்து மீண்டும் முயற்சிக்கவும்.";
+
+"Resend code" = "குறியீட்டை மீண்டும் அனுப்பவும்";
+
+"Please solve this puzzle so we know you're a person." = "தயவுசெய்து இந்தப் புதிரைத் தீர்க்கவும், எனவே நீங்கள் ஒரு நபர் என்பதை நாங்கள் அறிவோம்.";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "தேவையான தகவல்களைப் பெற முடியவில்லை. தயவுசெய்து உங்கள் இணைய இணைப்பைச் சரிபார்த்து, செயலியை மறுதொடக்கம் செய்யவும். (%@)";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "உங்கள் இணைய இணைப்பில் சிக்கல் உள்ளது. மீண்டும் முயற்சி செய்யவும். (%lld)";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "ஏதோ தவறு நடந்துவிட்டது. தயவுசெய்து செயலியை மறுதொடக்கம் செய்யவும் அல்லது வெளியேற்றிவிட்டு மீண்டும் முயற்சிக்கவும்.";
+
+"Verify phone number" = "தொலைபேசி எண்ணை உறுதிப்படுத்தவும்";
+
+"Your account could not be created. Please try again. %@" = "உங்கள் கணக்கை உருவாக்க முடியவில்லை. தயவுசெய்து மீண்டும் முயற்சிக்கவும். %@";
+
+"Enter the code we just sent to your number ending in **%@" = "**%@ என்று முடியும் உங்கள் எண்ணுக்கு நாங்கள் அனுப்பிய குறியீட்டை உள்ளிடவும்";
+
+"Verify your email" = "உங்கள் மின்னஞ்சலை உறுதிப்படுத்தவும்";
+
+"Tell us about you." = "உங்களைப் பற்றி எங்களிடம் கூறுங்கள்.";
+
+"Last name" = "கடைசி பெயர்";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "ஏதோ தவறு நடந்துவிட்டது. கணக்கு ஏற்கனவே உருவாக்கப்பட்டது, ஆனால் புதுப்பிக்க முடியவில்லை. தயவுசெய்து வெளியேறி மீண்டும் உள்நுழையவும்.";
+
+"Email resent!" = "மின்னஞ்சல் மீண்டும் அனுப்பப்பட்டது!";
+
+"There was a problem verifying the code. %@" = "உங்கள் குறியீட்டைச் சரிபார்ப்பதில் சிக்கல் ஏற்பட்டுள்ளது. %@";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "எங்களின் [பயன்பாட்டு விதிமுறைகள்](https://openai.com/policies/terms-of-use) காரணமாக உங்கள் கணக்கை உருவாக்க முடியவில்லை.";
+
+"Open Mail App" = "அஞ்சல் செயலியைத் திறக்கவும்";
+
+"Phone number" = "தொலைபேசி எண்";
+
+"Something went wrong. Sign out and try again." = "ஏதோ தவறாகிவிட்டது. வெளியேற்றிவிட்டு பிறகு முயற்சிக்கவும்.";
+
+"Select your area code" = "உங்கள் பகுதிக் குறியீட்டைத் தேர்ந்தெடுக்கவும்";
+
+"I've verified my email" = "நான் எனது மின்னஞ்சலைச் சரிபார்த்துவிட்டேன்";
+
+"Verify you're human" = "நீங்கள் மனிதர் என்பதை உறுதிப்படுத்தவும்";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "நாம் %@ -க்கு ஒரு மின்னஞ்சல் அனுப்பினோம்.\nதொடங்குவதற்கு உள்ளே உள்ள இணைப்பைக் கிளிக் செய்யவும்.";
+
+"You have made too many attempts. Please try again later." = "நீங்கள் பல கோரிக்கைகளை விடுத்துவிட்டீர்கள். பிறகு மீண்டும் முயற்சி செய்யவும்.";
+
+"Verify your email" = "உங்கள் மின்னஞ்சலைச் உறுதிப்படுத்தவும்";
+
+"There was a problem verifying your phone number. %@" = "உங்கள் தொலைபேசி எண்ணைச் சரிபார்ப்பதில் சிக்கல் ஏற்பட்டுள்ளது. %@";
+

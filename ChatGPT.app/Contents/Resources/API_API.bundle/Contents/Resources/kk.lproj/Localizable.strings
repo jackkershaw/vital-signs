@@ -1,0 +1,18 @@
+"Unsupported content" = "Қолдау көрсетілмейтін контент";
+
+"The response is invalid. Please try again." = "Жауап жарамсыз. Қайталап көріңіз.";
+
+"You've made too many requests. Please try again later. (429, %@)" = "Тым көп сұрау жасадыңыз. Кейінірек қайталап көріңіз. (429, %@)";
+
+"There is a problem with your request. (%lld, %@)" = "Сұрауыңызға қатысты мәселе бар. (%lld, %@)";
+
+"System error" = "Жүйе қатесі";
+
+"This content may violate our content policy. Please try again with different content." = "Бұл контент компаниямыздың контент саясатын бұзуы мүмкін. Басқа контентпен қайталап көріңіз.";
+
+"There is a problem with your account info. Please try signing out then in." = "Аккаунтыңыздың ақпаратында ақаулық бар. Шығып, қайта кіріп көріңіз.";
+
+"The server is overloaded. Please try again later." = "Серверге шамадан көп жүктеме түсті. Кейінірек қайталап көріңіз.";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "Бұл сервердің ақаулықтары бар. Кейінірек қайталап көріңіз. (%lld, %@)";
+

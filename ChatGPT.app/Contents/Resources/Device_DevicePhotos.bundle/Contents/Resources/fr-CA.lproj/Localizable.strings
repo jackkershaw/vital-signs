@@ -1,0 +1,16 @@
+"Expected a file URL, but received a non-file URL" = "Une URL de fichier était attendue, mais une URL ne menant pas à un fichier a été reçue.";
+
+"Not authorized" = "Non autorisé";
+
+"Photos Access Denied" = "Accès aux photos refusé";
+
+"Expected a non-file URL, but received a file URL" = "Une URL ne menant pas à un fichier était attendue, mais une URL de fichier a été reçue.";
+
+"Enable photo library access in Settings to save photos." = "Activez l’accès à l’album de photos dans Paramètres pour enregistrer les photos.";
+
+"Failed to Save Image" = "Impossible d’enregistrer l’image";
+
+"Please try again later.\n\n(%@)" = "Veuillez réessayer plus tard.\n\n(%@)";
+
+"Image conversion failed" = "Échec de conversion de l’image";
+

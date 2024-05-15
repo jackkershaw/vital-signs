@@ -1,0 +1,82 @@
+"Learns from previous chats to improve future conversations" = "从之前的聊天中习得的内容，用于改善将来的对话";
+
+"Your limit resets in %lld minutes" = "您的限额将于 %lld 分钟后重置";
+
+"Failed to load citation" = "无法加载引语";
+
+"ChatGPT" = "ChatGPT";
+
+"Pinned" = "已置顶";
+
+"Actions" = "操作";
+
+"By community builder" = "由社区构建者创建";
+
+"Copy Link" = "复制链接";
+
+"This chat won't appear in history, use or create memories, or be used to train our models. For safety purposes, we may keep a copy of this chat for up to 30 days." = "此聊天不会出现在历史记录中，不会使用或创建记忆，也不会用于训练我们的模型。为了安全起见，我们最多会将此聊天的副本保留 30 天。";
+
+"Your limit resets at %@" = "您的限额将于“%@”重置";
+
+"Contents may violate our content policy" = "内容可能违反我们的内容政策";
+
+"By" = "创建者";
+
+"The builder of this GPT can’t view your chats or memories" = "此 GPT 的构建者无法查看您的聊天或记忆";
+
+"This chat won't appear in history or be used to train our models. For safety purposes, we may keep a copy of this chat for up to 30 days." = "此聊天不会出现在历史记录中，也不会用于训练我们的模型。为了安全起见，我们最多会将副本保留 30 天。";
+
+"GitHub" = "GitHub";
+
+"DALL•E Images" = "DALL·E 图片";
+
+"Open Link" = "打开链接";
+
+"By %@" = "作者：%@";
+
+"Memory" = "记忆";
+
+"This version of the app will be sunset soon!" = "此版本的应用即将停用！";
+
+"Unsupported content" = "不支持的内容";
+
+"Info" = "信息";
+
+"Your limit resets tomorrow at %@" = "您的限额将于明天 %@ 后重置";
+
+"Me" = "我";
+
+"Twitter" = "Twitter";
+
+"Untitled" = "无标题";
+
+"Browsing" = "浏览";
+
+"The builder of this GPT can’t view your chats" = "此 GPT 的构建者无法查看您的聊天";
+
+"Your limit resets %@" = "您的限额将于“%@”重置";
+
+"Citation" = "引语";
+
+"Invalid citation" = "无效的引用";
+
+"community builder" = "社区构建者";
+
+"Link unavailable" = "链接不可用";
+
+"Your limit resets in 1 minute" = "您的限额将于 1 分钟后重置";
+
+"Website" = "网站";
+
+"Data Analysis" = "数据分析";
+
+"LinkedIn" = "LinkedIn";
+
+"Retrieves or takes actions outside of ChatGPT" = "在 ChatGPT 之外检索或执行操作";
+
+"Any data shared with a third party through GPT actions are subject to the third party's privacy policy. [Learn more](https://help.openai.com/en/articles/8914046-temporary-chat-faq)" = "在 GPT 操作中与第三方共享的任何数据均受第三方隐私政策的约束。[了解更多](https://help.openai.com/en/articles/8914046-temporary-chat-faq)";
+
+"Temporary Chat" = "临时聊天";
+
+"Instagram" = "Instagram";
+

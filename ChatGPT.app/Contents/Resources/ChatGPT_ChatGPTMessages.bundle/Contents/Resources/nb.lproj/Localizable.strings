@@ -1,0 +1,74 @@
+"File unavailable" = "Fil ikke tilgjengelig";
+
+"#%lld row" = "%lld. rad";
+
+"Your most recent request failed. Please retry!" = "De siste forespørslene mislyktes. Prøv igjen.";
+
+"\"%@\" column" = "\"%@\"-kolonne";
+
+"How would you rate this GPT?" = "Hvordan vil du rangere denne GPT-en?";
+
+"Selection" = "Utvalg";
+
+"Stop Generating" = "Stopp generering";
+
+"Regenerate" = "Regenerer";
+
+"Sign in to %@" = "Logg inn på %@";
+
+"Save File As…" = "Lagre fil som …";
+
+"Please try again later.%@" = "Prøv igjen litt senere.%@";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Skrevet med vår mest funksjonelle modell, GPT-4, som er tilgjengelig på ChatGPT Plus.";
+
+"Deny" = "Nekt";
+
+"\"%@\" cell" = "\"%@\"-celle";
+
+"Response rating failed." = "Svarrangering mislyktes.";
+
+"Loading…" = "Laster ...";
+
+"Memories updated" = "Minner oppdatert";
+
+"You" = "Deg";
+
+"A GPT" = "En GPT";
+
+"File expired" = "Fil utløpt";
+
+"Failed, retry?" = "Det oppsto en feil, prøve på nytt?";
+
+"Select Text" = "Velg tekst";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT oppbevarer filer kun i en begrenset periode. Start en ny samtale eller last opp en ny fil for å fortsette samtalen.";
+
+"Analysis" = "Analyse";
+
+"Manage memories" = "Administrer minner";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "Laster opp ^[%lld vedlegg](inflect: true) …";
+
+"Always allow" = "Tillat alltid";
+
+"Bad" = "Negativ";
+
+"Quick Look" = "Hurtigtitt";
+
+"Upgraded response" = "Oppgradert svar";
+
+"Change Model" = "Endre modell";
+
+"Decline" = "Avvis";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Denne filen er ikke lenger tilgjengelig. Start en ny samtale eller last opp en ny fil for å fortsette samtalen.";
+
+"Continue Generating" = "Fortsett å generere";
+
+"Memory updated" = "Minne oppdatert";
+
+"Read Aloud" = "Les høyt";
+
+"Edit" = "Rediger";
+

@@ -1,0 +1,16 @@
+"Please try again later.\n\n(%@)" = "Обиди се повторно подоцна. \n\n(%@)";
+
+"Enable photo library access in Settings to save photos." = "Овозможи пристап до библиотеката со слики во Поставки за да зачуваш слики.";
+
+"Not authorized" = "Не е авторизирано";
+
+"Failed to Save Image" = "Не успеа да се зачува сликата";
+
+"Expected a file URL, but received a non-file URL" = "Се очекуваше URL-референца на датотека, но примена е URL-референца што не е на датотека";
+
+"Expected a non-file URL, but received a file URL" = "Се очекуваше URL-референца што не е на датотека, но примена е URL-референца на датотека";
+
+"Photos Access Denied" = "Пристапот до сликите е одбиен";
+
+"Image conversion failed" = "Конверзијата на сликата не успеа";
+

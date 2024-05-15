@@ -1,0 +1,170 @@
+"Close" = "Cerrar";
+
+"Stop listening" = "Dejar de escuchar";
+
+"It misheard me" = "Me escuchó mal";
+
+"Good" = "Bueno";
+
+"Connection failed, tap to retry" = "Error de conexión. Toca para reintentarlo.";
+
+"It interrupted me" = "Me interrumpía";
+
+"%lld." = "%lld.";
+
+"Select %@" = "Seleccionar %@";
+
+"Tap to dismiss" = "Toca para descartar";
+
+"Listening intently" = "Escuchando con atención";
+
+"Click to send manually" = "Haz clic para enviar manualmente";
+
+"Save to Photos" = "Guardar en Fotos";
+
+"Resume listening" = "Seguir escuchando";
+
+"Listening" = "Escuchando";
+
+"Voice chat ended after " = "El chat de voz finalizó luego de ";
+
+"Finish speaking to send" = "Termina de hablar para enviar";
+
+"Submit feedback" = "Enviar comentarios";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "Optaste por compartir el audio de los chats de voz para mejorar nuestros modelos y entrenarlos. Esto incluye el audio del micrófono cuando el modelo está pensando o hablando. Puedes dejar de compartir en Configuración.";
+
+"Connecting." = "Conectando.";
+
+"Poor" = "Mala calidad";
+
+"Unselect %@" = "Quitar selección %@";
+
+"Click to interrupt" = "Haz clic para interrumpir";
+
+"Connect" = "Conectar";
+
+"Connecting.." = "Conectando…";
+
+"Speak now" = "Habla ahora";
+
+"Choose a voice" = "Selecciona una voz";
+
+"Thinking" = "Pensando";
+
+"Unknown" = "Desconocido";
+
+"Poor connection" = "Mala conexión";
+
+"Select all that apply" = "Selecciona todas las opciones que apliquen";
+
+"Click to connect" = "Haz clic para conectar";
+
+"Tap to activate" = "Toca para activar";
+
+"Click to cancel" = "Haz clic para cancelar";
+
+"See more information about voice research" = "Ver más información acerca de la investigación de voz";
+
+"Tap to interrupt" = "Toca para interrumpir";
+
+"Close camera" = "Cerrar cámara";
+
+"Speaking" = "Hablando";
+
+"Thank you!" = "¡Gracias!";
+
+"Helping improve voice" = "Cómo ayudar a mejorar los chats de voz";
+
+"Tap to send manually" = "Toca para enviar manualmente";
+
+"Connection failed, click to retry" = "Error de conexión. Haz clic para reintentarlo.";
+
+"Unknown error" = "Error desconocido";
+
+"Excellent" = "Excelente";
+
+"Unable to review action" = "No es posible revisar la acción";
+
+"Audio issues" = "Problemas de audio";
+
+"Idle" = "Inactivo";
+
+"Failed to connect" = "Error de conexión";
+
+"I didn’t like the responses" = "No me gustaron las respuestas";
+
+"Flip camera to the front" = "Activar cámara frontal";
+
+"Connected" = "Conectado";
+
+"Play" = "Reproducir";
+
+"Go backward 15 seconds" = "Retroceder 15 segundos";
+
+"Restart" = "Reiniciar";
+
+"Open camera" = "Abrir cámara";
+
+"Release to send" = "Suelta para enviar";
+
+"Hold for manual control" = "Mantén presionado para control manual";
+
+"%lldms" = "%lld ms";
+
+"Grace Period for %@s" = "Período de gracia de %@";
+
+"Voice feedback: give thumbs up" = "Comentarios de voz: otorgar buena calificación";
+
+"Click to activate" = "Haz clic para activar";
+
+"Connecting" = "Conectando";
+
+"Halted" = "Interrumpido";
+
+"Take picture" = "Toma una fotografía";
+
+"Enable microphone access in Settings" = "Activa el acceso al micrófono en Configuración";
+
+"•" = "•";
+
+"Unable to send response. Please try again." = "No es posible enviar la respuesta. Inténtalo nuevamente.";
+
+"Speak to keep active" = "Habla para mantenerlo activo";
+
+"On for training" = "Activo para entrenamiento";
+
+"Voice chat ended" = "El chat de voz finalizó";
+
+"Error: '%@'" = "Error: “%@”";
+
+"What went wrong?" = "¿Qué salió mal?";
+
+"Start speaking" = "Comienza a hablar";
+
+"Tap to cancel" = "Toca para cancelar";
+
+"Pause" = "Pausar";
+
+"Voice feedback: give thumbs down" = "Comentarios de voz: otorgar mala calificación";
+
+"Lost" = "Perdido";
+
+"Go forward 15 seconds" = "Adelantar 15 segundos";
+
+"Paused" = "Pausada";
+
+"Voice mode" = "Modo de voz";
+
+"Pick photo" = "Seleccionar una fotografía";
+
+"You can change this later." = "Puedes modificarlo más adelante.";
+
+"Other" = "Otros";
+
+"Flip camera to the rear" = "Activar cámara trasera";
+
+"Tap to connect" = "Toca para conectar";
+
+"Learn more" = "Obtener más información";
+

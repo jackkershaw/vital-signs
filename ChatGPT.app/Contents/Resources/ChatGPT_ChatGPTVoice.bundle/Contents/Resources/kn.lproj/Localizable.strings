@@ -1,0 +1,170 @@
+"Click to activate" = "ಸಕ್ರಿಯಗೊಳಿಸಲು ಕ್ಲಿಕ್‌ ಮಾಡಿ";
+
+"Poor connection" = "ಸಂಪರ್ಕ ಗುಣಮಟ್ಟ ಚೆನ್ನಾಗಿಲ್ಲ";
+
+"%lld." = "%lld.";
+
+"It misheard me" = "ಅದು ನನ್ನ ಮಾತನ್ನು ತಪ್ಪಾಗಿ ಕೇಳಿಸಿಕೊಂಡಿತು";
+
+"Pick photo" = "ಫೋಟೋ ಆರಿಸಿ";
+
+"It interrupted me" = "ಅದು ನನಗೆ ಅಡ್ಡಿಮಾಡಿತು";
+
+"%lldms" = "%lldms";
+
+"Error: '%@'" = "ದೋಷ:'%@'";
+
+"Enable microphone access in Settings" = "ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಮೈಕ್ರೊಫೋನ್ ಪ್ರವೇಶವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ";
+
+"Select %@" = "ಆಯ್ಕೆ ಮಾಡಿ %@";
+
+"Go forward 15 seconds" = "15 ಸೆಕೆಂಡ್ ಮುಂದಕ್ಕೆ ಹೋಗಿ";
+
+"Idle" = "ನಿಂತಿದೆ";
+
+"Take picture" = "ಚಿತ್ರ ತೆಗೆಯಿರಿ";
+
+"What went wrong?" = "ಏನು ತಪ್ಪು ನಡೆಯಿತು?";
+
+"Finish speaking to send" = "ಕಳುಹಿಸಲು ಮಾತನಾಡುವುದನ್ನು ಮುಗಿಸಿ";
+
+"Listening" = "ಕೇಳುತ್ತಿದೆ";
+
+"Select all that apply" = "ಅನ್ವಯವಾಗುವ ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ";
+
+"Grace Period for %@s" = "%@ ಸೆಕೆಂಡ್‌ಗಳಿಗೆ ಗ್ರೇಸ್ ಅವಧಿ";
+
+"Listening intently" = "ಶ್ರದ್ಧೆಯಿಂದ ಕೇಳುತ್ತಿದೆ";
+
+"Paused" = "ತಡೆಯಲಾಗಿದೆ";
+
+"Play" = "ಆಡು";
+
+"Voice feedback: give thumbs down" = "ಧ್ವನಿ ಪ್ರತಿಕ್ರಿಯೆ: ಥಂಬ್ಸ್ ಡೌನ್ ನೀಡಿ";
+
+"Unable to review action" = "ಕ್ರಮವನ್ನು ಪರಿಶೀಲಿಸಲು ಆಗುತ್ತಿಲ್ಲ";
+
+"Connect" = "ಸಂಪರ್ಕಿಸಿ";
+
+"Learn more" = "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ";
+
+"Thinking" = "ಆಲೋಚನೆ";
+
+"Voice feedback: give thumbs up" = "ಧ್ವನಿ ಪ್ರತಿಕ್ರಿಯೆ: ಥಂಬ್ಸ್ ಅಪ್ ನೀಡಿ";
+
+"Click to connect" = "ಸಂಪರ್ಕಿಸಲು ಕ್ಲಿಕ್‌ ಮಾಡಿ";
+
+"Unable to send response. Please try again." = "ಪ್ರತಿಕ್ರಿಯೆ ಕಳುಹಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.";
+
+"Tap to dismiss" = "ವಜಾಗೊಳಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ";
+
+"Stop listening" = "ಕೇಳಿಸಿಕೊಳ್ಳುವುದನ್ನು ನಿಲ್ಲಿಸಿ";
+
+"Close" = "ಮುಚ್ಚಿ";
+
+"See more information about voice research" = "ಧ್ವನಿ ಸಂಶೋಧನೆಯ ಕುರಿತು ಹೆಚ್ಚಿನ ಮಾಹಿತಿಯನ್ನು ನೋಡಿ";
+
+"Voice chat ended after " = "ನಂತರ ಧ್ವನಿ ಚಾಟ್ ಮುಗಿಯಿತು";
+
+"Tap to cancel" = "ರದ್ದುಗೊಳಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ";
+
+"Failed to connect" = "ಸಂಪರ್ಕಿಸಲು ವಿಫಲವಾಗಿದೆ";
+
+"Voice mode" = "ಧ್ವನಿ ರೀತಿ";
+
+"Click to cancel" = "ರದ್ದುಗೊಳಿಸಲು ಕ್ಲಿಕ್‌ ಮಾಡಿ";
+
+"Tap to connect" = "ಸಂಪರ್ಕಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ";
+
+"Audio issues" = "ಆಡಿಯೋ ಸಮಸ್ಯೆಗಳು";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "ನಮ್ಮ ಮಾದರಿಗಳನ್ನು ಸುಧಾರಿಸಲು ಮತ್ತು ಟ್ರೈನ್‌ ನೀಡಲು ಧ್ವನಿ ಚಾಟ್‌ನಿಂದ ನಿಮ್ಮ ಆಡಿಯೊವನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ನೀವು ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳುತ್ತೀರಿ. ಮಾದರಿಗಳನ್ನು ಯೋಚಿಸುತ್ತಿರುವಾಗ ಅಥವಾ ಮಾತನಾಡುವಾಗ ಇದು ನಿಮ್ಮ ಮೈಕ್ರೊಫೋನ್‌ನಿಂದ ಆಡಿಯೊವನ್ನು ಸಂಗ್ರಹಿಸುತ್ತದೆ. ನೀವು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳುವುದನ್ನು ನಿಲ್ಲಿಸಬಹುದು.";
+
+"Connecting.." = "ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ..";
+
+"Submit feedback" = "ಪ್ರತಿಕ್ರಿಯೆ ಸಲ್ಲಿಸಿ";
+
+"Excellent" = "ಅತ್ಯುತ್ತಮ!";
+
+"Other" = "ಇತರೆ";
+
+"Speak now" = "ಈಗ ಮಾತನಾಡಿ";
+
+"Tap to activate" = "ಸಕ್ರಿಯಗೊಳಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ";
+
+"You can change this later." = "ನೀವು ಇದನ್ನು ನಂತರ ಬದಲಾಯಿಸಬಹುದು.";
+
+"I didn’t like the responses" = "ನನಗೆ ಪ್ರತಿಕ್ರಿಯೆಗಳು ಇಷ್ಟವಾಗಲಿಲ್ಲ";
+
+"Connection failed, click to retry" = "ಸಂಪರ್ಕ ಆಗಲಿಲ್ಲ, ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಲು ಕ್ಲಿಕ್‌ ಮಾಡಿ";
+
+"Connected" = "ಸಂಪರ್ಕಗೊಂಡಿದೆ";
+
+"Open camera" = "ಕ್ಯಾಮೆರಾ ತೆರೆಯಿರಿ";
+
+"Unselect %@" = "ಆಯ್ಕೆಯಿಂದ ಬಿಡಿ %@";
+
+"Connection failed, tap to retry" = "ಸಂಪರ್ಕ ವಿಫಲವಾಗಿದೆ, ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ";
+
+"Click to interrupt" = "ತಡೆಯಲು ಕ್ಲಿಕ್‌ ಮಾಡಿ";
+
+"Go backward 15 seconds" = "15 ಸೆಕೆಂಡ್ ಹಿಂದಕ್ಕೆ ಹೋಗಿ";
+
+"Connecting" = "ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ";
+
+"Thank you!" = "ಧನ್ಯವಾದ!";
+
+"Halted" = "ನಿಲ್ಲಿಸಲಾಗಿದೆ";
+
+"Pause" = "ತಡೆ";
+
+"Speak to keep active" = "ಸಕ್ರಿಯವಾಗಿರಲು ಮಾತನಾಡುತ್ತಲೇ ಇರಿ";
+
+"Close camera" = "ಕ್ಯಾಮರಾ ಮುಚ್ಚಿ";
+
+"Good" = "ಒಳ್ಳೆಯದು";
+
+"Connecting." = "ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ.";
+
+"Flip camera to the rear" = "ಹಿಂದೆ ಇರುವ ಕ್ಯಾಮರಾಗೆ ಹೋಗಿ";
+
+"Flip camera to the front" = "ಮುಂದೆ ಇರುವ ಕ್ಯಾಮರಾಗೆ ಹೋಗಿ";
+
+"Unknown" = "ಗೊತ್ತಿರದ";
+
+"Click to send manually" = "ನೀವೇ ಕಳುಹಿಸಲು ಕ್ಲಿಕ್‌ ಮಾಡಿ";
+
+"Restart" = "ಪುನರಾರಂಭದ";
+
+"•" = "•";
+
+"Speaking" = "ಮಾತನಾಡುತ್ತಿದ್ದೇನೆ";
+
+"Choose a voice" = "ಧ್ವನಿಯನ್ನು ಆರಿಸಿ";
+
+"Save to Photos" = "ಫೋಟೋಗಳಿಗೆ ಉಳಿಸಿ";
+
+"Poor" = "ದುರ್ಬಲ";
+
+"Lost" = "ಕಳೆದುಹೋಗಿದೆ";
+
+"Helping improve voice" = "ಧ್ವನಿ ಸುಧಾರಿಸಲು ಸಹಾಯ ಮಾಡಲಾಗುತ್ತಿದೆ";
+
+"Start speaking" = "ಮಾತು ಶುರುಮಾಡಿ";
+
+"Voice chat ended" = "ಧ್ವನಿ ಚಾಟ್ ಮುಗಿಯಿತು";
+
+"Unknown error" = "ತಿಳಿದಿರದ ದೋಷ";
+
+"Hold for manual control" = "ಮ್ಯಾನುಯಲ್ ನಿಯಂತ್ರಣಕ್ಕಾಗಿ ಹಿಡಿದುಕೊಳ್ಳಿ";
+
+"Release to send" = "ಕಳುಹಿಸಲು ಬಿಡುಗಡೆ ಮಾಡಿ";
+
+"Resume listening" = "ಕೇಳುವುದನ್ನು ಪುನರಾರಂಭಿಸಿ";
+
+"On for training" = "ಟ್ರೈನ್‌ಗಾಗಿ ಆನ್ ಆಗಿದೆ";
+
+"Tap to interrupt" = "ಅಡ್ಡಿಪಡಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ";
+
+"Tap to send manually" = "ಮ್ಯಾನುಯಲ್‍ ಆಗಿ ಕಳುಹಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ";
+

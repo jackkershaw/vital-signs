@@ -1,0 +1,86 @@
+"This chat is currently unavailable" = "Taj razgovor trenutačno nije dostupan";
+
+"Scroll to bottom" = "Pomaknite se na dno";
+
+"Replace" = "Zamijeni";
+
+"Attach files" = "Priloži datoteke";
+
+"Remove attachment" = "Ukloni privitak";
+
+"If you cancel the text conversion you will lose the recording." = "Ako otkažete konverziju teksta, izgubit ćete snimku.";
+
+"Failed, retry?" = "Nije uspjelo, želite li pokušati ponovno?";
+
+"You need %@ to continue this chat because this GPT requires it." = "Morate %@ da biste nastavili ovo čavrljanje jer ovaj GPT to zahtijeva.";
+
+"This chat uses an older version of your custom instructions" = "Ovo čavrljanje upotrebljava stariju verziju prilagođenih uputa";
+
+"You've reached your %@ limit." = "Dosegnuli ste svoje %@ ograničenje.";
+
+"Message" = "Poruka";
+
+"Get Plus to Chat" = "Nabavite Plus za čavrljanje";
+
+"Message ChatGPT" = "Pošaljite poruku za ChatGPT";
+
+"Continue Generating" = "Nastavi s generiranjem";
+
+"You need %@ to continue this chat because it has images." = "Morate %@ da biste nastavili ovo čavrljanje jer ima slike.";
+
+"New Message" = "Nova poruka";
+
+"Switch to Voice mode" = "Prebaci na Glasovni način rada";
+
+"You need %@ to continue this chat because it uses tools." = "Morate %@ da biste nastavili ovo čavrljanje jer upotrebljava alate.";
+
+"File upload failed." = "Učitavanje datoteke nije uspjelo.";
+
+"Image attachment failed." = "Prilaganje slike nije uspjelo.";
+
+"Image upload failed." = "Učitavanje slike nije uspjelo.";
+
+"You need %@ to continue this chat because it uses audio." = "Morate %@ da biste nastavili ovo čavrljanje jer upotrebljava zvuk.";
+
+"You need %@ to continue this chat because it has images." = "Morate %@ da biste nastavili ovo čavrljanje jer ima slika.";
+
+"Replace attachment?" = "Želite li zamijeniti privitak?";
+
+"Send" = "Pošalji";
+
+"Stop" = "Zaustavi";
+
+"Fullscreen" = "Cijeli zaslon";
+
+"You need %@ to continue this chat because it has attachments." = "Morate %@ da biste nastavili ovo čavrljanje jer ima privitaka.";
+
+"Edit image" = "Uredi sliku";
+
+"Stop Generating" = "Zaustavi generiranje";
+
+"Are you sure?" = "Jeste li sigurni?";
+
+"Confirm" = "Potvrdi";
+
+"Attach photos" = "Priloži fotografije";
+
+"Edit selection" = "Uredi odabir";
+
+"No connection" = "Nema veze";
+
+"Dictation" = "Diktiranje";
+
+"Attached image" = "Priložena slika";
+
+"To continue, you’ll need to replace the current attachment." = "Morat ćete zamijeniti trenutni privitak da biste nastavili.";
+
+"Microphone access required" = "Potreban je pristup mikrofonu";
+
+"Shows the voice recording interface and begins recording" = "Prikazuje sučelje za snimanje glasa i započinje snimanje";
+
+"Editing message" = "Uredi poruku";
+
+"You need %@ to continue this chat because it uses audio." = "Morate %@ da biste nastavili ovo čavrljanje jer upotrebljava alate.";
+
+"Upload File" = "Učitaj datoteku";
+

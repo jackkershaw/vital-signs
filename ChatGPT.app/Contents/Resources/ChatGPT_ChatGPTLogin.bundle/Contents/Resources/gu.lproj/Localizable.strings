@@ -1,0 +1,70 @@
+"Sign in request was cancelled." = "સાઇન ઇન વિનંતી રદ કરવામાં આવી હતી.";
+
+"Let’s create" = "ચાલો બનાવીએ";
+
+"Let’s collaborate" = "ચાલો કોલેબોરેટ કરીએ";
+
+"Let’s chit-chat" = "ચાલો વાતચીત કરીએ";
+
+"No authorization code found." = "કોઈ ઓથોરાઇઝેશન કોડ મળ્યો નથી.";
+
+"Terms of Use" = "વાપરવાના નિયમો";
+
+"Unknown error." = "અજાણી એરર.";
+
+"Unknown other error." = "અન્ય અજ્ઞાત એરર";
+
+"PKCE not allowed." = "PKCE ની મંજૂરી નથી.";
+
+"Failed to validate id token." = "id ટોકન માન્ય કરવામાં નિષ્ફળ.";
+
+"Renew failed." = "રિન્યૂ કરવામાં નિષ્ફળ.";
+
+"Sign in failed" = "સાઇન ઇન કરવામાં નિષ્ફળ";
+
+"Privacy Policy" = "ગોપનીયતા નીતિ";
+
+"Let’s discover" = "ચાલો શોધી કાઢીએ";
+
+"Let’s explore" = "ચાલો અન્વેષણ કરીએ";
+
+"No sign in info found. Please sign in." = "કોઈ સાઇન ઇન માહિતી મળી નથી. કૃપા કરીને સાઇન ઇન કરો.";
+
+"There was a problem clearing sign in info. Please try again." = "સાઇન ઇન માહિતી સાફ કરવામાં સમસ્યા હતી. કૃપા કરીને ફરીથી પ્રયતન કરો.";
+
+"There is a problem with the server. Please try again later." = "સર્વરમાં સમસ્યા છે. પછીથી ફરી પ્રયત્ન કરો.";
+
+"Let’s go" = "ચાલો જઇએ";
+
+"No refresh token found." = "કોઈ રિફ્રેશ ટોકન મળ્યું નથી.";
+
+"Let’s invent" = "ચાલો શોધ કરીએ";
+
+"Store failed." = "સ્ટોર કરવામાં નિષ્ફળ.";
+
+"Sign up with email" = "ઇમેઇલ સાથે સાઇન અપ કરો";
+
+"Invalid invite url." = "અમાન્ય ઇન્વાઇટ url.";
+
+"Let’s brainstorm" = "ચાલો વિચાર-વિમર્શ કરીએ";
+
+"Revoke failed." = "રદ કરવામાં નિષ્ફળ.";
+
+"There was a problem. Please restart the app." = "એક સમસ્યા થઇ. કૃપા કરીને એપ્લિકેશનને ફરીથી પ્રારંભ કરો.";
+
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "Apple સર્વર્સનો સંપર્ક કરવામાં સમસ્યા હતી. કૃપા કરીને ફરીથી પ્રયતન કરો. (%lld)";
+
+"Missing bundle id." = "બંડલ ID ખૂટે છે.";
+
+"There was a problem saving sign in info. Please try again." = "સાઇન ઇનની માહિતી સેવ કરવામાં સમસ્યા થઇ કૃપા કરીને ફરીથી પ્રયતન કરો.";
+
+"Continue with Google" = "Google સાથે ચાલુ રાખો";
+
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "કંઈક ખોટું થયું. કૃપા કરીને ખાતરી કરો કે તમારા ઉપકરણની તારીખ અને સમય સાચો છે, અને તે 'સેટિંગ્સ → સામાન્ય → તારીખ અને સમય' હેઠળ 'સેટ ઓટોમેટિકલી' ટૉગલ કરેલ છે.";
+
+"Let’s design" = "ચાલો ડિઝાઇન કરીએ";
+
+"Request cancelled." = "વિનંતી રદ કરી.";
+
+"Something went wrong." = "કંઈક ખોટું થયું.";
+

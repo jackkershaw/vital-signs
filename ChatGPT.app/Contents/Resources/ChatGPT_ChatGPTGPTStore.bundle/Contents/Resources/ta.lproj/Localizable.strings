@@ -1,0 +1,114 @@
+"^[%lld stars](inflect: true), %@ of ratings" = "%@ மதிப்பீட்டு வரிசையில், ^[%lld நட்சத்திரங்கள் ](inflect: true)";
+
+"Search Public GPTs" = "பொது GPT-களைத் தேடவும்";
+
+"Conversation starters" = "உரையாடலைத் தொடங்குபவர்கள்";
+
+"See more" = "மேலும் பார்க்கவும்";
+
+"Thank you for your feedback!" = "உங்கள் பின்னூட்டத்திற்கு நன்றி!";
+
+"Top Suggestions" = "சிறந்த பரிந்துரைகள்";
+
+"Remove" = "அகற்றவும்";
+
+"Start chat" = "அரட்டையைத் தொடங்கவும்";
+
+"%@ chats" = "%@ அரட்டைகள்";
+
+"Only me" = "எனக்கு மட்டும்";
+
+"Editing and creating a GPT is only available on web for now." = "தற்போது வலைத்தளத்தில் மட்டுமே ஒரு GPT -யை செயல்படுத்தவும் உருவாக்கவும் முடியும்.";
+
+"Anyone with a link" = "இணைப்பு கிடைக்கப்பெற்ற எவரும்";
+
+"Recently Used" = "சமீபத்தில் பயன்படுத்தப்பட்டது";
+
+"Great" = "சிறப்பு";
+
+"Edit" = "திருத்தவும்";
+
+"Anyone at %@" = "%@ -இலுள்ள எவரும்";
+
+"Untitled" = "தலைப்பிடப்படாதது";
+
+"Loading more" = "மேலும் ஏற்றுகிறது";
+
+"Star rating" = "நட்சத்திர மதிப்பீடு";
+
+"Share" = "பகிரவும்";
+
+"By %@" = "%@ -இன் மூலம்";
+
+"Feedback" = "பின்னூட்டம்";
+
+"Visibility" = "தென்படும்நிலை";
+
+"Tap a star" = "ஒரு நட்சத்திரத்தைத் தட்டவும்";
+
+"Searching…" = "தேடுகிறது…";
+
+"Unable to load, retry?" = "GPT -யை ஏற்ற முடியவில்லை, மீண்டும் முயற்சிக்கவா?";
+
+"Editing Not Available" = "திருத்தம் கிடைக்கவில்லை";
+
+"No Results Found" = "முடிவுகள் எதுவும் இல்லை";
+
+"Explore" = "ஆராயுங்கள்";
+
+"Public" = "பொது";
+
+"How would you rate **%@**?" = "**%@** -ஐ எப்படி மதிப்பிடுவீர்கள்?";
+
+"By community builder" = "சமூகத்தை உருவாக்குபவர் மூலம்";
+
+"My GPTs" = "எனது GPT -கள்";
+
+"Good" = "நன்று";
+
+"Are you sure you want to remove this GPT from your recents?" = "உங்கள் சமீபத்திய தரவுகளில் இருந்து இந்த GPT -யை நிச்சயமாக நீக்க விரும்புகிறீர்களா?";
+
+"Failed to remove recent GPT, retry?" = "சமீபத்திய GPT -ஐ நீக்குதல் தோல்வியடைந்தது, மீண்டும் முயற்சிக்கவா?";
+
+"Chats: %@" = "அரட்டைகள்: %@";
+
+"Get Plus to Chat" = "அரட்டையடிக்க Plus -ஐப் பெறுங்கள்";
+
+"Are you sure you want to delete this GPT?" = "இந்த GPT -யை நிச்சயமாக நீக்க விரும்புகிறீர்களா?";
+
+"How would you rate this GPT?" = "இந்த GPT -ஐ எப்படி மதிப்பிடுவீர்கள்?";
+
+"No Recents" = "சமீபத்தியது ஏதுமில்லை";
+
+"Failed to delete GPT, retry?" = "GPT -ஐ நீக்குதல் தோல்வியடைந்தது, மீண்டும் முயற்சிக்கவா?";
+
+"Okay" = "சரி";
+
+"Remove GPT" = "GPT -ஐ அகற்றவும்";
+
+"Start Chat" = "அரட்டையைத் தொடங்கவும்";
+
+"Include my email **%@**" = "எனது மின்னஞ்சல் முகவரி **%@** -ஐச் சேர்க்கவும்";
+
+"Report" = "புகாரளிக்கவும்";
+
+"Add a note" = "ஒரு குறிப்பைச் சேர்க்கவும்";
+
+"Capabilities" = "திறன்கள்";
+
+"Top Picks" = "சிறந்த தேர்வுகள்";
+
+"%@ rating" = "%@ தர மதிப்பீடு";
+
+"in **%@**" = "**%@** -இல்";
+
+"Include my email" = "எனது மின்னஞ்சல் முகவரியைச் சேர்க்கவும்";
+
+"Options" = "விருப்பத்தேர்வுகள்";
+
+"Bad" = "மோசமானது";
+
+"Exceptional!" = "விதிவிலக்கானது!";
+
+"Optional private note for creator…" = "உருவாக்கிகளுக்கான விருப்பத்தேர்வான தனிப்பட்ட குறிப்பு…";
+

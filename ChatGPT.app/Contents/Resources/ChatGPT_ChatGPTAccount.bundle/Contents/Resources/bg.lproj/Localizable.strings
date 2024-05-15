@@ -1,0 +1,24 @@
+"Personal account" = "Личен акаунт";
+
+"This will create your personal workspace automatically, using the Free plan." = "Като използвате безплатния план, автоматично ще се създаде ваше лично работно пространство.";
+
+"You will still be able to use ChatGPT with the other workspaces associated with this email address." = "Все още ще можете да използвате ChatGPT с другите работни пространства, свързани с този имейл адрес.";
+
+"An error occurred. Please try again." = "Възникна грешка. Моля, опитайте отново.";
+
+"Your team owner has deactivated the workspace." = "Собственикът на вашия екип е деактивирал работното пространство.";
+
+"Your chat history and settings will not be available." = "Вашата хронология на чата и настройките няма да бъдат достъпни.";
+
+"%@ workspace is deactivated" = "Работното пространство %@ е деактивирано";
+
+"Start using ChatGPT for free" = "Започнете да използвате ChatGPT безплатно";
+
+"Workspaces" = "Работни пространства";
+
+"Continue" = "Продължете";
+
+"Your workspace is deactivated" = "Вашето работно пространство е деактивирано";
+
+"Deactivated" = "Деактивиран";
+

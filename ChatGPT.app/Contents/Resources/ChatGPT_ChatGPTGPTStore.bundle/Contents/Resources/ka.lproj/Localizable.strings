@@ -1,0 +1,114 @@
+"Add a note" = "შენიშვნის დამატება";
+
+"Public" = "საჯარო";
+
+"Untitled" = "უსათაურო";
+
+"Failed to remove recent GPT, retry?" = "ბოლოდროინდელი GPT-ს წაშლა ვერ მოხერხდა, ცდით ხელახლა?";
+
+"Include my email **%@**" = "ჩემი ელფოსტის მისამართის **%@** დართვა";
+
+"Editing and creating a GPT is only available on web for now." = "GPT-ს რედაქტირება ან შექმნა ამჟამად შესაძლებელია მხოლოდ ვებში.";
+
+"Failed to delete GPT, retry?" = "GPT-ს წაშლა ვერ მოხერხდა, ცდით ხელახლა?";
+
+"How would you rate this GPT?" = "როგორ შეაფასებდით ამ GPT-ს?";
+
+"Okay" = "კარგი";
+
+"Options" = "ვარიანტები";
+
+"Start Chat" = "ჩატის დაწყება";
+
+"Get Plus to Chat" = "მიიღეთ Plus ჩატის დასაწყებად";
+
+"Feedback" = "Feedback";
+
+"Searching…" = "მიმდინარეობს ძიება…";
+
+"Only me" = "მხოლოდ მე";
+
+"Edit" = "რედაქტირება";
+
+"Unable to load, retry?" = "ჩატვირთვა შეუძლებელია, ცდით ხელახლა?";
+
+"See more" = "მეტის ჩვენება";
+
+"Are you sure you want to remove this GPT from your recents?" = "ნამდვილად გსურთ ამ GPT-ს ამოშლა თქვენი ბოლოდროინდელი ჩატებიდან?";
+
+"My GPTs" = "ჩემი GPT-ები";
+
+"in **%@**" = "**%@**-ში";
+
+"No Recents" = "ბოლოდროინდელი კონტენტი არ არის";
+
+"Top Picks" = "რჩეული ვარიანტები";
+
+"Loading more" = "მეტის ჩატვირთვა";
+
+"Recently Used" = "ბოლოს გამოყენებული";
+
+"No Results Found" = "შედეგები არ მოიძებნა";
+
+"Explore" = "დათვალიერება";
+
+"%@ rating" = "%@ რეიტინგი";
+
+"Optional private note for creator…" = "არასავალდებულო პირადი შენიშვნა შემქმნელისთვის…";
+
+"Thank you for your feedback!" = "გმადლობთ უკუკავშირისთვის!";
+
+"Top Suggestions" = "რჩეული შემოთავაზებები";
+
+"Good" = "კარგი";
+
+"Search Public GPTs" = "საჯარო GPT-ების ძიება";
+
+"Tap a star" = "შეეხეთ ვარსკვლავს";
+
+"Start chat" = "ჩატის დაწყება";
+
+"Are you sure you want to delete this GPT?" = "ნამდვილად გსურთ ამ GPT-ს წაშლა?";
+
+"Anyone at %@" = "ყველა %@-ში ";
+
+"Visibility" = "ხილვადობა";
+
+"%@ chats" = "%@ ჩატი";
+
+"Anyone with a link" = "ყველა, ვისაც ბმული აქვს";
+
+"Report" = "გაფრთხილება";
+
+"Include my email" = "ჩემი ელფოსტის მისამართის დართვა";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "^[%lld ვარსკვლავი](inflect: true), %@ რეიტინგიდან";
+
+"How would you rate **%@**?" = "როგორ შეაფასებდით **%@**-ს?";
+
+"Bad" = "ცუდი";
+
+"Chats: %@" = "ჩატები: %@";
+
+"Star rating" = "ვარსკვლავებით შეფასება";
+
+"Share" = "გაზიარება";
+
+"Capabilities" = "შესაძლებლობები";
+
+"Conversation starters" = "საუბრის დამწყები ფრაზები";
+
+"By community builder" = "საზოგადოების შემქმნელის მიერ";
+
+"Remove" = "ამოშლა";
+
+"Remove GPT" = "GPT-ს ამოშლა";
+
+"Exceptional!" = "გამორჩეული!";
+
+"Great" = "შესანიშნავი";
+
+"Editing Not Available" = "რედაქტირება მიუწვდომელია";
+
+"By %@" = "მიერ %@";
+

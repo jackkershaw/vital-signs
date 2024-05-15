@@ -1,0 +1,182 @@
+"App Language" = "యాప్ భాష";
+
+"All your chats will be cleared from history. This cannot be undone." = "మీ చాట్‌‌లన్నీ చరిత్ర నుండి క్లియర్ చేయబడతాయి. ఇది రద్దు చేయబడదు.";
+
+"About" = "గురించి";
+
+"Search Archive" = "ఆర్కైవ్ ‌ ని శోధించండి";
+
+"Improve voice for everyone" = "ప్రతి ఒక్కరి గొంతును మెరుగుపరచండి";
+
+"System" = "వ్యవస్థ";
+
+"Manage Memory" = "మెమరీని నిర్వహించండి";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "మీ ఖాతాను తొలగించడంలో లోపం ఏర్పడింది. దయచేసి మళ్లీ ప్రయత్నించండి. సమస్య కొనసాగితే, దయచేసి help.openai.com ద్వారా మమ్మల్ని సందర్శించండి.";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "ఈ పరికరంలో కొత్త చాట్‌‌లను మీ చరిత్రకు సేవ్ చేయండి. సేవ్ చేయని చాట్‌‌లు 30 రోజుల్లో మా సిస్టమ్ ‌ ల నుండి తొలగించబడతాయి. ఈ సెట్టింగ్ పరికరాల అంతటా సమకాలీకరించదు. [మరింత తెలుసుకోండి](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "మీ చరిత్రకు ఈ పరికరంలో కొత్త చాట్‌‌లను సేవ్ చేయండి మరియు మా మోడళ్లను మెరుగుపరచడానికి వాటిని ఉపయోగించడానికి అనుమతించండి. సేవ్ చేయని చాట్‌‌లు 30 రోజుల్లో మా సిస్టమ్ ‌ ల నుండి తొలగించబడతాయి. ఈ సెట్టింగ్ పరికరాల అంతటా సమకాలీకరించదు. [మరింత తెలుసుకోండి](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Customize ChatGPT" = "ChatGPTని అనుకూలీకరించండి";
+
+"Terms of Use" = "ఉపయోగ నిబంధనలు";
+
+"Speech" = "ప్రసంగం";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "మీ ఖాతాను తొలగించడం వల్ల యాప్ ‌ లో యాక్టివ్ సబ్ ‌ స్క్రిప్షన్ ‌ లు రద్దు చేయబడవు. మీరు మీ Apple ID సెట్టింగ్‌లలో ఈ సబ్ ‌ స్క్రిప్షన్ ‌ లను రద్దు చేయవచ్చు.";
+
+"No archived chats" = "ఆర్కైవ్ చేసిన చాట్‌‌లు ఏవీ లేవు";
+
+"Help" = "సహాయం";
+
+"Archived Chats" = "ఆర్కైవ్ చేసిన చాట్‌‌లు";
+
+"Export Data" = "ఎగుమతి డేటా";
+
+"Could not archive all chats" = "అన్ని చాట్‌‌లను ఆర్కైవ్ చేయడం సాధ్యం కాలేదు";
+
+"Voice" = "వాయిస్";
+
+"Chat History & Training" = "చాట్ చరిత్ర & శిక్షణ";
+
+"Archived conversations will be available here" = "ఆర్కైవ్ చేసిన సంభాషణలు ఇక్కడ అందుబాటులో ఉంటాయి";
+
+"Error updating setting. Please try again later" = "సెట్టింగ్ ‌ ను అప్‌డేట్ చేయడంలో లోపం. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి";
+
+"View" = "చూడండి";
+
+"Error deleting all chats" = "అన్ని చాట్‌‌లను తొలగించడంలో లోపం";
+
+"Email missing!" = "ఇమెయిల్ లేదు!";
+
+"New Features" = "కొత్త ఫీచర్‌లు";
+
+"This workspace is private and opted out of training." = "ఈ వర్క్ ‌ స్పేస్ ప్రైవేట్ ‌ గా ఉంటుంది మరియు శిక్షణ నుండి వైదొలగబడుతుంది.";
+
+"Successfully exported data. You should receive an email shortly with your data." = "డేటా విజయవంతంగా ఎగుమతి చేయబడింది. మీరు మీ డేటాతో త్వరలో ఇమెయిల్‌ను స్వీకరిస్తారు.";
+
+"Email" = "ఇమెయిల్";
+
+"Could not unarchive conversation. Please try again later." = "సంభాషణను అనాలోచితంగా చేయలేకపోయాము. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "మీ ఖాతాను తొలగించడం శాశ్వతం మరియు రద్దు చేయడం సాధ్యం కాదు. ప్రొఫైల్, సంభాషణలు మరియు API వాడకంతో సహా మీ మొత్తం డేటా తీసివేయబడుతుంది.\n\nమీరు కొత్త ఖాతా కోసం ఒకే ఇమెయిల్ లేదా ఫోన్ నంబర్ ‌ ను తిరిగి ఉపయోగించలేరు.\n\nమీరు APIతో ChatGPTని ఉపయోగిస్తుంటే, ఈ యాక్సెస్ కూడా తొలగించబడుతుంది.";
+
+"Desktop Launcher" = "డెస్క్‌టాప్ లాంచర్";
+
+"Could not delete all chats" = "అన్ని చాట్‌‌లను తొలగించడం సాధ్యం కాలేదు";
+
+"Free Plan" = "ఉచిత ప్లాన్";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "మీరు చాట్ చేస్తున్నప్పుడు ChatGPT మరింత సహాయకారిగా ఉంటుంది, మీకు దాని ప్రతిస్పందనలను అనుకూలీకరించడానికి వివరాలు మరియు ప్రాధాన్యతలను ఎంచుకోవడం. [మరింత తెలుసుకోండి](%@)\n\nChatGPT కొత్తగా దేనినైనా గుర్తుంచుకుంటుందో లేదా నేర్పిస్తుందో అర్థం చేసుకోవడానికి, దానితో చాట్ చేయండి:\n\n• \"నాకు సంక్షిప్త ప్రతిస్పందనలు ఇష్టమని గుర్తుంచుకోండి.\"\n• \"నాకు ఇప్పుడే ఒక కుక్కపిల్ల వచ్చింది!\"\n• \"మీరు నా గురించి ఏమి గుర్తుంచుకుంటారు?\"\n• \"నా చివరి ప్రాజెక్ట్ ‌ లో మేము ఎక్కడ వదిలిపెట్టాము?\"";
+
+"Manage Subscriptions" = "సబ్ ‌ స్క్రిప్షన్‌‌లను నిర్వహించండి";
+
+"Improve the model for everyone" = "ప్రతి ఒక్కరికీ నమూనా మెరుగుపరచండి";
+
+"Color Scheme" = "కలర్ స్కీమ్";
+
+"Conversation not found" = "సంభాషణ కనుగొనబడలేదు";
+
+"Yesterday" = "నిన్న";
+
+"Could not update the memory setting. Please try again later." = "మెమరీ సెట్టింగ్ ‌ ను అప్‌డేట్ చేయడం సాధ్యం కాలేదు. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.";
+
+"Archive All Chats" = "అన్ని చాట్‌‌లను ఆర్కైవ్ చేయండి";
+
+"Keyboard Shortcut" = "కీబోర్డ్ షార్ట్‌కట్";
+
+"None" = "ఏదీ కాదు";
+
+"Subscription" = "చందా";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "మా మోడల్‌లకు శిక్షణ ఇవ్వడానికి మీ కంటెంట్‌ని ఉపయోగించడానికి అనుమతించండి, ఇది మీకు మరియు దానిని ఉపయోగించే ప్రతి ఒక్కరికీ ChatGPTని మెరుగుపరుస్తుంది. మేము మీ గోప్యతను రక్షించడానికి చర్యలు తీసుకుంటాము. [మరింత తెలుసుకోండి](https://help.openai.com/en/articles/7730893-data-controls-faq).";
+
+"Your account has been queued for deletion." = "తొలగింపు కోసం మీ ఖాతా క్యూలో ఉంది.";
+
+"Restore purchases" = "కొనుగోళ్లు పునరుద్ధరించడానికి";
+
+"All your chats will be archived. This cannot be undone." = "మీ చాట్‌‌లన్నీ ఆర్కైవ్ చేయబడతాయి. ఇది రద్దు చేయబడదు.";
+
+"Recent login required" = "ఇటీవలి లాగిన్ అవసరం";
+
+"Today" = "నేడు";
+
+"Upgrade to ChatGPT Plus" = "ChatGPT ప్లస్‌కి అప్‌గ్రేడ్ చేయండి";
+
+"App" = "యాప్";
+
+"Off" = "ఆఫ్";
+
+"Are you sure?" = "మీరు ఖచ్చితంగా చెప్పగలరా?";
+
+"Main Language" = "ప్రధాన భాష";
+
+"Chat history" = "చాట్ చరిత్ర";
+
+"ChatGPT Plus" = "ChatGPT Plus";
+
+"Data Controls" = "డేటా నియంత్రణలు";
+
+"Search Archive" = "ఆర్కైవ్‌ని శోధించండి";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "మా మోడల్‌లకు శిక్షణ ఇవ్వడానికి మీ కంటెంట్‌ని ఉపయోగించడానికి అనుమతించండి, ఇది మీకు మరియు దానిని ఉపయోగించే ప్రతి ఒక్కరికీ ChatGPTని మెరుగుపరుస్తుంది. మేము మీ గోప్యతను రక్షించడానికి చర్యలు తీసుకుంటాము.[మరింత తెలుసుకోండి](https://help.openai.com/en/articles/7730893-data-controls-faq).";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "మా మోడళ్లను మెరుగుపరచడానికి మరియు శిక్షణ ఇవ్వడానికి భవిష్యత్ వాయిస్ చాట్‌‌ల నుండి ఆడియోను భాగస్వామ్యం చేయండి. ఇది ప్రతి ఒక్కరికీ వాయిస్ చాట్‌‌ల నాణ్యతను మెరుగుపరుస్తుంది. [మరింత తెలుసుకోండి](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Dark" = "చీకటి";
+
+"Light" = "కాంతి";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "ఉత్తమ ఫలితాల కోసం, మీరు ప్రధానంగా మాట్లాడే భాషను ఎంచుకోండి. ఇది జాబితా చేయకపోతే, అది ఇప్పటికీ ఆటో-డిటెక్షన్ ద్వారా మద్దతు ఇవ్వవచ్చు.";
+
+"We couldn't load your archived chats" = "మేము మీ ఆర్కైవ్ చేసిన చాట్‌‌లను లోడ్ చేయలేకపోయాము";
+
+"Could not delete conversation. Please try again later." = "సంభాషణను తొలగించడం సాధ్యం కాలేదు. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.";
+
+"Manage workspace" = "కార్యస్థలాన్ని నిర్వహించండి";
+
+"We were unable to process your export at this time. Please try again later." = "ఈ సమయంలో మేము మీ ఎగుమతిని ప్రాసెస్ చేయలేకపోయాము. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.";
+
+"ChatGPT Enterprise" = "ChatGPT ఎంటర్ ‌ ప్రైజ్";
+
+"Confirm Export" = "ఎగుమతిని నిర్ధారించండి";
+
+"Haptic Feedback" = "హ్యాప్టిక్ ఫీడ్‌బ్యాక్";
+
+"Chat training" = "చాట్ శిక్షణ";
+
+"Subscription Cancellation" = "సబ్ ‌ స్క్రిప్షన్ రద్దు";
+
+"Privacy Policy" = "గోప్యతా విధానం";
+
+"Always show ChatGPT in dock" = "ఎల్లప్పుడూ డాక్‌లో ChatGPTని చూపండి";
+
+"Unarchive" = "అన్ ‌ ఆర్కైవ్";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "మీరు ఈ సబ్‌స్క్రిప్షన్‌ను మరొక ప్లాట్‌ఫారమ్‌లో కొనుగోలు చేసినందున, మీరు ఈ యాప్‌లో మీ సభ్యత్వానికి మార్పులు చేయలేరు.";
+
+"ChatGPT Team" = "ChatGPT బృందం";
+
+"ChatGPT for %@" = "%@ కోసం ChatGPT";
+
+"Delete Account" = "ఖాతాను తొలగించండి";
+
+"On" = "ఆన్";
+
+"Keep ChatGPT on top" = "పైన ChatGPTని ఉంచండి";
+
+"Help Center" = "సహాయ కేంద్రం";
+
+"Workspace" = "వర్క్‌స్పేస్";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "మీరు గత 10 నిమిషాల్లో లాగిన్ అయినట్లయితే మాత్రమే మీరు మీ ఖాతాను తొలగించవచ్చు.\n\nదయచేసి మళ్లీ లాగిన్ చేసి, కొనసాగించడానికి ఇక్కడకు తిరిగి రండి.";
+
+"Error archiving all chats" = "అన్ని చాట్‌‌లను ఆర్కైవ్ చేయడంలో లోపం";
+
+"Memory" = "మెమొరీ";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "మీ ఖాతా వివరాలు మరియు సంభాషణలు ఎగుమతిలో చేర్చబడతాయి.\n\nడౌన్‌లోడ్ చేయదగిన ఫైల్‌లో మీ నమోదిత ఇమెయిల్‌కు డేటా పంపబడుతుంది.\n\nప్రాసెసింగ్ కొంత సమయం పట్టవచ్చు. ఇది సిద్ధంగా ఉన్నప్పుడు మీకు తెలియజేయబడుతుంది.";
+
+"Delete All Chats" = "అన్ని చాట్‌‌లను తొలగించండి";
+

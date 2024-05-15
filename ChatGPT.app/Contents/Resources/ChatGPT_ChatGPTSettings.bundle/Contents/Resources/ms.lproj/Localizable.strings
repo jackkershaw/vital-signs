@@ -1,0 +1,178 @@
+"All your chats will be cleared from history. This cannot be undone." = "Semua sembang anda akan dikosongkan daripada sejarah. Tindakan ini tidak boleh dibuat asal.";
+
+"Data Controls" = "Kawalan Data";
+
+"ChatGPT Team" = "Pasukan ChatGPT";
+
+"Keep ChatGPT on top" = "Simpan ChatGPT di atas";
+
+"About" = "Perihal";
+
+"Upgrade to ChatGPT Plus" = "Naik taraf kepada ChatGPT Plus";
+
+"Search Archive" = "Carian Arkib";
+
+"Chat training" = "Latihan sembang";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "Pemadaman akaun anda adalah kekal dan tidak boleh dibuat asal. Semua data anda, termasuk profil, perbualan dan penggunaan API, akan dialih keluar.\n\nAnda tidak boleh menggunakan semula e-mel atau nombor telefon yang sama untuk akaun baharu.\n\nJika anda telah menggunakan ChatGPT dengan API, akses ini juga akan dipadamkan.";
+
+"Recent login required" = "Log masuk baru-baru ini diperlukan";
+
+"No archived chats" = "Tiada sembang yang diarkibkan";
+
+"Archived Chats" = "Sembang Diarkibkan";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "Butiran akaun dan perbualan anda akan disertakan dalam eksport. \n\nData akan dihantar kepada e-mel berdaftar anda dalam fail yang boleh dimuat turun. \n\nPemprosesan mungkin mengambil sedikit masa. Anda akan dimaklumkan apabila data ini sudah sedia.";
+
+"Could not delete all chats" = "Tidak dapat memadamkan semua sembang";
+
+"Dark" = "Gelap";
+
+"Free Plan" = "Pelan Percuma";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "Anda hanya boleh memadamkan akaun anda jika anda telah log masuk dalam tempoh 10 minit yang lalu.\n\nSila log masuk semula, kemudian kembali ke sini untuk meneruskan.";
+
+"Color Scheme" = "Skema Warna";
+
+"ChatGPT Enterprise" = "ChatGPT Enterprise";
+
+"Export Data" = "Eksport Data";
+
+"This workspace is private and opted out of training." = "Ruang kerja ini adalah peribadi dan tidak disertakan dalam latihan.";
+
+"Improve voice for everyone" = "Tambah baik suara untuk semua orang";
+
+"Light" = "Cerah";
+
+"Today" = "Hari ini";
+
+"Terms of Use" = "Syarat Penggunaan";
+
+"Confirm Export" = "Sahkan Eksport";
+
+"Are you sure?" = "Adakah anda pasti?";
+
+"Subscription Cancellation" = "Pembatalan Langganan";
+
+"Chat History & Training" = "Sejarah & Latihan Sembang";
+
+"Subscription" = "Langganan";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "Untuk hasil terbaik, pilih bahasa yang biasa anda gunakan. Jika bahasa tersebut tidak disenaraikan, bahasa itu mungkin masih disokong melalui autopengesanan.";
+
+"View" = "Lihat";
+
+"Archive All Chats" = "Arkibkan Semua Sembang";
+
+"Manage Subscriptions" = "Urus Langganan";
+
+"New Features" = "Ciri Baharu";
+
+"Email" = "E-mel";
+
+"Could not delete conversation. Please try again later." = "Tidak dapat memadamkan perbualan. Sila cuba sebentar lagi.";
+
+"System" = "Sistem";
+
+"Your account has been queued for deletion." = "Akaun anda telah diaturkan untuk pemadaman.";
+
+"Conversation not found" = "Perbualan tidak ditemui";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "ChatGPT akan menjadi semakin membantu apabila anda semakin banyak bersembang dengannya, dengan mengingati butiran dan pilihan untuk menyesuaikan jawapannya kepada anda. [Ketahui lebih lanjut](%@)\n\nUntuk memahami perkara yang diingati ChatGPT atau mengajarnya sesuatu yang baharu, cuma sembang dengan ChatGPT:\n\n• “Ingat bahawa saya suka tindak balas yang ringkas.”\n• “Saya baru mendapat seekor anak anjing!”\n• “Apakah yang anda ingat tentang saya?”\n• “Apakah perbincangan terakhir kita tentang projek saya?”";
+
+"Delete All Chats" = "Padamkan Semua Sembang";
+
+"Improve the model for everyone" = "Tambah baik model untuk semua orang";
+
+"Unarchive" = "Nyaharkib";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Simpan sembang baharu pada peranti ini kepada sejarah anda. Sembang yang tidak disimpan akan dipadamkan daripada sistem kami dalam masa 30 hari. Tetapan ini tidak menyegerak merentas peranti. [Ketahui lebih lanjut](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Simpan sembang baharu pada peranti ini kepada sejarah anda dan benarkan sembang digunakan untuk menambah baik model kami. Sembang yang tidak disimpan akan dipadamkan daripada sistem kami dalam masa 30 hari. Tetapan ini tidak menyegerak merentas peranti. [Ketahui lebih lanjut](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Speech" = "Pertuturan";
+
+"Chat history" = "Sejarah sembang";
+
+"Help" = "Bantuan";
+
+"Voice" = "Suara";
+
+"Off" = "Dimatikan";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "Anda tidak boleh membuat perubahan pada langganan anda dalam apl ini, kerana anda membeli langganan ini pada platform lain.";
+
+"All your chats will be archived. This cannot be undone." = "Semua sembang anda akan diarkibkan. Tindakan ini tidak boleh dibuat asal.";
+
+"Keyboard Shortcut" = "Jalan pintas Papan kekunci";
+
+"App Language" = "Bahasa Apl";
+
+"ChatGPT Plus" = "ChatGPT Plus";
+
+"Email missing!" = "E-mel hilang!";
+
+"Manage workspace" = "Urus ruang kerja";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "Terdapat ralat dengan pemadaman akaun anda. Sila cuba lagi. Jika masalah berterusan, sila lawati kami di help.openai.com.";
+
+"Help Center" = "Pusat Bantuan";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Kongsi audio daripada sembang suara masa hadapan untuk menambah baik dan melatih model kami. Tindakan ini akan menambah baik kualiti sembang suara untuk semua orang. [Ketahui lebih lanjut](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Privacy Policy" = "Dasar Privasi";
+
+"Error deleting all chats" = "Ralat memadamkan semua sembang";
+
+"Error updating setting. Please try again later" = "Ralat mengemas kini tetapan. Sila cuba sebentar lagi";
+
+"Archived conversations will be available here" = "Perbualan yang diarkibkan akan tersedia di sini";
+
+"Restore purchases" = "Pulihkan semula pembelian";
+
+"Successfully exported data. You should receive an email shortly with your data." = "Berjaya mengeksport data. Anda akan menerima e-mel yang mengandungi data anda tidak lama lagi.";
+
+"Could not archive all chats" = "Tidak dapat mengarkibkan semua sembang";
+
+"App" = "Apl";
+
+"Workspace" = "Ruang kerja";
+
+"Could not unarchive conversation. Please try again later." = "Tidak dapat nyaharkib perbualan. Sila cuba sebentar lagi.";
+
+"Yesterday" = "Semalam";
+
+"ChatGPT for %@" = "ChatGPT untuk %@";
+
+"Memory" = "Memori";
+
+"Haptic Feedback" = "Maklum balas Haptik";
+
+"Error archiving all chats" = "Ralat mengarkibkan semua sembang";
+
+"Desktop Launcher" = "Pelancar Desktop";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Benarkan kandungan anda digunakan untuk melatih model kami, yang menjadikan ChatGPT lebih baik untuk anda dan semua orang yang menggunakan ChatGPT ini. Kami mengambil langkah untuk melindungi privasi anda. [Ketahui lebih lanjut](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"None" = "Tiada";
+
+"Main Language" = "Bahasa Utama";
+
+"Always show ChatGPT in dock" = "Sentiasa tunjukkan ChatGPT di dok";
+
+"Could not update the memory setting. Please try again later." = "Tidak dapat mengemas kini tetapan memori. Sila cuba sebentar lagi.";
+
+"We were unable to process your export at this time. Please try again later." = "Kami tidak dapat memproses eksport anda pada masa ini. Sila cuba sebentar lagi.";
+
+"Manage Memory" = "Urus Memori";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "Memadamkan akaun anda tidak akan membatalkan sebarang langganan dalam apl yang aktif. Anda boleh batalkan langganan ini dalam tetapan Apple ID anda.";
+
+"Delete Account" = "Padam Akaun";
+
+"Customize ChatGPT" = "Sesuaikan ChatGPT";
+
+"On" = "Dihidupkan";
+
+"We couldn't load your archived chats" = "Kami tidak dapat memuatkan sembang anda yang telah diarkibkan";
+

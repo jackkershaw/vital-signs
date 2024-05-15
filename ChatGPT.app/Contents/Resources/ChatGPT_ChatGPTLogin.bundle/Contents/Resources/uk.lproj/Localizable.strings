@@ -1,0 +1,70 @@
+"There was a problem saving sign in info. Please try again." = "Не вдалося зберегти інформацію про вхід. Повторіть спробу.";
+
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "Не вдалося зв’язатися із серверами Apple. Повторіть спробу. (%lld)";
+
+"Unknown other error." = "Інша невідома помилка.";
+
+"There was a problem clearing sign in info. Please try again." = "Не вдалось очистити інформацію про вхід. Повторіть спробу.";
+
+"Let’s explore" = "Почнімо досліджувати";
+
+"Revoke failed." = "Помилка відкликання.";
+
+"Let’s create" = "Почнімо творити";
+
+"Let’s chit-chat" = "Почнімо спілкуватися";
+
+"Invalid invite url." = "Недійсна URL-адреса запрошення.";
+
+"Sign in failed" = "Помилка входу";
+
+"Something went wrong." = "Сталася помилка.";
+
+"Privacy Policy" = "Політика конфіденційності";
+
+"Let’s discover" = "Почнімо дізнаватися нове";
+
+"Let’s invent" = "Почнімо винаходити";
+
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "Сталася помилка. Переконайтеся, що на вашому пристрої встановлено правильну дату й час, а в меню «Налаштування → Загальні → Дата й час» увімкнено параметр «Установлювати автоматично».";
+
+"There is a problem with the server. Please try again later." = "Помилка сервера. Повторіть спробу пізніше.";
+
+"Unknown error." = "Невідома помилка.";
+
+"Missing bundle id." = "Відсутній ідентифікатор набору.";
+
+"Request cancelled." = "Запит скасовано.";
+
+"There was a problem. Please restart the app." = "Виникла проблема. Перезавантажте програму.";
+
+"Let’s collaborate" = "Почнімо співпрацювати";
+
+"Failed to validate id token." = "Не вдалося перевірити ідентифікаційний маркер.";
+
+"Sign up with email" = "Зареєструватися за допомогою адреси електронної пошти";
+
+"Let’s go" = "Почнімо";
+
+"No authorization code found." = "Код авторизації не знайдено.";
+
+"Let’s design" = "Почнімо проєктувати";
+
+"No refresh token found." = "Маркера оновлення не знайдено.";
+
+"Continue with Google" = "Продовжити за допомогою Google";
+
+"Renew failed." = "Помилка поновлення.";
+
+"Let’s brainstorm" = "Почнімо обмірковувати ідеї";
+
+"PKCE not allowed." = "Підтвердження ключа для обміну кодами (PKCE) не дозволено.";
+
+"Store failed." = "Помилка збереження.";
+
+"Terms of Use" = "Умови використання";
+
+"No sign in info found. Please sign in." = "Інформації про вхід не знайдено. Увійдіть у систему.";
+
+"Sign in request was cancelled." = "Запит на вхід скасовано.";
+

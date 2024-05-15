@@ -1,0 +1,36 @@
+"Deleting chat…" = "ચેટ ડિલીટ થઇ રહ્યાં છે...";
+
+"Memory off" = "મેમરી બંધ છે";
+
+"Open Settings" = "સેટિંગ્સ ખોલો";
+
+"Toggle Sidebar" = "સાઇડબારને ટૉગલ કરો";
+
+"Deleting chat failed" = "ચેટ ડીલીટ કરવામાં નિષ્ફળ ";
+
+"Deleted chat" = "ચેટ કાઢવામાં આવી";
+
+"Please make sure this feature is enabled for your account." = "કૃપા કરીને ખાતરી કરો કે આ સુવિધા તમારા એકાઉન્ટ માટે સક્ષમ છે.";
+
+"Thank you for your feedback!" = "તમારા પ્રતિસાદ બદલ આભાર!";
+
+"Voice unavailable" = "વૉઇસ અનુપલબ્ધ";
+
+"Deleted chat" = "ચેટ ડીલીટ કરવામાં આવી";
+
+"History off" = "હિસ્ટ્રી બંધ છે";
+
+"There is a problem with your internet connection." = "તમારા ઇન્ટરનેટ કનેક્શનમાં સમસ્યા છે.";
+
+"Voice capabilities aren’t currently available when history is turned off." = "જ્યારે હિસ્ટ્રી બંધ હોય ત્યારે વૉઇસ ક્ષમતાઓ હાલમાં ઉપલબ્ધ હોતી નથી.";
+
+"Open Memory Settings" = "મેમરી સેટિંગ્સ ખોલો";
+
+"Close menu" = "મેનુ બંધ કરો";
+
+"Error reading message out loud" = "મેસેજને મોટેથી વાંચવામાં એરર";
+
+"Voice capabilities aren’t currently available with this GPT because it requires memory to be on." = "વૉઇસ ક્ષમતાઓ હાલમાં આ GPT સાથે ઉપલબ્ધ નથી કારણ કે તેના માટે મેમરી ચાલુ હોવી જરૂરી છે.";
+
+"Turn history on" = "હિસ્ટ્રી ચાલુ કરો";
+

@@ -1,0 +1,50 @@
+"Shared link deleted." = "分享連結已刪除。";
+
+"There was an error preparing the conversation. Please try again. %@" = "準備對話時發生錯誤，請再試一次。%@";
+
+"The share link is invalid. %@" = "分享連結無效。%@";
+
+"Shared Link Owner" = "分享連結擁有者";
+
+"Title" = "標題";
+
+"Your custom instructions won’t be shared with viewers." = "你的自訂指令將不會分享給檢視者。";
+
+"There was an error deleting your shared link." = "刪除分享連結時發生錯誤。";
+
+"Edit title" = "編輯標題";
+
+"Share link" = "分享連結";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "你確定要刪除分享的連結「%@」嗎？你隨時可以再次分享此交談來建立新連結。";
+
+"Shared Link Date" = "分享連結日期";
+
+"Delete link" = "刪除連結";
+
+"There was an error sharing the conversation. Please try again. %@" = "分享對話時發生錯誤，請再試一次。%@";
+
+"Shared Link Title" = "分享連結標題";
+
+"Share your name" = "分享你的名稱";
+
+"Options" = "選項";
+
+"Share anonymously" = "匿名分享";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "分享連結後，系統將不會分享所傳送或接收的訊息。擁有網址的任何人都可以檢視你分享的交談。";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "你已經分享了此交談的連結。如果你想納入新訊息，請刪除此連結並重新分享交談。";
+
+"Update title" = "更新標題";
+
+"Share link to chat" = "分享連結至交談";
+
+"Recipients won't be able to view images." = "收件者將無法檢視圖像。";
+
+"Missing Name" = "缺少名稱";
+
+"Help and FAQ" = "說明和常見問題";
+
+"The conversation has no messages." = "對話無任何訊息。";
+

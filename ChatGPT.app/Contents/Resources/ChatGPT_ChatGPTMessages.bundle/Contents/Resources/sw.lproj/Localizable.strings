@@ -1,0 +1,74 @@
+"Save File As…" = "Hifadhi Faili Kama…";
+
+"Bad" = "Duni";
+
+"File unavailable" = "Faili haipatikani";
+
+"Read Aloud" = "Soma kwa Sauti";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT huhifadhi faili kwa muda mfupi tu. Anzisha mazungumzo mapya au pakia faili mpya ili kuendelea na mazungumzo yako.";
+
+"Edit" = "Hariri";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Faili hii haipatikani tena. Anzisha mazungumzo mapya au pakia faili mpya ili kuendelea na mazungumzo yako.";
+
+"Manage memories" = "Dhibiti kumbukumbu";
+
+"How would you rate this GPT?" = "Unaweza kukadiria vipi GPT hii?";
+
+"Regenerate" = "Zalisha upya";
+
+"#%lld row" = "safumlalo #%lld";
+
+"Stop Generating" = "Acha Kuzalisha";
+
+"Upgraded response" = "Jibu lililoboreshwa";
+
+"Failed, retry?" = "Imeshindwa, utajaribu tena?";
+
+"File expired" = "Muda wa faili umeisha";
+
+"Analysis" = "Uchambuzi";
+
+"Sign in to %@" = "Ingia kwenye %@";
+
+"Quick Look" = "Angalia Haraka";
+
+"Memories updated" = "Kumbukumbu zimesasishwa";
+
+"\"%@\" column" = "safuwima “%@”";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "Inapakia ^[%lld viambatisho](inflect: true)…";
+
+"Continue Generating" = "Endelea kuzalisha";
+
+"Please try again later.%@" = "Tafadhali jaribu tena baadaye. %@";
+
+"\"%@\" cell" = "seli “%@”";
+
+"Deny" = "Kataa";
+
+"You" = "Wewe";
+
+"Memory updated" = "Kumbukumbu imesasishwa";
+
+"Select Text" = "Chagua Maandishi";
+
+"Selection" = "Uteuzi";
+
+"Change Model" = "Badilisha Muundo";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Imeandikwa kwa kutumia muundo wetu wenye uwezo mkubwa zaidi, GPT-4, unaopatikana kwenye ChatGPT Plus";
+
+"Your most recent request failed. Please retry!" = "Ombi lako la hivi majuzi halikufaulu. Tafadhali jaribu tena.";
+
+"Always allow" = "Ruhusu kila wakati";
+
+"A GPT" = "GPT";
+
+"Decline" = "Kataa";
+
+"Loading…" = "Inapakia...";
+
+"Response rating failed." = "Ukadiriaji wa jibu haukufaulu.";
+

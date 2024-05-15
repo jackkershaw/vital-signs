@@ -1,0 +1,16 @@
+"Expected a file URL, but received a non-file URL" = "Bija paredzēts faila URL, bet tika saņemts URL bez faila";
+
+"Please try again later.\n\n(%@)" = "Lūdzu, mēģini vēlreiz vēlāk.\n\n(%@)";
+
+"Photos Access Denied" = "Fotoattēlu piekļuve noraidīta";
+
+"Expected a non-file URL, but received a file URL" = "Bija paredzēts URL bez faila, bet tika saņemts faila URL";
+
+"Not authorized" = "Nav autorizēts";
+
+"Image conversion failed" = "Attēla pārveidošana neizdevās";
+
+"Failed to Save Image" = "Neizdevās saglabāt attēlu";
+
+"Enable photo library access in Settings to save photos." = "Lai saglabātu fotoattēlus, Iestatījumos iespējo piekļuvi fotoattēlu bibliotēkai.";
+

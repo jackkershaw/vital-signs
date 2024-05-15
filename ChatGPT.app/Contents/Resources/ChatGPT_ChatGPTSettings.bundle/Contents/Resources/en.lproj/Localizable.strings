@@ -1,0 +1,315 @@
+/* No comment provided by engineer. */
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ will forget everything it has remembered from your chats. This cannot be undone.";
+
+/* No comment provided by engineer. */
+"%@ won't use or create memories" = "%@ won't use or create memories";
+
+/* No comment provided by engineer. */
+"%@'s memories" = "%@'s memories";
+
+/* No comment provided by engineer. */
+"About" = "About";
+
+/* No comment provided by engineer. */
+"All your chats will be archived. This cannot be undone." = "All your chats will be archived. This cannot be undone.";
+
+/* No comment provided by engineer. */
+"All your chats will be cleared from history. This cannot be undone." = "All your chats will be cleared from history. This cannot be undone.";
+
+/* No comment provided by engineer. */
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+/* No comment provided by engineer. */
+"Always show ChatGPT in dock" = "Always show ChatGPT in dock";
+
+/* No comment provided by engineer. */
+"App" = "App";
+
+/* No comment provided by engineer. */
+"App Language" = "App Language";
+
+/* No comment provided by engineer. */
+"Archive All Chats" = "Archive All Chats";
+
+/* No comment provided by engineer. */
+"Archived Chats" = "Archived Chats";
+
+/* No comment provided by engineer. */
+"Archived conversations will be available here" = "Archived conversations will be available here";
+
+/* No comment provided by engineer. */
+"Are you sure?" = "Are you sure?";
+
+/* No comment provided by engineer. */
+"As you chat with %@, the details and preferences it remembers will be shown here." = "As you chat with %@, the details and preferences it remembers will be shown here.";
+
+/* No comment provided by engineer. */
+"Chat history" = "Chat history";
+
+/* No comment provided by engineer. */
+"Chat History & Training" = "Chat History & Training";
+
+/* No comment provided by engineer. */
+"Chat training" = "Chat training";
+
+/* No comment provided by engineer. */
+"ChatGPT Enterprise" = "ChatGPT Enterprise";
+
+/* No comment provided by engineer. */
+"ChatGPT for %@" = "ChatGPT for %@";
+
+/* No comment provided by engineer. */
+"ChatGPT Plus" = "ChatGPT Plus";
+
+/* No comment provided by engineer. */
+"ChatGPT Team" = "ChatGPT Team";
+
+/* No comment provided by engineer. */
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”";
+
+/* No comment provided by engineer. */
+"Clear ChatGPT’s memory" = "Clear ChatGPT’s memory";
+
+/* No comment provided by engineer. */
+"Clear Memory" = "Clear Memory";
+
+/* No comment provided by engineer. */
+"Clear this GPT's memory" = "Clear this GPT's memory";
+
+/* No comment provided by engineer. */
+"Color Scheme" = "Color Scheme";
+
+/* No comment provided by engineer. */
+"Confirm Export" = "Confirm Export";
+
+/* No comment provided by engineer. */
+"Conversation not found" = "Conversation not found";
+
+/* No comment provided by engineer. */
+"Could not archive all chats" = "Could not archive all chats";
+
+/* No comment provided by engineer. */
+"Could not delete all chats" = "Could not delete all chats";
+
+/* No comment provided by engineer. */
+"Could not delete conversation. Please try again later." = "Could not delete conversation. Please try again later.";
+
+/* No comment provided by engineer. */
+"Could not reset memory. Please try again later." = "Could not reset memory. Please try again later.";
+
+/* No comment provided by engineer. */
+"Could not unarchive conversation. Please try again later." = "Could not unarchive conversation. Please try again later.";
+
+/* No comment provided by engineer. */
+"Could not update the memory setting. Please try again later." = "Could not update the memory setting. Please try again later.";
+
+/* No comment provided by engineer. */
+"Customize ChatGPT" = "Customize ChatGPT";
+
+/* No comment provided by engineer. */
+"Dark" = "Dark";
+
+/* No comment provided by engineer. */
+"Data Controls" = "Data Controls";
+
+/* No comment provided by engineer. */
+"Delete Account" = "Delete Account";
+
+/* No comment provided by engineer. */
+"Delete All Chats" = "Delete All Chats";
+
+/* No comment provided by engineer. */
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted.";
+
+/* No comment provided by engineer. */
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings.";
+
+/* No comment provided by engineer. */
+"Desktop Launcher" = "Desktop Launcher";
+
+/* No comment provided by engineer. */
+"Email" = "Email";
+
+/* No comment provided by engineer. */
+"Email missing!" = "Email missing!";
+
+/* No comment provided by engineer. */
+"Error archiving all chats" = "Error archiving all chats";
+
+/* No comment provided by engineer. */
+"Error deleting all chats" = "Error deleting all chats";
+
+/* No comment provided by engineer. */
+"Error deleting memory" = "Error deleting memory";
+
+/* No comment provided by engineer. */
+"Error loading GPTs" = "Error loading GPTs";
+
+/* No comment provided by engineer. */
+"Error loading memories" = "Error loading memories";
+
+/* No comment provided by engineer. */
+"Error updating setting. Please try again later" = "Error updating setting. Please try again later";
+
+/* No comment provided by engineer. */
+"Export Data" = "Export Data";
+
+/* No comment provided by engineer. */
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection.";
+
+/* No comment provided by engineer. */
+"Free Plan" = "Free Plan";
+
+/* No comment provided by engineer. */
+"Haptic Feedback" = "Haptic Feedback";
+
+/* No comment provided by engineer. */
+"Help" = "Help";
+
+/* No comment provided by engineer. */
+"Help Center" = "Help Center";
+
+/* No comment provided by engineer. */
+"Improve the model for everyone" = "Improve the model for everyone";
+
+/* No comment provided by engineer. */
+"Improve voice for everyone" = "Improve voice for everyone";
+
+/* No comment provided by engineer. */
+"Keep ChatGPT on top" = "Keep ChatGPT on top";
+
+/* No comment provided by engineer. */
+"Keyboard Shortcut" = "Keyboard Shortcut";
+
+/* No comment provided by engineer. */
+"Learn More" = "Learn More";
+
+/* No comment provided by engineer. */
+"Light" = "Light";
+
+/* No comment provided by engineer. */
+"Main Language" = "Main Language";
+
+/* No comment provided by engineer. */
+"Manage Memory" = "Manage Memory";
+
+/* No comment provided by engineer. */
+"Manage Subscriptions" = "Manage Subscriptions";
+
+/* No comment provided by engineer. */
+"Manage workspace" = "Manage workspace";
+
+/* No comment provided by engineer. */
+"Memory" = "Memory";
+
+/* No comment provided by engineer. */
+"Memory is disabled" = "Memory is disabled";
+
+/* No comment provided by engineer. */
+"New Features" = "New Features";
+
+/* No comment provided by engineer. */
+"No archived chats" = "No archived chats";
+
+/* No comment provided by engineer. */
+"No memories" = "No memories";
+
+/* No comment provided by engineer. */
+"None" = "None";
+
+/* No comment provided by engineer. */
+"Off" = "Off";
+
+/* No comment provided by engineer. */
+"On" = "On";
+
+/* No comment provided by engineer. */
+"Open menu to select which GPT to show memories for" = "Open menu to select which GPT to show memories for";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "Privacy Policy";
+
+/* No comment provided by engineer. */
+"Recent login required" = "Recent login required";
+
+/* No comment provided by engineer. */
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+/* No comment provided by engineer. */
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+/* No comment provided by engineer. */
+"Search Archive" = "Search Archive";
+
+/* No comment provided by engineer. */
+"Search memories" = "Search memories";
+
+/* No comment provided by engineer. */
+"Select a GPT" = "Select a GPT";
+
+/* No comment provided by engineer. */
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+/* No comment provided by engineer. */
+"Speech" = "Speech";
+
+/* No comment provided by engineer. */
+"Subscription" = "Subscription";
+
+/* No comment provided by engineer. */
+"Subscription Cancellation" = "Subscription Cancellation";
+
+/* No comment provided by engineer. */
+"Successfully exported data. You should receive an email shortly with your data." = "Successfully exported data. You should receive an email shortly with your data.";
+
+/* No comment provided by engineer. */
+"System" = "System";
+
+/* No comment provided by engineer. */
+"Terms of Use" = "Terms of Use";
+
+/* No comment provided by engineer. */
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com.";
+
+/* No comment provided by engineer. */
+"This workspace is private and opted out of training." = "This workspace is private and opted out of training.";
+
+/* No comment provided by engineer. */
+"Today" = "Today";
+
+/* No comment provided by engineer. */
+"Turn On" = "Turn On";
+
+/* No comment provided by engineer. */
+"Unarchive" = "Unarchive";
+
+/* No comment provided by engineer. */
+"Upgrade to ChatGPT Plus" = "Upgrade to ChatGPT Plus";
+
+/* No comment provided by engineer. */
+"View" = "View";
+
+/* No comment provided by engineer. */
+"Voice" = "Voice";
+
+/* No comment provided by engineer. */
+"We couldn't load your archived chats" = "We couldn't load your archived chats";
+
+/* No comment provided by engineer. */
+"We were unable to process your export at this time. Please try again later." = "We were unable to process your export at this time. Please try again later.";
+
+/* No comment provided by engineer. */
+"Yesterday" = "Yesterday";
+
+/* No comment provided by engineer. */
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "You can't make changes to your subscription inside this app, because you purchased this subscription on another platform.";
+
+/* No comment provided by engineer. */
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue.";
+
+/* No comment provided by engineer. */
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready.";
+
+/* No comment provided by engineer. */
+"Your account has been queued for deletion." = "Your account has been queued for deletion.";
+

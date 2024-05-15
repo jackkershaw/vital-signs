@@ -1,0 +1,178 @@
+"We were unable to process your export at this time. Please try again later." = "Waan awoodi kari la’anaha inaad habeyno soo-dhoofintaada haddeertan. Fadlan iskuday markale hadhow.";
+
+"Are you sure?" = "Ma hubtaa?";
+
+"Color Scheme" = "Qorshaha midabka";
+
+"Could not unarchive conversation. Please try again later." = "Lagama saari karin kaydka wada-sheekeysiyada. Fadlan iskuday markale hadhow.";
+
+"Memory" = "Xusuus";
+
+"Export Data" = "Dhoofi Xogta";
+
+"Could not delete conversation. Please try again later." = "Lama tirtiri Karin wada-sheekeysiyada. Fadlan iskuday markale hadhow.";
+
+"Help Center" = "Xarun Kaalmo";
+
+"Error archiving all chats" = "Cillad lagala kulmey kaydinta dhammaan sheekeysiyada";
+
+"We couldn't load your archived chats" = "Ma soo rari karno sheekeysigaaga la kaydiyey";
+
+"App Language" = "Luuqada Abbka";
+
+"Error deleting all chats" = "Cillad lagala kulmay tirtirida dhammaan sheekeysiyada";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "Cillad baa lagala kulmay tirtrida koontadaada. Fadlan markale isku day. Haddii dhibku sii jiro, fadlan nagu soo booqo help.openai.com.";
+
+"Speech" = "Hadal";
+
+"None" = "Midna";
+
+"Today" = "Maanta";
+
+"Archive All Chats" = "Kaydi Dhammaan Sheekeysiyada";
+
+"Light" = "Iftiin";
+
+"Desktop Launcher" = "Ku-daahfuraha Desktopka";
+
+"Improve voice for everyone" = "U horumari codka qofwalba";
+
+"Error updating setting. Please try again later" = "Cillad lagala kulmay cusbooneysiinta habeyn. Fadlan iskuday markale hadhow";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "Waxaad tirtiri kartaa koontadaada oo qura haddii aad gashay 10 daqiiqo ugu dambeeyey.\n\nFadlan gal markale, kadib kusoo laabo halkan si aad u sii wadid.";
+
+"System" = "Nidaamka";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "Isbedelo uguma sameyn kartid rukumashadaada gudaha abbkan, sababtoo ah waxaad rukumashadan kaga soo iibsatay barnaamij kale.";
+
+"Main Language" = "Luuqada kowaad";
+
+"Conversation not found" = "Wada-sheekeysi lama helin";
+
+"ChatGPT Enterprise" = "ChatGPT Enterprise";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "U ogolow nuxurkaaga in lagu isticmaalo in lagu tababaro moodeeladayada, taas oo ka ChatGPT ka dhigeysa mid qofwalba u wanaagsan. Waxaan qaadnaa tallaabooyin aan ku ilaalino asturnaantaada. [Wax badan ka baro](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Customize ChatGPT" = "Gaaryeelo ChatGPT";
+
+"Confirm Export" = "Xaqiiji Soo-dhoofinta";
+
+"Could not delete all chats" = "Lama tirtiri arin dhammaan sheekeysiyada";
+
+"Email missing!" = "Iimeyl maqan!";
+
+"All your chats will be archived. This cannot be undone." = "Dhammaan sheekeysiyadaada waa la kaydin doonaa. Tani lagama noqon karo.";
+
+"ChatGPT Team" = "ChatGPT Team";
+
+"Delete All Chats" = "Tiritr Dhammaan Sheekeysiyada";
+
+"This workspace is private and opted out of training." = "Goobtan shaqo waa gaar wayna ka baxsantahay tababar.";
+
+"On" = "Shid";
+
+"Off" = "Dami";
+
+"Privacy Policy" = "Siyaasada Asturnaanta";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "Faahfaahinada iyo wada-sheekeysiyada koontadaada waxaa lagu dari doonaa dhoofinta.\n\nXogta waxaa loogu diri doonaa iimeylkaaga diiwaan-gashan qaab lala soo dagi karo.\n\nHabeynta waxey qaadan kartaa ilaa xoogaho. Waxaa laguugu wargelin doonaa markay diyaar tahay.";
+
+"Improve the model for everyone" = "U hormari moodeelka qofwalba";
+
+"Manage Memory" = "Maaree Xusuus";
+
+"Manage workspace" = "Maaree goob shaqo";
+
+"Keep ChatGPT on top" = "Ku haay ChatGPT kor";
+
+"Chat training" = "Tababarka sheekeysiga";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "ChatGPT waxey waxtar sii yeelan doontaa intaad la sheekeysaneysid, iyadoo qaadaneysa faahfaahinada iyo doorbidaadyada si ay jawaabaha kuugu gaar yeesho. [Wax badan ka baro](%@)\n\nSi aad u fahanto waxa ChatGPT xasuusato ama aad u bartid wax cusb, keliya la sheekeyso:\n\n• “Xusuusnow waxaan jeclahay jawaabo kooban.”\n• “Waxaan haddeerta helay eey yar!”\n• “Maxaad aniga iga xasuusataa?”\n• “Halkeen uga tagnay mashruuceygii ugu dambeeyey?”";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Ku kaydi sheekeysiyada cusub ee agabaka taariikhdaada. Sheekeysiyada aan la kaydinin waxaa laga tirtiri doonaa nidaamyadena 30 maalmood gudahooda. Habeyntan kama hawl-gasho agabyo dhexooda. [Wax badan ka baro](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Subscription Cancellation" = "Kansalida Rukumasho";
+
+"Subscription" = "Rukumasho";
+
+"No archived chats" = "Ma lihid Sheekeysiga la kaydiyey";
+
+"Manage Subscriptions" = "Maaree Rukumashada";
+
+"Unarchive" = "Kaydka ka saar";
+
+"Workspace" = "Goob shaqo";
+
+"Free Plan" = "Qorshe Bilaash ah";
+
+"Could not archive all chats" = "Lama kaydin karin dhammaan sheekeysiyada";
+
+"All your chats will be cleared from history. This cannot be undone." = "Dhammaan sheekeysiyadaada waxaa laga masixi doonaa taariikhdaada. Tani lagama noqon karo.";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "Tirtirida koontadaada waa abid oo lagama noqon karo. Dhammaan xogtaada, ay ku jirto borofaylka, wada-sheekeysiyo, iyo isticmaalka API-ga, waa la saari doonaa.\n\nUma isticmaali kartid isla iimeylkii ama taleefon lambarkii koonto cusub.\n\nHaddii aad ChatGPT la isticmaaleysey API, marinkan ayaa sidookale la tirtiri doonaa.";
+
+"Haptic Feedback" = "Warcelin Dareen";
+
+"Help" = "Kaalmo";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Wadaag maqal laga helo sheekeysiyo cod oo mustaqbalka ah si aad u horumarisid una tababartid moodeeladeena. Waxey tani u horumarisaa tayada sheekeysiyda codka ah qofwalba. [Wax badan ka baro](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Voice" = "Cod";
+
+"Keyboard Shortcut" = "Wadooyinka-gaagaaban ee Kiiboorka";
+
+"Upgrade to ChatGPT Plus" = "Sare-uqaad ChatGPT Plus";
+
+"Archived Chats" = "Sheekeysiga la Kaydiyey";
+
+"ChatGPT Plus" = "ChatGPT Plus";
+
+"Restore purchases" = "Iibsiyada dib-u-soo-celi";
+
+"Chat history" = "Taariikhda sheekeysiga";
+
+"Successfully exported data. You should receive an email shortly with your data." = "Xogta si guul leh loo soo dhoofiyey. Waxaad si degdeg ah u heli doontaa iimeyl wata xogtaada.";
+
+"Search Archive" = "Raadi Kayd";
+
+"Chat History & Training" = "Taariikhda & Tababarka Sheekeysiga";
+
+"Always show ChatGPT in dock" = "Marwalba ku muuji ChatGPT miiska";
+
+"New Features" = "Barnaamijyo Cusub";
+
+"Could not update the memory setting. Please try again later." = "Lama cusbooneysiin Karin habeynada xusuusta. Fadlan iskuday markale hadhow.";
+
+"App" = "Abb";
+
+"Recent login required" = "Gelid dhawaa ayaa loo baahanyahay";
+
+"Terms of Use" = "Shuruudaha Isticmaalka";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Ku kaydi sheekeysiyada cusub ee agabkan taariikhdaada oo u ogolow in lagu isticmaalo in lagu hagaajiyo moodeeladeena. Sheekeysiyada aan la kaydinin waxaa laga tirtiri doonaa nidaamyadena 30 maalmood gudahooda. Habeyntan kama hawl-gasho agabyo dhexooda. [Wax badan ka baro](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"View" = "Eeg";
+
+"Data Controls" = "Xakameynada Xog";
+
+"Email" = "Iimeyl";
+
+"Dark" = "Mugdi";
+
+"About" = "Ku saabsan";
+
+"Yesterday" = "Shalay";
+
+"ChatGPT for %@" = "ChatGPT loogu talagalay %@";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "Tirtirida koontadaada ma kansali doonto wixii rukumasho furan ee abbka dhexdiisa ah. Waxaan ka kansali kartaa rukumashooyinkan habeynada Aqoonsigaaga Apple.";
+
+"Your account has been queued for deletion." = "Koontadaada waxaa saf loo galiyey tirtiris.";
+
+"Delete Account" = "Tirtir Koontada";
+
+"Archived conversations will be available here" = "Wada-sheekeysiyada la kaydiyey halkan bey kasoo muuqan doonaan";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "Natiijooyinka ugu fiican awgood, xulo luuqada aad inta badan ku hadashid. Haddii aaney la liis gareyn, waxaa wali lagu taageeri karaa iyadoo loo maro dareemid-otomaatik ah.";
+

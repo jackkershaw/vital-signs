@@ -1,0 +1,116 @@
+"Are you sure you want to delete this GPT?" = "Сигурен(на) ли сте, че искате да изтриете този GPT?";
+
+"Failed to remove recent GPT, retry?" = "Неуспешно премахване на GPT, направен наскоро. Искате ли да опитате отново?";
+
+"Editing and creating a GPT is only available on web for now." = "Редактирането и създаването на GPT засега е достъпно само в мрежата.";
+
+"Capabilities" = "Възможности";
+
+"Only me" = "Само аз";
+
+"Options" = "Опции";
+
+"Edit" = "Редактиране";
+
+"By %@" = "От %@";
+
+"Get Plus to Chat" = "Вземете Plus, за да започнете чат";
+
+"How would you rate **%@**?" = "Как бихте оценили **%@**?";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "^[%lld звезди](inflect: true), от%@ оценки";
+
+"Star rating" = "Рейтинг със звезди";
+
+"Remove" = "Премахване";
+
+"Visibility" = "Видимост";
+
+"Share" = "Споделете";
+
+"%@ rating" = "%@ оценка";
+
+"Include my email" = "Включи моя имейл адрес";
+
+"Optional private note for creator…" = "Незадължителна лична бележка за създателя...";
+
+"Anyone at %@" = "Всеки в %@";
+
+"Start chat" = "Започнете чат";
+
+"Top Picks" = "Топ избрани";
+
+"Add a note" = "Добавете бележка";
+
+"Report" = "Докладвайте";
+
+"Anyone with a link" = "Всеки с наличие на връзка";
+
+"By community builder" = "От конструктор от общността";
+
+"Include my email **%@**" = "Включи моя имейл адрес **%@**";
+
+"Okay" = "Добре";
+
+"No Recents" = "Няма скорошни";
+
+"Tap a star" = "Докоснете звезда";
+
+"Exceptional!" = "Изключително!";
+
+"Chats: %@" = "Чатове: %@";
+
+"How would you rate this GPT?" = "Как бихте оценили този GPT?";
+
+"%@ chats" = "%@ чатове";
+
+"Searching…" = "Търсене...";
+
+"Failed to delete GPT, retry?" = "Неуспешно изтриване на GPT. Опитайте отново?";
+
+"Public" = "Публично";
+
+"Recently Used" = "Наскоро използвано";
+
+"Editing Not Available" = "Редактирането не е налично";
+
+"Loading more" = "Зарежда се още";
+
+"My GPTs" = "Моите GPT";
+
+"Thank you for your feedback!" = "Благодарим ви за обратната връзка!";
+
+"Great" = "Страхотно!";
+
+"Search Public GPTs" = "Търсете публични GPT";
+
+"Are you sure you want to remove this GPT from your recents?" = "Сигурен(на) ли сте, че искате да премахнете този GPT от вашите чатове, направени наскоро?";
+
+"Feedback" = "Обратна връзка";
+
+"Top Suggestions" = "Топ предложения";
+
+"Unable to load, retry?" = "Не може да се зареди. Искате ли да опитате отново?";
+
+"in **%@**" = "в **%@**";
+
+"No Results Found" = "Няма намерени резултати";
+
+"Feedback" = "Отзиви";
+
+"Explore" = "Изследвайте";
+
+"Remove GPT" = "Премахване на GPT";
+
+"See more" = "Вижте повече";
+
+"Conversation starters" = "Варианти за начало на разговор";
+
+"Untitled" = "Без заглавие";
+
+"Good" = "Добре";
+
+"Bad" = "Лошо";
+
+"Start Chat" = "Започнете чат";
+

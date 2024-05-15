@@ -1,0 +1,52 @@
+"How would you like ChatGPT to respond?" = "Hvernig viltu að ChatGPT svari?";
+
+"Choose which tools can be used with GPT-4." = "Veldu hvaða verkfæri er hægt að nota með GPT-4";
+
+"Show tips" = "Sýna ábendingar";
+
+"Browsing" = "Vefleit";
+
+"Generate images using DALL•E" = "Búðu til myndir með DALL·E";
+
+"Code" = "Kóði";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Viltu örugglega fleygja breytingunum?\nAllar breytingar sem þú gerðir munu glatast.";
+
+"An unknown error occurred. Please try again later" = "Óþekkt villa kom upp. Reyndu aftur síðar";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Sérsniðnum leiðbeiningum verður fylgt í öllu nýju spjalli. [Nánar](chat-preferences-disclosures)";
+
+"DALL•E" = "DALL·E";
+
+"Keep editing" = "Halda áfram að breyta";
+
+"Saving Custom Instructions" = "Vistar sérsniðnar leiðbeiningar";
+
+"Enable for new chats" = "Virkja fyrir nýtt spjall";
+
+"Error updating state for customizations. Please try again later." = "Villa við að uppfæra stöðu sérsniðinna stillinga. Reyndu aftur síðar.";
+
+"Error loading customizations. Please try again later." = "Villa við að hlaða sérsniðnar stillingar. Reyndu aftur síðar.";
+
+"Error saving custom instructions" = "Villa við að vista sérsniðnar leiðbeiningar";
+
+"Execute code using Code Interpreter" = "Keyrðu kóða með kóðatúlki";
+
+"Discard changes" = "Fleygja breytingum";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Hvað viltu að ChatGPT viti um þig til að það geti gefið betri svör?";
+
+"Unsaved changes" = "Óvistaðar breytingar";
+
+"GPT-4 Capabilities" = "Geta GPT-4";
+
+"Browse the internet to find answers" = "Leitaðu að svörum á internetinu";
+
+"Custom Instructions Enabled or Disabled" = "Kveikt eða slökkt á sérsniðnum leiðbeiningum";
+
+"Thought starters" = "Hugmyndir";
+
+"Save" = "Vista";
+
+"Customize ChatGPT" = "Sérsníða ChatGPT";
+

@@ -1,0 +1,26 @@
+"Shared conversation" = "မျှဝေထားသော ချတ်";
+
+"Help and FAQ" = "အကူအညီနှင့် အမေးအဖြေကဏ္ဍ";
+
+"The shared conversation does not exist." = "မျှဝေထားသော ချတ် မရှိပါ။";
+
+"This conversation may reflect the link creator’s custom instructions, which aren’t shared and can meaningfully change how the model responds." = "ဤစကားဝိုင်းသည် လင့်ခ်ဖန်တီးသူ၏ စိတ်ကြိုက် ညွှန်ကြားချက်များကို ထင်ဟပ်နိုင်ပါသည်။ ၎င်းကို မျှဝေမထားဘဲ မော်ဒယ်၏ တုံ့ပြန်ပုံကို ၎င်းကအဓ္ဓိပါယ်ရှိစွာ ပြောင်းလဲနိုင်ပါသည်။";
+
+"Shared conversation is invalid." = "မျှဝေထားသော ချတ်သည် မမှန်ကန်ပါ။";
+
+"Report" = "တိုင်ကြား ";
+
+"Failed to determine model." = "မော်ဒယ်ကို ဆုံးဖြတ်ရန် မအောင်မြင်ပါ။";
+
+"Continue" = "ဆက်လက်";
+
+"Shared Link Date" = "မျှဝေထားသော လင့်ခ်ရက်စွဲ";
+
+"Failed to load shared conversation." = "မျှဝေထားသော ချတ်ကို တင်ရန် မအောင်မြင်ပါ။";
+
+"Shared Link Title" = "မျှဝေထားသော လင့်ခ်ခေါင်းစဉ်";
+
+"Menu" = "မီနူး";
+
+"Shared Link Owner" = "မျှဝေထားသော လင့်ခ်ပိုင်ရှင်";
+

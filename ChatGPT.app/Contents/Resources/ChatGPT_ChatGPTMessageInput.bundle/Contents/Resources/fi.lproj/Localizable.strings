@@ -1,0 +1,82 @@
+"If you cancel the text conversion you will lose the recording." = "Jos peruutat tekstin muunnoksen, menetät tallenteen.";
+
+"Stop Generating" = "Lopeta luominen";
+
+"Image upload failed." = "Kuvan lähettäminen epäonnistui.";
+
+"Scroll to bottom" = "Vieritä alas";
+
+"Stop" = "Pysäytä";
+
+"Upload File" = "Lähetä tiedosto";
+
+"You need %@ to continue this chat because it has attachments." = "You need %@ to continue this chat because it has attachments.";
+
+"Remove attachment" = "Poista liite";
+
+"You need %@ to continue this chat because this GPT requires it." = "You need %@ to continue this chat because this GPT requires it.";
+
+"New Message" = "Uusi viesti";
+
+"Failed, retry?" = "Epäonnistui. Yritetäänkö uudelleen?";
+
+"You need %@ to continue this chat because it uses audio." = "You need %@ to continue this chat because it uses audio.";
+
+"You've reached your %@ limit." = "You've reached your %@ limit.";
+
+"Attach photos" = "Liitä valokuvia";
+
+"Fullscreen" = "Koko näyttö";
+
+"Edit image" = "Muokkaa kuvaa";
+
+"Edit selection" = "Muokkaa valintaa";
+
+"You need %@ to continue this chat because it uses tools." = "You need %@ to continue this chat because it uses tools.";
+
+"File upload failed." = "Tiedoston lähettäminen epäonnistui.";
+
+"Message" = "Viesti";
+
+"To continue, you’ll need to replace the current attachment." = "Sinun on korvattava nykyinen liite, jotta voit jatkaa.";
+
+"This chat is currently unavailable" = "This chat is currently unavailable";
+
+"Dictation" = "Sanelu";
+
+"Microphone access required" = "Microphone access required";
+
+"Continue Generating" = "Jatka luomista";
+
+"This chat uses an older version of your custom instructions" = "Tässä keskustelussa käytetään vanhempaa versiota mukautetuista ohjeistasi";
+
+"Switch to Voice mode" = "Vaihda äänitilaan";
+
+"Confirm" = "Vahvista";
+
+"Replace attachment?" = "Korvataanko liite?";
+
+"Attached image" = "Liitetty kuva";
+
+"Editing message" = "Viestiä muokataan";
+
+"Image attachment failed." = "Kuvan liittäminen epäonnistui.";
+
+"Get Plus to Chat" = "Hanki Plus, niin voit käydä keskusteluja";
+
+"No connection" = "No connection";
+
+"Replace" = "Korvaa";
+
+"Are you sure?" = "Oletko varma?";
+
+"Send" = "Lähetä";
+
+"Attach files" = "Liitä tiedostoja";
+
+"Shows the voice recording interface and begins recording" = "Näyttää äänitallentamisen käyttöliittymän ja aloittaa tallentamisen";
+
+"You need %@ to continue this chat because it has images." = "You need %@ to continue this chat because it has images.";
+
+"Message ChatGPT" = "Lähetä viesti ChatGPT:lle...";
+

@@ -1,0 +1,178 @@
+"Chat history" = "채팅 기록";
+
+"System" = "시스템";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "이 구독을 다른 플랫폼에서 구매했기 때문에 이 앱 내에서 구독을 변경할 수 없습니다.";
+
+"On" = "켜짐";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "이 장치에서의 새로운 채팅을 기록에 저장하세요. 저장되지 않은 채팅은 30일 이내에 당사 시스템에서 삭제됩니다. 이 설정은 장치 간에 동기화되지 않습니다. [자세히 알아보기](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "계정 세부 정보와 대화가 내보내기에 포함됩니다.\n\n데이터는 사용자님의 이메일로, 다운로드 가능한 파일 형태로 전송됩니다.\n\n처리하는 데 시간이 걸릴 수 있습니다. 준비되면 알림이 전송됩니다.";
+
+"About" = "정보";
+
+"Desktop Launcher" = "데스크톱 런처";
+
+"Speech" = "말하기";
+
+"None" = "없음";
+
+"Archived Chats" = "아카이브에 보관된 채팅";
+
+"Keep ChatGPT on top" = "ChatGPT 상단에 고정";
+
+"Improve the model for everyone" = "모든 사용자 대상 모델 개선";
+
+"Email" = "이메일";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "계정 삭제는 영구적이며 취소할 수 없습니다. 프로필, 대화, API 사용을 포함한 모든 데이터가 제거됩니다.\n\n새 계정에 동일한 이메일이나 전화번호를 다시 사용하실 수 없습니다.\n\nAPI로 ChatGPT를 사용한 경우 이 액세스 권한도 삭제됩니다.";
+
+"Recent login required" = "최근 로그인 필요";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "최근 10분 이내에 로그인한 경우에만 계정을 삭제하실 수 있습니다.\n\n다시 로그인한 후 여기로 돌아와 계속하세요.";
+
+"Dark" = "다크 모드";
+
+"Could not delete conversation. Please try again later." = "대화를 삭제할 수 없습니다. 나중에 다시 시도해 주세요.";
+
+"No archived chats" = "아카이브에 보관된 채팅 없음";
+
+"Conversation not found" = "대화를 찾을 수 없음";
+
+"All your chats will be cleared from history. This cannot be undone." = "모든 채팅이 기록에서 지워집니다. 이 작업은 취소할 수 없습니다.";
+
+"Chat training" = "채팅 훈련";
+
+"Manage Memory" = "메모리 관리";
+
+"ChatGPT Enterprise" = "ChatGPT Enterprise";
+
+"This workspace is private and opted out of training." = "이 워크스페이스는 비공개이며 훈련 대상에서 제외되었습니다.";
+
+"Keyboard Shortcut" = "키보드 단축키";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "이 장치에서의 새로운 채팅을 기록에 저장하고 모델을 개선하는 데 사용할 수 있도록 허용해 주세요. 저장되지 않은 채팅은 30일 이내에 당사 시스템에서 삭제됩니다. 이 설정은 브라우저나 장치 간에 동기화되지 않습니다. [자세히 알아보기](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Haptic Feedback" = "햅틱 피드백";
+
+"We were unable to process your export at this time. Please try again later." = "지금은 내보내기를 처리할 수 없습니다. 나중에 다시 시도해 주세요.";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "최상의 결과를 얻으려면 주로 사용하는 언어를 선택하세요. 목록에 없는 경우에도 자동 탐지를 통해 지원될 수 있습니다.";
+
+"Restore purchases" = "이전 구매 복원";
+
+"Voice" = "음성";
+
+"Manage workspace" = "워크스페이스 관리";
+
+"Subscription" = "구독";
+
+"ChatGPT Team" = "ChatGPT Team";
+
+"Successfully exported data. You should receive an email shortly with your data." = "데이터를 성공적으로 내보냈습니다. 곧 데이터가 포함된 이메일을 받으실 겁니다.";
+
+"Error archiving all chats" = "모든 채팅 아카이브에 보관 오류";
+
+"Delete All Chats" = "모든 채팅 삭제하기";
+
+"Workspace" = "워크스페이스";
+
+"Off" = "꺼짐";
+
+"Help" = "도움말";
+
+"Help Center" = "도움말 센터";
+
+"Data Controls" = "데이터 제어";
+
+"App" = "앱";
+
+"Could not unarchive conversation. Please try again later." = "대화의 아카이브 보관을 취소할 수 없습니다. 나중에 다시 시도해 주세요.";
+
+"Error deleting all chats" = "모든 채팅 삭제 오류";
+
+"Could not update the memory setting. Please try again later." = "메모리 설정을 업데이트할 수 없습니다. 나중에 다시 시도해 주세요.";
+
+"Terms of Use" = "이용약관";
+
+"Upgrade to ChatGPT Plus" = "ChatGPT Plus로 업그레이드하기";
+
+"Your account has been queued for deletion." = "사용자님의 계정이 삭제 대기 중입니다.";
+
+"Subscription Cancellation" = "구독 취소";
+
+"Today" = "오늘";
+
+"Confirm Export" = "내보내기 확인";
+
+"Error updating setting. Please try again later" = "설정 업데이트 오류. 나중에 다시 시도해 주세요";
+
+"ChatGPT Plus" = "ChatGPT Plus";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "계정을 삭제해도 활성 상태의 인앱 구독은 취소되지 않습니다. 구독은 Apple ID 설정에서 취소할 수 있습니다.";
+
+"Main Language" = "주 언어";
+
+"Customize ChatGPT" = "ChatGPT 맞춤 설정";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "콘텐츠를 사용하여 모델을 훈련할 수 있도록 허용하면, 사용자님과 ChatGPT를 사용하는 모든 이들에게 더 나은 ChatGPT로 성장합니다. 저희는 사용자님의 개인정보를 보호하기 위한 조치를 취하고 있습니다. [자세히 알아보기](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Memory" = "메모리";
+
+"We couldn't load your archived chats" = "아카이브에 보관된 채팅을 로드할 수 없습니다";
+
+"Search Archive" = "아카이브 검색";
+
+"Archive All Chats" = "모든 채팅을 아카이브에 보관하기";
+
+"Always show ChatGPT in dock" = "Dock에 ChatGPT 항상 표시";
+
+"Email missing!" = "이메일이 없습니다!";
+
+"Could not delete all chats" = "모든 채팅을 삭제할 수 없습니다";
+
+"Archived conversations will be available here" = "아카이브에 보관된 대화를 여기에서 사용할 수 있습니다";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "계정을 삭제하는 동안 오류가 발생했습니다. 다시 시도해 주세요. 문제가 계속되면 help.openai.com을 방문하세요.";
+
+"Chat History & Training" = "채팅 기록 및 훈련";
+
+"Free Plan" = "Free 플랜";
+
+"Manage Subscriptions" = "구독 관리";
+
+"Color Scheme" = "색 구성표";
+
+"Yesterday" = "어제";
+
+"App Language" = "앱 언어";
+
+"Delete Account" = "계정 삭제";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "모델을 개선하고 훈련할 수 있도록 향후 음성 채팅의 오디오를 공유해 주세요. 그러면 모든 사용자를 대상으로 한 음성 채팅 품질을 개선할 수 있습니다. [자세히 알아보기](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Light" = "라이트 모드";
+
+"Privacy Policy" = "개인정보 보호 정책";
+
+"Improve voice for everyone" = "모든 사용자 대상 음성 품질 개선";
+
+"All your chats will be archived. This cannot be undone." = "모든 채팅이 아카이브에 보관됩니다. 이 작업은 취소할 수 없습니다.";
+
+"Are you sure?" = "정말 계속하시겠습니까?";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "ChatGPT는 채팅을 하면서 더 유용해지며, 세부 정보와 기본 설정을 기억하여 사용자님에게 맞는 응답을 제공합니다. [자세히 알아보기](%@)\n\nChatGPT가 기억하는 내용에 대해 알아보거나 새로운 것을 가르치려면 ChatGPT와 채팅해 보세요.\n\n• “나는 간결한 답변이 좋아. 기억해 둬.”\n• “강아지를 입양해 왔어!”\n• “나에 대해 어떤 걸 기억하고 있어?”\n• “최근에 하던 프로젝트를 어디까지 했더라?”";
+
+"ChatGPT for %@" = "%@용 ChatGPT";
+
+"Could not archive all chats" = "모든 채팅을 아카이브에 보관할 수 없습니다";
+
+"Export Data" = "데이터 내보내기";
+
+"New Features" = "새 기능";
+
+"View" = "보기";
+
+"Unarchive" = "아카이브 보관 취소";
+

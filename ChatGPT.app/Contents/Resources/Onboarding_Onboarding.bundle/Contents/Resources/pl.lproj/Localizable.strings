@@ -1,0 +1,96 @@
+"Verify phone number" = "Zweryfikuj numer telefonu";
+
+"Open Mail App" = "Otwórz aplikację do obsługi poczty";
+
+"Tell us about you." = "Powiedz nam coś o sobie.";
+
+"Please solve this puzzle so we know you're a person." = "Rozwiąż tę zagadkę, aby potwierdzić, że jesteś człowiekiem.";
+
+"Resend code" = "Ponownie wyślij kod";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "Aby uzyskać pomoc, zobacz [przewodnik po weryfikacji za pomocą numeru telefonu](https://help.openai.com/articles/6613520-phone-verification).";
+
+"Finish creating your OpenAI account" = "Ukończ tworzenie swojego konta OpenAI";
+
+"Verify your email" = "Zweryfikuj swój adres e-mail";
+
+"First name" = "Imię";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "Nie można odnaleźć potrzebnych informacji. Sprawdź połączenie internetowe i uruchom ponownie aplikację. (%@)";
+
+"Please provide a phone number for verification." = "Podaj numer telefonu w celu weryfikacji.";
+
+"Continue" = "Kontynuuj";
+
+"Please check your internet connection and retry." = "Sprawdź połączenie internetowe i spróbuj ponownie.";
+
+"Select your Birthday" = "Wybierz datę urodzenia";
+
+"Something went wrong. Sign out and try again." = "Wystąpił błąd. Wyloguj się i spróbuj ponownie.";
+
+"There was a problem verifying the code. %@" = "Wystąpił problem z weryfikacją kodu. %@";
+
+"There was a problem, please try again." = "Wystąpił problem, spróbuj ponownie.";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "Wystąpił błąd. Uruchom ponownie aplikację lub wyloguj się i spróbuj jeszcze raz.";
+
+"Birthday" = "Urodziny";
+
+"Failed to load required information." = "Nie można załadować wymaganych informacji.";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Klikając „Kontynuuj”, potwierdzasz, że masz zgodę rodzica lub opiekuna na korzystanie z ChatGPT i zgadzasz się na nasz [Regulamin](https://openai.com/policies/terms-of-use) oraz [Zasady ochrony prywatności](https://openai.com/policies/privacy-policy), jak również [Załącznik dla Korei](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "Nie możemy utworzyć konta z powodu naszych [Warunków użytkowania](https://openai.com/policies/terms-of-use).";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Klikając „Kontynuuj”, wyrażasz zgodę na nasz [Regulamin](https://openai.com/policies/terms-of-use) oraz [Zasady ochrony prywatności](https://openai.com/policies/privacy-policy), jak również [Załącznik dla Korei](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"I've verified my email" = "Mój adres e-mail został zweryfikowany";
+
+"Area code" = "Numer kierunkowy";
+
+"Code" = "Kod";
+
+"Last name" = "Nazwisko";
+
+"Something went wrong. Please try again." = "Wystąpił błąd. Spróbuj ponownie.";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Wystąpił błąd. To konto już zostało utworzone, ale nie można go odświeżyć. Wyloguj się i zaloguj ponownie.";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Klikając „Kontynuuj”, wyrażasz zgodę na nasz [Regulamin](https://openai.com/policies/terms-of-use) oraz [Zasady ochrony prywatności](https://openai.com/policies/privacy-policy).";
+
+"There was a problem verifying your phone number. %@" = "Wystąpił problem z weryfikacją Twojego numeru telefonu. %@";
+
+"Verify you're human" = "Potwierdź, że jesteś człowiekiem";
+
+"error" = "błąd";
+
+"Enter the code we just sent to your number ending in **%@" = "Wpisz kod, który wysłaliśmy na Twój numer telefonu, kończący się cyframi **%@";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "Wysłaliśmy e-mail na adres %@.\nKliknij znajdujący się w nim link, aby rozpocząć.";
+
+"Select your area code" = "Wybierz numer kierunkowy";
+
+"Phone number" = "Numer telefonu";
+
+"Please choose a valid date for your birthday." = "Wybierz poprawną datę urodzenia.";
+
+"Sorry, we aren't able to create your account" = "Niestety, nie można utworzyć Twojego konta";
+
+"You have made too many attempts. Please try again later." = "Podjęto zbyt wiele prób. Spróbuj ponownie później.";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "Nie można pobrać krajów. Sprawdź połączenie internetowe i uruchom ponownie aplikację. %@";
+
+"There was a problem, please try again. (%@)" = "Wystąpił problem, spróbuj ponownie. (%@)";
+
+"Resend email" = "Ponownie wyślij wiadomość e-mail";
+
+"Email resent!" = "Ponownie wysłano wiadomość e-mail!";
+
+"Your email is not yet verified. Please check your email inbox." = "Twój adres e-mail nie został jeszcze zweryfikowany. Sprawdź swoją skrzynkę odbiorczą.";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Wystąpił problem z Twoim połączeniem internetowym. Spróbuj ponownie. (%lld)";
+
+"Your account could not be created. Please try again. %@" = "Nie można utworzyć konta. Spróbuj ponownie. %@";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Klikając „Kontynuuj”, potwierdzasz, że masz zgodę rodzica lub opiekuna na korzystanie z ChatGPT i zgadzasz się na nasz [Regulamin](https://openai.com/policies/terms-of-use) oraz [Zasady ochrony prywatności](https://openai.com/policies/privacy-policy).";
+

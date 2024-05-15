@@ -1,0 +1,74 @@
+"Loading…" = "กำลังโหลด...";
+
+"Decline" = "ปฏิเสธ";
+
+"#%lld row" = "แถวที่ %lld";
+
+"\"%@\" cell" = "\"%@\" เซลล์";
+
+"Memories updated" = "อัปเดตหน่วยความจำแล้ว";
+
+"Read Aloud" = "อ่านออกเสียง";
+
+"File expired" = "ไฟล์หมดอายุ";
+
+"Save File As…" = "บันทึกไฟล์เป็น…";
+
+"Quick Look" = "ดูอย่างเร็ว";
+
+"How would you rate this GPT?" = "คุณจะให้คะแนน GPT นี้เท่าไหร่";
+
+"You" = "คุณ";
+
+"Response rating failed." = "ให้คะแนนคำตอบไม่สำเร็จ";
+
+"Change Model" = "เปลี่ยนโมเดล";
+
+"Sign in to %@" = "ลงชื่อเข้าใช้ %@";
+
+"Select Text" = "เลือกข้อความ";
+
+"Stop Generating" = "เลิกสร้าง";
+
+"Your most recent request failed. Please retry!" = "คำขอล่าสุดของคุณไม่สำเร็จ โปรดลองอีกครั้ง";
+
+"Please try again later.%@" = "โปรดลองอีกครั้งในภายหลัง %@";
+
+"Regenerate" = "สร้างใหม่";
+
+"Edit" = "แก้ไข";
+
+"Manage memories" = "จัดการหน่วยความจำ";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "ไม่มีไฟล์นี้อยู่อีกต่อไป เริ่มบทสนทนาใหม่หรืออัปโหลดไฟล์ใหม่เพื่อสนทนาต่อ";
+
+"Always allow" = "อนุญาตเสมอ";
+
+"A GPT" = "A GPT";
+
+"Memory updated" = "อัปเดตหน่วยความจำแล้ว";
+
+"Continue Generating" = "สร้างต่อไป";
+
+"Selection" = "การเลือก";
+
+"\"%@\" column" = "คอลัมน์ \"%@\"";
+
+"Failed, retry?" = "ไม่สำเร็จ จะลองอีกครั้งไหม";
+
+"Deny" = "ปฏิเสธ";
+
+"Upgraded response" = "คำตอบที่อัปเกรดแล้ว";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "กำลังอัปโหลด ^[%lld ไฟล์แนบ](inflect: true)…";
+
+"Analysis" = "การวิเคราะห์";
+
+"Bad" = "แย่";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT จะเก็บไฟล์ไว้ในระยะเวลาจำกัดเท่านั้น เริ่มบทสนทนาใหม่หรืออัปโหลดไฟล์ใหม่เพื่อสนทนาต่อ";
+
+"File unavailable" = "ไม่สามารถใช้ไฟล์นี้ได้";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "เขียนด้วย GPT-4 ซึ่งเป็นโมเดลที่มีความสามารถสูงสุดของเรา มีอยู่ใน ChatGPT Plus";
+

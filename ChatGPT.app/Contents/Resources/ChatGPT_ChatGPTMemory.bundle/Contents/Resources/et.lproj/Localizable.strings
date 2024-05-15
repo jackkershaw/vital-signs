@@ -1,0 +1,40 @@
+"Open menu to select which GPT to show memories for" = "Avage menüü, et valida, millise GPT jaoks mälestusi näidata";
+
+"Could not reset memory. Please try again later." = "Mälu lähtestamine ebaõnnestus. Proovi hiljem uuesti.";
+
+"Memory" = "Mälu";
+
+"No memories" = "Mälusid ei ole";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "Kui vestlete %@-ga, kuvatakse siin üksikasjad ja eelistused, mida see mäletab.";
+
+"%@ won't use or create memories" = "%@ ei kasuta ega loo mälusid";
+
+"Clear ChatGPT’s memory" = "Tühjenda ChatGPT mälu";
+
+"Error deleting memory" = "Viga mälu kustutamisel";
+
+"Memory is disabled" = "Mälu on välja lülitatud";
+
+"Search memories" = "Otsi mäludest";
+
+"Are you sure?" = "Kas olete kindel?";
+
+"Turn On" = "Lülita sisse";
+
+"Clear this GPT's memory" = "Tühjenda selle GPT mälu";
+
+"Clear Memory" = "Tühjenda mälu";
+
+"Error loading GPTs" = "Viga GPT-de laadimisel";
+
+"%@'s memories" = "%@ mälud";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ unustab kõik, mis teie vestlustest meelde jäi. Seda ei saa tagasi võtta.";
+
+"Error loading memories" = "Viga mälude laadimisel";
+
+"Select a GPT" = "Vali GPT";
+
+"Learn More" = "Uuri lähemalt";
+

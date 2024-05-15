@@ -1,0 +1,52 @@
+"Manage which 3rd-party accounts can be accessed by %@." = "Upravljajte, do katerih računov tretjih oseb lahko dostopa %@.";
+
+"Always" = "Vedno";
+
+"Report Conversation" = "Prijavi pogovor";
+
+"Report" = "Prijava";
+
+"Confirm Logout" = "Potrdi odjavo";
+
+"Report GPT" = "Prijavi GPT";
+
+"Failed to update setting, retry?" = "Neuspešna posodobitev nastavitve. Želite poskusiti znova?";
+
+"Accounts" = "Računi";
+
+"Description" = "Opis";
+
+"No actions are available for this GPT" = "Za ta GPT ni na voljo nobenega dejanja";
+
+"Please try again later.\n\n(%@)" = "Poskusite znova pozneje.\n\n(%@)";
+
+"Privacy Policy" = "Politika zasebnosti";
+
+"None" = "Brez";
+
+"No connected accounts are available for this GPT." = "Za ta GPT ni na voljo nobenega povezanega računa.";
+
+"Actions" = "Dejanja";
+
+"Error loading action settings" = "Napaka pri nalaganju nastavitev dejanj";
+
+"Are you sure you want to log out of %@?" = "Ali ste prepričani, da se želite odjaviti iz %@?";
+
+"Error loading connected accounts.\n\n(%@)" = "Napaka pri nalaganju povezanih računov.\n\n(%@)";
+
+"Select which websites are allowed to see data from conversations with %@." = "Izberite spletna mesta, ki lahko vidijo podatke iz pogovorov z %@.";
+
+"Privacy & Safety" = "Zasebnost in varnost";
+
+"Connected Accounts" = "Povezani računi";
+
+"Custom instructions" = "Navodila po meri";
+
+"Model Info" = "Podrobnosti o modelu";
+
+"Ask" = "Vprašaj";
+
+"This chat uses an older version of your custom instructions." = "Ta klepet uporablja starejšo različico vaših navodil po meri.";
+
+"Capabilities" = "Sposobnosti";
+

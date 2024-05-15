@@ -1,0 +1,70 @@
+"PKCE not allowed." = "不允许 PKCE。";
+
+"Let’s discover" = "一起发现";
+
+"No sign in info found. Please sign in." = "找不到登录信息。请登录。";
+
+"Sign in failed" = "无法登录";
+
+"Invalid invite url." = "邀请 URL 无效。";
+
+"Renew failed." = "无法续订。";
+
+"Sign in request was cancelled." = "登录请求已取消。";
+
+"Let’s go" = "开始吧";
+
+"Failed to validate id token." = "无法验证 ID 令牌。";
+
+"Let’s create" = "一起创建";
+
+"Let’s brainstorm" = "一起集思广益";
+
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "连接 Apple 服务器时出现问题。请重试。(%lld)";
+
+"Let’s collaborate" = "一起协作";
+
+"Sign up with email" = "使用电子邮件地址注册";
+
+"Let’s design" = "一起设计";
+
+"Request cancelled." = "请求已取消。";
+
+"Unknown other error." = "其他未知错误。";
+
+"There was a problem clearing sign in info. Please try again." = "清除登录信息时出现问题。请重试。";
+
+"There was a problem. Please restart the app." = "出现了问题。请重启应用。";
+
+"Let’s explore" = "一起探索";
+
+"Unknown error." = "未知错误。";
+
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "出错了。请确保您设备的日期和时间准确无误，并已在“设置 → 通用 → 日期和时间”下将“自动设置”切换为开。";
+
+"Missing bundle id." = "缺少捆绑 ID。";
+
+"Let’s chit-chat" = "一起闲聊";
+
+"No authorization code found." = "找不到授权代码。";
+
+"Something went wrong." = "出错了。";
+
+"Continue with Google" = "继续使用 Google 操作";
+
+"Let’s invent" = "一起创造";
+
+"No refresh token found." = "找不到刷新令牌。";
+
+"Privacy Policy" = "隐私政策";
+
+"There was a problem saving sign in info. Please try again." = "保存登录信息时出现问题。请重试。";
+
+"Revoke failed." = "无法调用。";
+
+"There is a problem with the server. Please try again later." = "服务器出现问题。请稍后重试。";
+
+"Store failed." = "无法存储。";
+
+"Terms of Use" = "使用条款";
+

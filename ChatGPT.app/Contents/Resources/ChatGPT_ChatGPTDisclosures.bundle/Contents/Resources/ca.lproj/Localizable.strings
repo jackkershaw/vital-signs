@@ -1,0 +1,150 @@
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "Personalitza les teves interaccions amb ChatGPT proporcionant detalls específics i pautes per als teus xats.";
+
+"No model training" = "No s’entrenen models";
+
+"Don’t share sensitive info" = "No comparteixis informació sensible";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "ChatGPT pot proporcionar informació inexacta sobre persones, llocs o fets.";
+
+"Just start talking" = "Només cal que comencis a parlar";
+
+"Temporary Chat" = "Xat temporal";
+
+"Tap Select, highlight the area, and describe changes in chat." = "Toca Selecciona, ressalta l’àrea i descriu els canvis al xat.";
+
+"Welcome to your company's workspace" = "Et donem la benvinguda a l’espai de treball de la teva empresa";
+
+"Keep the conversation going" = "Segueix la conversa";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "Consulta les transcripcions de veu a la teva història. Els clips d’àudio no s’emmagatzemen.";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "Mentre utilitzis xats temporals, ChatGPT no utilitzarà ni crearà memòries. Les instruccions personalitzades encara se seguiran si les tens habilitades.";
+
+"Refine DALL·E Images" = "Refina les imatges de DALL·E";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "Aquesta app oficial és gratuïta, sincronitza la teva història entre els diversos dispositius i t’ofereix les últimes millores en els models d’OpenAI.";
+
+"Welcome to\nChatGPT" = "Et donem la benvinguda a\nChatGPT";
+
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "ChatGPT esdevindrà més útil a mesura que xategis, ja que recordarà detalls i preferències.";
+
+"Check your facts" = "Verifica les dades";
+
+"Don't Share" = "No comparteixis";
+
+"Share" = "Comparteix";
+
+"Welcome to the %@ workspace" = "Et donem la benvinguda a l’espai de treball %@";
+
+"Not in history" = "No registrat a la història";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "Per millorar els xats de veu, el nostre equip pot revisar l’àudio. Prenem mesures per reduir la quantitat d’informació personal a l’àudio que s’utilitza per entrenar els models.";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "Decideix si els xats nous d’aquest dispositiu es mostraran a la història i s’utilitzaran per millorar els nostres sistemes.";
+
+"Improve voice chats for everyone" = "Millora els xats de veu per a tothom";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "Aquí trobaràs els nostres models més recents, que tenen més prestacions i menys limitacions.";
+
+"Learn more" = "Més informació";
+
+"Language is auto-detected" = "L’idioma es detecta automàticament";
+
+"Memory off" = "Memòria desactivada";
+
+"Select an area of the image to edit" = "Selecciona l’àrea de la imatge que vulguis modificar";
+
+"Taking steps to protect privacy" = "Estem prenent mesures per protegir la privadesa";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "Les teves instruccions permeten millorar els nostres models. Visita el nostre [Centre d’ajuda](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) per obtenir més informació sobre com s’utilitzen les teves dades.";
+
+"Now you can have spoken conversations with ChatGPT." = "Ara pots tenir converses orals amb ChatGPT.";
+
+"Chat with images" = "Xateja amb imatges";
+
+"Manage what it remembers" = "Gestiona què es recorda";
+
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "Tu tens el control. Revisa i suprimeix memòries concretes, comença des de zero o inhabilita la funció a la configuració.";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "ChatGPT pot respondre preguntes, ajudar-te a aprendre, escriure codi, col·laborar en una pluja d’idees i molt més.";
+
+"Choose a voice" = "Tria una veu";
+
+"ChatGPT now has memory across chats" = "ChatGPT ara té memòria i recorda els xats anteriors";
+
+"Snap a picture to ask ChatGPT about the world around you." = "Fes una foto per preguntar-li a ChatGPT coses sobre el món que t’envolta.";
+
+"Chat with voice" = "Xateja amb veu";
+
+"Help improve voice" = "Ajuda’ns a millorar la veu";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "Els xats temporals no es mostraran a la història. Per motius de seguretat, pot ser que conservem una còpia del teu xat fins a 30 dies.";
+
+"Introducing\nCustom Instructions" = "Presentem les\nInstruccions personalitzades";
+
+"Temporary Chats won’t be used to improve our models." = "Els xats temporals no s’utilitzaran per millorar els nostres models.";
+
+"Control your chat history" = "Controla la teva història de xats";
+
+"Custom Instructions will still be followed if you have them enabled." = "Les instruccions personalitzades encara se seguiran si les tens habilitades.";
+
+"Now you can have spoken conversations with GPTs." = "Ara pots tenir converses orals amb els GPT.";
+
+"Chats are saved" = "Els xats es desen";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "Proporciona context sobre el teu sector, rol o projectes específics per obtenir respostes més encertades i personalitzades per a tu.";
+
+"Built for business" = "Desenvolupat per a empreses";
+
+"Made for use at work" = "Dissenyat per utilitzar-lo a la feina";
+
+"Picture perfect" = "Imatge perfecta";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "Prova d’utilitzar fotos per arreglar la bicicleta, crear una recepta o analitzar gràfics complexos.";
+
+"Chats may be reviewed by our AI trainers to improve our systems." = "És possible que els nostres entrenadors d’IA revisin els xats per millorar els nostres sistemes.";
+
+"By default, chats in this workspace are not used to train our AI models." = "De manera predeterminada, els xats d’aquest espai de treball no s’utilitzen per entrenar els nostres models d’IA.";
+
+"ChatGPT can be inaccurate" = "ChatGPT pot ser imprecís";
+
+"Start with a photo" = "Comença amb una foto";
+
+"Chat without having to look at your screen." = "Xateja sense haver de mirar la pantalla.";
+
+"Help improve our models" = "Ajuda’ns a millorar els models";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "Si bé disposem de diverses mesures de comprovació, ChatGPT pot presentar-te informació inexacta. No s’ha d’utilitzar per obtenir consell.";
+
+"Welcome to ChatGPT" = "Et donem la benvinguda a ChatGPT";
+
+"Continue" = "Continua";
+
+"Edit the full image" = "Modifica la imatge completa";
+
+"Ask away" = "Endavant, pregunta";
+
+"Share audio from future voice chats to improve and train our models." = "Comparteix l’àudio de xats de veu futurs per millorar i entrenar els nostres models.";
+
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "Sempre que modifiquis les teves instruccions personalitzades, tindran efecte en tots els xats que creïs. Les converses antigues no s’actualitzaran.";
+
+"Active for new chats" = "Actives per a xats nous";
+
+"You’re in control" = "Tu tens el control";
+
+"Tap Edit and describe changes in chat." = "Toca Modifica i descriu els canvis al xat.";
+
+"Hands-free" = "Mans lliures";
+
+"More helpful over time" = "Com més va, més útil";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "Pots indicar un idioma preferit a Configuració perquè la detecció sigui més precisa.";
+
+"Follows custom instructions" = "Segueix les instruccions personalitzades";
+
+"Get Started" = "Primers passos";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Si no vols continuar, pots deixar de compartir contingut en qualsevol moment a la configuració.\n\n[Més informació](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "ChatGPT recordarà el que aprengui entre xats per tal d’oferir respostes més rellevants.";
+

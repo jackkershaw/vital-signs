@@ -1,0 +1,70 @@
+"Failed to validate id token." = "ID トークンを検証できませんでした。";
+
+"Let’s go" = "やってみましょう";
+
+"No refresh token found." = "更新トークンが見つかりませんでした。";
+
+"Store failed." = "保管できませんでした。";
+
+"Missing bundle id." = "バンドル ID がありません。";
+
+"Let’s brainstorm" = "ブレーンストーミングを行いましょう";
+
+"There was a problem clearing sign in info. Please try again." = "サインイン情報のクリア中に問題が発生しました。もう一度お試しください。";
+
+"Terms of Use" = "利用規約";
+
+"Unknown error." = "不明なエラー。";
+
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "Apple サーバーへの接続中に問題が発生しました。もう一度お試しください。(%lld)";
+
+"There was a problem. Please restart the app." = "問題が発生しました。アプリを再起動してください。";
+
+"Continue with Google" = "Google で続行";
+
+"Something went wrong." = "問題が発生しました。";
+
+"Let’s invent" = "発明しましょう";
+
+"No sign in info found. Please sign in." = "サインイン情報が見つかりません。サインインしてください。";
+
+"Renew failed." = "更新できませんでした。";
+
+"There was a problem saving sign in info. Please try again." = "サインイン情報の保存中に問題が発生しました。もう一度お試しください。";
+
+"Revoke failed." = "取り消しできませんでした。";
+
+"Sign in request was cancelled." = "サインイン リクエストがキャンセルされました。";
+
+"Sign up with email" = "メールアドレスでサインアップ";
+
+"Let’s design" = "デザインしましょう";
+
+"Let’s collaborate" = "共同作業しましょう";
+
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "問題が発生しました。デバイスの日付と時刻が正しいこと、および [Settings] (設定) → [General] (一般) → [Date & Time] (日付と時刻) で [Set Automatically] (自動設定) がオンになっていることを確認してください。";
+
+"Let’s discover" = "発見しましょう";
+
+"Let’s chit-chat" = "雑談しましょう";
+
+"Request cancelled." = "リクエストがキャンセルされました。";
+
+"Let’s explore" = "検索しましょう";
+
+"There is a problem with the server. Please try again later." = "サーバーに問題があります。後でもう一度お試しください。";
+
+"Invalid invite url." = "無効な招待 URL です。";
+
+"Unknown other error." = "その他の不明なエラー。";
+
+"Sign in failed" = "サインインできませんでした。";
+
+"Let’s create" = "作成しましょう";
+
+"Privacy Policy" = "プライバシーポリシー";
+
+"No authorization code found." = "認証コードが見つかりませんでした。";
+
+"PKCE not allowed." = "PKCE は許可されません。";
+

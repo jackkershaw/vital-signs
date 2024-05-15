@@ -1,0 +1,96 @@
+"Continue" = "Nastavak";
+
+"Your email is not yet verified. Please check your email inbox." = "Vaša e-mail adresa još uvijek nije potvrđena. Molimo provjerite svoju dolaznu e-mail poštu.";
+
+"Enter the code we just sent to your number ending in **%@" = "Unesite kod koji smo upravo poslali na vaš broj koji završava sa **%@";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Klikom na \"Nastavi\", pristajete na naše [Uslove](https://openai.com/policies/terms-of-use) i potvrđujete naša [Pravila privatnosti](https://openai.com/policies/privacy-policy) i [Dodatak za Koreju](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Verify your email" = "Potvrdite svoju e-mail adresu";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Klikom na \"Nastavi,\" pristajete na naše [Uslove](https://openai.com/policies/terms-of-use) i prihvatate naša [Pravila privatnosti](https://openai.com/policies/privacy-policy).";
+
+"Finish creating your OpenAI account" = "Završite kreiranje svog OpenAI računa.";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "Nije moguće preuzeti tražene informacije. Provjerite internet vezu i ponovo pokrenite aplikaciju.(%@)";
+
+"Verify you're human" = "Potvrdite da ste osoba";
+
+"Birthday" = "Rođendan";
+
+"Please choose a valid date for your birthday." = "Odaberite važeći datum rođenja.";
+
+"Sorry, we aren't able to create your account" = "Žao nam je, nismo u mogućnosti kreirati vaš račun";
+
+"Please solve this puzzle so we know you're a person." = "Riješite ovu zagonetku da znamo da ste zaista osoba.";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "Nije moguće preuzeti tražene informacije. Provjerite internet vezu i ponovo pokrenite aplikaciju.%@";
+
+"Select your area code" = "Odaberite svoj kod za područje";
+
+"There was a problem, please try again. (%@)" = "Došlo je do problema, pokušajte ponovo.(%@)";
+
+"You have made too many attempts. Please try again later." = "Napravili ste previše zahtjeva. Molimo pokušajte ponovno kasnije.";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Klikom na \"Nastavi\" potvrđujete da imate pristanak roditelja ili staratelja za korištenje ChatGPT-a, pristajete na naše [Uslove](https://openai.com/policies/terms-of-use) i potvrđujete naša [Pravila privatnosti](https://openai.com/policies/privacy-policy) i [Dodatak za Koreju](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Please check your internet connection and retry." = "Provjerite svoju internet vezu i pokušajte ponovo.";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "Nešto nije u redu. Ponovo pokrenite aplikaciju, ili se odjavite i pokušajte ponovo.";
+
+"Something went wrong. Please try again." = "Nešto nije uredu. Molimo pokušajte ponovo.";
+
+"Open Mail App" = "Otvori Mail aplikaciju";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Klikom na \"Nastavi\" potvrđujete da imate pristanak roditelja ili staratelja za korištenje ChatGPT-a, slažete se s našim [Uslovima](https://openai.com/policies/terms-of-use) i potvrđujete naša [Pravila privatnosti](https://openai.com/policies/privacy-policy).";
+
+"Something went wrong. Sign out and try again." = "Nešto nije uredu. Odjavite se i pokušajte ponovo.";
+
+"Phone number" = "Broj telefona";
+
+"There was a problem, please try again." = "Došlo je do problema, pokušajte ponovo.";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "Poslali smo e-mail na %@. \nKliknite na link u e-mailu da započnete.";
+
+"Code" = "Kod";
+
+"Verify phone number" = "Potvrdi broj telefona";
+
+"Tell us about you." = "Recite nam o sebi.";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "Ne možemo kreirati vaš račun zbog naših [Uslova korištenja](https://openai.com/policies/terms-of-use).";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "Za pomoć, pogledajte [vodič za potvrdu broja telefona](https://help.openai.com/articles/6613520-phone-verification).";
+
+"There was a problem verifying the code. %@" = "Došlo je do problema prilikom verifikacije koda.%@";
+
+"Resend code" = "Ponovo pošalji kod";
+
+"Please provide a phone number for verification." = "Unesite broj telefona za verifikaciju.";
+
+"There was a problem verifying your phone number. %@" = "Došlo je do problema prilikom verifikacije vašeg broja telefona. %@";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Nešto nije u redu. Račun je već kreiran, ali nije mogao biti osvježen. Molimo odjavite se i ponovo se prijavite.";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Postoji problem sa vašom internet konekcijom. Molimo pokušajte ponovo. (%lld)";
+
+"Last name" = "Prezime";
+
+"Your account could not be created. Please try again. %@" = "Nije moguće kreirati Vaš račun. Pokušajte ponovo.%@";
+
+"Area code" = "Kod područja";
+
+"error" = "Greška";
+
+"Resend email" = "Ponovo pošalji e-mail";
+
+"Select your Birthday" = "Odaberite svoj datum rođenja";
+
+"Failed to load required information." = "Učitavanje traženih informacija nije uspjelo.";
+
+"Email resent!" = "E-mail je ponovo poslan!";
+
+"First name" = "Ime";
+
+"I've verified my email" = "Potvrdio sam e-mail adresu";
+

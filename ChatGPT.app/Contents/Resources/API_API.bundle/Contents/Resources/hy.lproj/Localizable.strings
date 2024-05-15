@@ -1,0 +1,18 @@
+"This content may violate our content policy. Please try again with different content." = "Հնարավոր է, այս բովանդակությունը խախտում է մեր բովանդակության կանոնները։ Նորից փորձեք այլ բովանդակությամբ։";
+
+"There is a problem with your account info. Please try signing out then in." = "Խնդիր կա ձեր հաշվի տեղեկությունների հետ։ Փորձեք դուրս գրվել, ապա նորից մուտք գործել։";
+
+"There is a problem with your request. (%lld, %@)" = "Խնդիր առաջացավ ձեր հարցման հետ։ (%lld, %@)";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "Սպասարկիչը խնդիրներ ունի։ Նորից փորձեք ավելի ուշ։ (%lld, %@)";
+
+"You've made too many requests. Please try again later. (429, %@)" = "Չափից շատ հարցումներ եք կատարել։ Նորից փորձեք ավելի ուշ։ (429, %@)";
+
+"Unsupported content" = "Չաջակցվող բովանդակություն";
+
+"The server is overloaded. Please try again later." = "Սպասարկիչը գերծանրաբեռնված է։ Նորից փորձեք ավելի ուշ։";
+
+"The response is invalid. Please try again." = "Պատասխանն անվավեր է։ Նորից փորձեք։";
+
+"System error" = "Համակարգի սխալ";
+

@@ -1,0 +1,34 @@
+"Deleting chat…" = "Suppression du clavardage en cours...";
+
+"Please make sure this feature is enabled for your account." = "Assurez-vous d’activer cette fonctionnalité dans votre compte.";
+
+"Deleted chat" = "Clavardage supprimé";
+
+"Thank you for your feedback!" = "Merci pour vos commentaires!";
+
+"Deleting chat failed" = "Échec de suppression du clavardage";
+
+"There is a problem with your internet connection." = "Votre connexion internet pose problème.";
+
+"Close menu" = "Fermer le menu";
+
+"Turn history on" = "Activer l’historique";
+
+"Voice capabilities aren’t currently available with this GPT because it requires memory to be on." = "Les fonctionnalités vocales ne sont pas disponibles avec ce GPT puisque la mémoire doit être activée.";
+
+"Toggle Sidebar" = "Afficher/masquer la barre latérale";
+
+"Voice unavailable" = "Mode vocal non disponible";
+
+"Error reading message out loud" = "Erreur de lecture du message à voix haute";
+
+"Open Memory Settings" = "Ouvrir les paramètres de la mémoire";
+
+"Open Settings" = "Ouvrir les paramètres";
+
+"History off" = "Historique désactivé";
+
+"Voice capabilities aren’t currently available when history is turned off." = "Les fonctionnalités vocales ne sont pas disponibles lorsque l’historique est désactivé.";
+
+"Memory off" = "Mémoire désactivée";
+

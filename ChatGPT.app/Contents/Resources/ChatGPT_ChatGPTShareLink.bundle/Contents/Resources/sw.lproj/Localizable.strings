@@ -1,0 +1,50 @@
+"Edit title" = "Hariri Kichwa";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "Una uhakika ungependa kufuta kiungo kilichoshirikiwa \"%@\"? Unaweza kuunda kiungo kipya kila wakati kwa kushiriki chati hii tena.";
+
+"Update title" = "Sasisha kichwa";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "Ujumbe uliotumwa au uliopokelewa baada ya kushiriki kiungo chako hautashirikiwa. Mtu yeyote aliye na URL ataweza kuona gumzo lako la pamoja.";
+
+"Shared Link Date" = "Tarehe ya Kiungo Kilichoshirikiwa";
+
+"Your custom instructions won’t be shared with viewers." = "Maagizo yako maalum hayatashirikiwa na watazamaji.";
+
+"Shared Link Title" = "Kichwa cha Kiungo Kilichoshirikiwa";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "Tayari umeshiriki kiungo cha chati hii. Ikiwa ungependa kujumuisha ujumbe mpya, futa kiungo hiki na ushiriki chati yako tena.";
+
+"There was an error sharing the conversation. Please try again. %@" = "Kulikuwa na hitilafu katika kushiriki mazungumzo. Tafadhali jaribu tena. %@";
+
+"Delete link" = "Futa kiungo";
+
+"Shared Link Owner" = "Mmiliki wa Kiungo Kilichoshirikiwa";
+
+"Options" = "Chaguzi";
+
+"There was an error deleting your shared link." = "Kulikuwa na hitilafu katika kufuta kiungo ulichoshiriki.";
+
+"Share your name" = "Shiriki jina lako";
+
+"The conversation has no messages." = "Mazungumzo hayana ujumbe.";
+
+"Title" = "Kichwa";
+
+"Share link" = "Shiriki Kiungo";
+
+"There was an error preparing the conversation. Please try again. %@" = "Kulikuwa na hitilafu katika kuandaa mazungumzo. Tafadhali jaribu tena. %@";
+
+"Share anonymously" = "Shiriki bila kujulikana";
+
+"Help and FAQ" = "Msaada na Maswali Yanayoulizwa Sana";
+
+"Missing Name" = "Jina Halipo";
+
+"Recipients won't be able to view images." = "Wapokeaji hawataweza kuona picha.";
+
+"Shared link deleted." = "Kiungo cha kushiriki kimefutwa.";
+
+"Share link to chat" = "Shiriki kiungo cha chati";
+
+"The share link is invalid. %@" = "Kiungo kilichoshirikiwa si sahihi. %@";
+

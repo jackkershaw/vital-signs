@@ -1,0 +1,178 @@
+"System" = "Систем";
+
+"ChatGPT for %@" = "%@-н ChatGPT";
+
+"Could not delete conversation. Please try again later." = "Яриаг устгаж чадсангүй. Дараа дахин оролдоно уу.";
+
+"Successfully exported data. You should receive an email shortly with your data." = "Өгөгдөл амжилттай экспортлолоо. Таны өгөгдлийг агуулсан э-мэйл удахгүй танд ирнэ.";
+
+"Color Scheme" = "Өнгөний схем";
+
+"Manage Memory" = "Санах ой удирдах";
+
+"Improve the model for everyone" = "Загварыг хүн бүрд зориулж сайжруул";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Манай загваруудыг сайжруулах, сургахын тулд цаашдын дуут чатын аудиог хуваалцаарай. Энэ нь хүн бүрийн хувьд дуут чатын чанарыг сайжруулна. [Нэмэлт мэдээлэл авах](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "Таны бүртгэлийг устгахад алдаа гарлаа. Дахин оролдоно уу. Хэрэв асуудал байсан хэвээр байвал, help.openai.com хаягаар орно уу.";
+
+"Upgrade to ChatGPT Plus" = "Plus багц болгож сайжруулах";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "Зөвхөн сүүлийн 10 минутын дотор нэвтэрсэн л бол, та бүртгэлээ устгах боломжтой.\n\nҮргэлжлүүлэхийн тулд, дахин нэвтрээд, энд буцаж орно уу.";
+
+"Error archiving all chats" = "Бүх чатыг архивлахад алдаа гарлаа";
+
+"New Features" = "Шинэ онцлогууд";
+
+"Export Data" = "Өгөгдөл экспортлох";
+
+"Could not archive all chats" = "Бүх чатыг архивлаж чадсангүй";
+
+"Could not update the memory setting. Please try again later." = "Санах ойн тохиргоог шинэчилж чадсангүй. Дараа дахин оролдоно уу.";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "Таны бүртгэл бүрмөсөн устах бөгөөд үүнийг буцаах боломжгүй. Таны танилцуулга, яриа, API ашиглалт зэрэг бүх өгөгдлийг арилгана.\n\nШинэ бүртгэлд ижил э-мэйл хаяг эсвэл утасны дугаарыг дахин ашиглах боломжгүй.\n\nХэрэв та ChatGPT-г API-тай ашиглаж байсан бол, уг нэвтрэлт ч мөн устана.";
+
+"Subscription Cancellation" = "Захиалга цуцлах";
+
+"Restore purchases" = "Худалдан авалт сэргээх";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "Та энэ захиалгыг өөр платформ дээр худалдаж авсан тул энэ апп доторх захиалгадаа өөрчлөлт оруулах боломжгүй.";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Манай загваруудыг сургахад контентоо ашиглахыг зөвшөөрөөрэй, энэ нь ChatGPT-г танд болон үүнийг ашигладаг бүх хүмүүст илүү сайжруулж өгөх болно. Бид таны нууцлалыг хамгаалах арга хэмжээ авдаг. [Нэмэлт мэдээлэл авах](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Error updating setting. Please try again later" = "Тохиргоог шинэчлэхэд алдаа гарлаа. Дараа дахин оролдоно уу";
+
+"Workspace" = "Ажлын талбар";
+
+"Chat history" = "Чатын түүх";
+
+"About" = "Танилцуулга";
+
+"ChatGPT Enterprise" = "ChatGPT Enterprise";
+
+"Archive All Chats" = "Бүх чатыг архивлах";
+
+"Archived Chats" = "Архивласан чат";
+
+"On" = "Асаах";
+
+"We were unable to process your export at this time. Please try again later." = "Энэ удаад таны экспортлолтыг боловсруулах боломжгүй байна. Дараа дахин оролдоно уу.";
+
+"Keyboard Shortcut" = "Товчлуурт гарны шууд холбоос";
+
+"We couldn't load your archived chats" = "Таны архивласан чатуудыг ачаалж чадсангүй";
+
+"Are you sure?" = "Та итгэлтэй байна уу?";
+
+"Chat History & Training" = "Чатын түүх, сургалт";
+
+"Customize ChatGPT" = "ChatGPT-г тусгайлан өөрчилнө үү";
+
+"Email missing!" = "Э-мэйл алга!";
+
+"View" = "Харах";
+
+"Help Center" = "Тусламжийн төв";
+
+"ChatGPT Team" = "ChatGPT Team";
+
+"All your chats will be cleared from history. This cannot be undone." = "Чатын түүхээс таны бүх чатыг устгана. Үүнийг буцаах боломжгүй.";
+
+"Haptic Feedback" = "Мэдрэхүйн санал хүсэлт";
+
+"Main Language" = "Үндсэн хэл";
+
+"Delete Account" = "Бүртгэл устгах";
+
+"Off" = "Унтраах";
+
+"Voice" = "Дуу хоолой";
+
+"Recent login required" = "Саяхны нэвтрэх эрх шаардлагатай";
+
+"Delete All Chats" = "Бүх чатыг устгах";
+
+"Help" = "Тусламж";
+
+"Desktop Launcher" = "Дэлгэц эхлүүлэгч";
+
+"This workspace is private and opted out of training." = "Энэ ажлын талбар нь хувийнх бөгөөд сургалтад ашиглахаас татгалзсан.";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "Таны бүртгэл устсанаар аппд дагалдсан аливаа идэвхтэй захиалга цуцлагдахгүй. Та эдгээр захиалгыг Apple ID-н тохиргооноос цуцалж болно.";
+
+"Dark" = "Бараан";
+
+"Subscription" = "Захиалга";
+
+"Confirm Export" = "Экспортлолтыг баталгаажуулах";
+
+"Could not unarchive conversation. Please try again later." = "Яриаг архиваас гаргаж чадсангүй. Дараа дахин оролдоно уу.";
+
+"Yesterday" = "Өчигдөр";
+
+"Manage workspace" = "Ажлын талбарыг удирдах";
+
+"None" = "Байхгүй";
+
+"Privacy Policy" = "Нууцлалын бодлого";
+
+"Your account has been queued for deletion." = "Таны бүртгэлийг устгах дараалалд оруулсан байна.";
+
+"ChatGPT Plus" = "ChatGPT Plus";
+
+"Could not delete all chats" = "Бүх чатыг устгаж чадсангүй";
+
+"Free Plan" = "Үнэгүй багц";
+
+"Error deleting all chats" = "Бүх чатыг устгахад алдаа гарлаа";
+
+"App" = "Апп";
+
+"Conversation not found" = "Яриа олдсонгүй";
+
+"Manage Subscriptions" = "Захиалга удирдах";
+
+"All your chats will be archived. This cannot be undone." = "Таны бүх чатыг архивлана. Үүнийг буцаах боломжгүй.";
+
+"Improve voice for everyone" = "Дуу хоолойг хүн бүрд зориулж сайжруул";
+
+"No archived chats" = "Архивласан чат алга";
+
+"Terms of Use" = "Ашиглалтын нөхцөл";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "Дээд зэргийн үр дүнд хүрэхийн тулд, үндсэн ярьдаг хэлээ сонгоно уу. Хэрэв жагсаалтад байхгүй бол, энэ нь автомат илрүүлэлтээр дэмжигдсэн хэвээр байж болно.";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Энэ төхөөрөмж дээрх шинэ чатыг түүхдээ хадгалж, тэдгээрийг манай загваруудыг сайжруулахад ашиглахыг зөвшөөрнө үү. Хадгалаагүй чатууд 30 хоногийн дотор манай системээс устана. Энэ тохиргоо нь төхөөрөмжүүдийн хооронд синхрончлохгүй. [Нэмэлт мэдээлэл авах](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "Таны бүртгэлийн мэдээлэл, яриа экспортлолтод багтана.\n\nМэдээллийг таны бүртгүүлсэн э-мэйл хаяг руу татаж авах боломжтой файл хэлбэрээр илгээнэ.\n\nБоловсруулахад хэсэг хугацаа шаардагдаж болно. Үүнийг бэлэн болоход, танд мэдэгдэнэ.";
+
+"Today" = "Өнөөдөр";
+
+"Chat training" = "Чатын сургалт";
+
+"Email" = "Э-мэйл";
+
+"Unarchive" = "Архиваас гаргах";
+
+"Data Controls" = "Өгөгдлийн хяналт";
+
+"Search Archive" = "Архив хайх";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "Таныг чатлах явцад ChatGPT улам их тус болж, танд тохирсон хариулт өгөхийн тулд дэлгэрэнгүй мэдээлэл, сонголтуудыг цуглуулна. [Нэмэлт мэдээлэл авах](%@)\n\nChatGPT юу санаж байгааг мэдэх эсвэл түүнд шинэ юм заах бол, түүнтэй ингэж чатлахад л хангалттай\n\n• “Намайг товч хариултад дуртай гэдгийг бүү мартаарай.”\n• “Би дөнгөж сая гөлөгтэй боллоо!”\n• “Миний талаар юу санаж байна вэ?”\n• “Сүүлийн төслөө бид хаана орхисон билээ?”";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Энэ төхөөрөмж дээрх шинэ чатыг түүхдээ хадгална уу. Хадгалаагүй чатууд 30 хоногийн дотор манай системээс устана. Энэ тохиргоо нь төхөөрөмжүүдийн хооронд синхрончлохгүй. [Нэмэлт мэдээлэл авах](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Always show ChatGPT in dock" = "ChatGPT-г дэлгэц дээр үргэлж харуулах";
+
+"App Language" = "Аппын хэл";
+
+"Light" = "Цайвар";
+
+"Archived conversations will be available here" = "Архивласан яриа энд байна";
+
+"Keep ChatGPT on top" = "ChatGPT-г дээд талд байлгах";
+
+"Memory" = "Санах ой";
+
+"Speech" = "Үг яриа";
+

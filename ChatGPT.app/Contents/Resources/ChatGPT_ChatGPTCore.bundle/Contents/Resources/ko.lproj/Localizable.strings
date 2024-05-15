@@ -1,0 +1,82 @@
+"Your limit resets in %lld minutes" = "%lld분 후에 한도가 초기화됩니다";
+
+"DALL•E Images" = "DALL•E 이미지";
+
+"ChatGPT" = "ChatGPT";
+
+"Actions" = "작업";
+
+"Retrieves or takes actions outside of ChatGPT" = "ChatGPT 외부에서 작업을 가져오거나 수행합니다";
+
+"By %@" = "작성자: %@";
+
+"GitHub" = "GitHub";
+
+"Your limit resets at %@" = "%@에 한도가 초기화됩니다";
+
+"Your limit resets in 1 minute" = "1분 후에 한도가 초기화됩니다";
+
+"Open Link" = "링크 열기";
+
+"Your limit resets %@" = "%@ 한도가 초기화됩니다";
+
+"Pinned" = "고정됨";
+
+"Citation" = "인용";
+
+"Learns from previous chats to improve future conversations" = "향후 대화를 개선하기 위해 이전 채팅에서 학습합니다";
+
+"Invalid citation" = "잘못된 인용";
+
+"The builder of this GPT can’t view your chats" = "이 GPT의 빌더는 사용자님의 채팅을 볼 수 없습니다";
+
+"Twitter" = "Twitter";
+
+"Untitled" = "제목 없음";
+
+"The builder of this GPT can’t view your chats or memories" = "이 GPT의 빌더는 사용자님의 채팅이나 메모리를 볼 수 없습니다";
+
+"Your limit resets tomorrow at %@" = "내일 %@에 한도가 초기화됩니다";
+
+"Browsing" = "웹 검색";
+
+"Me" = "나";
+
+"Contents may violate our content policy" = "콘텐츠가 당사 콘텐츠 정책을 위반할 수 있습니다";
+
+"Info" = "정보";
+
+"Copy Link" = "링크 복사";
+
+"Unsupported content" = "지원되지 않는 콘텐츠";
+
+"By" = "작성자:";
+
+"Memory" = "메모리";
+
+"This chat won't appear in history, use or create memories, or be used to train our models. For safety purposes, we may keep a copy of this chat for up to 30 days." = "이 채팅은 기록에 표시되거나, 메모리를 사용 또는 생성하거나, 모델을 훈련하는 데 사용되지 않습니다. 안전상의 이유로 당사는 최대 30일 동안 이 채팅의 사본을 보관할 수 있습니다.";
+
+"Temporary Chat" = "임시 채팅";
+
+"Failed to load citation" = "인용 로딩 실패";
+
+"LinkedIn" = "LinkedIn";
+
+"This chat won't appear in history or be used to train our models. For safety purposes, we may keep a copy of this chat for up to 30 days." = "이 채팅은 기록에 표시되거나 모델을 훈련하는 데 사용되지 않습니다. 안전상의 이유로 당사는 최대 30일 동안 사본을 보관할 수 있습니다.";
+
+"This version of the app will be sunset soon!" = "이 앱 버전은 곧 만료될 예정입니다!";
+
+"Any data shared with a third party through GPT actions are subject to the third party's privacy policy. [Learn more](https://help.openai.com/en/articles/8914046-temporary-chat-faq)" = "GPT 작업을 통해 서드파티로 공유한 모든 데이터는 서드파티의 개인정보 보호 정책의 대상이 됩니다. [자세히 알아보기](https://help.openai.com/en/articles/8914046-temporary-chat-faq)";
+
+"community builder" = "커뮤니티 빌더";
+
+"Website" = "웹사이트";
+
+"Data Analysis" = "데이터 분석";
+
+"Instagram" = "Instagram";
+
+"Link unavailable" = "링크를 사용할 수 없음";
+
+"By community builder" = "작성자: 커뮤니티 빌더";
+

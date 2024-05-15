@@ -1,0 +1,114 @@
+"Okay" = "У реду";
+
+"Top Suggestions" = "Најбоље препоруке";
+
+"Include my email" = "Укључи моју е-адресу";
+
+"Optional private note for creator…" = "Опциона приватна напомена за аутора…";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "Звездица: ^[%lld](inflect: true), Оцена: %@";
+
+"Edit" = "Измени";
+
+"Add a note" = "Додај напомену";
+
+"Anyone with a link" = "Свако ко има линк";
+
+"Capabilities" = "Могућности";
+
+"Failed to remove recent GPT, retry?" = "Уклањање недавног GPT-а није успело. Желиш да покушаш поново?";
+
+"How would you rate this GPT?" = "Како оцењујеш овај GPT?";
+
+"Feedback" = "Feedback";
+
+"Recently Used" = "Недавно коришћено";
+
+"By %@" = "До %@";
+
+"Get Plus to Chat" = "Набави Plus и ћаскај";
+
+"%@ chats" = "%@ћаскања";
+
+"Start chat" = "Започни ћаскање";
+
+"Searching…" = "Претражује се…";
+
+"Only me" = "Само ја";
+
+"Loading more" = "Учитавање још садржаја";
+
+"%@ rating" = "%@ оцена";
+
+"How would you rate **%@**?" = "Како оцењујеш **%@**?";
+
+"Great" = "Одличан";
+
+"Search Public GPTs" = "Претражи јавне GPT-ове";
+
+"Star rating" = "Оцена у виду звездица";
+
+"Bad" = "Лоше";
+
+"No Recents" = "Нема недавно коришћених";
+
+"Editing and creating a GPT is only available on web for now." = "Уношење измена и прављење GPT-ја је за сада доступно само на мрежи.";
+
+"Exceptional!" = "Изузетан!";
+
+"Remove" = "Уклони";
+
+"Anyone at %@" = "Свако на: %@";
+
+"Top Picks" = "Најбољи избор";
+
+"By community builder" = "Аутор: градитељ из заједнице";
+
+"Tap a star" = "Додирни звездицу";
+
+"Chats: %@" = "Ћаскања: %@";
+
+"Failed to delete GPT, retry?" = "Брисање GPT-ја није успело, покушати поново?";
+
+"in **%@**" = "за **%@**";
+
+"Untitled" = "Без наслова";
+
+"Explore" = "Истражи";
+
+"My GPTs" = "Моји GPT-јеви";
+
+"No Results Found" = "Није пронађен ниједан резултат";
+
+"Remove GPT" = "Уклони GPT";
+
+"Good" = "Добар";
+
+"Report" = "Пријави";
+
+"Include my email **%@**" = "Укључи моју е-адресу **%@**";
+
+"Thank you for your feedback!" = "Хвала ти на повратним информацијама!";
+
+"Visibility" = "Видљивост";
+
+"Conversation starters" = "Покретачи разговора";
+
+"Options" = "Опције";
+
+"Share" = "Дели";
+
+"Unable to load, retry?" = "Учитавање није могуће, покушати поново?";
+
+"Editing Not Available" = "Уношење измена није доступно";
+
+"Public" = "Јавно";
+
+"See more" = "Прикажи још";
+
+"Are you sure you want to delete this GPT?" = "Да ли стварно желиш да избришеш овај GPT?";
+
+"Start Chat" = "Започни Ћаскање";
+
+"Are you sure you want to remove this GPT from your recents?" = "Да ли стварно желиш да уклониш овај GPT из недавно коришћених?";
+

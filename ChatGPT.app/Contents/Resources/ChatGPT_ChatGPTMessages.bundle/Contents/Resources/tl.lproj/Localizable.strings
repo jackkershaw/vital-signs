@@ -1,0 +1,74 @@
+"Save File As…" = "I-save ang File Bilang…";
+
+"Analysis" = "Pagsusuri";
+
+"#%lld row" = "#%lld row";
+
+"Sign in to %@" = "Mag-sign in sa %@";
+
+"Failed, retry?" = "Hindi gumana, subukan ulit?";
+
+"Bad" = "Pangit";
+
+"File expired" = "Nag-expire ang file";
+
+"Please try again later.%@" = "Pakisubukan ulit mamaya.%@";
+
+"Stop Generating" = "Ihinto ang Pag-generate";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Hindi na available ang file na ito. Magsimula ng bagong pag-uusap o mag-upload ng bagong file para ipagpatuloy ang iyong pag-uusap.";
+
+"You" = "Ikaw";
+
+"Manage memories" = "I-manage ang mga memory";
+
+"Regenerate" = "I-regenerate";
+
+"Select Text" = "Pumili ng Text";
+
+"Upgraded response" = "Naka-upgrade na sagot";
+
+"Deny" = "Huwag payagan";
+
+"Read Aloud" = "Basahin Nang Malakas";
+
+"\"%@\" cell" = "\"%@\" cell";
+
+"Your most recent request failed. Please retry!" = "Hindi gumana ang pinakabago mong kahilingan. Pakisubukan ulit!";
+
+"Loading…" = "Naglo-load";
+
+"Decline" = "Tanggihan";
+
+"Continue Generating" = "Magpatuloy sa Pag-generate";
+
+"Selection" = "Selection";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Isinulat gamit ang aming pinakamahusay na modelo, ang GPT-4, na available sa ChatGPT Plus";
+
+"How would you rate this GPT?" = "Paano mo ire-rate ang GPT na ito?";
+
+"Memory updated" = "Na-update ang memory";
+
+"Quick Look" = "Quick Look";
+
+"File unavailable" = "Hindi available ang file";
+
+"Memories updated" = "Na-update ang mga memory";
+
+"Response rating failed." = "Hindi gumana ang response rating.";
+
+"\"%@\" column" = "\"%@\" column";
+
+"Always allow" = "Laging payagan";
+
+"Change Model" = "Palitan ang Modelo";
+
+"A GPT" = "Isang GPT";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "Nagpapanatili lang ang ChatGPT ng mga file sa limitadong panahon. Magsimula ng bagong pag-uusap o mag-upload ng bagong file para ipagpatuloy ang iyong pag-uusap.";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "Nag-a-upload ng mga ^[%lld attachment](inflect: true)…";
+
+"Edit" = "I-edit";
+

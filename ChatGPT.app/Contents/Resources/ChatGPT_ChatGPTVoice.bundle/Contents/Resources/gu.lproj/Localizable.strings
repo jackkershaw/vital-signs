@@ -1,0 +1,170 @@
+"Click to cancel" = "રદ કરવા માટે ક્લિક કરો";
+
+"Paused" = "થોભાવ્યું";
+
+"Poor connection" = "નબળું જોડાણ";
+
+"Listening" = "સાંભળવું";
+
+"Tap to connect" = "કનેક્ટ કરવા માટે ટેપ કરો";
+
+"Click to interrupt" = "વિક્ષેપિત કરવા માટે ક્લિક કરો";
+
+"%lld." = "%lld.";
+
+"Connecting.." = "કનેક્ટ કરી રહ્યું છે..";
+
+"See more information about voice research" = "વૉઇસ સંશોધન વિશે વધુ માહિતી જુઓ";
+
+"%lldms" = "%lldms";
+
+"Thank you!" = "આભાર!";
+
+"Unable to send response. Please try again." = "ફીડબેક મોકલવામાં અસમર્થ. કૃપા કરીને ફરીથી પ્રયતન કરો.";
+
+"Good" = "સારું";
+
+"Choose a voice" = "વૉઇસ પસંદ કરો";
+
+"Tap to activate" = "સક્રિય કરવા માટે ટેપ કરો";
+
+"I didn’t like the responses" = "મને પ્રતિભાવો ગમ્યા નહિ";
+
+"Failed to connect" = "કનેક્ટ કરવામાં નિષ્ફળ";
+
+"Connection failed, click to retry" = "કનેક્શન નિષ્ફળ થયું, ફરી પ્રયાસ કરવા માટે ક્લિક કરો";
+
+"Voice feedback: give thumbs up" = "વૉઇસ પ્રતિસાદ: થમ્બ્સ અપ આપો";
+
+"Connecting" = "કનેક્ટિંગ";
+
+"Click to activate" = "સક્રિય કરવા માટે ક્લિક કરો";
+
+"Poor" = "ગરીબ";
+
+"Error: '%@'" = "એરર: ‘%@’";
+
+"Learn more" = "વધુ શીખો";
+
+"Select %@" = "%@ પસંદ કરો";
+
+"Open camera" = "કૅમેરો ખોલો";
+
+"Voice chat ended after " = "વૉઇસ ચેટ પછી સમાપ્ત થઈ ";
+
+"Take picture" = "ચિત્ર લો";
+
+"Grace Period for %@s" = "%@ માટે ગ્રેસ પીરિયડ";
+
+"Tap to send manually" = "મેન્યુઅલી મોકલવા માટે ટૅપ કરો";
+
+"Speaking" = "બોલતા";
+
+"Resume listening" = "સાંભળવાનું ફરી શરૂ કરો";
+
+"Release to send" = "મોકલવા માટે છોડો";
+
+"Unable to review action" = "ક્રિયાની સમીક્ષા કરવામાં અસમર્થ";
+
+"You can change this later." = "તમે આને પછીથી બદલી શકો છો.";
+
+"On for training" = "ટ્રેનિંગ માટે ચાલુ";
+
+"Start speaking" = "બોલવાનું શરૂ કરો";
+
+"Unknown" = "અજ્ઞાત";
+
+"Flip camera to the front" = "કૅમેરાને આગળની તરફ ફ્લિપ કરો";
+
+"Thinking" = "વિચારતા";
+
+"Submit feedback" = "પ્રતિસાદ સબમિટ કરો";
+
+"Idle" = "નિષ્ક્રિય";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "તમે અમારા મોડલને સુધારવા અને ટ્રેનિંગ આપવા માટે વૉઇસ ચેટ્સમાંથી તમારો ઑડિયો શેર કરવાનું પસંદ કર્યું છે. જ્યારે મોડેલ વિચારી રહ્યું હોય અથવા બોલતું હોય ત્યારે આમાં તમારા માઇક્રોફોનમાંથી ઑડિયોનો સમાવેશ થાય છે. તમે સેટિંગ્સમાં શેર કરવાનું બંધ કરી શકો છો.";
+
+"Helping improve voice" = "અવાજ સુધારવામાં મદદ કરે છે";
+
+"Voice chat ended" = "વૉઇસ ચેટ સમાપ્ત થઈ";
+
+"Play" = "રમ";
+
+"Go forward 15 seconds" = "15 સેકન્ડ આગળ જાઓ";
+
+"Stop listening" = "સાંભળવાનું બંધ કરો";
+
+"Connect" = "જોડાવા";
+
+"Tap to cancel" = "રદ કરવા માટે ટૅપ કરો";
+
+"Speak now" = "હવે બોલો";
+
+"Excellent" = "ઉત્તમ";
+
+"Tap to dismiss" = "કાઢી નાખવા માટે ટૅપ કરો";
+
+"Unknown error" = "અજાણી એરર";
+
+"Pick photo" = "ફોટો પસંદ કરો";
+
+"It interrupted me" = "તે મને વિક્ષેપિત";
+
+"Click to connect" = "કનેક્ટ કરવા માટે ક્લિક કરો";
+
+"Hold for manual control" = "મેન્યુઅલ નિયંત્રણ માટે પકડી રાખો";
+
+"Restart" = "પુનઃપ્રારંભ";
+
+"Listening intently" = "ધ્યાનપૂર્વક સાંભળવું";
+
+"What went wrong?" = "શું ખોટું થયું?";
+
+"Connection failed, tap to retry" = "કનેક્શન નિષ્ફળ થયું, ફરી પ્રયાસ કરવા માટે ટૅપ કરો";
+
+"Unselect %@" = "%@ નાપસંદ કરો";
+
+"Pause" = "વિરામ";
+
+"Enable microphone access in Settings" = "સેટિંગ્સમાં માઇક્રોફોન ઍક્સેસ સક્ષમ કરો";
+
+"Halted" = "અટકી";
+
+"Audio issues" = "ઑડિઓ સમસ્યાઓ";
+
+"Select all that apply" = "લાગુ પડતા તમામને પસંદ કરો";
+
+"Close" = "બંધ કરો";
+
+"•" = "•";
+
+"Flip camera to the rear" = "કેમેરાને પાછળની તરફ ફ્લિપ કરો";
+
+"Finish speaking to send" = "મોકલવા માટે બોલવાનું સમાપ્ત કરો";
+
+"Voice feedback: give thumbs down" = "વૉઇસ પ્રતિસાદ: થમ્બ્સ ડાઉન આપો";
+
+"Tap to interrupt" = "વિક્ષેપિત કરવા માટે ટૅપ કરો";
+
+"Connecting." = "કનેક્ટિંગ.";
+
+"Other" = "અન્ય";
+
+"Go backward 15 seconds" = "15 સેકન્ડ પાછળ જાઓ";
+
+"It misheard me" = "તે મને ખોટું સાંભળ્યું";
+
+"Close camera" = "કૅમેરો બંધ કરો";
+
+"Save to Photos" = "ફોટામાં સાચવો";
+
+"Connected" = "કનેક્ટેડ";
+
+"Lost" = "હારી ગયા";
+
+"Click to send manually" = "મેન્યુઅલી મોકલવા માટે ક્લિક કરો";
+
+"Voice mode" = "વૉઇસ મોડ";
+
+"Speak to keep active" = "સક્રિય રહેવા માટે બોલો";
+

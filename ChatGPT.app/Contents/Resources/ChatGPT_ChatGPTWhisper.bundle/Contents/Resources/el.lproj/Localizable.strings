@@ -1,0 +1,34 @@
+"Open Settings" = "Άνοιγμα ρυθμίσεων";
+
+"Start new recording" = "Έναρξη νέας εγγραφής";
+
+"There was an unexpected error. %@" = "Παρουσιάστηκε απροσδόκητο σφάλμα. %@";
+
+"Recordings must be longer than 1s." = "Οι εγγραφές πρέπει να έχουν διάρκεια μεγαλύτερη από 1 δευτ.";
+
+"Tap to stop recording" = "Πάτα για διακοπή εγγραφής";
+
+"The recording was cancelled." = "Η εγγραφή ακυρώθηκε.";
+
+"To use Whisper, you need to allow ChatGPT to use your microphone." = "Για να χρησιμοποιήσεις το Whisper, πρέπει να επιτρέψεις στο ChatGPT να χρησιμοποιήσει το μικρόφωνό σου.";
+
+"Converting to text…" = "Μετατροπή σε κείμενο…";
+
+"Click to stop recording" = "Κάνε κλικ για διακοπή εγγραφής";
+
+"There was a problem starting the recording." = "Παρουσιάστηκε πρόβλημα κατά την έναρξη της εγγραφής.";
+
+"An internet connection is required" = "Απαιτείται σύνδεση στο διαδίκτυο";
+
+"Auto-Detect" = "Αυτόματος εντοπισμός";
+
+"Retry transcription" = "Επανάληψη απόπειρας μεταγραφής";
+
+"Tap to record" = "Πάτα για εγγραφή";
+
+"Click to record" = "Κάνε κλικ για εγγραφή";
+
+"The recording could not be processed. Please check your internet connection. (%lld)" = "Δεν ήταν δυνατή η επεξεργασία της εγγραφής. Έλεγξε τη σύνδεσή σου στο διαδίκτυο. (%lld)";
+
+"There was a problem with the recording." = "Παρουσιάστηκε πρόβλημα με την εγγραφή.";
+

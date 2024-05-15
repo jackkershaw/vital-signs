@@ -1,0 +1,52 @@
+"Model Info" = "મોડલની માહિતી";
+
+"Failed to update setting, retry?" = "સેટિંગ અપડેટ કરવામાં નિષ્ફળ, ફરી પ્રયાસ કરવું છે?";
+
+"This chat uses an older version of your custom instructions." = "આ ચેટ તમારી કસ્ટમ સૂચનાઓના જૂના સંસ્કરણનો ઉપયોગ કરે છે.";
+
+"Actions" = "ક્રિયાઓ";
+
+"Description" = "વર્ણન";
+
+"Privacy Policy" = "ગોપનીયતા નીતિ";
+
+"Are you sure you want to log out of %@?" = "શું તમે ખરેખર %@ માંથી લોગ આઉટ કરવા માંગો છો?";
+
+"No connected accounts are available for this GPT." = "આ GPT માટે કોઈ સંકળાયેલા એકાઉન્ટ્સ ઉપલબ્ધ નથી.";
+
+"Accounts" = "એકાઉન્ટ્સ";
+
+"No actions are available for this GPT" = "આ GPT માટે કોઈ ક્રિયાઓ ઉપલબ્ધ નથી";
+
+"Report" = "અહેવાલ";
+
+"Report Conversation" = "વાતચીતની જાણ કરો";
+
+"Report GPT" = "GPT ને રિપોર્ટ કરો";
+
+"Privacy & Safety" = "ગોપનીયતા અને સલામતી";
+
+"Confirm Logout" = "લોગઆઉટની પુષ્ટિ કરો";
+
+"Please try again later.\n\n(%@)" = "પછીથી ફરી પ્રયત્ન કરો.\n\n(%@)";
+
+"None" = "એક પણ નહીં";
+
+"Connected Accounts" = "સંકળાયેલા એકાઉન્ટ્સ";
+
+"Always" = "હંમેશા";
+
+"Ask" = "પૂછો ";
+
+"Capabilities" = "ક્ષમતાઓ";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "%@ દ્વારા ક્યાં થર્ડ પાર્ટી એકાઉન્ટ્સ એક્સેસ કરી શકાય તે મેનેજ કરો.";
+
+"Custom instructions" = "કસ્ટમ સૂચનાઓ";
+
+"Error loading action settings" = "એક્શન સેટિંગ્સ લોડ કરવામાં એરર";
+
+"Error loading connected accounts.\n\n(%@)" = "સંકળાયેલા એકાઉન્ટ્સ લોડ કરવામાં એરર.\n\n(%@)";
+
+"Select which websites are allowed to see data from conversations with %@." = "પસંદ કરો કે કઈ વેબસાઇટ્સને %@ સાથેની વાતચીતમાંથી ડેટા જોવાની મંજૂરી છે.";
+

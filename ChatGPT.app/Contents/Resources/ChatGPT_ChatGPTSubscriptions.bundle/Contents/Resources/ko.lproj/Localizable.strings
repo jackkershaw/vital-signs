@@ -1,0 +1,36 @@
+"The purchase is pending and will be processed once payment has been confirmed." = "구매가 보류 중이며 결제가 확인되면 처리됩니다.";
+
+"This subscription is associated with another OpenAI account.\n\nPlease login with that account to access it, or visit help.openai.com for support." = "이 구독은 다른 OpenAI 계정과 연결되어 있습니다.\n\n해당 계정으로 로그인하여 액세스하거나 help.openai.com에서 도움을 받으세요.";
+
+"Auto-renews for %@/%@ until canceled" = "취소할 때까지 %@/%@ 자동 갱신";
+
+"Access our most powerful model and advanced features" = "가장 강력한 모델과 고급 기능을 이용하세요";
+
+"Create and use custom GPTs" = "맞춤형 GPT를 만들고 사용하세요";
+
+"Access to advanced features" = "고급 기능에 액세스";
+
+"Due to high demand, we've temporarily paused upgrades." = "요청이 많아 업그레이드를 일시적으로 중단했습니다.";
+
+"DALL·E image generation" = "DALL·E 이미지 생성";
+
+"Get ChatGPT Plus" = "ChatGPT Plus 이용하기";
+
+"In-app purchases are currently unavailable. Please try again later." = "현재 인앱 구매를 사용할 수 없습니다. 나중에 다시 시도해 주세요.";
+
+"month" = "월";
+
+"year" = "년";
+
+"Access to %@" = "%@에 액세스";
+
+"The purchase was unsuccessful. Please try again later." = "구매에 실패했습니다. 나중에 다시 시도해 주세요.";
+
+"week" = "주";
+
+"Advanced data analysis, vision, web browsing, and file uploads" = "고급 데이터 분석, 비전, 웹 검색, 파일 업로드";
+
+"Upgrade to Plus" = "Plus로 업그레이드";
+
+"Error code: %@" = "오류 코드: %@";
+

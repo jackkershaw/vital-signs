@@ -1,0 +1,82 @@
+"If you cancel the text conversion you will lose the recording." = "Хэрэв текст хувиргалтыг цуцалвал, бичлэг алдагдана.";
+
+"Get Plus to Chat" = "Чатлахын тулд Plus багц ав";
+
+"Stop Generating" = "Үүсгэхээ болих";
+
+"This chat uses an older version of your custom instructions" = "Энэ чат нь таны тусгай зааврын хуучин хувилбарыг ашигладаг";
+
+"Attach files" = "Файл хавсаргах";
+
+"Fullscreen" = "Дэлгэц дүүрэн";
+
+"Replace" = "Орлуулах";
+
+"Remove attachment" = "Хавсралт устгах";
+
+"You need %@ to continue this chat because it has attachments." = "You need %@ to continue this chat because it has attachments.";
+
+"To continue, you’ll need to replace the current attachment." = "Үргэлжлүүлэхийн тулд, одоогийн хавсралтыг орлуулах шаардлагатай.";
+
+"Message ChatGPT" = "ChatGPT зурвас";
+
+"Edit selection" = "Сонгосныг засах";
+
+"You need %@ to continue this chat because this GPT requires it." = "You need %@ to continue this chat because this GPT requires it.";
+
+"Continue Generating" = "Үргэлжлүүлэн үүсгэх";
+
+"Attached image" = "Хавсаргасан зураг";
+
+"Are you sure?" = "Та итгэлтэй байна уу?";
+
+"You need %@ to continue this chat because it uses audio." = "You need %@ to continue this chat because it uses audio.";
+
+"You've reached your %@ limit." = "You've reached your %@ limit.";
+
+"Switch to Voice mode" = "Дуут горимд шилжих";
+
+"You need %@ to continue this chat because it uses tools." = "You need %@ to continue this chat because it uses tools.";
+
+"Message" = "Зурвас";
+
+"This chat is currently unavailable" = "This chat is currently unavailable";
+
+"Stop" = "Зогсоох";
+
+"Confirm" = "Баталгаажуулах";
+
+"Dictation" = "Диктафон";
+
+"Microphone access required" = "Microphone access required";
+
+"Send" = "Илгээх";
+
+"Shows the voice recording interface and begins recording" = "Дуу бичлэгийн интерфейсийг харуулж, бичиж эхэлнэ";
+
+"Failed, retry?" = "Амжилтгүй. Дахин оролдох уу?";
+
+"Scroll to bottom" = "Доош гүйлгэх";
+
+"Editing message" = "Зурвас засах";
+
+"Upload File" = "Файл байршуулах";
+
+"Image attachment failed." = "Зураг хавсаргалт амжилтгүй.";
+
+"No connection" = "No connection";
+
+"Replace attachment?" = "Хавсралтыг орлуулах уу?";
+
+"New Message" = "Шинэ зурвас";
+
+"Image upload failed." = "Зураг байршуулалт амжилтгүй.";
+
+"Edit image" = "Зураг засах";
+
+"You need %@ to continue this chat because it has images." = "You need %@ to continue this chat because it has images.";
+
+"Attach photos" = "Зураг хавсаргах";
+
+"File upload failed." = "Файл байршуулалт амжилтгүй.";
+

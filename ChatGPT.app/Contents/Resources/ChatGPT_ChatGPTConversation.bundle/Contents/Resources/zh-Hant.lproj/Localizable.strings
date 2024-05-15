@@ -1,0 +1,48 @@
+"Temporary Chat" = "臨時交談";
+
+"Share" = "分享";
+
+"Keep in Sidebar" = "保留在側邊欄";
+
+"ChatGPT" = "ChatGPT";
+
+"Upgrade Plan" = "升級方案";
+
+"See less" = "瀏覽較少內容";
+
+"%@ requires memory to be on. Adjust in **settings**." = "%@ 需要開啟記憶功能。請在**「設定」**中調整。";
+
+"Rename" = "重新命名";
+
+"Title" = "標題";
+
+"Share GPT" = "分享 GPT";
+
+"Rename Chat" = "重新命名交談";
+
+"Manage Chat" = "管理交談";
+
+"%lld more" = "其他 %lld 個";
+
+"Review GPT" = "評論 GPT";
+
+"This GPT is no longer available." = "此 GPT 不再提供使用。";
+
+"Menu" = "選單";
+
+"Archive" = "封存";
+
+"Memory Off" = "記憶功能關閉";
+
+"Explore GPTs" = "探索 GPT";
+
+"Your workspace owner hasn't approved this GPT" = "你的工作空間擁有者尚未核准此 GPT。";
+
+"No results for **%@**" = "沒有 **%@** 的結果";
+
+"Remove From Sidebar" = "從側邊欄移除";
+
+"ChatGPT %@" = "ChatGPT %@";
+
+"Unable to load GPT." = "無法載入 GPT。";
+

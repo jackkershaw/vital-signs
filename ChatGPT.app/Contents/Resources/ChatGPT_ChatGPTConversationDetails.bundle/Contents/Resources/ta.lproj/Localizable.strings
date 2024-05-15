@@ -1,0 +1,52 @@
+"Actions" = "நடவடிக்கைகள்";
+
+"Please try again later.\n\n(%@)" = "தயவுசெய்து பிறகு முயற்சிக்கவும். \n\n(%@)";
+
+"Always" = "எப்பொழுதும்";
+
+"Failed to update setting, retry?" = "அமைப்புகளைப் புதுப்பிக்க முடியவில்லை, மீண்டும் முயற்சிக்கவா?";
+
+"Error loading action settings" = "நடவடிக்கை அமைப்புகளை ஏற்றுவதில் பிழை";
+
+"Custom instructions" = "தனிப்பயனாக்கப்பட்ட அறிவுறுத்தல்கள்";
+
+"Connected Accounts" = "இணைக்கப்பட்ட கணக்குகள்";
+
+"Are you sure you want to log out of %@?" = "%@ -இல் இருந்து வெளியேறுவதில் உறுதியாக இருக்கிறீர்களா?";
+
+"Description" = "விளக்கம்";
+
+"Privacy Policy" = "தனியுரிமைக் கொள்கை";
+
+"Privacy & Safety" = "தனியுரிமை மற்றும் பாதுகாப்பு";
+
+"Model Info" = "மாதிரி தகவல்";
+
+"Ask" = "கேட்கவும்";
+
+"None" = "எதுவுமில்லை";
+
+"Accounts" = "கணக்குகள்";
+
+"Error loading connected accounts.\n\n(%@)" = "இணைக்கப்பட்ட கணக்குகளை ஏற்றுவதில் பிழை.\n\n(%@)";
+
+"Report Conversation" = "உரையாடலைப் புகாரளிக்கவும்";
+
+"Confirm Logout" = "வெளியேறுவதை உறுதிப்படுத்தவும்";
+
+"No connected accounts are available for this GPT." = "இந்த GPTக்கு இணைக்கப்பட்ட கணக்குகள் எதுவும் இல்லை.";
+
+"Capabilities" = "திறன்கள்";
+
+"Report GPT" = "GPT -ஐப் புகாரளிக்கவும்";
+
+"This chat uses an older version of your custom instructions." = "இந்த அரட்டை உங்கள் தனிப்பயன் அறிவுறுத்தல்களின் பழைய பதிப்பைப் பயன்படுத்துகிறது";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "எந்த மூன்றாம் தரப்பு கணக்குகளை %@ அணுகலாம் என்பதை நிர்வகிக்கவும்.";
+
+"Select which websites are allowed to see data from conversations with %@." = "%@ -உடன் உரையாடல்களில் இருக்கும் தரவுகளை எந்த வலைத்தளங்கள் பார்க்கலாம் என்பதைத் தெரிவுசெய்யவும்.";
+
+"Report" = "புகாரளிக்கவும்";
+
+"No actions are available for this GPT" = "இந்த GPTக்கு நடவடிக்கைகள் எதுவும் இல்லை.";
+

@@ -1,0 +1,74 @@
+"Analysis" = "Ανάλυση";
+
+"Loading…" = "Φόρτωση…";
+
+"Selection" = "Επιλογή";
+
+"Save File As…" = "Αποθήκευση αρχείου ως…";
+
+"Continue Generating" = "Συνέχεια δημιουργίας";
+
+"File unavailable" = "Μη διαθέσιμο αρχείο";
+
+"Regenerate" = "Εκ νέου δημιουργία";
+
+"Decline" = "Απόρριψη";
+
+"Read Aloud" = "Ανάγνωση δυνατά";
+
+"Always allow" = "Να επιτρέπεται πάντα";
+
+"Memories updated" = "Οι μνήμες ενημερώθηκαν";
+
+"#%lld row" = "σειρά αρ. %lld";
+
+"A GPT" = "Ένα GPT";
+
+"Select Text" = "Επιλογή κειμένου";
+
+"Upgraded response" = "Αναβαθμισμένη απάντηση";
+
+"Deny" = "Άρνηση";
+
+"Edit" = "Επεξεργασία";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "Φόρτωση ^[%lld συνημμένων](inflect: true)…";
+
+"\"%@\" cell" = "Κελί «%@»";
+
+"Failed, retry?" = "Αποτυχία, να γίνει επανάληψη;";
+
+"Memory updated" = "Η μνήμη ενημερώθηκε";
+
+"Sign in to %@" = "Σύνδεση στο %@";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Αυτό το αρχείο δεν είναι πλέον διαθέσιμο. Ξεκίνα μια νέα συζήτηση ή ανέβασε ένα νέο αρχείο για να συνεχίσεις τη συζήτησή σου.";
+
+"Quick Look" = "Γρήγορη ματιά";
+
+"Your most recent request failed. Please retry!" = "Το τελευταίο αίτημά σου απέτυχε. Προσπάθησε ξανά!";
+
+"Change Model" = "Αλλαγή μοντέλου";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "Το ChatGPT φυλάει αρχεία μόνο για περιορισμένο χρονικό διάστημα. Ξεκίνα μια νέα συζήτηση ή ανέβασε ένα νέο αρχείο για να συνεχίσεις τη συζήτησή σου.";
+
+"File expired" = "Το αρχείο έληξε";
+
+"Please try again later.%@" = "Προσπάθησε ξανά αργότερα.%@";
+
+"Response rating failed." = "Η αξιολόγηση της απάντησης απέτυχε.";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Γραμμένο με το πιο ικανό μας μοντέλο, το GPT-4, διαθέσιμο στο ChatGPT Plus";
+
+"\"%@\" column" = "Στήλη «%@»";
+
+"You" = "Εσύ";
+
+"Stop Generating" = "Διακοπή δημιουργίας";
+
+"Bad" = "Κακό";
+
+"Manage memories" = "Διαχείριση μνημών";
+
+"How would you rate this GPT?" = "Πώς θα αξιολογούσες αυτό το GPT;";
+

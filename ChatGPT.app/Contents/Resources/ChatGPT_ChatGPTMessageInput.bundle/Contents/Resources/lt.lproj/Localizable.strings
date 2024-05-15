@@ -1,0 +1,82 @@
+"Attach files" = "Pridėti failų";
+
+"Upload File" = "Įkelti failą";
+
+"Attach photos" = "Pridėti nuotraukų";
+
+"Image attachment failed." = "Vaizdo pridėti nepavyko.";
+
+"Image upload failed." = "Vaizdo įkelti nepavyko.";
+
+"This chat uses an older version of your custom instructions" = "Šiame pokalbyje naudojama senesnė jūsų pasirinktinių instrukcijų versija";
+
+"Stop Generating" = "Nustoti generuoti";
+
+"Message ChatGPT" = "Pranešimas „ChatGPT“…";
+
+"You need %@ to continue this chat because it has attachments." = "You need %@ to continue this chat because it has attachments.";
+
+"Edit selection" = "Redaguoti parinktį";
+
+"You need %@ to continue this chat because this GPT requires it." = "You need %@ to continue this chat because this GPT requires it.";
+
+"Replace" = "Pakeisti";
+
+"Dictation" = "Diktavimas";
+
+"You need %@ to continue this chat because it uses audio." = "You need %@ to continue this chat because it uses audio.";
+
+"Continue Generating" = "Generuoti toliau";
+
+"You've reached your %@ limit." = "You've reached your %@ limit.";
+
+"Edit image" = "Redaguoti vaizdą";
+
+"Send" = "Siųsti";
+
+"Remove attachment" = "Pašalinti priedą";
+
+"Scroll to bottom" = "Slinkti į apačią";
+
+"You need %@ to continue this chat because it uses tools." = "You need %@ to continue this chat because it uses tools.";
+
+"This chat is currently unavailable" = "This chat is currently unavailable";
+
+"Are you sure?" = "Ar tikrai?";
+
+"Microphone access required" = "Microphone access required";
+
+"Stop" = "Sustabdyti";
+
+"New Message" = "Naujas pranešimas";
+
+"Editing message" = "Pranešimas redaguojamas";
+
+"Message" = "Pranešimas";
+
+"If you cancel the text conversion you will lose the recording." = "Jei atšauksite teksto konvertavimą, prarasite įrašą.";
+
+"Attached image" = "Pridėtas vaizdas";
+
+"Failed, retry?" = "Nepavyko, ar bandyti iš naujo?";
+
+"Switch to Voice mode" = "Įjunkite balso režimą";
+
+"Shows the voice recording interface and begins recording" = "Rodoma balso įrašymo sąsaja ir pradedamas įrašymas";
+
+"To continue, you’ll need to replace the current attachment." = "Norėdami tęsti turite pakeisti dabartinį priedą.";
+
+"Get Plus to Chat" = "Įsigykite „Plus“ planą";
+
+"Confirm" = "Patvirtinti";
+
+"Fullscreen" = "Viso ekrano režimas";
+
+"File upload failed." = "Failo įkelti nepavyko.";
+
+"No connection" = "No connection";
+
+"You need %@ to continue this chat because it has images." = "You need %@ to continue this chat because it has images.";
+
+"Replace attachment?" = "Ar pakeisti priedą?";
+

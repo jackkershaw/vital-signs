@@ -1,0 +1,16 @@
+"You are logged out. Please open the ChatGPT app to log in." = "你已登出，請開啟 ChatGPT 應用程式登入。";
+
+"Your most recent request failed. Please try again." = "你最新的請求並未成功，請再試一次。";
+
+"You do not have access to the Desktop app yet. You can still use ChatGPT at %@" = "You do not have access to the Desktop app yet. You can still use ChatGPT at %@";
+
+"You do not have access to this app yet. You can still use ChatGPT at %@" = "You do not have access to this app yet. You can still use ChatGPT at %@";
+
+"Did not receive a response from ChatGPT. Please try again." = "未收到 ChatGPT 的回應，請再試一次。";
+
+"Received an empty response from ChatGPT. Please try again." = "已收到一則空白的 ChatGPT 回應，請再試一次。";
+
+"Can't determine the right ChatGPT model to use. Please try again." = "無法決定要使用哪個合適的 ChatGPT 模型，請再試一次。";
+
+"You do not have access to this app yet!" = "你還沒有此應用程式的存取權！";
+

@@ -1,0 +1,16 @@
+"Did not receive a response from ChatGPT. Please try again." = "Neprišla odpoveď od modelu ChatGPT. Skús to znova.";
+
+"Received an empty response from ChatGPT. Please try again." = "Od modelu ChatGPT prišla prázdna odpoveď. Skús to znova.";
+
+"Can't determine the right ChatGPT model to use. Please try again." = "Nedá sa určiť správny model ChatGPT, ktorý sa má použiť. Skús to znova.";
+
+"You do not have access to this app yet!" = "K tejto aplikácii zatiaľ nemáš prístup.";
+
+"You do not have access to this app yet. You can still use ChatGPT at %@" = "K tejto aplikácii zatiaľ nemáš prístup. ChatGPT môžeš stále používať na %@";
+
+"Your most recent request failed. Please try again." = "Tvoja najnovšia žiadosť zlyhala. Skús to znova.";
+
+"You do not have access to the Desktop app yet. You can still use ChatGPT at %@" = "K počítačovej aplikácii zatiaľ nemáš prístup. ChatGPT môžeš stále používať na %@";
+
+"You are logged out. Please open the ChatGPT app to log in." = "Si odhlásený/-á. Otvor aplikáciu ChatGPT a prihlás sa.";
+

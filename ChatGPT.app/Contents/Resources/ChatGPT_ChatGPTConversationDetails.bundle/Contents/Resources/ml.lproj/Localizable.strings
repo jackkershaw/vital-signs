@@ -1,0 +1,52 @@
+"Always" = "എല്ലായ്‌പ്പോഴും";
+
+"Error loading action settings" = "നടപടി ക്രമീകരണങ്ങൾ ലോഡ് ചെയ്യുന്നതിൽ പിശക്";
+
+"Description" = "വിവരണം";
+
+"No actions are available for this GPT" = "ഈ GPT-ക്കായി നടപടികളൊന്നും ലഭ്യമല്ല";
+
+"Error loading connected accounts.\n\n(%@)" = "ബന്ധിപ്പിച്ച അക്കൗണ്ടുകൾ ലോഡ് ചെയ്യുന്നതിൽ പിശക്.\n\n(%@)";
+
+"Are you sure you want to log out of %@?" = "%@-ൽ നിന്ന് ലോഗ് ഔട്ട് ചെയ്യണമെന്ന് ഉറപ്പാണോ?";
+
+"None" = "ഒന്നുമില്ല";
+
+"This chat uses an older version of your custom instructions." = "നിങ്ങളുടെ ഇഷ്‌ടാനുസൃത നിർദ്ദേശങ്ങളുടെ പഴയ പതിപ്പാണ് ഈ ചാറ്റ് ഉപയോഗിക്കുന്നത്.";
+
+"Report GPT" = "GPT റിപ്പോർട്ട് ചെയ്യുക";
+
+"Report Conversation" = "സംഭാഷണം റിപ്പോർട്ട് ചെയ്യുക";
+
+"Confirm Logout" = "ലോഗ്ഔട്ട് സ്ഥിരീകരിക്കുക";
+
+"Capabilities" = "കഴിവുകൾ";
+
+"Model Info" = "മോഡൽ വിവരം";
+
+"Report" = "റിപ്പോർട്ട്";
+
+"No connected accounts are available for this GPT." = "ഈ GPT-യ്‌ക്ക് ബന്ധിപ്പിച്ച അക്കൗണ്ടുകളൊന്നും ലഭ്യമല്ല.";
+
+"Failed to update setting, retry?" = "ക്രമീകരണങ്ങൾ അപ്‌ഡേറ്റ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു, വീണ്ടും ശ്രമിക്കണോ?";
+
+"Actions" = "നടപടികൾ";
+
+"Ask" = "ചോദിക്കുക";
+
+"Please try again later.\n\n(%@)" = "ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക.\n\n(%@)";
+
+"Connected Accounts" = "ബന്ധിപ്പിച്ച അക്കൗണ്ടുകൾ";
+
+"Privacy & Safety" = "സ്വകാര്യതയും സുരക്ഷയും";
+
+"Privacy Policy" = "സ്വകാര്യതാ നയം";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "%@-ന് ആക്‌സസ് ചെയ്യാനാകുന്ന മൂന്നാം കക്ഷി അക്കൗണ്ടുകൾ മാനേജ് ചെയ്യുക.";
+
+"Accounts" = "അക്കൗണ്ടുകൾ";
+
+"Custom instructions" = "ഇഷ്ടാനുസൃത നിർദ്ദേശങ്ങൾ";
+
+"Select which websites are allowed to see data from conversations with %@." = "%@-മായുള്ള സംഭാഷണങ്ങളിൽ നിന്നുള്ള ഡാറ്റ കാണാൻ അനുവാദമുള്ള വെബ്‌സൈറ്റുകൾ തിരഞ്ഞെടുക്കുക.";
+

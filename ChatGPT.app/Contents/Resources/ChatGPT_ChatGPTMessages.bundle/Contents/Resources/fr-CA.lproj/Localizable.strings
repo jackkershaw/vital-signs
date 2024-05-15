@@ -1,0 +1,74 @@
+"Failed, retry?" = "Échec. Réessayer?";
+
+"\"%@\" cell" = "Cellule « %@ »";
+
+"How would you rate this GPT?" = "Comment évaluez-vous ce GPT?";
+
+"Memories updated" = "Mémoires modifiées";
+
+"Continue Generating" = "Continuer à générer";
+
+"\"%@\" column" = "Colonne « %@ »";
+
+"Edit" = "Modifier";
+
+"Manage memories" = "Gérer les mémoires";
+
+"Selection" = "Sélection";
+
+"Deny" = "Rejeter";
+
+"Decline" = "Refuser";
+
+"Memory updated" = "Mémoire modifiée";
+
+"Read Aloud" = "Lire à voix haute";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "Téléversement de ^[%lld pièces jointes](inflect: true)en cours…";
+
+"Upgraded response" = "Réponse mise à niveau";
+
+"File unavailable" = "Fichier non disponible";
+
+"Regenerate" = "Générer à nouveau";
+
+"Select Text" = "Sélectionner du texte";
+
+"Response rating failed." = "Échec d’évaluation de la réponse.";
+
+"Please try again later.%@" = "Veuillez réessayer plus tard. %@";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT conserve les fichiers pour une durée limitée. Démarrez une nouvelle conversation ou téléversez un nouveau fichier pour poursuivre la conversation.";
+
+"File expired" = "Fichier expiré";
+
+"#%lld row" = "Ligne numéro %lld";
+
+"Save File As…" = "Enregistrer le fichier sous…";
+
+"Loading…" = "Chargement en cours...";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Rédigé avec notre modèle le plus performant, le GPT-4, disponible dans ChatGPT Plus";
+
+"A GPT" = "Un GPT";
+
+"Bad" = "Mauvais";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Ce fichier n’est plus disponible. Commencez une nouvelle conversation ou téléversez un nouveau fichier pour continuer la conversation.";
+
+"Analysis" = "Analyse";
+
+"Always allow" = "Toujours autoriser";
+
+"Your most recent request failed. Please retry!" = "Votre dernière demande a échoué. Veuillez réessayer.";
+
+"Change Model" = "Changer le modèle";
+
+"Stop Generating" = "Arrêter la génération";
+
+"You" = "Vous";
+
+"Quick Look" = "Aperçu rapide";
+
+"Sign in to %@" = "Se connecter à %@";
+

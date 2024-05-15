@@ -1,0 +1,40 @@
+"Clear Memory" = "Απαλοιφή μνήμης";
+
+"Memory" = "Μνήμη";
+
+"Error deleting memory" = "Σφάλμα κατά τη διαγραφή μνήμης";
+
+"%@ won't use or create memories" = "Το %@ δεν θα χρησιμοποιήσει ούτε θα δημιουργήσει μνήμες";
+
+"Error loading GPTs" = "Σφάλμα κατά τη φόρτωση των GPT";
+
+"Could not reset memory. Please try again later." = "Αδυναμία επαναφοράς μνήμης. Προσπάθησε ξανά αργότερα.";
+
+"Clear this GPT's memory" = "Απαλοιφή μνήμης αυτού του GPT";
+
+"Search memories" = "Αναζήτηση μνημών";
+
+"%@'s memories" = "Μνήμες του %@";
+
+"Memory is disabled" = "Η μνήμη είναι απενεργοποιημένη";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "Καθώς συνομιλείς με το %@, οι λεπτομέρειες και οι προτιμήσεις που θυμάται θα εμφανίζονται εδώ.";
+
+"Open menu to select which GPT to show memories for" = "Άνοιξε το μενού για να επιλέξεις ποιο GPT θα εμφανίζει μνήμες για";
+
+"No memories" = "Δεν υπάρχουν μνήμες";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "Το %@ θα ξεχάσει όλα όσα θυμάται από τις συνομιλίες σας. Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.";
+
+"Are you sure?" = "Σίγουρα;";
+
+"Turn On" = "Ενεργοποίηση";
+
+"Error loading memories" = "Σφάλμα κατά τη φόρτωση μνημών";
+
+"Clear ChatGPT’s memory" = "Απαλοιφή μνήμης του ChatGPT";
+
+"Select a GPT" = "Διάλεξε ένα GPT";
+
+"Learn More" = "Μάθε περισσότερα";
+

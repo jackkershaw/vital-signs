@@ -1,0 +1,82 @@
+"You've reached your %@ limit." = "ನಿಮ್ಮ %@ ಮಿತಿಯನ್ನು ನೀವು ತಲುಪಿರುವಿರಿ.";
+
+"Stop Generating" = "ಉತ್ಪಾದಿಸುವುದನ್ನು ನಿಲ್ಲಿಸಿ";
+
+"You need %@ to continue this chat because it uses tools." = "ಈ ಚಾಟ್ ಅನ್ನು ಮುಂದುವರಿಸಲು ನಿಮಗೆ %@ ಅಗತ್ಯವಿದೆ ಏಕೆಂದರೆ ಇದು ಪರಿಕರಗಳನ್ನು ಬಳಸುತ್ತದೆ.";
+
+"Message ChatGPT" = "ChatGPTಗೆ ಸಂದೇಶ ಕಳುಹಿಸಿ";
+
+"Remove attachment" = "ಲಗತ್ತನ್ನು ತೆಗೆದುಹಾಕಿ";
+
+"Stop" = "ನಿಲ್ಲಿಸಿ";
+
+"Edit selection" = "ಆಯ್ಕೆಯನ್ನು ಸಂಪಾದಿಸಿ";
+
+"Scroll to bottom" = "ಕೆಳಕ್ಕೆ ಸ್ಕ್ರಾಲ್ ಮಾಡಿ";
+
+"Replace attachment?" = "ಲಗತ್ತನ್ನು ಬದಲಾಯಿಸಬೇಕಾ?";
+
+"Shows the voice recording interface and begins recording" = "ಧ್ವನಿ ರೆಕಾರ್ಡಿಂಗ್ ಇಂಟರ್ಫೇಸ್ ಅನ್ನು ತೋರಿಸುತ್ತದೆ ಮತ್ತು ರೆಕಾರ್ಡಿಂಗ್ ಪ್ರಾರಂಭಿಸುತ್ತದೆ";
+
+"Continue Generating" = "ರಚಿಸುವುದನ್ನು ಮುಂದುವರಿಸಿ";
+
+"File upload failed." = "ಕಡತ ಅಪ್ಲೋಡ್ ವಿಫಲವಾಗಿದೆ.";
+
+"Editing message" = "ಸಂದೇಶ ತಿದ್ದುವುದು";
+
+"Send" = "ಕಳುಹಿಸಿ";
+
+"You need %@ to continue this chat because this GPT requires it." = "ಈ ಚಾಟ್ ಅನ್ನು ಮುಂದುವರಿಸಲು ನಿಮಗೆ %@ ಅಗತ್ಯವಿದೆ ಏಕೆಂದರೆ ಈ GPTಗೆ ಇದು ಅಗತ್ಯವಿದೆ.";
+
+"You need %@ to continue this chat because it has images." = "ಈ ಚಾಟ್ ಅನ್ನು ಮುಂದುವರಿಸಲು ನಿಮಗೆ %@ ಅಗತ್ಯವಿದೆ ಏಕೆಂದರೆ ಇದು ಚಿತ್ರಗಳನ್ನು ಹೊಂದಿದೆ.";
+
+"You need %@ to continue this chat because it has attachments." = "ಈ ಚಾಟ್ ಅನ್ನು ಮುಂದುವರಿಸಲು ನಿಮಗೆ %@ ಅಗತ್ಯವಿದೆ ಏಕೆಂದರೆ ಇದು ಲಗತ್ತುಗಳನ್ನು ಹೊಂದಿದೆ.";
+
+"Image upload failed." = "ಚಿತ್ರ ಅಪ್ಲೋಡ್ ವಿಫಲವಾಗಿದೆ.";
+
+"This chat uses an older version of your custom instructions" = "ಈ ಚಾಟ್ ನಿಮ್ಮ ಕಸ್ಟಮ್ ಸೂಚನೆಗಳ ಹಳೆಯ ಆವೃತ್ತಿಯನ್ನು ಬಳಸುತ್ತದೆ";
+
+"Fullscreen" = "ಪೂರ್ಣ ಪರದೆ";
+
+"Edit image" = "ಚಿತ್ರವನ್ನು ಸಂಪಾದಿಸಿ";
+
+"Are you sure?" = "ನೀವು ಖಚಿತವಾಗಿರುವಿರಾ?";
+
+"No connection" = "ಸಂಪರ್ಕವಿಲ್ಲ";
+
+"Attach files" = "ಕಡತಗಳನ್ನು ಲಗತ್ತಿಸಿ";
+
+"Confirm" = "ಖಚಿತಪಡಿಸಿ";
+
+"Attached image" = "ಲಗತ್ತಿಸಲಾದ ಚಿತ್ರಗಳು";
+
+"Get Plus to Chat" = "ಚಾಟ್‌ ಮಾಡಲು ಪ್ಲಸ್‌ ಪಡೆಯಿರಿ";
+
+"Dictation" = "ಡಿಕ್ಟೇಶನ್";
+
+"To continue, you’ll need to replace the current attachment." = "ಮುಂದುವರಿಸಲು, ನೀವು ಪ್ರಸ್ತುತ ಲಗತ್ತನ್ನು ಬದಲಿಸುವ ಅಗತ್ಯವಿದೆ.";
+
+"Upload File" = "ಕಡತ ಅಪ್ಲೋಡ್ ಮಾಡಿ";
+
+"Switch to Voice mode" = "ಧ್ವನಿ ಮೋಡ್‌ಗೆ ಬದಲಿಸಿ";
+
+"If you cancel the text conversion you will lose the recording." = "ನೀವು ಪಠ್ಯ ಪರಿವರ್ತನೆಯನ್ನು ರದ್ದುಗೊಳಿಸಿದರೆ ನೀವು ರೆಕಾರ್ಡಿಂಗ್ ಅನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತೀರಿ.";
+
+"You need %@ to continue this chat because it uses audio." = "ಈ ಚಾಟ್ ಅನ್ನು ಮುಂದುವರಿಸಲು ನಿಮಗೆ %@ ಅಗತ್ಯವಿದೆ ಏಕೆಂದರೆ ಇದು ಆಡಿಯೊವನ್ನು ಬಳಸುತ್ತದೆ.";
+
+"Failed, retry?" = "ವಿಫಲವಾಗಿದೆ, ಮರುಪ್ರಯತ್ನಿಸುವುದೇ?";
+
+"Image attachment failed." = "ಚಿತ್ರ ಲಗತ್ತಿಸುವಿಕೆ ವಿಫಲವಾಗಿದೆ.";
+
+"Message" = "ಸಂದೇಶ";
+
+"Attach photos" = "ಚಿತ್ರಗಳನ್ನು ಲಗತ್ತಿಸಿ";
+
+"This chat is currently unavailable" = "ಈ ಚಾಟ್ ಪ್ರಸ್ತುತ ಲಭ್ಯವಿಲ್ಲ";
+
+"New Message" = "ಹೊಸ ಸಂದೇಶ";
+
+"Microphone access required" = "ಮೈಕ್ರೊಫೋನ್ ಪ್ರವೇಶದ ಅಗತ್ಯವಿದೆ";
+
+"Replace" = "ಬದಲಾಯಿಸಿ";
+

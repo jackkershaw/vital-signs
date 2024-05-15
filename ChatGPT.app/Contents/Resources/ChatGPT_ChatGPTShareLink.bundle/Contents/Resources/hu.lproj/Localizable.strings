@@ -1,0 +1,50 @@
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "Már megosztottál egy linket ebben a csevegésben. Ha új üzeneteket szeretnél szerepeltetni, töröld ezt a linket, és oszd meg újból a csevegést.";
+
+"The share link is invalid. %@" = "A megosztási link érvénytelen. %@";
+
+"Shared Link Date" = "Megosztott link dátuma";
+
+"Delete link" = "Link törlése";
+
+"Shared link deleted." = "Megosztott link törölve.";
+
+"Shared Link Owner" = "Megosztott link tulajdonosa";
+
+"Share link to chat" = "Link megosztása csevegésben";
+
+"Options" = "Lehetőségek";
+
+"Edit title" = "Cím szerkesztése";
+
+"Recipients won't be able to view images." = "A címzettek nem fogják tudni megtekinteni a képeket.";
+
+"Update title" = "Cím frissítése";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "A linked megosztása után elküldött vagy fogadott üzenetek nem kerülnek megosztásra. Az URL birtokában bárki megtekintheti a megosztott csevegésedet.";
+
+"Share link" = "Link megosztása";
+
+"Help and FAQ" = "Súgó és GYIK";
+
+"There was an error preparing the conversation. Please try again. %@" = "Hiba történt a beszélgetés előkészítése közben. Próbáld újra. %@";
+
+"Missing Name" = "Hiányzó név";
+
+"There was an error deleting your shared link." = "Hiba történt a megosztott link törlése közben.";
+
+"Share anonymously" = "Megosztás névtelenül";
+
+"Your custom instructions won’t be shared with viewers." = "Az egyéni instrukcióid nem lesznek megosztva a megtekintőkkel.";
+
+"Shared Link Title" = "Megosztott link címe";
+
+"The conversation has no messages." = "A beszélgetésben nincsenek üzenetek.";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "Biztosan törölni szeretnéd a(z) „%@” megosztott linket? Bármikor létrehozhatsz új linket ennek a csevegésnek az újbóli megosztásával.";
+
+"Share your name" = "Saját név megosztása";
+
+"There was an error sharing the conversation. Please try again. %@" = "Hiba történt a beszélgetés megosztása közben. Próbáld újra. %@";
+
+"Title" = "Cím";
+

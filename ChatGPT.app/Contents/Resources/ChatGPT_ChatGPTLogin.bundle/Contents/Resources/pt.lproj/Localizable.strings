@@ -1,0 +1,70 @@
+"Let’s go" = "Vamos lá";
+
+"There was a problem. Please restart the app." = "Ocorreu um problema. Reinicie o aplicativo.";
+
+"Request cancelled." = "Solicitação cancelada.";
+
+"There was a problem clearing sign in info. Please try again." = "Ocorreu um problema ao limpar as informações de início de sessão. Tente novamente.";
+
+"Privacy Policy" = "Política de privacidade";
+
+"Let’s create" = "Vamos criar";
+
+"Missing bundle id." = "Id do pacote ausente.";
+
+"Let’s discover" = "Vamos descobrir";
+
+"Something went wrong." = "Algo deu errado";
+
+"No sign in info found. Please sign in." = "Nenhuma informação de login encontrada. Inicie a sessão.";
+
+"Let’s brainstorm" = "Vamos imaginar";
+
+"Sign in failed" = "Falha ao iniciar sessão";
+
+"No authorization code found." = "Nenhum código de autorização foi encontrado.";
+
+"Let’s explore" = "Vamos explorar";
+
+"Let’s invent" = "Vamos inventar";
+
+"Revoke failed." = "Falha na revogação.";
+
+"Terms of Use" = "Termos de uso";
+
+"Continue with Google" = "Continuar com o Google";
+
+"There is a problem with the server. Please try again later." = "Há um problema com o servidor. Tente novamente mais tarde.";
+
+"There was a problem saving sign in info. Please try again." = "Ocorreu um problema ao salvar as informações de início de sessão. Tente novamente.";
+
+"Sign up with email" = "Cadastrar com e-mail";
+
+"Let’s collaborate" = "Vamos colaborar";
+
+"Let’s design" = "Vamos projetar";
+
+"Let’s chit-chat" = "Vamos papear";
+
+"Sign in request was cancelled." = "A solicitação de início de sessão foi cancelada.";
+
+"Invalid invite url." = "URL de convite inválido.";
+
+"Unknown error." = "Erro desconhecido.";
+
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "Algo deu errado. Verifique se a data e a hora do seu aparelho estão corretas e se a opção \"Definir automaticamente\" está ativada em \"Configurações → Geral → Data e hora\".";
+
+"Failed to validate id token." = "Falha ao validar o token de identificação.";
+
+"Renew failed." = "A renovação falhou.";
+
+"Unknown other error." = "Outro erro desconhecido.";
+
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "Ocorreu um problema ao entrar em contato com os servidores da Apple. Tente novamente. (%lld)";
+
+"PKCE not allowed." = "PKCE não permitido.";
+
+"Store failed." = "Falha na loja.";
+
+"No refresh token found." = "Nenhum token de atualização encontrado.";
+

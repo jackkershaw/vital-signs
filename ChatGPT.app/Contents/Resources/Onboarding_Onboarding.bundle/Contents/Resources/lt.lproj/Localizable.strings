@@ -1,0 +1,96 @@
+"Select your Birthday" = "Pasirinkite savo gimtadienį";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Kažkas nepavyko. Paskyra jau sukurta, tačiau jos atnaujinti nepavyko. Atsijunkite ir vėl prisijunkite.";
+
+"Verify phone number" = "Patvirtinti telefono numerį";
+
+"Last name" = "Pavardė";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "%@ išsiuntėme el. laišką.\nNorėdami pradėti spustelėkite laiške esančią nuorodą.";
+
+"error" = "klaida";
+
+"Area code" = "Miesto kodas";
+
+"Code" = "Kodas";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Spustelėdami „Tęsti“ patvirtinate, kad turite tėvų ar globėjų sutikimą naudoti „ChatGPT“, sutinkate su mūsų [Sąlygomis](https://openai.com/policies/terms-of-use) ir patvirtinate mūsų [Privatumo politiką](https://openai.com/policies/privacy-policy) bei jos [Korėjos priedą](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Your account could not be created. Please try again. %@" = "Jūsų paskyros sukurti nepavyko. Bandykite dar kartą. %@";
+
+"Something went wrong. Sign out and try again." = "Kažkas nepavyko. Atsijunkite ir bandykite dar kartą.";
+
+"You have made too many attempts. Please try again later." = "Atlikote per daug bandymų. Bandykite dar kartą vėliau.";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Spustelėdami „Tęsti“ sutinkate su mūsų [Sąlygomis](https://openai.com/policies/terms-of-use) ir patvirtinate mūsų [Privatumo politiką](https://openai.com/policies/privacy-policy).";
+
+"Verify you're human" = "Patvirtinkite, kad esate žmogus";
+
+"Birthday" = "Gimtadienis";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Spustelėdami „Tęsti“ sutinkate su mūsų [Sąlygomis](https://openai.com/policies/terms-of-use) ir patvirtinate mūsų [Privatumo politiką](https://openai.com/policies/privacy-policy) bei jos [Korėjos priedą](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Sorry, we aren't able to create your account" = "Deja, nepavyksta sukurti jūsų paskyros";
+
+"Select your area code" = "Pasirinkite savo miesto kodą";
+
+"There was a problem, please try again. (%@)" = "Iškilo problema, bandykite dar kartą. (%@)";
+
+"Something went wrong. Please try again." = "Kažkas nepavyko. Bandykite dar kartą.";
+
+"Email resent!" = "El. laiškas persiųstas!";
+
+"Failed to load required information." = "Nepavyko įkelti reikiamos informacijos.";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "Pagalbos ieškokite [telefono patvirtinimo vadove](https://help.openai.com/articles/6613520-phone-verification).";
+
+"First name" = "Vardas";
+
+"Tell us about you." = "Papasakokite mums apie save.";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "Nepavyko gauti šalių. Patikrinkite savo interneto ryšį ir iš naujo paleiskite programėlę. %@";
+
+"Please check your internet connection and retry." = "Patikrinkite savo interneto ryšį ir bandykite iš naujo.";
+
+"Your email is not yet verified. Please check your email inbox." = "Jūsų el. pašto adresas dar nepatvirtintas. Patikrinkite savo gaunamo el. pašto dėžutę.";
+
+"Enter the code we just sent to your number ending in **%@" = "Įveskite kodą, kurį ką tik išsiuntėme jūsų numeriu, kuris baigiasi **%@";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Kilo interneto ryšio problema. Bandykite dar kartą. (%lld)";
+
+"Please provide a phone number for verification." = "Patvirtinti pateikite telefono numerį.";
+
+"I've verified my email" = "Patvirtinau savo el. pašto adresą";
+
+"Phone number" = "Telefono numeris";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "Negalime sukurti jūsų paskyros dėl savo [Naudojimo sąlygų](https://openai.com/policies/terms-of-use).";
+
+"Resend code" = "Persiųsti kodą";
+
+"Verify your email" = "Patvirtinkite savo el. pašto adresą";
+
+"Please solve this puzzle so we know you're a person." = "Sudėliokite šią dėlionę, kad mes žinotume, jog esate žmogus.";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "Kažkas nepavyko. Paleiskite programėlę iš naujo arba atsijunkite ir bandykite dar kartą.";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Spustelėdami „Tęsti“ patvirtinate, kad turite tėvų ar globėjų sutikimą naudoti „ChatGPT“, sutinkate su mūsų [Sąlygomis](https://openai.com/policies/terms-of-use) ir patvirtinate mūsų [Privatumo politiką](https://openai.com/policies/privacy-policy).";
+
+"There was a problem verifying your phone number. %@" = "Tikrinant jūsų telefono numerį kilo problema. %@";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "Nepavyko gauti reikiamos informacijos. Patikrinkite savo interneto ryšį ir iš naujo paleiskite programėlę. (%@)";
+
+"Continue" = "Tęsti";
+
+"Please choose a valid date for your birthday." = "Pasirinkite tinkamą savo gimtadienio datą.";
+
+"There was a problem, please try again." = "Iškilo problema, bandykite dar kartą.";
+
+"Resend email" = "Persiųsti el. laišką";
+
+"There was a problem verifying the code. %@" = "Tikrinant kodą kilo problema. %@";
+
+"Open Mail App" = "Atidaryti pašto programėlę";
+
+"Finish creating your OpenAI account" = "Baikite kurti savo „OpenAI“ paskyrą";
+

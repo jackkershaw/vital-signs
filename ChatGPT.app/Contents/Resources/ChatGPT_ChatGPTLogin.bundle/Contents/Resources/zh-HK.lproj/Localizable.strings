@@ -1,0 +1,70 @@
+"Unknown error." = "未知錯誤。";
+
+"Renew failed." = "續訂失敗。";
+
+"Failed to validate id token." = "無法驗證 ID 一次性密碼。";
+
+"Sign up with email" = "透過電郵訂閱";
+
+"Privacy Policy" = "私隱政策";
+
+"No sign in info found. Please sign in." = "未找到登入資訊。請登入。";
+
+"Request cancelled." = "請求已取消。";
+
+"Invalid invite url." = "無效的邀請網址。";
+
+"Sign in failed" = "登入失敗";
+
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "聯絡 Apple 伺服器時發生問題。請重試一次。(%lld)";
+
+"There is a problem with the server. Please try again later." = "伺服器有問題。請稍後重試。";
+
+"Let’s explore" = "立即探索";
+
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "出了點問題。請確保您的裝置日期和時間正確無誤，並且「設定」→「常規→日期和時間」下開啟了「自動設定」。";
+
+"No refresh token found." = "未找到重新整理一次性密碼。";
+
+"Let’s chit-chat" = "輕鬆吹吹水";
+
+"There was a problem. Please restart the app." = "發生問題。請重新啟動應用程式。";
+
+"Let’s collaborate" = "攜手協作";
+
+"No authorization code found." = "未找到授權代碼。";
+
+"Let’s go" = "開始使用";
+
+"Revoke failed." = "吊銷失敗。";
+
+"Let’s brainstorm" = "來些腦力激盪吧";
+
+"Continue with Google" = "繼續使用 Google";
+
+"Let’s design" = "設計不設限";
+
+"Sign in request was cancelled." = "登入請求已取消。";
+
+"Let’s discover" = "探索未知";
+
+"PKCE not allowed." = "不允許 PKCE。";
+
+"Let’s invent" = "搞搞新發明";
+
+"Unknown other error." = "其他未知錯誤。";
+
+"There was a problem saving sign in info. Please try again." = "儲存登入資料時發生問題。請重試一次。";
+
+"Store failed." = "儲存失敗。";
+
+"There was a problem clearing sign in info. Please try again." = "清除登入資訊時發生問題。請重試一次。";
+
+"Terms of Use" = "使用條款";
+
+"Missing bundle id." = "缺少搭售方案 ID。";
+
+"Let’s create" = "創造由你起";
+
+"Something went wrong." = "出了點問題。";
+

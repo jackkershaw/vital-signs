@@ -1,0 +1,34 @@
+"Thank you for your feedback!" = "ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಗಾಗಿ ಧನ್ಯವಾದಗಳು!";
+
+"Deleted chat" = "ಅಳಿಸಿದ ಚಾಟ್";
+
+"Open Settings" = "ಸೆಟ್ಟಿಂಗ್ ತೆರೆಯಿರಿ";
+
+"Toggle Sidebar" = "ಸೈಡ್‌ಬಾರ್ ಅನ್ನು ಟಾಗಲ್ ಮಾಡಿ";
+
+"Voice capabilities aren’t currently available when history is turned off." = "ಇತಿಹಾಸವನ್ನು ಆಫ್ ಮಾಡಿದಾಗ ಧ್ವನಿ ಸಾಮರ್ಥ್ಯಗಳು ಪ್ರಸ್ತುತ ಲಭ್ಯವಿರುವುದಿಲ್ಲ.";
+
+"Close menu" = "ಮೆನು ಮುಚ್ಚಿ";
+
+"There is a problem with your internet connection." = "ನಿಮ್ಮ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕದಲ್ಲಿ ತೊಂದರೆ ಇದೆ.";
+
+"History off" = "ಇತಿಹಾಸ ಆಫ್";
+
+"Voice unavailable" = "ಧ್ವನಿ ಲಭ್ಯವಿಲ್ಲ";
+
+"Turn history on" = "ಇತಿಹಾಸ ಆನ್ ಮಾಡಿ";
+
+"Error reading message out loud" = "ಸಂದೇಶವನ್ನು ಜೋರಾಗಿ ಓದುವಲ್ಲಿ ದೋಷ";
+
+"Please make sure this feature is enabled for your account." = "ನಿಮ್ಮ ಖಾತೆಗೆ ಈ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆಯೇ ಎಂಬುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.";
+
+"Open Memory Settings" = "ನೆನಪು ಸೆಟ್ಟಿಂಗ್ ತೆರೆಯಿರಿ";
+
+"Deleting chat failed" = "ಚಾಟ್ ಅಳಿಸಲು ವಿಫಲವಾಗಿದೆ";
+
+"Memory off" = "ನೆನಪು ಆಫ್";
+
+"Deleting chat…" = "ಚಾಟ್ ಅಳಿಸಲಾಗುತ್ತಿದೆ...";
+
+"Voice capabilities aren’t currently available with this GPT because it requires memory to be on." = "ಈ GPT ಯೊಂದಿಗೆ ಪ್ರಸ್ತುತ ಧ್ವನಿ ಸಾಮರ್ಥ್ಯಗಳು ಲಭ್ಯವಿಲ್ಲ ಏಕೆಂದರೆ ಇದಕ್ಕಾಗಿ ನೆನಪು ಆನ್ ಆಗಿರಬೇಕು.";
+

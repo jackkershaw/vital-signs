@@ -1,0 +1,96 @@
+"Please choose a valid date for your birthday." = "Välj ett giltigt datum för din födelsedag.";
+
+"Your email is not yet verified. Please check your email inbox." = "Din e-postadress har inte verifierats än. Kolla i din e-postinkorg.";
+
+"There was a problem verifying the code. %@" = "Det uppstod ett problem när koden skulle verifieras. %@";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "Läs mer i [telefonverifieringsguiden](https://help.openai.com/articles/6613520-phone-verification) om du behöver hjälp.";
+
+"Enter the code we just sent to your number ending in **%@" = "Ange koden vi just skickade till ditt telefonnummer som slutar med siffrorna **%@";
+
+"Failed to load required information." = "Den begärda informationen kunde inte laddas.";
+
+"Please provide a phone number for verification." = "Ange ett telefonnummer för verifiering.";
+
+"Area code" = "Riktnummer";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "Länder kunde inte hämtas. Kontrollera din internetanslutning och starta om appen. %@";
+
+"Resend code" = "Skicka koden igen";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Något gick fel. Kontot har redan skapats men kunde inte uppdateras. Logga ut och logga in igen.";
+
+"Your account could not be created. Please try again. %@" = "Ditt konto kunde inte skapas. Försök igen. %@";
+
+"Select your Birthday" = "Välj din födelsedag";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "Vi har skickat ett e-postmeddelande till %@.\nKlicka på länken i meddelandet för att komma igång.";
+
+"Something went wrong. Please try again." = "Något gick fel. Försök igen.";
+
+"Sorry, we aren't able to create your account" = "Vi kan tyvärr inte skapa ditt konto";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "Något gick fel. Starta om appen eller logga ut och försök igen.";
+
+"Finish creating your OpenAI account" = "Fortsätt att skapa ditt OpenAI-konto";
+
+"There was a problem, please try again. (%@)" = "Ett problem uppstod. Försök igen. (%@)";
+
+"Email resent!" = "E-postmeddelandet skickades igen!";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Genom att klicka på Fortsätt bekräftar du att en förälder eller vårdnadshavare tillåter att du använder ChatGPT, att du godkänner våra [villkor](https://openai.com/policies/terms-of-use)och att du har läst och förstått vår [integritetspolicy](https://openai.com/policies/privacy-policy).";
+
+"Verify you're human" = "Bekräfta att du är en människa";
+
+"First name" = "Förnamn";
+
+"Code" = "Kod";
+
+"Continue" = "Fortsätt";
+
+"Open Mail App" = "Öppna e-postapp";
+
+"Verify your email" = "Verifiera din e-postadress";
+
+"Tell us about you." = "Berätta lite om dig själv.";
+
+"Phone number" = "Telefonnummer";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "Den begärda informationen kunde inte hämtas. Kontrollera din internetanslutning och starta om appen. (%@)";
+
+"Resend email" = "Skicka e-postmeddelandet igen";
+
+"Please check your internet connection and retry." = "Kontrollera din internetanslutning och försök igen.";
+
+"Something went wrong. Sign out and try again." = "Något gick fel. Logga ut och försök igen.";
+
+"error" = "fel";
+
+"Select your area code" = "Välj ditt riktnummer";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Genom att klicka på Fortsätt bekräftar du att en förälder eller vårdnadshavare tillåter att du använder ChatGPT, att du godkänner våra [villkor](https://openai.com/policies/terms-of-use)och att du har läst och förstått vår [integritetspolicy](https://openai.com/policies/privacy-policy) samt [tillägget för Korea](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"I've verified my email" = "Jag har verifierat min e-postadress";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "Vi kan inte skapa ditt konto på grund av våra [användarvillkor](https://openai.com/policies/terms-of-use).";
+
+"There was a problem, please try again." = "Ett problem uppstod. Försök igen.";
+
+"Birthday" = "Födelsedag";
+
+"Verify phone number" = "Verifiera telefonnummer";
+
+"You have made too many attempts. Please try again later." = "Du har försökt för många gånger. Försök igen senare.";
+
+"There was a problem verifying your phone number. %@" = "Det uppstod ett problem när ditt telefonnummer skulle verifieras. %@";
+
+"Please solve this puzzle so we know you're a person." = "Lös problemet för att bevisa att du är en människa.";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Genom att klicka på Fortsätt godkänner du våra [villkor](https://openai.com/policies/terms-of-use) och bekräftar att du har läst och förstått vår [integritetspolicy](https://openai.com/policies/privacy-policy).";
+
+"Last name" = "Efternamn";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Genom att klicka på Fortsätt godkänner du våra [villkor](https://openai.com/policies/terms-of-use)och bekräftar att du har läst och förstått vår [integritetspolicy](https://openai.com/policies/privacy-policy) samt [tillägget för Korea](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Det har uppstått ett problem med din internetanslutning. Försök igen. (%lld)";
+

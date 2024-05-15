@@ -1,0 +1,18 @@
+"This content may violate our content policy. Please try again with different content." = "Овај садржај може да прекрши наша правила у вези са садржајем. Покушај поново са другачијим садржајем.";
+
+"System error" = "Системска грешка";
+
+"There is a problem with your account info. Please try signing out then in." = "Постоји проблем са информацијама на твом налогу. Покушај да се одјавиш и поново пријавиш.";
+
+"The response is invalid. Please try again." = "Одговор је неважећи. Покушај поново.";
+
+"There is a problem with your request. (%lld, %@)" = "Постоји проблем са твојим захтевом. (%lld, %@)";
+
+"Unsupported content" = "Неподржан садржај";
+
+"The server is overloaded. Please try again later." = "Сервер је преоптерећен. Покушај поново касније.";
+
+"You've made too many requests. Please try again later. (429, %@)" = "Поставио/ла си превелики број захтева. Покушај поново касније. (429, %@)";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "Дошло је до проблема на серверу. Покушај поново касније. (%lld, %@)";
+

@@ -1,0 +1,170 @@
+"Thank you!" = "Ďakujeme!";
+
+"Choose a voice" = "Vyber hlas";
+
+"Connected" = "Pripojené";
+
+"Select all that apply" = "Vyber všetky relevantné možnosti";
+
+"Tap to send manually" = "Klepnutím odošleš manuálne";
+
+"It misheard me" = "Zle ma to počulo";
+
+"Tap to dismiss" = "Klepnutím skryješ";
+
+"Connect" = "Pripojiť";
+
+"%lld." = "%lld.";
+
+"Click to activate" = "Kliknutím aktivuješ";
+
+"Connecting" = "Pripája sa";
+
+"Click to interrupt" = "Kliknutím prerušíš";
+
+"Close" = "Zatvoriť";
+
+"Paused" = "Pozastavené";
+
+"What went wrong?" = "Kde nastala chyba?";
+
+"Learn more" = "Ďalšie informácie";
+
+"Poor connection" = "Slabé pripojenie";
+
+"Unselect %@" = "Zrušiť výber %@";
+
+"Start speaking" = "Začni rozprávať";
+
+"Tap to activate" = "Klepnutím aktivuješ";
+
+"Restart" = "Reštartovať";
+
+"I didn’t like the responses" = "Odpovede sa mi nepáčili";
+
+"Excellent" = "Vynikajúce";
+
+"Flip camera to the front" = "Prepnúť na predný fotoaparát";
+
+"Voice chat ended" = "Hlasový čet sa skončil";
+
+"Connection failed, click to retry" = "Pripojenie zlyhalo, skús to znova kliknutím.";
+
+"Open camera" = "Otvoriť fotoaparát";
+
+"Halted" = "Zastavené";
+
+"Tap to cancel" = "Klepnutím ukončíš";
+
+"Connection failed, tap to retry" = "Pripojenie zlyhalo, skús to znova klepnutím.";
+
+"Click to send manually" = "Kliknutím odošleš manuálne";
+
+"Pick photo" = "Vybrať fotografiu";
+
+"Resume listening" = "Pokračovať v počúvaní";
+
+"Unknown error" = "Neznáma chyba";
+
+"Error: '%@'" = "Chyba: %@";
+
+"On for training" = "Zapnuté pre trénovanie";
+
+"Select %@" = "Vybrať %@";
+
+"Grace Period for %@s" = "Obdobie odkladu %@ s";
+
+"Speak to keep active" = "Ak chceš zachovať aktívnosť, začni rozprávať.";
+
+"Voice chat ended after " = "Hlasový čet sa skončil po ";
+
+"Close camera" = "Zatvoriť fotoaparát";
+
+"Listening" = "Počúvam";
+
+"See more information about voice research" = "Zobraziť ďalšie informácie o výskume hlasu";
+
+"Tap to interrupt" = "Klepnutím prerušíš";
+
+"Audio issues" = "Problémy so zvukom";
+
+"Idle" = "Nečinné";
+
+"Take picture" = "Odfotiť";
+
+"Flip camera to the rear" = "Prepnúť na zadný fotoaparát";
+
+"Lost" = "Prerušené";
+
+"Poor" = "Slabé";
+
+"Enable microphone access in Settings" = "Povoliť prístup k mikrofónu v nastaveniach";
+
+"Voice feedback: give thumbs up" = "Pripomienky k hlasu: dať palec hore";
+
+"It interrupted me" = "Prerušilo ma to";
+
+"Unable to review action" = "Nemožno skontrolovať akciu";
+
+"Release to send" = "Údaje sa odošlú po pustení";
+
+"Click to connect" = "Kliknutím sa pripojíš";
+
+"Go backward 15 seconds" = "Prejsť o 15 sekúnd dozadu";
+
+"%lldms" = "%lld ms";
+
+"Play" = "Prehrať";
+
+"Save to Photos" = "Uložiť do Fotografií";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "Je vybraté zdieľanie tvojho zvuku z hlasových četov na zlepšovanie a trénovanie našich modelov. To zahŕňa zvuk z tvojho mikrofónu v čase, keď model rozmýšľa alebo rozpráva. Zdieľanie môžeš zastaviť v nastaveniach.";
+
+"Unable to send response. Please try again." = "Nemožno odoslať odpoveď. Skús to znova.";
+
+"Speak now" = "Teraz začni rozprávať.";
+
+"Go forward 15 seconds" = "Prejsť o 15 sekúnd dopredu";
+
+"Unknown" = "Neznáme";
+
+"Hold for manual control" = "Podrž na manuálne ovládanie";
+
+"Listening intently" = "Pozorne počúvam";
+
+"Stop listening" = "Zastaviť počúvanie";
+
+"Pause" = "Pozastaviť";
+
+"Thinking" = "Rozmýšľam";
+
+"Helping improve voice" = "Pomoc so zlepšovaním hlasových funkcií";
+
+"Good" = "Dobré";
+
+"Submit feedback" = "Odoslať pripomienky";
+
+"Click to cancel" = "Kliknutím ukončíš";
+
+"Connecting." = "Pripája sa.";
+
+"•" = "•";
+
+"Finish speaking to send" = "Údaje sa odošlú, keď dohovoríš.";
+
+"Voice mode" = "Hlasový režim";
+
+"You can change this later." = "Výber môžeš zmeniť neskôr.";
+
+"Speaking" = "Rozpráva";
+
+"Failed to connect" = "Nepodarilo sa pripojiť.";
+
+"Other" = "Iné";
+
+"Connecting.." = "Pripája sa...";
+
+"Voice feedback: give thumbs down" = "Pripomienky k hlasu: dať palec dole";
+
+"Tap to connect" = "Klepnutím sa pripojíš";
+

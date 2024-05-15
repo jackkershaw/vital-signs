@@ -1,0 +1,26 @@
+"Shared conversation is invalid." = "Samnýtt samtal er ógilt.";
+
+"Report" = "Tilkynna";
+
+"Shared Link Date" = "Dagsetning tengils sem var deilt";
+
+"This conversation may reflect the link creator’s custom instructions, which aren’t shared and can meaningfully change how the model responds." = "Þetta samtal gæti endurspeglað sérsniðnar leiðbeiningar höfundar tengilsins, sem ekki er deilt og geta breytt því hvernig líkanið svarar.";
+
+"Shared Link Owner" = "Eigandi tengils sem var deilt";
+
+"The shared conversation does not exist." = "Samnýtt samtal er ekki til.";
+
+"Failed to determine model." = "Ekki tókst að ákvarða líkan.";
+
+"Failed to load shared conversation." = "Ekki tókst að hlaða samtali sem var deilt.";
+
+"Shared Link Title" = "Titill tengils sem var deilt";
+
+"Help and FAQ" = "Hjálp og algengar spurningar";
+
+"Shared conversation" = "Samtali deilt";
+
+"Continue" = "Halda áfram";
+
+"Menu" = "Valmynd";
+

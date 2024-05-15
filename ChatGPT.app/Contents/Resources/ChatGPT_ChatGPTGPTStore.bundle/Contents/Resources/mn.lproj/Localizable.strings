@@ -1,0 +1,114 @@
+"Failed to remove recent GPT, retry?" = "Саяхны GPT устгалт амжилтгүй. Дахин оролдох уу?";
+
+"Are you sure you want to remove this GPT from your recents?" = "Та энэ GPT-г саяхны жагсаалтаас устгахдаа итгэлтэй байна уу?";
+
+"Okay" = "Окей";
+
+"Get Plus to Chat" = "Чатлахын тулд Plus багц ав";
+
+"No Results Found" = "Үр дүн олдсонгүй";
+
+"%@ chats" = "%@ чат";
+
+"Include my email **%@**" = "Миний **%@** э-мэйл хаягийг оруул";
+
+"Searching…" = "Хайж байна…";
+
+"Share" = "Хуваалцах";
+
+"Report" = "Мэдээлэх";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "^[%lld од](inflect: true), %@ үнэлгээ";
+
+"Capabilities" = "Функцүүд";
+
+"Editing and creating a GPT is only available on web for now." = "GPT засах, үүсгэх үйлдлийг одоогоор зөвхөн вэбээр хийх боломжтой.";
+
+"Feedback" = "Feedback";
+
+"How would you rate this GPT?" = "Та уг GPT-г хэрхэн үнэлэх вэ?";
+
+"Failed to delete GPT, retry?" = "GPT устгалт амжилтгүй. Дахин оролдох уу?";
+
+"Remove" = "Арилгах";
+
+"Search Public GPTs" = "Нийтийн GPT хайх";
+
+"Visibility" = "Харагдах байдал";
+
+"Include my email" = "Миний э-мэйл хаягийг оруул";
+
+"Tap a star" = "Од дээр дарна уу";
+
+"Exceptional!" = "Онцгой!";
+
+"Start Chat" = "Чат эхлүүлэх";
+
+"Loading more" = "Бусдыг нь ачаалж байна";
+
+"No Recents" = "Саяхных алга";
+
+"Top Suggestions" = "Шилдэг зөвлөмжүүд";
+
+"Remove GPT" = "GPT арилгах";
+
+"Anyone with a link" = "Холбоостой хүн бүр";
+
+"By %@" = "%@-ээр";
+
+"Optional private note for creator…" = "Бүтээгчийн нэмэлт хувийн тэмдэглэл…";
+
+"See more" = "Дэлгэрүүлж харах";
+
+"Editing Not Available" = "Засах боломжгүй";
+
+"Recently Used" = "Саяхан ашигласан";
+
+"Options" = "Сонголтууд";
+
+"Thank you for your feedback!" = "Санал хүсэлт өгсөнд баярлалаа!";
+
+"Great" = "Гайхалтай";
+
+"Bad" = "Муу";
+
+"Good" = "Сайн";
+
+"Top Picks" = "Шилдэг сонголтууд";
+
+"Explore" = "Судлах";
+
+"Edit" = "Засах";
+
+"Unable to load, retry?" = "Ачаалж чадсангүй. Дахин оролдох уу?";
+
+"Chats: %@" = "Чат: %@";
+
+"My GPTs" = "Миний GPT";
+
+"How would you rate **%@**?" = "Та **%@**-г хэрхэн үнэлэх вэ?";
+
+"Untitled" = "Нэргүй";
+
+"Add a note" = "Тэмдэглэл нэмэх";
+
+"Anyone at %@" = "%@-д байгаа хүн бүр";
+
+"Are you sure you want to delete this GPT?" = "Уг GPT-г устгахдаа итгэлтэй байна уу?";
+
+"By community builder" = "Хамт олон бүтээгчээр";
+
+"Public" = "Нийтийн";
+
+"Start chat" = "Чат эхлүүлэх";
+
+"Star rating" = "Од үнэлгээ";
+
+"%@ rating" = "%@ үнэлгээ";
+
+"Conversation starters" = "Яриа эхлүүлэгч";
+
+"Only me" = "Зөвхөн би";
+
+"in **%@**" = "**%@**-д";
+

@@ -1,0 +1,114 @@
+"Searching…" = "Αναζήτηση…";
+
+"%@ rating" = "%@ αξιολόγηση";
+
+"Explore" = "Εξερεύνηση";
+
+"Include my email **%@**" = "Να συμπεριληφθεί το email μου **%@**";
+
+"Anyone at %@" = "Οποιοδήποτε άτομο στο %@";
+
+"Public" = "Δημόσια";
+
+"Top Suggestions" = "Κορυφαίες προτάσεις";
+
+"Great" = "Πολύ καλό";
+
+"Visibility" = "Ορατότητα";
+
+"No Results Found" = "Δεν βρέθηκαν αποτελέσματα";
+
+"Top Picks" = "Κορυφαίες επιλογές";
+
+"Report" = "Αναφορά";
+
+"Share" = "Κοινοποίηση";
+
+"Start Chat" = "Έναρξη συνομιλίας";
+
+"Get Plus to Chat" = "Απόκτησε το Plus για να συνομιλήσεις";
+
+"Okay" = "Καλούτσικο";
+
+"Failed to remove recent GPT, retry?" = "Αποτυχία κατάργησης του πρόσφατου GPT, επανάληψη;";
+
+"See more" = "Δες περισσότερα";
+
+"Untitled" = "Χωρίς τίτλο";
+
+"Edit" = "Επεξεργασία";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "^[%lld αστέρια](inflect: true), %@ από αξιολογήσεις";
+
+"Optional private note for creator…" = "Προαιρετική ιδιωτική σημείωση για τον δημιουργό…";
+
+"Remove GPT" = "Κατάργηση GPT";
+
+"Tap a star" = "Πάτα σε ένα αστέρι";
+
+"Chats: %@" = "Συνομιλίες: %@";
+
+"Loading more" = "Φόρτωση περισσότερων";
+
+"Add a note" = "Προσθήκη σημείωσης";
+
+"Thank you for your feedback!" = "Σε ευχαριστούμε για τα σχόλιά σου!";
+
+"Anyone with a link" = "Οποιοδήποτε άτομο διαθέτει έναν σύνδεσμο";
+
+"Include my email" = "Να συμπεριληφθεί το email μου";
+
+"Capabilities" = "Δυνατότητες";
+
+"Options" = "Επιλογές";
+
+"Recently Used" = "Χρησιμοποιήθηκαν πρόσφατα";
+
+"My GPTs" = "Τα GPT μου";
+
+"How would you rate **%@**?" = "Πώς θα αξιολογούσες το **%@**;";
+
+"Unable to load, retry?" = "Αδυναμία φόρτωσης, επανάληψη;";
+
+"No Recents" = "Δεν υπάρχουν πρόσφατα";
+
+"Remove" = "Κατάργηση";
+
+"By community builder" = "Από τον κατασκευαστή κοινότητας";
+
+"Are you sure you want to delete this GPT?" = "Θέλεις σίγουρα να διαγράψεις αυτό το GPT;";
+
+"Editing and creating a GPT is only available on web for now." = "Η επεξεργασία και η δημιουργία ενός GPT είναι διαθέσιμη μόνο στο διαδίκτυο προς το παρόν.";
+
+"Conversation starters" = "Εκκινητές συζητήσεων";
+
+"Good" = "Καλό";
+
+"Start chat" = "Έναρξη συνομιλίας";
+
+"Failed to delete GPT, retry?" = "Αποτυχία διαγραφής του GPT, επανάληψη;";
+
+"%@ chats" = "%@ συνομιλίες";
+
+"Feedback" = "Σχόλια";
+
+"Bad" = "Κακό";
+
+"Exceptional!" = "Εξαιρετικό!";
+
+"By %@" = "Δημιουργός: %@";
+
+"Search Public GPTs" = "Αναζήτηση δημόσιων GPT";
+
+"Only me" = "Μόνο εγώ";
+
+"Editing Not Available" = "Επεξεργασία μη διαθέσιμη";
+
+"How would you rate this GPT?" = "Πώς θα αξιολογούσες αυτό το GPT;";
+
+"Star rating" = "Αξιολόγηση με αστέρια";
+
+"Are you sure you want to remove this GPT from your recents?" = "Θέλεις σίγουρα να καταργήσεις αυτό το GPT από τα πρόσφατα;";
+
+"in **%@**" = "σε **%@**";
+

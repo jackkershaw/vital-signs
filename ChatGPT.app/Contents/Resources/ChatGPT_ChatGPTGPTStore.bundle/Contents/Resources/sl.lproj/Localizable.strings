@@ -1,0 +1,114 @@
+"^[%lld stars](inflect: true), %@ of ratings" = "^[%lld zvezdice](inflect: true), %@ od ocen";
+
+"Share" = "Deli";
+
+"Optional private note for creator…" = "Izbirna osebna opomba za ustvarjalca ...";
+
+"Are you sure you want to delete this GPT?" = "Ali ste prepričani, da želite izbrisati ta GPT?";
+
+"Great" = "Odlično";
+
+"Unable to load, retry?" = "Nalaganje ni mogoče. Želite poskusiti znova?";
+
+"Explore" = "Razišči";
+
+"Include my email" = "Vključi moj e-poštni naslov";
+
+"%@ chats" = "Toliko klepetov: %@";
+
+"Good" = "Dobro";
+
+"Public" = "Javno";
+
+"Options" = "Možnosti";
+
+"How would you rate **%@**?" = "Kako bi ocenili **%@**?";
+
+"Remove" = "Odstrani";
+
+"Editing Not Available" = "Urejanje ni na voljo";
+
+"Top Picks" = "Najboljši izbori";
+
+"By community builder" = "Avtor je graditelj skupnosti";
+
+"Are you sure you want to remove this GPT from your recents?" = "Ali ste prepričani, da želite odstraniti ta GPT iz vaših nedavnih?";
+
+"Bad" = "Slabo";
+
+"Report" = "Prijava";
+
+"Search Public GPTs" = "Iskanje po javnih GPT-jih";
+
+"Top Suggestions" = "Najboljši predlogi";
+
+"Feedback" = "Povratne informacije";
+
+"My GPTs" = "Moji GPT-ji";
+
+"Okay" = "V redu";
+
+"Edit" = "Uredi";
+
+"Conversation starters" = "Začetki pogovorov";
+
+"Searching…" = "Iskanje ...";
+
+"Recently Used" = "Nedavno uporabljeni";
+
+"No Results Found" = "Ni rezultatov";
+
+"Start Chat" = "Začni klepet";
+
+"Failed to delete GPT, retry?" = "Neuspešen izbris GPT-ja. Želite poskusiti znova?";
+
+"Star rating" = "Ocena z zvezdicami";
+
+"How would you rate this GPT?" = "Kako bi ocenili ta GPT?";
+
+"Editing and creating a GPT is only available on web for now." = "Urejanje in ustvarjanje GPT-ja je za zdaj na voljo le na spletu.";
+
+"See more" = "Več";
+
+"Untitled" = "Brez naslova";
+
+"Loading more" = "Nalaganje dodatne vsebine";
+
+"Only me" = "Le jaz";
+
+"Thank you for your feedback!" = "Hvala za povratne informacije!";
+
+"Anyone with a link" = "Kdor koli s povezavo";
+
+"Add a note" = "Dodajte opombo";
+
+"Include my email **%@**" = "Vključi moj e-poštni naslov **%@**";
+
+"Remove GPT" = "Odstrani GPT";
+
+"Chats: %@" = "Klepeti: %@";
+
+"Get Plus to Chat" = "Pridobite Plus za klepet";
+
+"Visibility" = "Vidnost";
+
+"No Recents" = "Ni nedavnih";
+
+"Tap a star" = "Tapnite zvezdico";
+
+"%@ rating" = "Ocena %@";
+
+"Failed to remove recent GPT, retry?" = "Neuspešna odstranitev nedavnega GPT-ja. Želite poskusiti znova?";
+
+"in **%@**" = "v **%@**";
+
+"Exceptional!" = "Izjemno!";
+
+"Anyone at %@" = "Vsak, ki %@";
+
+"Capabilities" = "Sposobnosti";
+
+"Start chat" = "Začni klepet";
+
+"By %@" = "Od %@";
+

@@ -1,0 +1,70 @@
+"Let’s collaborate" = "Nu samarbetar vi";
+
+"Request cancelled." = "Begäran har avbrutits.";
+
+"Something went wrong." = "Något gick fel.";
+
+"Unknown error." = "Okänt fel.";
+
+"PKCE not allowed." = "PKCE tillåts ej.";
+
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "Något gick fel. Kontrollera att din enhets datum- och tidsinställningar är korrekta och att Ange automatiskt (Set Automatically) är aktiverat under Inställningar → Allmänt → Datum och tid (Settings → General → Date & Time).";
+
+"Let’s invent" = "Nu uppfinner vi";
+
+"Sign in request was cancelled." = "Inloggningsförfrågan har avbrutits.";
+
+"Renew failed." = "Det gick inte att förnya.";
+
+"Terms of Use" = "Användarvillkor";
+
+"No refresh token found." = "Ingen uppdateringstoken hittades.";
+
+"There was a problem. Please restart the app." = "Ett problem uppstod. Starta om appen.";
+
+"Let’s design" = "Nu designar vi";
+
+"Let’s brainstorm" = "Nu brainstormar vi";
+
+"Continue with Google" = "Fortsätt med Google";
+
+"Let’s go" = "Nu kör vi";
+
+"Store failed." = "Lagringen misslyckades.";
+
+"No authorization code found." = "Ingen auktoriseringskod hittades.";
+
+"Invalid invite url." = "Ogiltig inbjudnings-URL.";
+
+"Sign in failed" = "Inloggningen misslyckades";
+
+"Let’s chit-chat" = "Nu småpratar vi";
+
+"There was a problem saving sign in info. Please try again." = "Det uppstod ett fel när inloggningsinformationen skulle sparas. Försök igen.";
+
+"Missing bundle id." = "Paket-ID saknas.";
+
+"No sign in info found. Please sign in." = "Ingen inloggningsinformation hittades. Logga in.";
+
+"There is a problem with the server. Please try again later." = "Servern har stött på ett problem. Försök igen senare.";
+
+"Sign up with email" = "Registrera dig med din e-postadress";
+
+"Let’s explore" = "Nu utforskar vi";
+
+"There was a problem clearing sign in info. Please try again." = "Det uppstod ett fel när inloggningsinformationen skulle rensas. Försök igen.";
+
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "Det gick inte att kontakta Apples servrar. Försök igen. (%lld)";
+
+"Let’s discover" = "Nu upptäcker vi";
+
+"Let’s create" = "Nu skapar vi";
+
+"Revoke failed." = "Återkallandet misslyckades.";
+
+"Unknown other error." = "Annat okänt fel.";
+
+"Failed to validate id token." = "ID-token kunde inte valideras.";
+
+"Privacy Policy" = "Integritetspolicy";
+

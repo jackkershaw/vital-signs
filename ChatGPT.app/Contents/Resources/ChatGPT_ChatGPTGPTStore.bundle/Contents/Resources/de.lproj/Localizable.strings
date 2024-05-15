@@ -1,0 +1,114 @@
+"%@ chats" = "%@ Chats";
+
+"Loading more" = "Weitere laden";
+
+"How would you rate **%@**?" = "Wie würdest du **%@** bewerten?";
+
+"Share" = "Weitergeben";
+
+"Public" = "Öffentlich";
+
+"Optional private note for creator…" = "Optionale private Nachricht an den Ersteller...";
+
+"in **%@**" = "in **%@**";
+
+"Okay" = "Okay";
+
+"Are you sure you want to delete this GPT?" = "Möchtest du dieses GPT wirklich löschen?";
+
+"Editing and creating a GPT is only available on web for now." = "Das Bearbeiten und Erstellen von GPTs ist derzeit nur online möglich.";
+
+"Remove GPT" = "GPT entfernen";
+
+"Search Public GPTs" = "In öffentlichen GPTs suchen";
+
+"Feedback" = "Feedback";
+
+"Start chat" = "Chat beginnen";
+
+"By community builder" = "Von Community Builder";
+
+"Exceptional!" = "Hervorragend!";
+
+"Star rating" = "Sternebewertung";
+
+"Top Picks" = "Highlights";
+
+"Only me" = "Nur ich";
+
+"Are you sure you want to remove this GPT from your recents?" = "Möchtest du dieses GPT wirklich aus deinem jüngsten Verlauf entfernen?";
+
+"Editing Not Available" = "Bearbeiten nicht verfügbar";
+
+"Anyone with a link" = "Jeder mit Link";
+
+"Searching…" = "Suchen...";
+
+"Edit" = "Bearbeiten";
+
+"Chats: %@" = "Chats: %@";
+
+"Great" = "Großartig";
+
+"Visibility" = "Sichtbarkeit";
+
+"Add a note" = "Füge eine Anmerkung hinzu";
+
+"Top Suggestions" = "Beste Vorschläge";
+
+"Failed to delete GPT, retry?" = "GPT konnte nicht gelöscht werden. Erneut versuchen?";
+
+"Include my email" = "Meine E-Mail berücksichtigen";
+
+"%@ rating" = "%@ Bewertung";
+
+"Failed to remove recent GPT, retry?" = "Neues GPT konnte nicht entfernt werden. Erneut versuchen?";
+
+"Capabilities" = "Funktionen";
+
+"See more" = "Weitere anzeigen";
+
+"Conversation starters" = "Gesprächsaufhänger";
+
+"Start Chat" = "Chat beginnen";
+
+"Recently Used" = "Kürzlich verwendet";
+
+"Explore" = "Erkunden";
+
+"No Recents" = "Keine neueren";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "^[%lld Sterne ](inflect: true), %@ von Bewertungen";
+
+"Good" = "Gut";
+
+"Bad" = "Schlecht";
+
+"Include my email **%@**" = "Meine E-Mail **%@** berücksichtigen";
+
+"How would you rate this GPT?" = "Wie würdest du dieses GPT bewerten?";
+
+"Remove" = "Entfernen";
+
+"By %@" = "Von %@";
+
+"Get Plus to Chat" = "Plus holen und chatten";
+
+"Unable to load, retry?" = "Konnte nicht geladen werden. Erneut versuchen?";
+
+"My GPTs" = "Meine GPTs";
+
+"Untitled" = "Unbenannt";
+
+"Thank you for your feedback!" = "Vielen Dank für dein Feedback!";
+
+"Anyone at %@" = "Jeder bei %@";
+
+"Report" = "Melden";
+
+"No Results Found" = "Keine Ergebnisse gefunden";
+
+"Tap a star" = "Tippe einen Stern an";
+
+"Options" = "Optionen";
+

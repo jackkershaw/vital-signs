@@ -1,0 +1,94 @@
+"Enter the code we just sent to your number ending in **%@" = "**%@-এ শেষ হওয়া আপনার নম্বরে আমরা এইমাত্র যে কোডটি পাঠিয়েছি তা লিখুন";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "\"চালিয়ে যান\" -এ ক্লিক করে, আপনি নিশ্চিত করছেন যে ChatGPT ব্যবহার করার জন্য আপনার পিতামাতার বা অভিভাবকের সম্মতি আছে, আমাদের [শর্তাবলী](https://openai.com/policies/terms-of-use)-এ সম্মত হন এবং আমাদের [গোপনীয়তা নীতি](https://openai.com/policies/privacy-policy) স্বীকার করেন।";
+
+"There was a problem verifying the code. %@" = "কোডটি যাচাই করার সময় একটি সমস্যা হয়েছিল। %@";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "প্রয়োজনীয় তথ্য আনা যায়নি। অনুগ্রহ করে আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন এবং অ্যাপ পুনরায় চালু করুন। (%@)";
+
+"Last name" = "পদবি";
+
+"You have made too many attempts. Please try again later." = "আপনি অনেক চেষ্টা করেছেন। অনুগ্রহ করে পরে আবার চেষ্টা করুন।";
+
+"Birthday" = "জন্মদিন";
+
+"First name" = "নামের প্রথমাংশ";
+
+"Something went wrong. Please try again." = "কিছু একটা সমস্যা হয়েছে। অনুগ্রহ করে আবার চেষ্টা করুন।";
+
+"Something went wrong. Sign out and try again." = "কিছু একটা সমস্যা হয়েছে। সাইন আউট করুন এবং আবার চেষ্টা করুন।";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "সাহায্যের জন্য, অনুগ্রহ করে [ফোন যাচাইকরণ নির্দেশিকা](https://help.openai.com/articles/6613520-phone-verification)দেখুন।";
+
+"Open Mail App" = "মেল করার অ্যাপ খুলুন";
+
+"I've verified my email" = "আমি আমার ইমেইল যাচাই করেছি";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "\"চালিয়ে যান\" -এ ক্লিক করে, আপনি আমাদের [শর্তাবলী](https://openai.com/policies/terms-of-use)-এ সম্মত হন এবং আমাদের [গোপনীয়তা নীতি](https://openai.com/policies/privacy-policy) স্বীকার করেন।";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "আমরা %@-এ একটি ইমেইল পাঠিয়েছি।\nশুরু করতে ভিতরের লিঙ্কে ক্লিক করুন।";
+
+"Failed to load required information." = "প্রয়োজনীয় তথ্য লোড করতে ব্যর্থ হয়েছে।";
+
+"Tell us about you." = "আপনার সম্পর্কে আমাদের বলুন।";
+
+"Verify your email" = "আপনার ইমেইল যাচাই করুন";
+
+"Verify you're human" = "আপনি মানুষ কিনা তা যাচাই করুন";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "দেশগুলো আনা যায়নি। অনুগ্রহ করে আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন এবং অ্যাপ পুনরায় চালু করুন। %@";
+
+"There was a problem verifying your phone number. %@" = "আপনার ফোন নম্বর যাচাই করতে একটি সমস্যা হয়েছে। %@";
+
+"Your email is not yet verified. Please check your email inbox." = "আপনার ইমেইল এখনও যাচাই করা হয়নি। অনুগ্রহ করে আপনার ইমেল ইনবক্স চেক করুন।";
+
+"Select your area code" = "আপনার এলাকার কোড নির্বাচন করুন";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "\"চালিয়ে যান\"-এ ক্লিক করে, আপনি নিশ্চিত করছেন যে ChatGPT ব্যবহার করার জন্য আপনার পিতামাতার বা অভিভাবকের সম্মতি আছে, আমাদের [শর্তাবলী](https://openai.com/policies/terms-of-use) -এর সাথে সম্মত হন এবং আমাদের [গোপনীয়তা নীতি](https://openai.com/policies/privacy-policy) এবং এর [কোরিয়া সংযোজন](https://openai.com/policies/kr-privacy-policy-addendum) স্বীকার করেন।";
+
+"Sorry, we aren't able to create your account" = "দুঃখিত, আমরা আপনার অ্যাকাউন্ট তৈরি করতে পারছি না";
+
+"Resend email" = "ইমেইল পুনরায় পাঠান";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "কিছু একটা সমস্যা হয়েছে। অ্যাকাউন্টটি ইতিমধ্যে তৈরি করা হয়েছে কিন্তু রিফ্রেশ করা যায়নি । অনুগ্রহ করে সাইন আউট করুন এবং আবার সাইন ইন করুন।";
+
+"There was a problem, please try again." = "একটি সমস্যা হয়েছে, অনুগ্রহ করে আবার চেষ্টা করুন।";
+
+"Email resent!" = "ইমেইল পুনরায় পাঠানো হয়েছে!";
+
+"Phone number" = "ফোন নম্বর";
+
+"Code" = "কোড";
+
+"There was a problem, please try again. (%@)" = "একটি সমস্যা হয়েছে, অনুগ্রহ করে আবার চেষ্টা করুন। (%@)";
+
+"Resend code" = "কোডটি আবার পাঠান";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "কিছু একটা সমস্যা হয়েছে। অনুগ্রহ করে অ্যাপ আবার চালু করুন বা সাইন আউট করুন এবং আবার চেষ্টা করুন।";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "আমাদের আমরা আপনার অ্যাকাউন্ট তৈরি করতে পারছি না কারণ [ব্যবহারের শর্তাবলী](https://openai.com/policies/terms-of-use) -এর কারণে";
+
+"Select your Birthday" = "আপনার জন্মদিন নির্বাচন করুন";
+
+"Your account could not be created. Please try again. %@" = "আপনার অ্যাকাউন্ট তৈরি করা যায়নি। অনুগ্রহ করে আবার চেষ্টা করুন।%@";
+
+"Please provide a phone number for verification." = "যাচাই করণের জন্য অনুগ্রহ করে একটি ফোন নম্বর দিন।";
+
+"Please choose a valid date for your birthday." = "অনুগ্রহ করে আপনার জন্মদিনের জন্য একটি বৈধ তারিখ নির্বাচন করুন।";
+
+"Area code" = "এলাকার কোড";
+
+"Please solve this puzzle so we know you're a person." = "অনুগ্রহ করে এই ধাঁধার সমাধান করুন যাতে আমরা জানি যে আপনি একজন ব্যক্তি।";
+
+"Finish creating your OpenAI account" = "আপনার OpenAI অ্যাকাউন্ট তৈরি করা শেষ করুন";
+
+"Continue" = "চালিয়ে যান";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "আপনার ইন্টারনেট সংযোগে একটি সমস্যা হয়েছে । অনুগ্রহ করে আবার চেষ্টা করুন । (%lld)";
+
+"Verify phone number" = "ফোন নম্বর যাচাই করুন";
+
+"error" = "ত্রুটি";
+
+"Please check your internet connection and retry." = "অনুগ্রহ করে আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন এবং আবার চেষ্টা করুন।";
+

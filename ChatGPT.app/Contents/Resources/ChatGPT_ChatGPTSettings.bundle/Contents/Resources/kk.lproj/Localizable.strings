@@ -1,0 +1,182 @@
+"On" = "Қосу";
+
+"Speech" = "Сөйлеу";
+
+"Terms of Use" = "Пайдалану шарттары";
+
+"We were unable to process your export at this time. Please try again later." = "Осы жолы экспортыңызды өңдеу мүмкін болмады. Кейінірек қайталап көріңіз.";
+
+"Help Center" = "Анықтама орталығы";
+
+"Workspace" = "Жұмыс кеңістігі";
+
+"Haptic Feedback" = "Жанасулық кері байланыс";
+
+"None" = "Ешқайсысы";
+
+"Today" = "Бүгін";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Үлгілерімізді жақсарту және үйрету үшін болашақ дауыстық чаттардағы аудионы бөлісіңіз. Бұл барлығы үшін дауыстық чаттар сапасын жақсартады. [Көбірек білу](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Unarchive" = "Мұрағаттан шығару";
+
+"Could not unarchive conversation. Please try again later." = "Әңгімені мұрағаттан шығару мүмкін болмады. Кейінірек қайталап көріңіз.";
+
+"Desktop Launcher" = "Компьютерге арналған іске қосқыш";
+
+"Chat history" = "Чат тарихы";
+
+"This workspace is private and opted out of training." = "Бұл — жеке жұмыс кеңістігі және ол үйретуге қатыспайды.";
+
+"Manage Subscriptions" = "Жазылымдарды басқару";
+
+"Restore purchases" = "Сатып алынғандарды қалпына келтіру";
+
+"Conversation not found" = "Әңгіме табылмады";
+
+"ChatGPT Enterprise" = "ChatGPT Enterprise";
+
+"Subscription Cancellation" = "Жазылымнан бас тарту";
+
+"Email" = "Электрондық пошта";
+
+"We couldn't load your archived chats" = "Мұрағатталған чаттарыңызды жүктеу мүмкін болмады";
+
+"Error archiving all chats" = "Барлық чатты мұрағаттау қатесі";
+
+"Always show ChatGPT in dock" = "ChatGPT-ді әрқашан док панелінде көрсету";
+
+"All your chats will be archived. This cannot be undone." = "Барлық чатыңыз мұрағатталады. Бұл әрекетті қайтару мүмкін емес.";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Осы құрылғыдағы жаңа чаттарды тарихыңызда сақтаңыз. Сақталмаған чаттар жүйелерімізден 30 күн ішінде жойылады. Бұл параметр құрылғылар арасында синхрондалмайды. [Көбірек білу](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Off" = "Өшіру";
+
+"Privacy Policy" = "Құпиялылық саясаты";
+
+"Error deleting all chats" = "Барлық чатты жою қатесі";
+
+"Upgrade to ChatGPT Plus" = "ChatGPT Plus-ке өту";
+
+"About" = "Ақпарат";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Осы құрылғыдағы жаңа чаттарды тарихыңызда сақтаңыз және олардың үлгілерімізді жақсарту үшін пайдаланылуына рұқсат беріңіз. Сақталмаған чаттар жүйелерімізден 30 күн ішінде жойылады. Бұл параметр құрылғылар арасында синхрондалмайды. [Көбірек білу](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Export Data" = "Деректерді экспорттау";
+
+"ChatGPT Team" = "ChatGPT Team";
+
+"System" = "Жүйе";
+
+"No archived chats" = "Мұрағатталған чаттар жоқ";
+
+"New Features" = "Жаңа функциялар";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "Аккаунтыңыздың мәліметтері және әңгімелер экспортқа қосылады. \n\nДеректер тіркелген электрондық поштаңызға жүктеп алуға болатын файлда жіберіледі.\n\nӨңдеуге біраз уақыт кетуі мүмкін. Ол дайын болғанда, сізге хабарлаймыз.";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "Үздік нәтижелер алу үшін көбіне сөйлейтін тіліңізді таңдаңыз. Ол тізімде жоқ болса, оған автоматты анықтау арқылы қолдау көрсетілуі мүмкін.";
+
+"Subscription" = "Жазылым";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "Аккаунтыңыз біржола жойылады, бұл әрекетті қайтару мүмкін емес. Деректеріңіздің барлығы, соның ішінде профиліңіз, әңгімелеріңіз және API қолданысы өшіріледі.\n\nЖаңа аккаунт үшін бір электрондық поштаны немесе телефон нөмірін қайта пайдалануға болмайды.\n\nChatGPT-ді API-мен пайдаланған болсаңыз, бұл пайдалану мүмкіндігі де жойылады.";
+
+"Customize ChatGPT" = "ChatGPT реттеу";
+
+"Your account has been queued for deletion." = "Аккаунтыңыз жою кезегіне қойылды.";
+
+"Color Scheme" = "Түс схемасы";
+
+"App" = "Қолданба";
+
+"Could not archive all chats" = "Барлық чатты мұрағаттау мүмкін болмады";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Контентіңізді үлгілерімізді үйрету үшін пайдалануға рұқсат беріңіз, сонда ChatGPT сіз және оны пайдаланатын әр адам үшін жақсарады. Құпиялылығыңызды қорғау үшін шаралар қолданамыз. [Көбірек білу](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Keep ChatGPT on top" = "ChatGPT-ді жоғарыда бекіту";
+
+"Main Language" = "Негізгі тіл";
+
+"Archived conversations will be available here" = "Мұрағатталған әңгімелер осында болады";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Осы құрылғыдағы жаңа чаттарды тарихыңызда сақтаңыз және олардың модельдерімізді жақсарту үшін пайдаланылуына рұқсат беріңіз. Сақталмаған чаттар жүйелерімізден 30 күн ішінде жойылады. Бұл параметр құрылғылар арасында синхрондалмайды. [Көбірек білу](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Improve voice for everyone" = "Дауысты барлығы үшін жақсарту";
+
+"Archived Chats" = "Мұрағатталған чаттар";
+
+"ChatGPT for %@" = "%@ жүйесіне арналған ChatGPT";
+
+"Are you sure?" = "Сенімдісіз бе?";
+
+"Manage Memory" = "Жадты басқару";
+
+"ChatGPT Plus" = "ChatGPT Plus";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "Аккаунтыңыз жойылса да, қолданбадағы белсенді жазылымдардан бас тартылмайды. Бұл жазылымдардан Apple ID параметрлерінде бас тартуыңызға болады.";
+
+"Light" = "Жарық";
+
+"Data Controls" = "Деректерді басқару элементтері";
+
+"Could not update the memory setting. Please try again later." = "Жад параметрін жаңарту мүмкін болмады. Кейінірек қайталап көріңіз.";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Контентіңізді модельдерімізді үйрету үшін пайдалануға рұқсат беріңіз, сонда ChatGPT сіз және оны пайдаланатын әр адам үшін жақсарады. Құпиялылығыңызды қорғау үшін шаралар қолданамыз. [Көбірек білу](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"All your chats will be cleared from history. This cannot be undone." = "Барлық чатыңыз тарихтан тазаланады. Бұл әрекетті қайтару мүмкін емес.";
+
+"Error updating setting. Please try again later" = "Параметрді жаңарту қатесі. Кейінірек қайталап көріңіз";
+
+"Delete Account" = "Аккаунтты жою";
+
+"Could not delete conversation. Please try again later." = "Әңгімені жою мүмкін болмады. Кейінірек қайталап көріңіз.";
+
+"Delete All Chats" = "Барлық чатты жою";
+
+"App Language" = "Қолданба тілі";
+
+"Recent login required" = "Жүйеге соңғы рет кіру уақыты қажет";
+
+"Dark" = "Қараңғы";
+
+"Successfully exported data. You should receive an email shortly with your data." = "Деректер экспортталды. Біраздан соң деректеріңіз бар электрондық хат алуыңыз керек.";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "Сіз чат арқылы сөйлескен сайын ChatGPT мәліметтерді және қалауларды жинап, жауаптарын сізге бейімдейді. [Көбірек білу](%@)\n\nChatGPT нені есте сақтайтынын білу немесе оған жаңа нәрсе үйрету үшін онымен чат арқылы сөйлесіңіз:\n\n• «Маған қысқа жауаптар ұнайтынын есіңнен шығарма.»\n• «Мен күшік алдым!»\n• «Мен туралы есіңде не қалды?»\n• «Соңғы жобамда қай жерде тоқтадық?»";
+
+"Email missing!" = "Электрондық пошта жоқ!";
+
+"Keyboard Shortcut" = "Пернетақта таңбашасы";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "Аккаунтты жою кезінде қате шықты. Қайталап көріңіз. Мәселе шешілмесе, help.openai.com бетіне кіріңіз.";
+
+"Chat training" = "Чатты үйрету";
+
+"Chat History & Training" = "Чат тарихы және үйрету";
+
+"Help" = "Анықтама";
+
+"View" = "Көру";
+
+"Archive All Chats" = "Барлық чатты мұрағаттау";
+
+"Memory" = "Жад";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "Соңғы 10 минут ішінде кірсеңіз ғана аккаунтыңызды жоя аласыз. \n\nҚайта кіріңіз, содан кейін жалғастыру үшін осы жерге оралыңыз.";
+
+"Free Plan" = "Тегін жоспар";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "Бұл қолданбада жазылымыңызға өзгертулер енгізе алмайсыз, себебі бұл жазылымды басқа платформада сатып алдыңыз.";
+
+"Manage workspace" = "Жұмыс кеңістігін басқару";
+
+"Could not delete all chats" = "Барлық чатты жою мүмкін болмады";
+
+"Search Archive" = "Мұрағаттан іздеу";
+
+"Confirm Export" = "Экспорттауды растау";
+
+"Voice" = "Дауыс";
+
+"Yesterday" = "Кеше";
+
+"Improve the model for everyone" = "Үлгіні барлығы үшін жақсарту";
+

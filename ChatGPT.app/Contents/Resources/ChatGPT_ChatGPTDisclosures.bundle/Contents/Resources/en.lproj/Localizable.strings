@@ -1,0 +1,222 @@
+/* No comment provided by engineer. */
+"Active for new chats" = "Active for new chats";
+
+/* No comment provided by engineer. */
+"Ask away" = "Ask away";
+
+/* No comment provided by engineer. */
+"Built for business" = "Built for business";
+
+/* No comment provided by engineer. */
+"By default, chats in this workspace are not used to train our AI models." = "By default, chats in this workspace are not used to train our AI models.";
+
+/* No comment provided by engineer. */
+"Chat with images" = "Chat with images";
+
+/* No comment provided by engineer. */
+"Chat with voice" = "Chat with voice";
+
+/* No comment provided by engineer. */
+"Chat without having to look at your screen." = "Chat without having to look at your screen.";
+
+/* No comment provided by engineer. */
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more.";
+
+/* No comment provided by engineer. */
+"ChatGPT can be inaccurate" = "ChatGPT can be inaccurate";
+
+/* No comment provided by engineer. */
+"ChatGPT may provide inaccurate information about people, places, or facts." = "ChatGPT may provide inaccurate information about people, places, or facts.";
+
+/* No comment provided by engineer. */
+"ChatGPT now has memory across chats" = "ChatGPT now has memory across chats";
+
+/* No comment provided by engineer. */
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "ChatGPT will become more helpful as you chat, continually remembering details and preferences.";
+
+/* No comment provided by engineer. */
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses.";
+
+/* No comment provided by engineer. */
+"Chats are saved" = "Chats are saved";
+
+/* No comment provided by engineer. */
+"Chats may be reviewed by our AI trainers to improve our systems." = "Chats may be reviewed by our AI trainers to improve our systems.";
+
+/* No comment provided by engineer. */
+"Check your facts" = "Check your facts";
+
+/* No comment provided by engineer. */
+"Choose a voice" = "Choose a voice";
+
+/* No comment provided by engineer. */
+"Continue" = "Continue";
+
+/* No comment provided by engineer. */
+"Control your chat history" = "Control your chat history";
+
+/* No comment provided by engineer. */
+"Custom Instructions will still be followed if you have them enabled." = "Custom Instructions will still be followed if you have them enabled.";
+
+/* No comment provided by engineer. */
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "Customize your interactions with ChatGPT by providing specific details and guidelines for your chats.";
+
+/* No comment provided by engineer. */
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "Decide whether new chats on this device will appear in your history and be used to improve our systems.";
+
+/* No comment provided by engineer. */
+"Don't Share" = "Don't Share";
+
+/* No comment provided by engineer. */
+"Don’t share sensitive info" = "Don’t share sensitive info";
+
+/* No comment provided by engineer. */
+"Edit the full image" = "Edit the full image";
+
+/* No comment provided by engineer. */
+"Follows custom instructions" = "Follows custom instructions";
+
+/* No comment provided by engineer. */
+"Get Started" = "Get Started";
+
+/* No comment provided by engineer. */
+"Hands-free" = "Hands-free";
+
+/* No comment provided by engineer. */
+"Help improve our models" = "Help improve our models";
+
+/* No comment provided by engineer. */
+"Help improve voice" = "Help improve voice";
+
+/* No comment provided by engineer. */
+"Here you can use our latest models, with more capabilities, and fewer limits." = "Here you can use our latest models, with more capabilities, and fewer limits.";
+
+/* No comment provided by engineer. */
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+/* No comment provided by engineer. */
+"Improve voice chats for everyone" = "Improve voice chats for everyone";
+
+/* No comment provided by engineer. */
+"Introducing\nCustom Instructions" = "Introducing\nCustom Instructions";
+
+/* No comment provided by engineer. */
+"Just start talking" = "Just start talking";
+
+/* No comment provided by engineer. */
+"Keep the conversation going" = "Keep the conversation going";
+
+/* No comment provided by engineer. */
+"Language is auto-detected" = "Language is auto-detected";
+
+/* No comment provided by engineer. */
+"Learn more" = "Learn more";
+
+/* No comment provided by engineer. */
+"Made for use at work" = "Made for use at work";
+
+/* No comment provided by engineer. */
+"Manage what it remembers" = "Manage what it remembers";
+
+/* No comment provided by engineer. */
+"Memory off" = "Memory off";
+
+/* No comment provided by engineer. */
+"More helpful over time" = "More helpful over time";
+
+/* No comment provided by engineer. */
+"No model training" = "No model training";
+
+/* No comment provided by engineer. */
+"Not in history" = "Not in history";
+
+/* No comment provided by engineer. */
+"Now you can have spoken conversations with ChatGPT." = "Now you can have spoken conversations with ChatGPT.";
+
+/* No comment provided by engineer. */
+"Now you can have spoken conversations with GPTs." = "Now you can have spoken conversations with GPTs.";
+
+/* No comment provided by engineer. */
+"Picture perfect" = "Picture perfect";
+
+/* No comment provided by engineer. */
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "Provide context about your industry, role, or specific projects to get better answers tailored to you.";
+
+/* No comment provided by engineer. */
+"Refine DALL·E Images" = "Refine DALL·E Images";
+
+/* No comment provided by engineer. */
+"Select an area of the image to edit" = "Select an area of the image to edit";
+
+/* No comment provided by engineer. */
+"Share" = "Share";
+
+/* No comment provided by engineer. */
+"Share audio from future voice chats to improve and train our models." = "Share audio from future voice chats to improve and train our models.";
+
+/* No comment provided by engineer. */
+"Snap a picture to ask ChatGPT about the world around you." = "Snap a picture to ask ChatGPT about the world around you.";
+
+/* No comment provided by engineer. */
+"Start with a photo" = "Start with a photo";
+
+/* No comment provided by engineer. */
+"Taking steps to protect privacy" = "Taking steps to protect privacy";
+
+/* No comment provided by engineer. */
+"Tap Edit and describe changes in chat." = "Tap Edit and describe changes in chat.";
+
+/* No comment provided by engineer. */
+"Tap Select, highlight the area, and describe changes in chat." = "Tap Select, highlight the area, and describe changes in chat.";
+
+/* No comment provided by engineer. */
+"Temporary Chat" = "Temporary Chat";
+
+/* No comment provided by engineer. */
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days.";
+
+/* No comment provided by engineer. */
+"Temporary Chats won’t be used to improve our models." = "Temporary Chats won’t be used to improve our models.";
+
+/* No comment provided by engineer. */
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI.";
+
+/* No comment provided by engineer. */
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models.";
+
+/* No comment provided by engineer. */
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "Try using photos to fix your bike, create a recipe, or analyze complex graphs.";
+
+/* No comment provided by engineer. */
+"View voice transcriptions in your history. Audio clips aren’t stored." = "View voice transcriptions in your history. Audio clips aren’t stored.";
+
+/* No comment provided by engineer. */
+"Welcome to ChatGPT" = "Welcome to ChatGPT";
+
+/* No comment provided by engineer. */
+"Welcome to the %@ workspace" = "Welcome to the %@ workspace";
+
+/* No comment provided by engineer. */
+"Welcome to your company's workspace" = "Welcome to your company's workspace";
+
+/* No comment provided by engineer. */
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated.";
+
+/* No comment provided by engineer. */
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled.";
+
+/* No comment provided by engineer. */
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice.";
+
+/* No comment provided by engineer. */
+"You can specify a preferred language in Settings for a more accurate detection." = "You can specify a preferred language in Settings for a more accurate detection.";
+
+/* No comment provided by engineer. */
+"You’re in control" = "You’re in control";
+
+/* No comment provided by engineer. */
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings.";
+
+/* No comment provided by engineer. */
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used.";
+

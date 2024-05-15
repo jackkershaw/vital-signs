@@ -1,0 +1,14 @@
+"Error loading account information. Please try again later." = "એકાઉન્ટની માહિતી લોડ કરવામાં એરર. પછીથી ફરી પ્રયત્ન કરો.";
+
+"Check your OpenAI e-mail for an invite titled \"OpenAI has invited you to test ChatGPT\" or contact [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A) to be added." = "\"OpenAI એ તમને ChatGPT ટેસ્ટ કરવા માટે આમંત્રિત કર્યા છે\" શીર્ષકવાળા આમંત્રણ માટે તમારું OpenAI ઈ-મેઈલ તપાસો અથવા ઉમેરવા માટે સંપર્ક [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A) કરો";
+
+"Checking system health…" = "સિસ્ટમ આરોગ્ય તપાસી રહ્યું છે...";
+
+"Loading account…" = "એકાઉન્ટ લોડ કરી રહ્યું છે...";
+
+"Download the beta build or contact [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W) if you're having issues." = "બીટા બિલ્ડ ડાઉનલોડ કરો અથવા જો તમને સમસ્યા આવી રહી હોય તો [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W) સંપર્ક કરો. ";
+
+"  %@\n\n  OpenAI employees are required to use internal builds to access ChatGPT.\n" = "%@ OpenAI કર્મચારીઓએ ChatGPT ઍક્સેસ કરવા માટે આંતરિક બિલ્ડ્સનો ઉપયોગ કરવો જરૂરી છે.";
+
+"  %@\n\n  OpenAI employees are required to use internal builds to access ChatGPT.\n" = " %@ \n\n  OpenAI કર્મચારીઓએ ChatGPT ઍક્સેસ કરવા માટે આંતરિક બિલ્ડ્સનો ઉપયોગ કરવો જરૂરી છે.";
+

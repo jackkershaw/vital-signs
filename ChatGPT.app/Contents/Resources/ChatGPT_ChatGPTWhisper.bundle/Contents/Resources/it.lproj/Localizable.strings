@@ -1,0 +1,34 @@
+"There was a problem with the recording." = "Si è verificato un problema con la registrazione.";
+
+"The recording could not be processed. Please check your internet connection. (%lld)" = "Impossibile elaborare la registrazione. Controlla la tua connessione a internet. (%lld)";
+
+"Tap to stop recording" = "Tocca per interrompere la registrazione";
+
+"The recording was cancelled." = "Registrazione annullata.";
+
+"Converting to text…" = "Conversione in testo in corso...";
+
+"Recordings must be longer than 1s." = "Le registrazioni devono durare più di 1 secondo.";
+
+"There was an unexpected error. %@" = "Si è verificato un errore imprevisto: %@";
+
+"Click to stop recording" = "Clicca per interrompere la registrazione";
+
+"Retry transcription" = "Ritenta trascrizione";
+
+"Tap to record" = "Tocca per registrare";
+
+"Click to record" = "Clicca per registrare";
+
+"There was a problem starting the recording." = "Si è verificato un problema durante l'avvio della registrazione.";
+
+"To use Whisper, you need to allow ChatGPT to use your microphone." = "Per usare Whisper, devi permettere a ChatGPT di utilizzare il tuo microfono.";
+
+"An internet connection is required" = "È necessaria una connessione a internet";
+
+"Start new recording" = "Avvia nuova registrazione";
+
+"Auto-Detect" = "Rilevamento automatico";
+
+"Open Settings" = "Apri impostazioni";
+

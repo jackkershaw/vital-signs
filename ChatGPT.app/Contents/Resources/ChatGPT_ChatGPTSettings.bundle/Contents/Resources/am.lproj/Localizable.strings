@@ -1,0 +1,182 @@
+"Terms of Use" = "የአጠቃቀም ደንቦች";
+
+"Yesterday" = "ትናንት";
+
+"Manage Memory" = "ትውስታን ያስተዳድሩ";
+
+"All your chats will be archived. This cannot be undone." = "ሁሉም ውይይቶችዎ በማህደር ውስጥ ይቀመጣሉ። ይህ ሊቀለበስ አይችልም።";
+
+"On" = "በርቷል";
+
+"Email missing!" = "ኢሜል ይጎድላል!";
+
+"Privacy Policy" = "የግላዊነት ፖሊሲ";
+
+"Email" = "ኢሜይል";
+
+"Help Center" = "የእገዛ ማዕከል";
+
+"Upgrade to ChatGPT Plus" = "ወደ ChatGPT ፕላስ ያሻሽሉ";
+
+"Delete Account" = "መለያ ሰርዝ";
+
+"Keyboard Shortcut" = "የቁልፍ ሰሌዳ አቋራጮች";
+
+"ChatGPT Plus" = "ChatGPT ፕላስ";
+
+"System" = "ስርዓት";
+
+"ChatGPT for %@" = "ChatGPT ለ %@";
+
+"New Features" = "አዲስ ዋና መለያ ጸባያት";
+
+"Recent login required" = "የቅርብ ጊዜ መግቢያ ያስፈልጋል";
+
+"Chat training" = "የውይይት ስልጠና";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "መለያዎን መሰረዝ የሚችሉት ባለፉት 10 ደቂቃዎች ከገቡ ብቻ ነው።\n\nእባክዎን እንደገና ይግቡ፣ ከዛ ለመቀጠል ወደዚህ ይመለሱ።";
+
+"Customize ChatGPT" = "ChatGPT ያብጁ";
+
+"Could not update the memory setting. Please try again later." = "የትውስታን ቅንብር ማዘመን አልተቻለም። እባክዎ ቆየት ብለው ይሞክሩ።";
+
+"We were unable to process your export at this time. Please try again later." = "በዚህ ጊዜ ወደ ውጭ የሚላከውን ልናስተናግደው አልቻልንም። እባክዎ ቆየት ብለው ይሞክሩ።";
+
+"About" = "ስለ";
+
+"Export Data" = "መረጃ ወደ ውጪ ላክ";
+
+"Keep ChatGPT on top" = "ChatGPTን ከላይ አቆይ";
+
+"ChatGPT Enterprise" = "ChatGPT ኢንተርፕራይዝ";
+
+"Desktop Launcher" = "የዴስክቶፕ አስጀማሪ";
+
+"Chat History & Training" = "የውይይት ታሪክ እና ስልጠና";
+
+"We couldn't load your archived chats" = "በማህደር የተቀመጡ ውይይቶችዎን መጫን አልቻልንም";
+
+"Could not unarchive conversation. Please try again later." = "ውይይቶችን ከማህደር ማስወጣት አልተቻለም። እባክዎ ቆየት ብለው ይሞክሩ።";
+
+"Successfully exported data. You should receive an email shortly with your data." = "መረጃ በተሳካ ሁኔታ ወደ ውጭ ተልኳል። ከጥቂት ጊዜ በኋላ ከመረጃዎ ጋር ኢሜይል ይደርስዎታል።";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "ለተሻለ ውጤት በዋናነት የሚናገሩትን ቋንቋ ይምረጡ። ባይዘረዘር እንኳን አሁንም በራስ-ማወቂያ ሊደገፍ ይችላል።";
+
+"Help" = "እገዛ";
+
+"Delete All Chats" = "ሁሉንም ውይይቶች ሰርዝ";
+
+"ChatGPT Team" = "የGPT ቡድን";
+
+"Error archiving all chats" = "ሁሉንም ውይይቶች በማህደር ውስጥ ማስቀመጥ ላይ ስህተት ተፈጥሯል";
+
+"Main Language" = "ዋና ቋንቋ";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "የእርስዎን መለያ መሰረዝ ማንኛውንም ንቁ የውስጠ-መተግበሪያ የደንበኝነት ምዝገባዎችን አይሰርዝም። እነዚህን የደንበኝነት ምዝገባዎች በእርስዎ የApple መታወቂያ ቅንብሮች ውስጥ መሰረዝ ይችላሉ።";
+
+"Haptic Feedback" = "የሃፕቲክ ግብረመልስ";
+
+"All your chats will be cleared from history. This cannot be undone." = "ሁሉም ውይይቶችዎ ከታሪክ ይሰረዛሉ። ይህ ሊቀለበስ አይችልም።";
+
+"App Language" = "የመተግበሪያ ቋንቋ";
+
+"Voice" = "ድምፅ";
+
+"Manage workspace" = "የስራ ቦታን ያስተዳድሩ";
+
+"Dark" = "ጨለማ";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "ሞዴሎቻችንን ለማሻሻል እና ለማሰልጠን ከወደፊት የድምጽ ውይይቶች ድምጽ ያጋሩ። ይህ ለሁሉም ሰው የድምፅ ውይይቶችን ጥራት ያሻሽላል። [ተጨማሪ ይወቁ](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Today" = "ዛሬ";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "በዚህ መሳሪያ ላይ አዳዲስ ውይይቶችን ወደ ታሪኮ ያስቀምጡ እና ሞዴሎቻችንን ለማሻሻል ጥቅም ላይ እንዲውል ይፍቀዱላቸው። ያልተቀመጡ ውይይቶች በ30 ቀናት ውስጥ ከስርዓታችን ይሰረዛሉ። ይህ ቅንብር በሁሉም መሳሪያዎች ላይ አይመሳሰልም። [ተጨማሪ ይወቁ](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "በዚህ መሳሪያ ላይ አዳዲስ ውይይቶችን ወደ ታሪኮ ያስቀምጡ። ያልተቀመጡ ውይይቶች በ30 ቀናት ውስጥ ከስርዓታችን ይሰረዛሉ። ይህ ቅንብር በሁሉም መሳሪያዎች ላይ አይመሳሰልም። [ተጨማሪ ይወቁ](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "በዚህ መተግበሪያ ውስጥ በደንበኝነት ምዝገባዎ ላይ ለውጦችን ማድረግ አይችሉም፣ ምክንያቱም ይህን የደንበኝነት ምዝገባ በሌላ መድረክ ላይ ስለገዙት።";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "መለያዎን መሰረዝ ዘላቂ ነው እና ሊቀለበስ አይችልም። መገለጫ፣ ውይይቶች እና የAPI አጠቃቀምን ጨምሮ ሁሉም የእርስዎ መረጃ ይወገዳል።\n\nለአዲስ መለያ ተመሳሳዩን ኢሜይል ወይም ስልክ ቁጥር እንደገና መጠቀም አይችሉም።\n\nChatGPT በAPI እየተጠቀሙ ከነበረ፣ ይህ መግቢያ እንዲሁ ይሰረዛል።";
+
+"Workspace" = "የስራ ቦታ";
+
+"Archived conversations will be available here" = "በማህደር የተቀመጡ ውይይቶች እዚህ ይገኛሉ";
+
+"Unarchive" = "ከማህደር አውጣ";
+
+"Error updating setting. Please try again later" = "ቅንብርን ማዘመን ላይ ስህተት። እባክዎ ቆየት ብለው ይሞክሩ";
+
+"Data Controls" = "የመረጃ መቆጣጠሪያዎች";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "መለያዎን መሰረዝ ላይ ስህተት ነበር። እባክዎ እንደገና ይሞክሩ። ችግሩ ከቀጠለ፣ እባክዎን help.openai.com ላይ ይጎብኙን።";
+
+"Confirm Export" = "ወደ ውጭ መላክን አረጋግጥ";
+
+"Could not archive all chats" = "ሁሉንም ውይይቶች በማህደር ማስቀመጥ አልተቻለም";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "ምላሾቹን ለእርስዎ ለማስማማት ዝርዝሮችን እና ምርጫዎችን በመረዳት ChatGPT ሲወያዩ የበለጠ አጋዥ ይሆናል። [ተጨማሪ ለማወቅ](%@)\n\nChatGPT የሚያስታውሰውን ለመረዳት ወይም አዲስ ነገር ለማስተማር፣ በቀላሉ ከእሱ ጋር ይወያዩ፡-\n\n• \"አጭር ምላሾች እንደምወድ አስታውስ።\"\n• \"አንድ ቡችላ አግኘሁ!\"\n• \"ስለ እኔ ምን ታስታውሳለህ?\"\n• \"የመጨረሻውን ፕሮጄክቴን የት ነው ያቆምነው?\"";
+
+"Search Archive" = "መዝገብ ውስት ፈልግ";
+
+"Speech" = "ንግግር";
+
+"Subscription Cancellation" = "የደንበኝነት ምዝገባ መሰረዝ";
+
+"Could not delete conversation. Please try again later." = "ውይይቶች መሰረዝ አልተቻለም። እባክዎ ቆየት ብለው ይሞክሩ።";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "የእርስዎ ይዘት የእኛን ሞዴሎች ለማሰልጠን እንዲውል ይፍቀዱ፣ ይህም ChatGPT ለእርስዎ እና ለሚጠቀሙት ሁሉ የተሻለ ያደርገዋል። የእርስዎን ግላዊነት ለመጠበቅ እርምጃዎችን እንወስዳለን።[የበለጠ ይወቁ](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "የመለያዎ ዝርዝሮች እና ውይይቶች ወደ ውጭ መላኪያው ላይ ይካተታሉ።\n\nመረጃው በሚወርድ ፋይል ወደተመዘገበው ኢሜልዎ ይልካል።\n\nማቀነባበር የተወሰነ ጊዜ ሊወስድ ይችላል። ዝግጁ ሲሆን ማሳወቂያ ይደርስዎታል።";
+
+"Free Plan" = "ነፃ እቅድ";
+
+"Could not delete all chats" = "ሁሉንም ውይይቶች መሰረዝ አልተቻለም";
+
+"This workspace is private and opted out of training." = "ይህ የስራ ቦታ የግል ነው እና ከስልጠና ተመርጦ ወጥቷል።";
+
+"Light" = "ብርሃን";
+
+"View" = "እይታ";
+
+"Manage Subscriptions" = "የደንበኝነት ምዝገባዎችን ያስተዳድሩ";
+
+"Subscription" = "የደንበኝነት ምዝገባ";
+
+"Your account has been queued for deletion." = "መለያዎ ለመሰረዝ ተሰልፏል።";
+
+"Successfully exported data. You should receive an email shortly with your data." = "ውሂብ በተሳካ ሁኔታ ወደ ውጭ ተልኳል። አጭር ኢሜል ሊደርስዎት ይገባል";
+
+"Error deleting all chats" = "ሁሉንም ውይይቶች መሰረዝ ላይ ስህተት ተፈጥሯል";
+
+"None" = "ምንም";
+
+"App" = "መተግበሪያ";
+
+"Archived Chats" = "በማህደር የተቀመጡ ውይይቶች";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "የእርስዎን መለያ መሰረዝ ማንኛውንም ገቢር የውስጠ-መተግበሪያ ምዝገባዎችን አይሰርዝም። እነዚህን የደንበኝነት ምዝገባዎች በእርስዎ የApple መታወቂያ ቅንብሮች ውስጥ መሰረዝ ይችላሉ።";
+
+"Are you sure?" = "እርግጠኛ ኖት?";
+
+"Always show ChatGPT in dock" = "ሁልጊዜም ምድብ ላይ ChatGPTን አሳይ";
+
+"Chat history" = "የውይይት ታሪክ";
+
+"Off" = "ጠፍቷል";
+
+"Archive All Chats" = "ሁሉንም ውይይቶች በማህደር ውስጥ አስቀምጥ";
+
+"Color Scheme" = "የቀለም ንድፍ";
+
+"Conversation not found" = "ውይይት አልተገኘም።";
+
+"Improve voice for everyone" = "ለሁሉም ሰው ድምጽን ያሻሽሉ።";
+
+"Memory" = "ትውስታ";
+
+"No archived chats" = "ምንም በማህደር የተቀመጡ ውይይቶች የሉም";
+
+"Improve the model for everyone" = "ሞዴሉን ለሁሉም ሰው ያሻሽሉ";
+
+"Restore purchases" = "ግዢዎችን ይመልሱ";
+

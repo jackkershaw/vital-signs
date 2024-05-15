@@ -1,0 +1,18 @@
+"System error" = "خطأ في النظام";
+
+"This content may violate our content policy. Please try again with different content." = "قد يكون هذا المحتوى مخالفًا لسياسة المحتوى الخاصة بنا. يرجى إعادة المحاولة باستخدام محتوى مختلف.";
+
+"There is a problem with your account info. Please try signing out then in." = "هناك مشكلة بمعلومات حسابك. يرجى محاولة تسجيل الخروج ثم تسجيل الدخول مرة أخرى.";
+
+"You've made too many requests. Please try again later. (429, %@)" = "لقد قدمت طلبات كثيرة للغاية تتجاوز الحد المسموح به. يرجى إعادة المحاولة لاحقًا. (429، %@)";
+
+"There is a problem with your request. (%lld, %@)" = "هناك مشكلة في طلبك. (%lld، %@)";
+
+"The server is overloaded. Please try again later." = "هناك ضغط كبير على الخادم. يرجى المحاولة مرة أخرى لاحقًا.";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "هناك مشكلات بالخادم. يرجى المحاولة مرة أخرى لاحقًا. (%lld، %@)";
+
+"Unsupported content" = "محتوى غير مدعوم";
+
+"The response is invalid. Please try again." = "الإجابة غير صالحة. يرجى إعادة المحاولة.";
+

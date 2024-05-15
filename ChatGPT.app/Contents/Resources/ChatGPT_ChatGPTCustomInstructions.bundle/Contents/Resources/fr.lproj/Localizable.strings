@@ -1,0 +1,52 @@
+"Execute code using Code Interpreter" = "Exécuter du code avec l’interpréteur de code";
+
+"Error updating state for customizations. Please try again later." = "Erreur lors de la mise à jour de l’état des personnalisations. Veuillez réessayer ultérieurement.";
+
+"Error saving custom instructions" = "Erreur lors de l’enregistrement des instructions personnalisées";
+
+"An unknown error occurred. Please try again later" = "Une erreur inconnue s’est produite. Veuillez réessayer plus tard.";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Les instructions personnalisées seront appliquées à tous les nouveaux chats. [En savoir plus](chat-preferences-disclosures)";
+
+"Customize ChatGPT" = "Personnaliser ChatGPT";
+
+"Unsaved changes" = "Modifications non enregistrées";
+
+"Custom Instructions Enabled or Disabled" = "Instructions personnalisées activées ou désactivées";
+
+"Browsing" = "Navigation";
+
+"DALL•E" = "DALL•E";
+
+"Saving Custom Instructions" = "Enregistrement des instructions personnalisées";
+
+"Error loading customizations. Please try again later." = "Erreur lors du chargement des personnalisations. Veuillez réessayer ultérieurement.";
+
+"Code" = "Code";
+
+"Keep editing" = "Continuer à modifier";
+
+"Thought starters" = "Amorces de réflexion";
+
+"Generate images using DALL•E" = "Générer des images avec DALL•E";
+
+"Choose which tools can be used with GPT-4." = "Choisissez les outils à utiliser avec GPT-4.";
+
+"Show tips" = "Afficher les conseils";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Avez-vous des informations à fournir à ChatGPT pour l’aider à mieux vous répondre ?";
+
+"How would you like ChatGPT to respond?" = "Quel type de réponse souhaitez-vous de la part de ChatGPT ?";
+
+"Discard changes" = "Abandonner les modifications";
+
+"Save" = "Enregistrer";
+
+"GPT-4 Capabilities" = "Fonctionnalités de GPT-4";
+
+"Enable for new chats" = "Activer pour les nouveaux chats";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Voulez-vous vraiment abandonner vos modifications ?\nElles seront définitivement perdues.";
+
+"Browse the internet to find answers" = "Rechercher des réponses sur Internet";
+

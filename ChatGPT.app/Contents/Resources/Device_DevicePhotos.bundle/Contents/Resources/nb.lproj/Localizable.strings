@@ -1,0 +1,16 @@
+"Please try again later.\n\n(%@)" = "Prøv igjen litt senere.\n\n(%@)";
+
+"Photos Access Denied" = "Bildetilgang avvist";
+
+"Expected a file URL, but received a non-file URL" = "Forventet en fil-URL, men mottok en ikke-fil-URL";
+
+"Not authorized" = "Ikke tillatt";
+
+"Expected a non-file URL, but received a file URL" = "Forventet en ikke-fil-URL, men mottok en fil-URL";
+
+"Failed to Save Image" = "Kunne ikke lagre bilde";
+
+"Image conversion failed" = "Kunne ikke konvertere bilde";
+
+"Enable photo library access in Settings to save photos." = "Aktiver tilgang til bildebiblioteket i innstillingene for å lagre bilder.";
+

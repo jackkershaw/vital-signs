@@ -1,0 +1,150 @@
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "Դուք եք կառավարում ամեն ինչ։ Վերանայում և ջնջում որոշ հիշողություններ, նորից սկսում զրոյից կամ անջատում հատկությունը կարգավորումներից։";
+
+"Memory off" = "Հիշողությունն անջատված է";
+
+"You’re in control" = "Դուք եք կառավարում";
+
+"Share" = "Համօգտագործել";
+
+"Chat without having to look at your screen." = "Զրուցեք՝ առանց էկրանին նայելու։";
+
+"Temporary Chats won’t be used to improve our models." = "Ժամանակավոր զրույցները չեն օգտագործվի մեր մոդելների բարելավման համար։";
+
+"Introducing\nCustom Instructions" = "Հարմարեցրած հրահանգների\nներկայացում";
+
+"Refine DALL·E Images" = "Հստակեցնել DALL-E պատկերները";
+
+"Follows custom instructions" = "Համաձայն հարմարեցրած հրահանգների";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Եթե չեք ցանկանում շարունակել, կարող եք ցանկացած պահի դադարեցնել համօգտագործումը կարգավորումներից։\n\n[Իմանալ ավելին](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Made for use at work" = "Նախատեսված է աշխատանքի մեջ օգտագործելու համար";
+
+"Improve voice chats for everyone" = "Բարելավել ձայնային զրույցները բոլորի համար";
+
+"Ask away" = "Հարցրեք ինչ ուզում եք";
+
+"Now you can have spoken conversations with ChatGPT." = "Այժմ կարող եք բանավոր խոսակցություններ ունենալ ChatGPT-ի հետ։";
+
+"Manage what it remembers" = "Կառավարեք այն, ինչը հիշելու է";
+
+"ChatGPT now has memory across chats" = "ChatGPT-ն այժմ հիշողություն ունի, որը պահպանվում է զրույցից զրույց";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "ChatGPT-ն կարող է պատասխանել հարցերին, օգնել ձեզ սովորել, կոդ գրել, փայլուն մտքեր ունենալ միասին և շատ ավելին։";
+
+"Just start talking" = "Պարզապես սկսեք խոսել";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "Ձայնային զրույցները բարելավելու համար մեր թիմը կարող է ստուգել աուդիոնյութը։ Մենք քայլեր ենք ձեռնարկում նվազեցնելու անձնական տեղեկությունների քանակը մեր մոդելներին վարժեցնելու համար օգտագործվող աուդիոնյութերի մեջ։";
+
+"By default, chats in this workspace are not used to train our AI models." = "Ըստ կանխադրվածի՝ այս աշխատատարածքի զրույցները չեն օգտագործվում մեր ԱԲ մոդելների վարժեցման համար։";
+
+"Check your facts" = "Ստուգեք ձեր փաստերը";
+
+"Language is auto-detected" = "Լեզուն ավտոմատ հայտնաբերված է";
+
+"Active for new chats" = "Ակտիվ է նոր զրույցների համար";
+
+"Chats may be reviewed by our AI trainers to improve our systems." = "Զրույցները կարող են վերանայվել մեր ԱԲ մարզիչների կողմից՝ մեր համակարգերի բարելավման նպատակով։";
+
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "ChatGPT-ն ավելի օգտակար կդառնա ձեր զրույցների ընթացքում՝ շարունակաբար հիշելով մանրամասներն ու նախընտրանքները։";
+
+"Share audio from future voice chats to improve and train our models." = "Համօգտագործեք ձայնը հետագա ձայնային զրույցներից՝ մեր մոդելները բարելավելու և վարժեցնելու համար։";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "Այս պաշտոնական հավելվածն անվճար է, համաժամում է ձեր պատմությունը սարքերի վրա և առաջարկում OpenAI-ի կողմից կատարված մոդելների վերջին բարելավումները։";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "Երբ Ժամանակավոր զրույցում եք, ChatGPT-ն չի օգտագործի կամ ստեղծի հիշողություններ։ Այնուամենայնիվ, դուք պետք է հետևեք հարմարեցրած հրահանգներին, եթե միացրել եք դրանք։";
+
+"Help improve our models" = "Օգնեք բարելավել մեր մոդելները";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "Ձեր հրահանգները կօգնեն բարելավել մեր մոդելները։ Այցելեք մեր [Օգնության կենտրոն](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) և իմացեք ավելին, թե ինչպես են օգտագործվելու ձեր տվյալները։";
+
+"Keep the conversation going" = "Շարունակաբար զրուցաշար վարել";
+
+"Select an area of the image to edit" = "Ընտրեք պատկերի տարածք՝ խմբագրելու համար";
+
+"Hands-free" = "Անհպում";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "Դիտեք ձայնային արձանագրությունները ձեր պատմության մեջ։ Ձայնային հոլովակները չեն պահպանվում։";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "Ավելի ստույգ հայտնաբերման համար Կարգավորումներում կարող եք նշել նախընտրելի լեզուն։";
+
+"More helpful over time" = "Ավելի օգտակար է դառնում ժամանակի ընթացքում";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "ChatGPT-ն կարող է մարդկանց, վայրերի կամ փաստերի մասին ոչ ստույգ տեղեկություններ տրամադրել։";
+
+"Learn more" = "Իմանալ ավելին";
+
+"Now you can have spoken conversations with GPTs." = "Այժմ կարող եք բանավոր խոսակցություններ ունենալ GPT-ների հետ։";
+
+"Taking steps to protect privacy" = "Քայլերի ձեռնարկում գաղտնիությունը պաշտպանելու համար";
+
+"Tap Edit and describe changes in chat." = "Հպեք Խմբագրել կոճակը և նկարագրեք զրույցում կատարված փոփոխությունները։";
+
+"ChatGPT can be inaccurate" = "ChatGPT-ն կարող է ճշգրիտ չլինել";
+
+"Chat with images" = "Պատկերներով զրույց";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "Տրամադրեք համատեքստ ձեր ոլորտի, դերի կամ որոշակի նախագծերի մասին, որպեսզի ստանաք ձեզ հարմարեցրած պատասխաններ։";
+
+"Snap a picture to ask ChatGPT about the world around you." = "Լուսանկարեք որևէ բան և հարցրեք ChatGPT-ին ձեզ շրջապատող աշխարհի մասին։";
+
+"Chat with voice" = "Ձայնային զրույց";
+
+"Picture perfect" = "Նկարը կատարյալ է";
+
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "ChatGPT-ն կպահպանի այն ամենն, ինչ սովորում է զրույցների ընթացքում, ինչը թույլ կտա նրան տրամադրել ավելի համապատասխան պատասխաններ։";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "Փորձեք լուսանկարների միջոցով նորոգել ձեր հեծանիվը, ստեղծել բաղադրատոմս կամ վերլուծել բարդ գծագրեր։";
+
+"Welcome to your company's workspace" = "Բարի գալուստ ձեր ընկերության աշխատատարածք";
+
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "Երբ դուք խմբագրում եք հարմարեցրած հրահանգները, դրանք գործադրվում են ձեր ստեղծած բոլոր նոր զրույցներում։ Արդեն գոյություն ունեցող զրուցաշարերը չեն արդիացվի։";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "Թեև մենք ունենք երաշխիքներ, ChatGPT-ն կարող է ձեզ սխալ տեղեկություններ տրամադրել։ Այն նախատեսված չէ խորհուրդներ տալու համար։";
+
+"Welcome to\nChatGPT" = "ChatGPT-ն\nողջունում է ձեզ";
+
+"Welcome to ChatGPT" = "ChatGPT-ն ողջունում է ձեզ";
+
+"Continue" = "Շարունակել";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "Սահմանեք՝ արդյոք այս սարքի վրայի նոր զրույցները ցուցադրվելու են պատմության մեջ և օգտագործվելու են մեր համակարգերի բարելավման նպատակով։";
+
+"Get Started" = "Սկսել";
+
+"Help improve voice" = "Օգնեք բարելավել ձայնը";
+
+"Don't Share" = "Չհամօգտագործել";
+
+"No model training" = "Չի օգտագործվի մոդելների վարժեցման համար";
+
+"Edit the full image" = "Խմբագրել ամբողջ պատկերը";
+
+"Not in history" = "Չի ներառվի պատմության մեջ";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "Այստեղ դուք կարող եք օգտվել մեր ամենավերջին մոդելներից, որոնք ավելի շատ հնարավորություններ ունեն և ավելի քիչ սահմանափակումներ։";
+
+"Tap Select, highlight the area, and describe changes in chat." = "Հպեք Ընտրել կոճակը և նկարագրեք զրույցում կատարված փոփոխությունները։";
+
+"Chats are saved" = "Զրույցները պահվել են";
+
+"Built for business" = "Ստեղծված է բիզնեսի համար";
+
+"Temporary Chat" = "Ժամանակավոր զրույց";
+
+"Control your chat history" = "Կառավարել զրույցների պատմությունը";
+
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "Տրամադրեք որոշակի մանրամասներ և ուղեցույցներ ձեր զրույցների համար և հարմարացրեք ձեր փոխազդումը ChatGPT-ի հետ։";
+
+"Welcome to the %@ workspace" = "Բարի գալուստ %@ աշխատատարածք";
+
+"Start with a photo" = "Սկսեք որևէ լուսանկարից";
+
+"Custom Instructions will still be followed if you have them enabled." = "Այնուամենայնիվ, դուք պետք է հետևեք հարմարեցրած հրահանգներին, եթե միացրել եք դրանք։";
+
+"Don’t share sensitive info" = "Մի տրամադրեք զգայուն տեղեկություններ";
+
+"Choose a voice" = "Ընտրեք ձայն";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "Ժամանակավոր զրույցները չեն ցուցադրվի ձեր պատմության մեջ։ Անվտանգության նպատակներով՝ մենք կպահպանենք ձեր զրույցի պատճեն մինչև 30 օր ժամկետով։";
+

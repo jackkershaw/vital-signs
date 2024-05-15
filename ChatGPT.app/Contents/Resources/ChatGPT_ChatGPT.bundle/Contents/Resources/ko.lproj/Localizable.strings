@@ -1,0 +1,16 @@
+"Your most recent request failed. Please try again." = "최근 요청을 완료하지 못했습니다. 다시 시도해 주세요.";
+
+"You are logged out. Please open the ChatGPT app to log in." = "로그아웃되었습니다. ChatGPT 앱을 열어 로그인하세요.";
+
+"You do not have access to this app yet. You can still use ChatGPT at %@" = "아직 이 앱에 액세스할 수 없습니다. %@에서 ChatGPT를 사용할 수 있습니다";
+
+"Did not receive a response from ChatGPT. Please try again." = "ChatGPT로부터 응답을 받지 못했습니다. 다시 시도해 주세요.";
+
+"Can't determine the right ChatGPT model to use. Please try again." = "사용에 적합한 ChatGPT 모델을 결정할 수 없습니다. 다시 시도해 주세요.";
+
+"You do not have access to the Desktop app yet. You can still use ChatGPT at %@" = "아직 데스크톱 앱에 액세스할 수 없습니다. %@에서 ChatGPT를 사용할 수 있습니다";
+
+"You do not have access to this app yet!" = "아직 이 앱에 액세스할 수 없습니다!";
+
+"Received an empty response from ChatGPT. Please try again." = "ChatGPT로부터 빈 응답을 받았습니다. 다시 시도해 주세요.";
+

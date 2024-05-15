@@ -1,0 +1,50 @@
+"Share anonymously" = "Compartir anónimamente";
+
+"Share link" = "Compartir enlace";
+
+"There was an error preparing the conversation. Please try again. %@" = "Ha habido un error al preparar la conversación. Vuelve a intentarlo. %@";
+
+"Recipients won't be able to view images." = "Los destinatarios no podrán ver las imágenes.";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "¿Seguro que quieres eliminar el enlace compartido «%@»? Siempre puedes crear un nuevo enlace compartiendo de nuevo este chat.";
+
+"There was an error sharing the conversation. Please try again. %@" = "Ha habido un error al compartir la conversación. Vuelve a intentarlo. %@";
+
+"Shared Link Title" = "Título del enlace compartido";
+
+"Missing Name" = "Falta el nombre";
+
+"Share link to chat" = "Compartir enlace al chat";
+
+"Help and FAQ" = "Ayuda y preguntas frecuentes";
+
+"Update title" = "Actualizar título";
+
+"Your custom instructions won’t be shared with viewers." = "Tus instrucciones personalizadas no se compartirán con los lectores.";
+
+"Delete link" = "Eliminar enlace";
+
+"Shared Link Date" = "Fecha del enlace compartido";
+
+"Shared link deleted." = "Enlace compartido eliminado.";
+
+"Edit title" = "Editar título";
+
+"The conversation has no messages." = "La conversación no tiene mensajes.";
+
+"Options" = "Opciones";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "Ya has compartido un enlace a este chat. Si quieres incluir nuevos mensajes, elimina este enlace y vuelve a compartir el chat.";
+
+"Shared Link Owner" = "Propietario del enlace compartido";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "Los mensajes enviados o recibidos después de compartir tu enlace no se compartirán. Cualquiera que tenga la URL podrá ver tu chat compartido.";
+
+"Title" = "Título";
+
+"There was an error deleting your shared link." = "Ha habido un error al eliminar tu enlace compartido.";
+
+"Share your name" = "Compartir tu nombre";
+
+"The share link is invalid. %@" = "El enlace para compartir no es válido. %@";
+

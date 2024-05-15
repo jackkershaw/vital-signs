@@ -1,0 +1,12 @@
+"Checking system health…" = "సిస్టమ్ ఆరోగ్యాన్ని తనిఖీ చేస్తోంది...";
+
+"Loading account…" = "ఖాతాను లోడ్ చేస్తోంది...";
+
+"  %@\n\n  OpenAI employees are required to use internal builds to access ChatGPT.\n" = "  %@\n\n  OpenAI ఉద్యోగులు ChatGPTని ప్రాప్యత చేయడానికి అంతర్గత నిర్మాణాలను ఉపయోగించాలి.\n";
+
+"Download the beta build or contact [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W) if you're having issues." = "బీటా బిల్డ్‌ని డౌన్‌లోడ్ చేయండి లేదా మీకు సమస్యలు ఉంటే [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W)ని సంప్రదించండి.";
+
+"Error loading account information. Please try again later." = "ఖాతా సమాచారాన్ని లోడ్ చేయడంలో లోపం. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.";
+
+"Check your OpenAI e-mail for an invite titled \"OpenAI has invited you to test ChatGPT\" or contact [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A) to be added." = "&quot;OpenAI మిమ్మల్ని ChatGPTని పరీక్షించడానికి ఆహ్వానించింది&quot; అనే శీర్షిక కోసం మీ OpenAI ఇ-మెయిల్‌ని తనిఖీ చేయండి లేదా జోడించడానికి [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A)ని కాంటాక్ట్ చేయండి.";
+

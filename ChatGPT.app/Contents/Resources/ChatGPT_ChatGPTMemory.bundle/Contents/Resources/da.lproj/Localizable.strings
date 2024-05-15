@@ -1,0 +1,46 @@
+"Are you sure?" = "Er du sikker?";
+
+"Memory is disabled" = "Hukommelse er deaktiveret";
+
+"Clear this GPT's memory" = "Ryd denne ChatGPT's hukommelse";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ vil glemme alt, den har lagret fra dine chats. Dette kan ikke fortrydes.";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "Mens du chatter med %@, vises de detaljer og præferencer, den husker, her.";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ vil glemme alt, hvad den har lagret fra dine chats. Dette kan ikke fortrydes.";
+
+"Could not reset memory. Please try again later." = "Kunne ikke nulstille hukommelse. Prøv igen senere.";
+
+"Learn More" = "Se mere";
+
+"Memory" = "Hukommelse";
+
+"Select a GPT" = "Vælg en GPT";
+
+"Clear Memory" = "Ryd hukommelse";
+
+"Error loading memories" = "Fejl ved indlæsning af hukommelse";
+
+"Search memories" = "Søg i hukommelse";
+
+"Error deleting memory" = "Fejl ved sletning af hukommelse";
+
+"No memories" = "Ingen hukommelse";
+
+"%@ won't use or create memories" = "%@ vil ikke bruge eller skabe hukommelse";
+
+"Clear this GPT's memory" = "Ryd denne GPT's hukommelse";
+
+"Error loading GPTs" = "Fejl ved indlæsning af GPT'er";
+
+"%@'s memories" = "%@'s hukommelse";
+
+"Turn On" = "Slå til";
+
+"Open menu to select which GPT to show memories for" = "Åbn menuen for at vælge, hvilken GPT, der skal vises hukommelse for";
+
+"Clear ChatGPT’s memory" = "Ryd ChatGPT's hukommelse";
+
+"Could not reset memory. Please try again later." = "Kunne ikke nulstille hukommelsen. Prøv igen senere.";
+

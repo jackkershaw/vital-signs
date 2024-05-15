@@ -1,0 +1,96 @@
+"Select your Birthday" = "Pilih Hari Lahir anda";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Dengan mengklik \"Teruskan\", anda bersetuju menerima [Syarat](https://openai.com/policies/terms-of-use) kami dan mengakui [Dasar Privasi](https://openai.com/policies/privacy-policy) kami.";
+
+"Something went wrong. Please try again." = "Ada sesuatu yang tidak kena. Sila cuba lagi.";
+
+"There was a problem, please try again." = "Terdapat masalah, sila cuba lagi.";
+
+"Sorry, we aren't able to create your account" = "Maaf, kami tidak dapat mencipta akaun anda";
+
+"Phone number" = "Nombor telefon";
+
+"Please solve this puzzle so we know you're a person." = "Sila selesaikan teka-teki ini supaya kami tahu anda ialah manusia.";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "Kami tidak dapat mencipta akaun anda disebabkan oleh [Syarat Penggunaan](https://openai.com/policies/terms-of-use) kami.";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "Maklumat yang diperlukan tidak dapat diambil. Sila semak sambungan Internet anda dan mulakan semula apl. (%@)";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Ada sesuatu yang tidak kena. Akaun sudah dicipta tetapi tidak dapat disegar semula. Sila daftar keluar dan daftar masuk semula.";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "Kami telah menghantar e-mel kepada %@.\nKlik pada pautan dalam e-mel untuk bermula.";
+
+"Finish creating your OpenAI account" = "Selesai mencipta akaun OpenAI anda";
+
+"Email resent!" = "E-mel telah dihantar semula!";
+
+"Select your area code" = "Pilih kod kawasan anda";
+
+"Enter the code we just sent to your number ending in **%@" = "Masukkan kod yang baru kami hantar kepada nombor anda yang berakhir dengan **%@";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Dengan mengklik \"Teruskan\", anda bersetuju menerima [Syarat](https://openai.com/policies/terms-of-use) kami dan mengakui [Dasar Privasi](https://openai.com/policies/privacy-policy) kami serta [adendum Korea](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "Untuk mendapatkan bantuan, sila lihat [panduan pengesahan telefon](https://help.openai.com/articles/6613520-phone-verification).";
+
+"Verify phone number" = "Sahkan nombor telefon";
+
+"Please provide a phone number for verification." = "Sila berikan nombor telefon untuk pengesahan.";
+
+"Area code" = "Kod kawasan";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Dengan mengklik \"Teruskan\", anda mengesahkan bahawa anda mempunyai kebenaran ibu bapa atau penjaga untuk menggunakan ChatGPT, bersetuju menerima [Syarat](https://openai.com/policies/terms-of-use) kami dan mengakui [Dasar Privasi](https://openai.com/policies/privacy-policy) kami.";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "Ada sesuatu yang tidak kena. Sila mulakan semula apl atau daftar keluar dan cuba lagi.";
+
+"Code" = "Kod";
+
+"Please choose a valid date for your birthday." = "Sila pilih tarikh yang sah untuk hari lahir anda.";
+
+"There was a problem verifying your phone number. %@" = "Terdapat masalah semasa mengesahkan nombor telefon anda. %@";
+
+"Open Mail App" = "Buka Apl Mel";
+
+"Tell us about you." = "Beritahu kami tentang anda.";
+
+"Your account could not be created. Please try again. %@" = "Akaun anda tidak dapat dicipta. Sila cuba lagi. %@";
+
+"There was a problem, please try again. (%@)" = "Terdapat masalah, sila cuba lagi. (%@)";
+
+"Verify you're human" = "Sahkan bahawa anda manusia";
+
+"Failed to load required information." = "Gagal memuatkan maklumat yang diperlukan.";
+
+"Please check your internet connection and retry." = "Sila periksa sambungan Internet anda dan cuba semula.";
+
+"Resend code" = "Hantar semula kod";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "Maklumat yang diperlukan tidak dapat diambil. Sila periksa sambungan Internet anda dan mulakan semula apl. %@";
+
+"Resend email" = "Hantar semula e-mel";
+
+"Last name" = "Nama keluarga";
+
+"Something went wrong. Sign out and try again." = "Ada sesuatu yang tidak kena. Daftar keluar dan cuba lagi.";
+
+"First name" = "Nama pertama";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Dengan mengklik \"Teruskan\", anda mengesahkan bahawa anda mempunyai kebenaran ibu bapa atau penjaga untuk menggunakan ChatGPT, bersetuju menerima [Syarat](https://openai.com/policies/terms-of-use) kami dan mengakui [Dasar Privasi](https://openai.com/policies/privacy-policy) kami serta [adendum Korea](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"error" = "ralat";
+
+"Birthday" = "Hari Lahir";
+
+"Your email is not yet verified. Please check your email inbox." = "E-mel anda masih belum disahkan. Sila semak peti masuk e-mel anda.";
+
+"Verify your email" = "Sahkan e-mel anda";
+
+"I've verified my email" = "Saya telah mengesahkan e-mel saya";
+
+"There was a problem verifying the code. %@" = "Terdapat masalah semasa mengesahkan kod. %@";
+
+"Continue" = "Teruskan";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Terdapat masalah dengan sambungan Internet anda. Sila cuba lagi. (%lld)";
+
+"You have made too many attempts. Please try again later." = "Anda telah membuat terlalu banyak cubaab. Sila cuba sebentar lagi.";
+

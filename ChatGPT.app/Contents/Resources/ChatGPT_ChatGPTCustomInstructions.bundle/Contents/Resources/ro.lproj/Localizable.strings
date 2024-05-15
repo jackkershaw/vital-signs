@@ -1,0 +1,52 @@
+"Discard changes" = "Renunță la modificări";
+
+"Error saving custom instructions" = "Eroare la salvarea instrucțiunilor particularizate";
+
+"Browsing" = "Navigare";
+
+"Browse the internet to find answers" = "Navighează pe internet pentru a afla răspunsuri";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Instrucțiunile particularizate vor fi aplicate tuturor discuțiilor noi. [Află mai multe](chat-preferences-disclosures)";
+
+"Unsaved changes" = "Modificări nesalvate";
+
+"Saving Custom Instructions" = "Se salvează Instrucțiunile particularizate";
+
+"Generate images using DALL•E" = "Generează imagini cu ajutorul DALL•E";
+
+"Customize ChatGPT" = "Personalizează ChatGPT";
+
+"Enable for new chats" = "Activează pentru discuțiile noi";
+
+"Show tips" = "Arată recomandări";
+
+"DALL•E" = "DALL•E";
+
+"Thought starters" = "Idei pentru a începe";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Sigur vrei să renunți la modificări?\nVei pierde toate modificările făcute.";
+
+"Error loading customizations. Please try again later." = "Eroare la încărcarea personalizărilor. Încearcă din nou mai târziu.";
+
+"Execute code using Code Interpreter" = "Execută cod cu ajutorul Interpretorului de coduri";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Ce ai dori să știe ChatGPT despre tine pentru a-ți oferi răspunsuri mai bune?";
+
+"An unknown error occurred. Please try again later" = "A avut loc o eroare necunoscută. Încearcă din nou mai târziu";
+
+"Choose which tools can be used with GPT-4." = "Alege ce instrumente pot fi utilizate cu GPT-4.";
+
+"How would you like ChatGPT to respond?" = "Cum ai vrea să îți răspundă ChatGPT?";
+
+"Save" = "Salvează";
+
+"GPT-4 Capabilities" = "Capacități GPT-4";
+
+"Error updating state for customizations. Please try again later." = "Eroare la actualizarea stării personalizărilor. Încearcă din nou mai târziu.";
+
+"Keep editing" = "Continuă editarea";
+
+"Custom Instructions Enabled or Disabled" = "Instrucțiuni particularizate activate sau dezactivate";
+
+"Code" = "Cod";
+

@@ -1,0 +1,82 @@
+"Fullscreen" = "სრული ეკრანი";
+
+"Replace attachment?" = "გსურთ მიბმული ფაილის შეცვლა?";
+
+"Get Plus to Chat" = "მიიღეთ Plus ჩატის დასაწყებად";
+
+"Shows the voice recording interface and begins recording" = "აჩვენებს ხმის ჩაწერის ინტერფეისს და იწყებს ჩაწერას";
+
+"Message ChatGPT" = "გაგზავნეთ შეტყობინება ChatGPT-სთან...";
+
+"Dictation" = "კარნახი";
+
+"Upload File" = "ფაილის ატვირთვა";
+
+"Attached image" = "მიბმული სურათი";
+
+"You need %@ to continue this chat because it has attachments." = "You need %@ to continue this chat because it has attachments.";
+
+"You need %@ to continue this chat because this GPT requires it." = "You need %@ to continue this chat because this GPT requires it.";
+
+"If you cancel the text conversion you will lose the recording." = "ტექსტის კონვერტაციის გაუქმების შემთხვევაში ჩანაწერი დაიკარგება.";
+
+"You need %@ to continue this chat because it uses audio." = "You need %@ to continue this chat because it uses audio.";
+
+"Are you sure?" = "დარწმუნებული ხართ?";
+
+"Stop Generating" = "გენერირების შეწყვეტა";
+
+"Attach photos" = "ფოტოების მიბმა";
+
+"You've reached your %@ limit." = "You've reached your %@ limit.";
+
+"Edit image" = "სურათის რედაქტირება";
+
+"To continue, you’ll need to replace the current attachment." = "გასაგრძელებლად უნდა შეცვალოთ ამჟამად მიბმული ფაილი.";
+
+"Message" = "შეტყობინება";
+
+"Switch to Voice mode" = "ხმოვან რეჟიმზე გადართვა";
+
+"New Message" = "ახალი შეტყობინება";
+
+"Scroll to bottom" = "ქვედა ნაწილში გადაადგილება";
+
+"You need %@ to continue this chat because it uses tools." = "You need %@ to continue this chat because it uses tools.";
+
+"Remove attachment" = "მიბმული ფაილის ამოშლა";
+
+"File upload failed." = "ფაილის ატვირთვა ვერ მოხერხდა.";
+
+"Failed, retry?" = "ვერ მოხერხდა, ცდით ხელახლა?";
+
+"Image attachment failed." = "სურათის მიბმა ვერ მოხერხდა.";
+
+"This chat is currently unavailable" = "This chat is currently unavailable";
+
+"Microphone access required" = "Microphone access required";
+
+"This chat uses an older version of your custom instructions" = "ეს ჩატი იყენებს თქვენი პერსონალიზებული ინსტრუქციების უფრო ძველ ვერსიას";
+
+"Edit selection" = "მონიშნულის რედაქტირება";
+
+"Confirm" = "დადასტურება";
+
+"Attach files" = "ფაილების მიბმა";
+
+"Editing message" = "შეტყობინების რედაქტირება";
+
+"Send" = "გაგზავნა";
+
+"Continue Generating" = "შექმნის გაგრძელება";
+
+"Image upload failed." = "სურათის ატვირთვა ვერ მოხერხდა.";
+
+"Replace" = "შეცვლა";
+
+"No connection" = "No connection";
+
+"Stop" = "შეწყვეტა";
+
+"You need %@ to continue this chat because it has images." = "You need %@ to continue this chat because it has images.";
+

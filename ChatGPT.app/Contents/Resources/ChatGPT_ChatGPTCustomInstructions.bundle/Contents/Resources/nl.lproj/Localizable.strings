@@ -1,0 +1,52 @@
+"How would you like ChatGPT to respond?" = "Hoe wil je dat ChatGPT reageert?";
+
+"Save" = "Opslaan";
+
+"Customize ChatGPT" = "ChatGPT aanpassen";
+
+"GPT-4 Capabilities" = "Mogelijkheden van GPT-4";
+
+"Show tips" = "Tips weergeven";
+
+"Error loading customizations. Please try again later." = "Fout bij het laden van aanpassingen. Probeer het later opnieuw.";
+
+"Custom Instructions Enabled or Disabled" = "Aangepaste instructies ingeschakeld of uitgeschakeld";
+
+"DALL•E" = "DALL•E";
+
+"Code" = "Code";
+
+"Keep editing" = "Doorgaan met bewerken";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Weet je zeker dat je de wijzigingen wilt negeren?\nZe gaan dan verloren.";
+
+"An unknown error occurred. Please try again later" = "Er is een onbekende fout opgetreden. Probeer het later opnieuw";
+
+"Browsing" = "Browsen";
+
+"Saving Custom Instructions" = "De aangepaste instructies worden opgeslagen";
+
+"Discard changes" = "Wijzigingen negeren";
+
+"Error saving custom instructions" = "Fout bij het opslaan van de aangepaste instructies";
+
+"Error updating state for customizations. Please try again later." = "Fout bij het bijwerken van de status van aanpassingen. Probeer het later opnieuw.";
+
+"Execute code using Code Interpreter" = "Code uitvoeren met de Code-interpreter";
+
+"Unsaved changes" = "Niet-opgeslagen wijzigingen";
+
+"Thought starters" = "Aanzetten voor ideeën";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Wat moet ChatGPT over jou weten om betere reacties te geven?";
+
+"Browse the internet to find answers" = "Op het internet zoeken naar antwoorden";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "De aangepaste instructies worden toegepast op alle nieuwe chats. [Meer info](chat-preferences-disclosures)";
+
+"Choose which tools can be used with GPT-4." = "Bepalen welke tools met GPT-4 gebruikt kunnen worden.";
+
+"Enable for new chats" = "Inschakelen voor nieuwe chats";
+
+"Generate images using DALL•E" = "Afbeeldingen genereren met DALL•E";
+

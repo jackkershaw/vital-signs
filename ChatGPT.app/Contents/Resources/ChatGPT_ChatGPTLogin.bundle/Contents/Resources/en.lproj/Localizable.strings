@@ -1,0 +1,105 @@
+/* No comment provided by engineer. */
+"Continue with Google" = "Continue with Google";
+
+/* No comment provided by engineer. */
+"Failed to validate id token." = "Failed to validate id token.";
+
+/* No comment provided by engineer. */
+"Invalid invite url." = "Invalid invite url.";
+
+/* No comment provided by engineer. */
+"Let’s brainstorm" = "Let’s brainstorm";
+
+/* No comment provided by engineer. */
+"Let’s chit-chat" = "Let’s chit-chat";
+
+/* No comment provided by engineer. */
+"Let’s collaborate" = "Let’s collaborate";
+
+/* No comment provided by engineer. */
+"Let’s create" = "Let’s create";
+
+/* No comment provided by engineer. */
+"Let’s design" = "Let’s design";
+
+/* No comment provided by engineer. */
+"Let’s discover" = "Let’s discover";
+
+/* No comment provided by engineer. */
+"Let’s explore" = "Let’s explore";
+
+/* No comment provided by engineer. */
+"Let’s go" = "Let’s go";
+
+/* No comment provided by engineer. */
+"Let’s invent" = "Let’s invent";
+
+/* No comment provided by engineer. */
+"Missing bundle id." = "Missing bundle id.";
+
+/* No comment provided by engineer. */
+"No authorization code found." = "No authorization code found.";
+
+/* No comment provided by engineer. */
+"No refresh token found." = "No refresh token found.";
+
+/* No comment provided by engineer. */
+"No sign in info found. Please sign in." = "No sign in info found. Please sign in.";
+
+/* No comment provided by engineer. */
+"PKCE not allowed." = "PKCE not allowed.";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "Privacy Policy";
+
+/* No comment provided by engineer. */
+"Renew failed." = "Renew failed.";
+
+/* No comment provided by engineer. */
+"Request cancelled." = "Request cancelled.";
+
+/* No comment provided by engineer. */
+"Revoke failed." = "Revoke failed.";
+
+/* No comment provided by engineer. */
+"Sign in failed" = "Sign in failed";
+
+/* No comment provided by engineer. */
+"Sign in request was cancelled." = "Sign in request was cancelled.";
+
+/* No comment provided by engineer. */
+"Sign up with email" = "Sign up with email";
+
+/* No comment provided by engineer. */
+"Something went wrong." = "Something went wrong.";
+
+/* No comment provided by engineer. */
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'.";
+
+/* No comment provided by engineer. */
+"Store failed." = "Store failed.";
+
+/* No comment provided by engineer. */
+"Terms of Use" = "Terms of Use";
+
+/* No comment provided by engineer. */
+"There is a problem with the server. Please try again later." = "There is a problem with the server. Please try again later.";
+
+/* No comment provided by engineer. */
+"There was a problem clearing sign in info. Please try again." = "There was a problem clearing sign in info. Please try again.";
+
+/* No comment provided by engineer. */
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "There was a problem contacting Apple servers. Please try again. (%lld)";
+
+/* No comment provided by engineer. */
+"There was a problem saving sign in info. Please try again." = "There was a problem saving sign in info. Please try again.";
+
+/* No comment provided by engineer. */
+"There was a problem. Please restart the app." = "There was a problem. Please restart the app.";
+
+/* No comment provided by engineer. */
+"Unknown error." = "Unknown error.";
+
+/* No comment provided by engineer. */
+"Unknown other error." = "Unknown other error.";
+

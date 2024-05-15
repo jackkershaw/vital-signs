@@ -1,0 +1,18 @@
+"The server is overloaded. Please try again later." = "De server is overbelast. Probeer het later opnieuw.";
+
+"There is a problem with your request. (%lld, %@)" = "Er is een probleem met je verzoek. (%lld, %@)";
+
+"There is a problem with your account info. Please try signing out then in." = "Er is een probleem met je accountgegevens. Probeer om je af te melden en weer aan te melden.";
+
+"This content may violate our content policy. Please try again with different content." = "Deze inhoud is mogelijk in strijd met ons inhoudsbeleid. Probeer het opnieuw met andere inhoud.";
+
+"The response is invalid. Please try again." = "De reactie is ongeldig. Probeer het opnieuw.";
+
+"You've made too many requests. Please try again later. (429, %@)" = "Je hebt te veel verzoeken gedaan. Probeer het later opnieuw. (429, %@)";
+
+"Unsupported content" = "Niet-ondersteunde inhoud";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "Er zijn problemen met de server. Probeer het later opnieuw. (%lld, %@)";
+
+"System error" = "Systeemfout";
+

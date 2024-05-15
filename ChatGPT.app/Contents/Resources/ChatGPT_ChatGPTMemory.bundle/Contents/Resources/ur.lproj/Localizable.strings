@@ -1,0 +1,40 @@
+"Turn On" = "کھولیں";
+
+"%@ won't use or create memories" = "%@میموریز کو استعمال یا تخلیق نہیں کرے گا";
+
+"Clear ChatGPT’s memory" = "ChatGPT کی میموری ختم کریں";
+
+"Memory" = "میموری";
+
+"Select a GPT" = "ایک GPT منتخب کریں";
+
+"Error loading GPTs" = "GPTs لوڈ کرنے میں خرابی";
+
+"Memory is disabled" = "میموری غیر فعال ہے";
+
+"Error deleting memory" = "میموری حذف کرنے میں خرابی";
+
+"%@'s memories" = "%@ کی میموریز";
+
+"Learn More" = "مزید جانیے";
+
+"Are you sure?" = "کیا آپ پُر یقین ہیں؟";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@وہ سب کچھ بھول جائے گا جو اس نے آپ کی چیٹس سے یاد کیا ہے۔ اسے کالعدم نہیں کیا جا سکتا۔";
+
+"Search memories" = "میموریز تلاش کریں";
+
+"Error loading memories" = "میموریز لوڈ کرنے میں خرابی";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "جیسے ہی آپ %@کے ساتھ چیٹ کریں گے تو اس کی یاد رکھنے والی تفصیلات اور ترجیحات یہاں دکھائی جائیں گی۔";
+
+"Could not reset memory. Please try again later." = "میموری دوبارہ ترتیب نہیں دی جا سکتی۔ براہ کرم کچھ دیر بعد دوبارہ کوشش کریں۔";
+
+"No memories" = "کوئی میموری نہیں ہے";
+
+"Open menu to select which GPT to show memories for" = "منتخب کرنے کے لیے مینیو کھولیں کہ کس GPT کے لیے میموریز دکھانی ہیں";
+
+"Clear this GPT's memory" = "اس GPT کی میموری ختم کریں";
+
+"Clear Memory" = "میموری ختم کریں";
+

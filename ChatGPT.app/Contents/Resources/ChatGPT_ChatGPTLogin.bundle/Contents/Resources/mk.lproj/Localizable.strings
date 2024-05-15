@@ -1,0 +1,70 @@
+"Let’s chit-chat" = "Ајде да муабетиме";
+
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "Нешто не е во ред. Провери дали датумот и часот на уредот се точни и дали „Постави автоматски“ е избрано од „Поставки → Општо → Датум и час“.";
+
+"Revoke failed." = "Отповикувањето не успеа.";
+
+"Sign up with email" = "Регистрирај се со е-пошта";
+
+"PKCE not allowed." = "Доказ за размена на код за клуч (PKCE) не е дозволен.";
+
+"No refresh token found." = "Не е пронајден токен за освежување.";
+
+"Let’s discover" = "Ајде да откриваме";
+
+"Let’s explore" = "Ајде да истражуваме";
+
+"Terms of Use" = "Услови за користење";
+
+"Continue with Google" = "Продолжи со Google";
+
+"No authorization code found." = "Не е пронајден код за авторизација.";
+
+"There was a problem saving sign in info. Please try again." = "Имаше проблем со зачувување на информациите за најава. Обиди се повторно.";
+
+"Sign in request was cancelled." = "Барањето за најава беше откажано.";
+
+"There was a problem. Please restart the app." = "Имаше проблем. Стартувај ја апликацијата одново.";
+
+"Let’s design" = "Ајде да дизајнираме";
+
+"Privacy Policy" = "Политика на приватност";
+
+"Request cancelled." = "Барањето е откажано.";
+
+"Renew failed." = "Обновувањето не успеа.";
+
+"Let’s brainstorm" = "Ајде да размислуваме";
+
+"Unknown error." = "Непозната грешка.";
+
+"Let’s invent" = "Ајде да измислуваме";
+
+"Invalid invite url." = "Неважечка URL-референца за покана.";
+
+"Something went wrong." = "Нешто не е во ред.";
+
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "Имаше проблем со контактирање со серверите на Apple. Обиди се повторно. (%lld)";
+
+"Failed to validate id token." = "Не успеа да се потврди токенот за идентификација";
+
+"Store failed." = "Складирањето не успеа.";
+
+"There is a problem with the server. Please try again later." = "Има проблем со серверот. Обиди се повторно подоцна.";
+
+"No sign in info found. Please sign in." = "Не се пронајдени информации за најава. Најави се.";
+
+"There was a problem clearing sign in info. Please try again." = "Имаше проблем со бришење на информациите за најава. Обиди се повторно.";
+
+"Missing bundle id." = "Недостасува идентификација на пакет.";
+
+"Let’s create" = "Ајде да креираме";
+
+"Unknown other error." = "Друга непозната грешка.";
+
+"Sign in failed" = "Најавата не успеа";
+
+"Let’s collaborate" = "Ајде да соработуваме";
+
+"Let’s go" = "Ајде";
+

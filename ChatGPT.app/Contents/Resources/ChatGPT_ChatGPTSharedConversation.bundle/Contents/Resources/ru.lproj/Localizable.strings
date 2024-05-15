@@ -1,0 +1,26 @@
+"Menu" = "Меню";
+
+"Shared conversation is invalid." = "Общее обсуждение недействительно.";
+
+"Help and FAQ" = "Справка и часто задаваемые вопросы";
+
+"Continue" = "Продолжить";
+
+"Shared Link Date" = "Дата общей ссылки";
+
+"Shared Link Title" = "Название общей ссылки";
+
+"Shared Link Owner" = "Владелец общей ссылки";
+
+"The shared conversation does not exist." = "Общего обсуждения не существует.";
+
+"This conversation may reflect the link creator’s custom instructions, which aren’t shared and can meaningfully change how the model responds." = "Это обсуждение может отражать специальные инструкции создателя ссылки, которые не разглашаются и могут существенно изменить реакцию модели.";
+
+"Failed to determine model." = "Не удалось определить модель.";
+
+"Shared conversation" = "Общее обсуждение";
+
+"Report" = "Пожаловаться";
+
+"Failed to load shared conversation." = "Не удалось загрузить общее обсуждение.";
+

@@ -1,0 +1,14 @@
+"Loading account…" = "Аккаунт жүктелуде…";
+
+"  %@\n\n  OpenAI employees are required to use internal builds to access ChatGPT.\n" = "  %@\n\n  OpenAI қызметкерлері ChatGPT-ді пайдалану үшін ішкі құрастырылымдарды қолдануы тиіс.\n";
+
+"Check your OpenAI e-mail for an invite titled \"OpenAI has invited you to test ChatGPT\" or contact [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A) to be added." = "OpenAI электрондық поштаңызда «OpenAI сізді ChatGPT-ді сынап көруге шақырды» деген тақырыбы бар шақырудың бар-жоғын тексеріңіз немесе [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A) мекенжайына хабарласып, сізді қосуды сұраңыз.";
+
+"Checking system health…" = "Жүйенің жұмысқа қабілеттілігі тексерілуде…";
+
+"Checking system health…" = "Жүйенің жұмысқа қабілеттілігі тексерілуде...";
+
+"Error loading account information. Please try again later." = "Аккаунт ақпаратын жүктеу кезінде қате шықты. Кейінірек қайталап көріңіз.";
+
+"Download the beta build or contact [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W) if you're having issues." = "Бета нұсқасын жүктеп алыңыз немесе мәселелер болса, [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W) қызметіне хабарласыңыз.";
+

@@ -1,0 +1,74 @@
+"Select Text" = "Selecciona el text";
+
+"Change Model" = "Canvia el model";
+
+"Failed, retry?" = "Error. Vols tornar-ho a provar?";
+
+"Upgraded response" = "Resposta millorada";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT només conserva els fitxers durant un període limitat. Comença una nova conversa o puja un fitxer nou per continuar la conversa.";
+
+"Sign in to %@" = "Inicia la sessió a %@";
+
+"Quick Look" = "Ullada ràpida";
+
+"File unavailable" = "Fitxer no disponible";
+
+"Edit" = "Modifica";
+
+"Analysis" = "Anàlisi";
+
+"Bad" = "Malament";
+
+"Memory updated" = "Memòria actualitzada";
+
+"You" = "Tu";
+
+"Read Aloud" = "Llegeix en veu alta";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Escrit amb el nostre model més potent, GPT-4, disponible amb ChatGPT Plus.";
+
+"File expired" = "Fitxer caducat";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "Pujant ^[%lld fitxers adjunts](inflect: true)…";
+
+"\"%@\" column" = "Columna «%@»";
+
+"Your most recent request failed. Please retry!" = "La teva sol·licitud més recent ha fallat. Torna-ho a provar!";
+
+"Regenerate" = "Torna a generar";
+
+"Deny" = "Denega";
+
+"Selection" = "Selecció";
+
+"Please try again later.%@" = "Torna-ho a provar en un altre moment. %@";
+
+"A GPT" = "Un GPT";
+
+"Continue Generating" = "Segueix generant";
+
+"Decline" = "Rebutja";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Aquest fitxer ja no està disponible. Comença una nova conversa o puja un fitxer nou per continuar la conversa.";
+
+"Save File As…" = "Desa el fitxer com…";
+
+"How would you rate this GPT?" = "Com valoraries aquest GPT?";
+
+"Loading…" = "S’està carregant…";
+
+"Memories updated" = "Memòries actualitzades";
+
+"Response rating failed." = "Error de valoració de resposta.";
+
+"Always allow" = "Permet sempre";
+
+"Stop Generating" = "Atura la generació";
+
+"#%lld row" = "Fila núm. %lld";
+
+"Manage memories" = "Gestiona memòries";
+
+"\"%@\" cell" = "Cel·la «%@»";
+

@@ -1,0 +1,170 @@
+"Connection failed, tap to retry" = "La connexion a échoué, appuyez pour réessayer";
+
+"Take picture" = "Prendre une photo";
+
+"Error: '%@'" = "Erreur : '%@'";
+
+"Voice chat ended after " = "Chat vocal terminé après ";
+
+"Flip camera to the rear" = "Tourner la caméra vers l’arrière";
+
+"Click to send manually" = "Cliquez pour envoyer manuellement";
+
+"%lld." = "%lld.";
+
+"Select %@" = "Sélectionner %@";
+
+"Tap to send manually" = "Appuyez pour envoyer manuellement";
+
+"On for training" = "Actif pour l’entraînement";
+
+"Other" = "Autre";
+
+"Voice feedback: give thumbs down" = "Avis sur les échanges vocaux : négatif";
+
+"Unable to review action" = "Impossible d’examiner l’action";
+
+"Voice chat ended" = "Chat vocal terminé";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "Vous avez choisi de partager l’audio de vos chats vocaux afin d'améliorer et d'entraîner nos modèles. Ceci inclut l'audio provenant de votre micro lorsque le modèle réfléchit ou parle. Vous pouvez désactiver le partage dans les paramètres.";
+
+"Finish speaking to send" = "Terminez de parler pour envoyer";
+
+"Voice mode" = "Mode vocal";
+
+"Tap to dismiss" = "Appuyez pour ignorer";
+
+"Connecting.." = "Connexion...";
+
+"Failed to connect" = "Impossible de se connecter";
+
+"Learn more" = "En savoir plus";
+
+"Connected" = "Connecté";
+
+"Start speaking" = "Commencez à parler";
+
+"Connection failed, click to retry" = "La connexion a échoué, cliquez pour réessayer";
+
+"Flip camera to the front" = "Tourner la caméra vers l’avant";
+
+"You can change this later." = "Vous pourrez modifier cette option ultérieurement.";
+
+"Audio issues" = "Problèmes audio";
+
+"Halted" = "Stoppé";
+
+"Voice feedback: give thumbs up" = "Avis sur les échanges vocaux : positif";
+
+"Click to activate" = "Cliquez pour activer";
+
+"Thinking" = "Réflexion en cours";
+
+"Go backward 15 seconds" = "Revenir en arrière de 15 secondes";
+
+"Helping improve voice" = "Contribue à améliorer les fonctionnalités vocales";
+
+"Unknown" = "Inconnu";
+
+"Release to send" = "Relâchez pour envoyer";
+
+"Unselect %@" = "Désélectionner %@";
+
+"Tap to activate" = "Appuyez pour activer";
+
+"Restart" = "Redémarrer";
+
+"Close camera" = "Fermer la caméra";
+
+"Go forward 15 seconds" = "Avancer de 15 secondes";
+
+"Paused" = "En pause";
+
+"Grace Period for %@s" = "Délai de %@ s";
+
+"Click to connect" = "Cliquez pour connecter";
+
+"Open camera" = "Ouvrir la caméra";
+
+"Play" = "Lecture";
+
+"Save to Photos" = "Enregistrer dans les photos";
+
+"Speaking" = "Locution en cours";
+
+"Submit feedback" = "Soumettre les commentaires";
+
+"Connect" = "Connecter";
+
+"Tap to connect" = "Appuyez pour connecter";
+
+"I didn’t like the responses" = "Je n’ai pas aimé les réponses";
+
+"Speak to keep active" = "Parlez pour maintenir la conversation";
+
+"Enable microphone access in Settings" = "Activer l’accès au micro dans les paramètres";
+
+"Good" = "Bien";
+
+"Excellent" = "Excellent";
+
+"Tap to interrupt" = "Appuyez pour interrompre";
+
+"Unknown error" = "Erreur inconnue";
+
+"%lldms" = "%lld ms";
+
+"Connecting." = "Connexion.";
+
+"Choose a voice" = "Choisir une voix";
+
+"It misheard me" = "Le système m’a mal compris";
+
+"Poor connection" = "Connexion faible";
+
+"•" = "•";
+
+"Speak now" = "Parlez maintenant";
+
+"Pick photo" = "Choisir une photo";
+
+"What went wrong?" = "Qu'est-ce qui n'a pas fonctionné ?";
+
+"Click to interrupt" = "Cliquez pour interrompre";
+
+"Close" = "Fermer";
+
+"It interrupted me" = "Le système m’a coupé la parole";
+
+"Stop listening" = "Arrêtez l’écoute";
+
+"Idle" = "Inactif";
+
+"Listening intently" = "Écoute intentionnelle";
+
+"See more information about voice research" = "Voir plus d’informations sur la recherche vocale";
+
+"Lost" = "Perdu";
+
+"Poor" = "Mauvais";
+
+"Connecting" = "Connexion";
+
+"Resume listening" = "Reprendre l’écoute";
+
+"Listening" = "Écoute en cours";
+
+"Select all that apply" = "Sélectionnez toutes les réponses applicables";
+
+"Unable to send response. Please try again." = "Impossible d’envoyer la réponse. Veuillez réessayer.";
+
+"Pause" = "Pause";
+
+"Click to cancel" = "Cliquez pour annuler";
+
+"Tap to cancel" = "Appuyez pour annuler";
+
+"Thank you!" = "Merci !";
+
+"Hold for manual control" = "Maintenez enfoncé pour contrôler manuellement";
+

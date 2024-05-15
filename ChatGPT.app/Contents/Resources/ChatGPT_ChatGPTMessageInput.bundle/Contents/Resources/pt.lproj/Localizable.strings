@@ -1,0 +1,82 @@
+"Edit image" = "Editar imagem";
+
+"Failed, retry?" = "Falhou, tentar novamente?";
+
+"Image upload failed." = "Falha no carregamento da imagem.";
+
+"Editing message" = "Editando mensagem";
+
+"Edit selection" = "Editar seleção";
+
+"You need %@ to continue this chat because it uses audio." = "Como este chat usa áudio, você precisa do %@ para continuá-lo.";
+
+"You need %@ to continue this chat because this GPT requires it." = "Como este GPT requer o %@, você precisa dele para continuar o chat.";
+
+"No connection" = "Sem conexão";
+
+"Scroll to bottom" = "Rolar até o final";
+
+"Get Plus to Chat" = "Obtenha o Plus para conversar";
+
+"Stop Generating" = "Interromper geração";
+
+"This chat uses an older version of your custom instructions" = "Este chat usa uma versão mais antiga das suas instruções personalizadas";
+
+"New Message" = "Nova mensagem";
+
+"File upload failed." = "Falha no carregamento do arquivo.";
+
+"Attached image" = "Imagem anexa";
+
+"Confirm" = "Confirmar";
+
+"Message" = "Mensagem";
+
+"Switch to Voice mode" = "Alternar para modo voz";
+
+"Image attachment failed." = "Falha no anexo da imagem.";
+
+"You need %@ to continue this chat because it has attachments." = "Como este chat tem anexos, você precisa do %@ para continuá-lo.";
+
+"Are you sure?" = "Tem certeza?";
+
+"This chat is currently unavailable" = "Este chat está indisponível no momento";
+
+"Microphone access required" = "Acesso ao microfone necessário";
+
+"Continue Generating" = "Continuar gerando";
+
+"Stop" = "Parar";
+
+"Remove attachment" = "Remover anexo";
+
+"Upload File" = "Carregar arquivo";
+
+"To continue, you’ll need to replace the current attachment." = "Para continuar, você precisará substituir o anexo atual.";
+
+"Dictation" = "Ditado";
+
+"Replace" = "Substituir";
+
+"Fullscreen" = "Tela cheia";
+
+"You need %@ to continue this chat because it has images." = "Como este chat tem imagens, você precisa do %@ para continuá-lo.";
+
+"Replace attachment?" = "Substituir anexo?";
+
+"Message ChatGPT" = "Mensagem para o ChatGPT";
+
+"Attach photos" = "Anexar fotos";
+
+"You've reached your %@ limit." = "Você chegou ao limite do %@.";
+
+"You need %@ to continue this chat because it uses tools." = "Como este chat usa ferramentas, você precisa do %@ para continuá-lo.";
+
+"Send" = "Enviar";
+
+"Attach files" = "Anexar arquivos";
+
+"If you cancel the text conversion you will lose the recording." = "Se você cancelar a conversão de texto, perderá a gravação.";
+
+"Shows the voice recording interface and begins recording" = "Mostra a interface de gravação de voz e inicia a gravação";
+

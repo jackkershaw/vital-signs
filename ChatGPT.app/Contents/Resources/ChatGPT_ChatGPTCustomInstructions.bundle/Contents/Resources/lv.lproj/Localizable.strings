@@ -1,0 +1,52 @@
+"Keep editing" = "Turpināt rediģēšanu";
+
+"Custom Instructions Enabled or Disabled" = "Iespējotas vai atspējotas pielāgotas norādes";
+
+"Error saving custom instructions" = "Saglabājot pielāgotas norādes, radās kļūda";
+
+"Error loading customizations. Please try again later." = "Ielādējot pielāgojumus, radās kļūda. Mēģini vēlreiz vēlāk.";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Vai tiešām vēlies atmest izmaiņas?\nVisas veiktās izmaiņas tiks zaudētas.";
+
+"How would you like ChatGPT to respond?" = "Kā tu vēlies, lai ChatGPT atbild?";
+
+"Discard changes" = "Atmest izmaiņas";
+
+"Execute code using Code Interpreter" = "Izpildi kodu, izmantojot koda interpretētāju";
+
+"DALL•E" = "DALL·E";
+
+"Save" = "Saglabāt";
+
+"Saving Custom Instructions" = "Saglabā pielāgotas norādes";
+
+"Choose which tools can be used with GPT-4." = "Izvēlies, kurus rīkus var izmantot ar GPT-4.";
+
+"Code" = "Kods";
+
+"Generate images using DALL•E" = "Ģenerē attēlu, izmantojot DALL·E";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Pielāgotas norādes tiks piemērotas visām jaunām tērzētavām. [Uzzināt vairāk](chat-preferences-disclosures)";
+
+"Customize ChatGPT" = "Pielāgot ChatGPT";
+
+"GPT-4 Capabilities" = "GPT-4 funkcijas";
+
+"Browse the internet to find answers" = "Pārlūko internetu, lai atrastu atbildes";
+
+"An unknown error occurred. Please try again later" = "Ir notikusi nezināma kļūda. Lūdzu, mēģini vēlreiz vēlāk";
+
+"Show tips" = "Parādīt ieteikumus";
+
+"Error updating state for customizations. Please try again later." = "Atjauninot pielāgojumu statusu, radās kļūda. Mēģini vēlreiz vēlāk.";
+
+"Thought starters" = "Domu uzvedinātāji";
+
+"Enable for new chats" = "Iespējot jaunām tērzētavām";
+
+"Unsaved changes" = "Nesaglabātas izmaiņas";
+
+"Browsing" = "Pārlūkošana";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Ko tu vēlies, lai ChatGPT zinātu par tevi, lai tas sniegtu labākas atbildes?";
+

@@ -1,0 +1,178 @@
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "നിങ്ങളുടെ അക്കൗണ്ട് ഇല്ലാതാക്കുന്നതിൽ ഒരു പിശകുണ്ടായി. ദയവായി വീണ്ടും ശ്രമിക്കുക. പ്രശ്നം തുടരുകയാണെങ്കിൽ, help.openai.com ൽ ഞങ്ങളെ സന്ദർശിക്കുക.";
+
+"Your account has been queued for deletion." = "നിങ്ങളുടെ അക്കൗണ്ട് ഇല്ലാതാക്കാനായി ക്യൂവിലാണ്.";
+
+"Could not archive all chats" = "എല്ലാ ചാറ്റുകളും ആർക്കൈവ് ചെയ്യാനായില്ല";
+
+"Keep ChatGPT on top" = "ChatGPT മുകളിൽ സൂക്ഷിക്കുക";
+
+"Delete Account" = "അക്കൗണ്ട് ഇല്ലാതാക്കുക";
+
+"This workspace is private and opted out of training." = "ഈ വർക്ക്‌സ്പേസ് സ്വകാര്യവും പരിശീലനത്തിൽ നിന്ന് ഒഴിവാക്കപ്പെട്ടതുമാണ്.";
+
+"Workspace" = "വർക്ക്‌സ്‌പേസ്";
+
+"None" = "ഒന്നുമില്ല";
+
+"Archive All Chats" = "എല്ലാ ചാറ്റുകളും ആർകൈവ് ചെയ്യുക";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "ഈ ഉപകരണത്തിലെ പുതിയ ചാറ്റുകൾ നിങ്ങളുടെ ചരിത്രത്തിലേക്ക് സംരക്ഷിക്കുക. സംരക്ഷിക്കാത്ത ചാറ്റുകൾ 30 ദിവസത്തിനുള്ളിൽ ഞങ്ങളുടെ സിസ്റ്റങ്ങളിൽ നിന്ന് ഇല്ലാതാക്കപ്പെടും. ഈ ക്രമീകരണം ഉപകരണങ്ങളിലുടനീളം സിങ്ക് ചെയ്യുന്നില്ല. [കൂടുതലറിയുക](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Haptic Feedback" = "ഹാപ്റ്റിക് ഫീഡ്ബാക്ക്";
+
+"Chat History & Training" = "ചാറ്റ് ചരിത്രവും പരിശീലനവും";
+
+"Email" = "ഇമെയിൽ";
+
+"Keyboard Shortcut" = "കീബോർഡ് ഷോർട്ട്കട്ട്";
+
+"Archived Chats" = "ആർകൈവ് ചെയ്‌ത ചാറ്റുകൾ";
+
+"New Features" = "പുതിയ ഫീച്ചറുകൾ";
+
+"Email missing!" = "ഇമെയിൽ കാണുന്നില്ല!";
+
+"Dark" = "ഡാർക്ക്";
+
+"Voice" = "ശബ്ദം";
+
+"Confirm Export" = "എക്സ്പോർട്ട് സ്ഥിരീകരിക്കുക";
+
+"Memory" = "മെമ്മറി";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "നിങ്ങൾ മറ്റൊരു പ്ലാറ്റ്‌ഫോമിൽ ഈ സബ്‌സ്‌ക്രിപ്‌ഷൻ വാങ്ങിയതിനാൽ ഈ ആപ്പിനുള്ളിൽ നിങ്ങളുടെ സബ്‌സ്‌ക്രിപ്‌ഷനിൽ മാറ്റങ്ങൾ വരുത്താനാകില്ല.";
+
+"ChatGPT Plus" = "ChatGPT പ്ലസ്";
+
+"Export Data" = "ഡാറ്റ എക്സ്പോർട്ട് ചെയ്യുക";
+
+"Archived conversations will be available here" = "ആർക്കൈവ് ചെയ്‌ത സംഭാഷണങ്ങൾ ഇവിടെ ലഭ്യമാകും";
+
+"Manage Subscriptions" = "സബ്‌സ്‌ക്രിപ്‌ഷനുകൾ മാനേജ് ചെയ്യുക";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "കഴിഞ്ഞ 10 മിനിറ്റിനുള്ളിൽ നിങ്ങൾ ലോഗിൻ ചെയ്‌തിട്ടുണ്ടെങ്കിൽ മാത്രമേ നിങ്ങളുടെ അക്കൗണ്ട് ഇല്ലാതാക്കാൻ കഴിയൂ.\n\nദയവായി വീണ്ടും ലോഗിൻ ചെയ്യുക, പിന്നീട് തുടരാൻ ഇങ്ങോട്ട് മടങ്ങിയെത്തുക.";
+
+"Error archiving all chats" = "എല്ലാ ചാറ്റുകളും ആർക്കൈവ് ചെയ്യുന്നതിൽ പിശക്";
+
+"Conversation not found" = "സംഭാഷണം കണ്ടെത്താനായില്ല";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "നിങ്ങളുടെ അക്കൗണ്ട് വിശദാംശങ്ങളും സംഭാഷണങ്ങളും എക്സ്പോർട്ടിൽ ഉൾപ്പെടുത്തും.\n\nഡൗൺലോഡ് ചെയ്യാവുന്ന ഒരു ഫയലിൽ നിങ്ങളുടെ രജിസ്റ്റർ ചെയ്ത ഇമെയിലിലേക്ക് ഡാറ്റ അയയ്ക്കും.\n\nപ്രോസസ്സ് ചെയ്യുന്നതിന് കുറച്ച് സമയമെടുത്തേക്കാം. ഇത് തയ്യാറാകുമ്പോൾ നിങ്ങളെ അറിയിക്കും.";
+
+"App" = "ആപ്പ്";
+
+"Terms of Use" = "ഉപയോഗ നിബന്ധനകൾ";
+
+"Could not unarchive conversation. Please try again later." = "സംഭാഷണം അൺആർക്കൈവ് ചെയ്യാനായില്ല. ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക.";
+
+"Light" = "ലൈറ്റ്";
+
+"Could not delete conversation. Please try again later." = "സംഭാഷണം ഇല്ലാതാക്കാൻ കഴിഞ്ഞില്ല. ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക.";
+
+"Help Center" = "സഹായകേന്ദ്രം";
+
+"Subscription" = "സബ്‌സ്‌ക്രിപ്‌ഷൻ";
+
+"Yesterday" = "ഇന്നലെ";
+
+"On" = "ഓൺ";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "നിങ്ങൾ ചാറ്റ് ചെയ്യുമ്പോൾ ChatGPT കൂടുതൽ സഹായകരമാകും, അതിൻ്റെ മറുപടികള്‍ നിങ്ങൾക്ക് അനുയോജ്യമാക്കുന്നതിന് വിശദാംശങ്ങളും മുൻഗണനകളും എടുക്കും. [കൂടുതലറിയുക](%@)\n\nChatGPT എന്താണ് ഓർമ്മിക്കുന്നതെന്ന് മനസിലാക്കുന്നതിനോ പുതിയത് എന്തെങ്കിലും പഠിപ്പിക്കുന്നതിനോ, അതിൽ ചാറ്റ് ചെയ്യുക:\n\n• “എനിക്ക് ചുരുക്കിയ മറുപടികളാണ് താല്പര്യമെന്ന് ഓർമ്മിക്കുക.”\n• “എനിക്ക് ഒരു നായ്ക്കുട്ടിയെ ലഭിച്ചു!”\n• “നിങ്ങൾ എന്നെ കുറിച്ച് എന്താണ് ഓർമ്മിക്കുന്നത്?”\n• “എൻ്റെ അവസാന പ്രൊജക്റ്റ് ഞങ്ങൾ എവിടെയാണ് നിർത്തിയത്?”";
+
+"ChatGPT Team" = "ChatGPT Team";
+
+"Today" = "ഇന്ന്";
+
+"About" = "ഇതിനെക്കുറിച്ച്";
+
+"Always show ChatGPT in dock" = "ഡോക്കിൽ എപ്പോഴും ChatGPT കാണിക്കുക";
+
+"Chat training" = "ചാറ്റ് പരിശീലനം";
+
+"Privacy Policy" = "സ്വകാര്യതാ നയം";
+
+"Improve the model for everyone" = "എല്ലാവർക്കും വേണ്ടി മോഡൽ മെച്ചപ്പെടുത്തുക";
+
+"Data Controls" = "ഡാറ്റ നിയന്ത്രണങ്ങൾ";
+
+"Manage workspace" = "വർക്ക്‌സ്‌പേസ് മാനേജ് ചെയ്യുക";
+
+"We were unable to process your export at this time. Please try again later." = "ഇപ്പോൾ നിങ്ങളുടെ എക്സ്പോർട്ട് പ്രോസസ് ചെയ്യാൻ ഞങ്ങൾക്ക് കഴിഞ്ഞില്ല. ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക.";
+
+"App Language" = "ആപ്പിൻ്റെ ഭാഷ";
+
+"Manage Memory" = "മെമ്മറി മാനേജ് ചെയ്യുക";
+
+"Delete All Chats" = "എല്ലാ ചാറ്റുകളും നീക്കം ചെയ്യുക";
+
+"Search Archive" = "ആർക്കൈവിൽ തിരയുക";
+
+"We couldn't load your archived chats" = "നിങ്ങളുടെ ആർക്കൈവ് ചെയ്‌ത ചാറ്റുകൾ ലോഡ് ചെയ്യാൻ ഞങ്ങൾക്ക് കഴിഞ്ഞില്ല";
+
+"Unarchive" = "അൺആർക്കൈവ് ചെയ്യുക";
+
+"Help" = "സഹായം";
+
+"Could not update the memory setting. Please try again later." = "മെമ്മറി ക്രമീകരണം അപ്ഡേറ്റ് ചെയ്യാനായില്ല. ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക.";
+
+"Off" = "ഓഫ്";
+
+"ChatGPT Enterprise" = "ChatGPT എൻ്റർപ്രൈസ്";
+
+"Main Language" = "പ്രധാന ഭാഷ";
+
+"Subscription Cancellation" = "സബ്സ്ക്രിപ്ഷൻ റദ്ദാക്കൽ";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "ഞങ്ങളുടെ മോഡലുകൾ മെച്ചപ്പെടുത്താനും ട്രെയിൻ ചെയ്യാനും ഭാവിയിലെ വോയ്‌സ് ചാറ്റുകളിൽ നിന്നുള്ള ഓഡിയോ പങ്കിടുക. ഇതിലൂടെ എല്ലാവർക്കുമായി വോയ്‌സ് ചാറ്റുകളുടെ ഗുണനിലവാരം മെച്ചപ്പെടുത്തുന്നു. [കൂടുതലറിയുക](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Chat history" = "ചാറ്റ് ചരിത്രം";
+
+"All your chats will be archived. This cannot be undone." = "നിങ്ങളുടെ എല്ലാ ചാറ്റുകളും ആർകൈവ് ചെയ്യും. ഇത് പഴയപടിയാക്കാൻ കഴിയില്ല.";
+
+"All your chats will be cleared from history. This cannot be undone." = "നിങ്ങളുടെ എല്ലാ ചാറ്റുകളും ചരിത്രത്തിൽ നിന്ന് മായ്‌ക്കപ്പെടും. ഇത് പഴയപടിയാക്കാൻ കഴിയില്ല.";
+
+"Restore purchases" = "വാങ്ങലുകൾ പുനഃസ്ഥാപിക്കുക";
+
+"No archived chats" = "ആർകൈവ് ചെയ്‌ത ചാറ്റുകൾ ഒന്നുമില്ല";
+
+"Upgrade to ChatGPT Plus" = "ChatGPT Plus-ലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുക";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "നിങ്ങളുടെ അക്കൗണ്ട് ഇല്ലാതാക്കുന്നത് ശാശ്വതമാണ്, അത് പഴയപടിയാക്കാനാകില്ല. പ്രൊഫൈൽ, സംഭാഷണങ്ങൾ, API ഉപയോഗം എന്നിവ ഉൾപ്പെടെ നിങ്ങളുടെ എല്ലാ ഡാറ്റയും നീക്കം ചെയ്യപ്പെടും.\n\nഒരു പുതിയ അക്കൗണ്ടിനായി നിങ്ങൾക്ക് ഇതേ ഇമെയിലോ ഫോൺ നമ്പറോ വീണ്ടും ഉപയോഗിക്കാൻ കഴിയില്ല.\n\nനിങ്ങൾ API ഉപയോഗിച്ച് ChatGPT ഉപയോഗിക്കുന്നുണ്ടെങ്കിൽ, ഈ ആക്‌സസ്സും ഇല്ലാതാക്കപ്പെടും.";
+
+"System" = "സിസ്റ്റം";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "ഈ ഉപകരണത്തിലെ പുതിയ ചാറ്റുകൾ നിങ്ങളുടെ ചരിത്രത്തിലേക്ക് സംരക്ഷിച്ച് ഞങ്ങളുടെ മോഡലുകൾ മെച്ചപ്പെടുത്താൻ അവ ഉപയോഗിക്കാൻ അനുവദിക്കുക. സംരക്ഷിക്കാത്ത ചാറ്റുകൾ 30 ദിവസത്തിനുള്ളിൽ ഞങ്ങളുടെ സിസ്റ്റങ്ങളിൽ നിന്ന് ഇല്ലാതാക്കപ്പെടും. ഈ ക്രമീകരണം ഉപകരണങ്ങളിലുടനീളം സിങ്ക് ചെയ്യുന്നില്ല. [കൂടുതലറിയുക](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Desktop Launcher" = "ഡെസ്ക്ടോപ്പ് ലോഞ്ചർ";
+
+"Could not delete all chats" = "എല്ലാ ചാറ്റുകളും ഇല്ലാതാക്കാൻ കഴിഞ്ഞില്ല";
+
+"Improve voice for everyone" = "എല്ലാവർക്കും വേണ്ടി ശബ്ദം മെച്ചപ്പെടുത്തുക";
+
+"Free Plan" = "സൗജന്യ പ്ലാൻ";
+
+"Successfully exported data. You should receive an email shortly with your data." = "ഡാറ്റ വിജയകരമായി എക്സ്പോർട്ട് ചെയ്തു. നിങ്ങളുടെ ഡാറ്റ അടങ്ങിയ ഒരു ഇമെയിൽ ഉടൻ നിങ്ങൾക്ക് ലഭിക്കും.";
+
+"Are you sure?" = "നിങ്ങൾക്ക് ഉറപ്പാണോ?";
+
+"Customize ChatGPT" = "ChatGPT ഇഷ്‌ടാനുസൃതമാക്കുക";
+
+"Color Scheme" = "കളർ സ്കീം";
+
+"ChatGPT for %@" = "%@-ന് വേണ്ടിയുള്ള ChatGPT";
+
+"View" = "കാണുക";
+
+"Speech" = "സംസാരം";
+
+"Error deleting all chats" = "എല്ലാ ചാറ്റുകളും ഇല്ലാതാക്കുന്നതിൽ പിശക്";
+
+"Recent login required" = "സമീപകാലത്തുള്ള ലോഗിൻ ആവശ്യമാണ്";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "മികച്ച ഫലങ്ങൾക്കായി, നിങ്ങൾ പ്രധാനമായും സംസാരിക്കുന്ന ഭാഷ തിരഞ്ഞെടുക്കുക. ഇത് ലിസ്‌റ്റ് ചെയ്‌തിട്ടില്ലെങ്കിലും, സ്വയം കണ്ടെത്തലിലൂടെ ഈ ഭാഷ തിരിച്ചറിയപ്പെടാം.";
+
+"Error updating setting. Please try again later" = "ക്രമീകരണം അപ്ഡേറ്റ് ചെയ്യുന്നതിൽ പിശക്. ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "നിങ്ങളുടെ അക്കൗണ്ട് ഇല്ലാതാക്കുന്നതിലൂടെ സജീവമായ ഇൻ-ആപ്പ് സബ്‌സ്‌ക്രിപ്‌ഷനുകളൊന്നും റദ്ദാക്കില്ല. നിങ്ങളുടെ Apple ID ക്രമീകരണങ്ങളിൽ നിങ്ങൾക്ക് ഈ സബ്‌സ്‌ക്രിപ്‌ഷനുകൾ റദ്ദാക്കാം.";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "ഞങ്ങളുടെ മോഡലുകളെ പരിശീലിപ്പിക്കുന്നതിന് നിങ്ങളുടെ ഉള്ളടക്കം ഉപയോഗിക്കാൻ അനുവദിക്കുക, ഇത് നിങ്ങൾക്കും അത് ഉപയോഗിക്കുന്ന എല്ലാവർക്കുംവേണ്ടി ChatGPT-യെ മികച്ചതാക്കാൻ സഹായിക്കുന്നു. നിങ്ങളുടെ സ്വകാര്യത സംരക്ഷിക്കുന്നതിനുള്ള നടപടികൾ ഞങ്ങൾ സ്വീകരിക്കുന്നു. [കൂടുതലറിയുക](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+

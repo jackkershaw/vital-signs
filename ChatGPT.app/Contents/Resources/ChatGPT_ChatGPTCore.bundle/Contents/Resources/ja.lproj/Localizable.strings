@@ -1,0 +1,82 @@
+"Browsing" = "ウェブ参照";
+
+"Info" = "情報";
+
+"ChatGPT" = "ChatGPT";
+
+"Unsupported content" = "サポート対象外の内容";
+
+"Pinned" = "ピン留め";
+
+"Your limit resets in 1 minute" = "制限が 1 分後にリセットされます";
+
+"The builder of this GPT can’t view your chats or memories" = "この GPT のビルダーはチャットやメモリを表示できません";
+
+"Contents may violate our content policy" = "コンテンツがコンテンツポリシーに違反している可能性があります";
+
+"Link unavailable" = "リンクが利用できません";
+
+"Memory" = "メモリ";
+
+"Invalid citation" = "無効な引用です";
+
+"By %@" = "作成者: %@";
+
+"Temporary Chat" = "一時チャット";
+
+"GitHub" = "GitHub";
+
+"community builder" = "コミュニティ ビルダー";
+
+"Copy Link" = "リンクをコピーする";
+
+"Any data shared with a third party through GPT actions are subject to the third party's privacy policy. [Learn more](https://help.openai.com/en/articles/8914046-temporary-chat-faq)" = "GPT のアクションを通じてサードパーティと共有されるデータには、サードパーティのプライバシーポリシーが適用されます。[詳細を見る](https://help.openai.com/en/articles/8914046-temporary-chat-faq)";
+
+"Your limit resets tomorrow at %@" = "制限が明日 %@ にリセットされます。";
+
+"Your limit resets at %@" = "制限が %@ でリセットされます";
+
+"Citation" = "引用";
+
+"Your limit resets in %lld minutes" = "制限が %lld 分後にリセットされます";
+
+"Website" = "ウェブサイト";
+
+"Twitter" = "Twitter";
+
+"Failed to load citation" = "引用を読み込めませんでした";
+
+"Me" = "自分";
+
+"This chat won't appear in history, use or create memories, or be used to train our models. For safety purposes, we may keep a copy of this chat for up to 30 days." = "このチャットが履歴に残ったり、メモリを使用または作成したり、モデルの学習に使用されたりすることはありません。安全上の理由から、弊社はこのチャットのコピーを最大 30 日間保管することがあります。";
+
+"Untitled" = "タイトルなし";
+
+"By community builder" = "コミュニティ ビルダーが作成";
+
+"This chat won't appear in history or be used to train our models. For safety purposes, we may keep a copy of this chat for up to 30 days." = "このチャットが履歴に残ったり、モデルの学習に使用されたりすることはありません。安全上の理由から、弊社はこのチャットのコピーを最大 30 日間保管することがあります。";
+
+"Data Analysis" = "データ分析";
+
+"This version of the app will be sunset soon!" = "このバージョンのアプリは間もなく廃止されます。";
+
+"The builder of this GPT can’t view your chats" = "この GPT のビルダーはチャットを表示できません";
+
+"Your limit resets %@" = "制限が %@ にリセットされます";
+
+"Retrieves or takes actions outside of ChatGPT" = "ChatGPT 外でアクションの取得や実行を行います";
+
+"LinkedIn" = "LinkedIn";
+
+"By" = "作成者";
+
+"Open Link" = "リンクを開く";
+
+"Learns from previous chats to improve future conversations" = "今後の会話を向上させるために過去のチャットから学習します";
+
+"Actions" = "アクション";
+
+"Instagram" = "Instagram";
+
+"DALL•E Images" = "DALL·E 画像";
+

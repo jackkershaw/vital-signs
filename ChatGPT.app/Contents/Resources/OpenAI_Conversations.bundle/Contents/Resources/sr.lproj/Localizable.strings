@@ -1,0 +1,124 @@
+"Delete Chat" = "Избриши ћаскање";
+
+"Archive Chat" = "Архивирај ћаскање";
+
+"You declined this action" = "Одбио/ла си ову радњу";
+
+"Stopped talking to %@" = "Разговор са %@ је прекинут";
+
+"Reading %@" = "Читање документа %@";
+
+"Finished analyzing" = "Анализа је завршена";
+
+"Talked to %@" = "Вођен је разговор са %@";
+
+"an external site" = "екстерни сајт";
+
+"Creating %lld images…" = "Прављење %lld слика…";
+
+"Stopped talking to site" = "Разговор са сајтом је прекинут";
+
+"Search stopped" = "Search stopped";
+
+"Error creating image" = "Грешка при прављењу слике";
+
+"Reading document" = "Читање документа";
+
+"Research complete" = "Истраживање је завршено";
+
+"Reading documents" = "Читање докумената";
+
+"Stopped researching" = "Истраживање је прекинуто";
+
+"Error analyzing" = "Грешка при анализи";
+
+"Stopped analyzing" = "Анализирање је прекинуто";
+
+"Unable to find metadata" = "Проналажење метаподатака није могуће";
+
+"Analyzing" = "Анализирање";
+
+"Stopped creating image" = "Прављење слике је прекинуто";
+
+"Unable to generate URL" = "Није могуће генерисати URL";
+
+"Archive" = "Архивирај";
+
+"Browsing %@" = "Прегледање %@";
+
+"Making a research plan" = "Прављење плана истраживања";
+
+"Read %@" = "Прочитај %@";
+
+"Error talking to %@" = "Грешка при разговору са %@";
+
+"Searching “%@”" = "Претраживање „%@“";
+
+"Talking to %@" = "Разговор са %@";
+
+"site" = "сајт";
+
+"Search failed" = "Search failed";
+
+"Visited %lld sites" = "Посетио/ла си %lld сајтова";
+
+"Error reading document" = "Грешка при читању документа";
+
+"Any created memories will be retained." = "Све направљене меморије ће бити задржане.";
+
+"System error" = "Системска грешка";
+
+"Stopped reading documents" = "Читање докумената је прекинуто";
+
+"Stopped reading document" = "Читање документа је прекинуто";
+
+"Stopped" = "Прекинуто.";
+
+"Visiting %@" = "Посећивање %@";
+
+"Unsupported content" = "Неподржан садржај";
+
+"Read document" = "Прочитај документ";
+
+"Doing research with Bing" = "Истраживање помоћу Bing-а";
+
+"Error reading documents" = "Грешка при читању докумената";
+
+"Searched %lld sites" = "Searched %lld sites";
+
+"Visited the web" = "Посетио/ла си интернет";
+
+"Visited %@" = "Посетио си/ла %@";
+
+"Unable to find citation ID" = "Проналажење ИД ознаке цитата није могуће";
+
+"Error creating images" = "Грешка при прављењу слика";
+
+"Searched 1 site" = "Searched 1 site";
+
+"Invalid citation" = "Неисправан цитат";
+
+"Creating 1 image…" = "Прављење 1 слике…";
+
+"Starting action" = "Покретање радње";
+
+"Creating image" = "Прављење слике";
+
+"This can't be undone." = "Ово не може да се поништи";
+
+"Are you sure you want to archive this chat?\nYou can view archived chats in Settings" = "Да ли стварно желиш да архивираш ово ћаскање?\nАрхивирана ћаскања можеш да погледаш у Поставкама.";
+
+"Error researching" = "Грешка при истраживању";
+
+"Stopped browsing" = "Прегледање је прекинуто";
+
+"Searching" = "Претраживање";
+
+"Read documents" = "Прочитај документе";
+
+"Writing prompts…" = "Писање промптова…";
+
+"Error browsing" = "Грешка при прегледању";
+
+"Read %lld documents" = "Прочитај %lld документа";
+

@@ -1,0 +1,12 @@
+"Check your OpenAI e-mail for an invite titled \"OpenAI has invited you to test ChatGPT\" or contact [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A) to be added." = "\"OpenAI의 ChatGPT 테스트에 초대되셨습니다\"라는 제목의 OpenAI 초대 이메일을 확인하거나 [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A)에 문의하여 요청하세요.";
+
+"Download the beta build or contact [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W) if you're having issues." = "문제가 발생하면 베타 빌드를 다운로드하거나 [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W)에 문의하세요.";
+
+"Loading account…" = "계정 로드 중...";
+
+"Checking system health…" = "시스템 건전성 확인...";
+
+"  %@\n\n  OpenAI employees are required to use internal builds to access ChatGPT.\n" = "  %@\n\n  OpenAI 직원은 내부 빌드를 사용하여 ChatGPT에 액세스해야 합니다.\n";
+
+"Error loading account information. Please try again later." = "계정 정보 로딩 오류. 나중에 다시 시도하세요.";
+

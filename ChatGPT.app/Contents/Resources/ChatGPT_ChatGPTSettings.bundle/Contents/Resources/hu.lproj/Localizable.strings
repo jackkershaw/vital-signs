@@ -1,0 +1,178 @@
+"This workspace is private and opted out of training." = "Ez a munkaterület privát, és nem kerül felhasználásra betanításhoz.";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "A fiók törlésével nem törlöd az aktív, appon belül vásárolt előfizetéseidet. Ezeket az előfizetéseket az Apple ID beállításaiban törölheted.";
+
+"Chat History & Training" = "Csevegési előzmények és betanítás";
+
+"Successfully exported data. You should receive an email shortly with your data." = "Sikerült exportálni az adatokat. Hamarosan megkapod az adataidat tartalmazó e-mailt.";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "Csak akkor törölheted a fiókodat, ha az utóbbi tíz percben beléptél. \n\nA folytatáshoz lépj be újra, majd térj vissza ide.";
+
+"Your account has been queued for deletion." = "Fiókodat felvettük a törlésre várók sorába.";
+
+"On" = "Bekapcsolva";
+
+"Manage Memory" = "Memória kezelése";
+
+"Manage workspace" = "Munkaterület kezelése";
+
+"Terms of Use" = "Általános szerződési feltételek";
+
+"Export Data" = "Adatok exportálása";
+
+"No archived chats" = "Nincsenek archivált csevegések";
+
+"Chat training" = "Betanítás csevegéssel";
+
+"Always show ChatGPT in dock" = "Mindig jelenjen meg a ChatGPT a Dockon";
+
+"ChatGPT Enterprise" = "ChatGPT Enterprise";
+
+"Are you sure?" = "Biztos vagy benne?";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Mentsd el az eszközön folytatott új csevegéseket az előzményekbe, és engedélyezd számunkra a felhasználásukat modelljeink továbbfejlesztésére. A nem mentett csevegéseket 30 napon belül töröljük rendszereinkből. Ez a beállítás nem szinkronizálódik eszközök között. [További információ](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"ChatGPT for %@" = "ChatGPT a következőhöz: %@";
+
+"Today" = "Ma";
+
+"Subscription" = "Előfizetés";
+
+"Privacy Policy" = "Adatvédelmi irányelvek";
+
+"Voice" = "Hang";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "A ChatGPT a csevegéssel egyre hasznosabb lesz, mert figyelembe veszi a részleteket és a preferenciáikat a válaszok személyre szabása érdekében. [További információ](%@)\n\nHa meg szeretnéd tudni, mire emlékszik a ChatGPT, vagy tanítanál neki valamit, csak csevegned kell vele:\n\n• „Emlékezz arra, hogy szeretem a tömör válaszokat.”\n• „Kaptam egy kutyust!”\n• „Mire emlékszel rólam?”\n• „Hol hagytuk abba a legutóbbi projektet?”";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Mentsd el az eszközön folytatott új csevegéseket az előzményekbe. A nem mentett csevegéseket 30 napon belül töröljük rendszereinkből. Ez a beállítás nem szinkronizálódik eszközök között. [További információ](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Data Controls" = "Adatvezérlők";
+
+"All your chats will be cleared from history. This cannot be undone." = "Az összes csevegés törlődik az előzményekből. Ezt a műveletet nem lehet visszavonni.";
+
+"About" = "Névjegy";
+
+"Archived conversations will be available here" = "Az archivált beszélgetések itt állnak majd rendelkezésre";
+
+"Error updating setting. Please try again later" = "Hiba történt a beállítás frissítése közben. Próbáld újra később.";
+
+"Workspace" = "Munkaterület";
+
+"Error archiving all chats" = "Hiba történt az összes csevegés archiválása közben";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Engedélyezed, hogy tartalmadat felhasználjuk modelljeink betanítására, ami javítja a ChatGPT működését számodra és minden más felhasználó számára. Lépéseket teszünk személyes adataid védelme érdekében. [További információ](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"ChatGPT Team" = "ChatGPT Team";
+
+"Search Archive" = "Keresés az archívumban";
+
+"Yesterday" = "Tegnap";
+
+"View" = "Megtekintés";
+
+"Color Scheme" = "Színséma";
+
+"Improve the model for everyone" = "A modell továbbfejlesztése mindenki számára";
+
+"Speech" = "Beszéd";
+
+"Could not delete all chats" = "Nem sikerült törölni az összes csevegést";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "Nem módosíthatod az előfizetésedet az appon belül, mert egy másik platformon vásároltad az előfizetést.";
+
+"Could not unarchive conversation. Please try again later." = "Nem sikerült visszavonni a beszélgetés archiválását. Próbáld újra később.";
+
+"Email" = "E-mail-cím";
+
+"Free Plan" = "Díjmentes csomag";
+
+"Main Language" = "Fő nyelv";
+
+"We couldn't load your archived chats" = "Nem sikerült betölteni az archivált csevegéseidet";
+
+"We were unable to process your export at this time. Please try again later." = "Nem sikerült végrehajtani az exportálást. Próbáld újra később.";
+
+"None" = "Nincs";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "A fiókod törlése végleges, és nem vonható vissza. Minden más adatod – beleértve a profilodat, a beszélgetéseidet és az API-használatot – eltávolításra kerül. \n\nNem használhatod fel újra ugyanazt az e-mail-címet vagy telefonszámot egy új fiók létrehozásához. \n\nHa az API-val használtad a ChatGPT-t, ez a hozzáférés is törlésre kerül.";
+
+"All your chats will be archived. This cannot be undone." = "Az összes csevegést archiválja a rendszer. Ezt a műveletet nem lehet visszavonni.";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "A legjobb eredmények érdekében a főként használt nyelvedet válaszd ki. Előfordulhat, hogy még akkor is támogatja az automatikus észlelés, ha nem látod a listában.";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Oszd meg a jövőbeli hangalapú csevegéseid hanganyagait a modelljeink továbbfejlesztéséhez és betanításához. Ezzel hozzájárulsz a hangalapú csevegések minőségének javításához mindenki számára. [További információ](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"App Language" = "App nyelve";
+
+"Keyboard Shortcut" = "Billentyűparancs";
+
+"Recent login required" = "Nemrég végrehajtott belépés szükséges";
+
+"Unarchive" = "Archiválás visszavonása";
+
+"Chat history" = "Csevegési előzmények";
+
+"ChatGPT Plus" = "ChatGPT Plus";
+
+"Dark" = "Sötét mód";
+
+"Restore purchases" = "Vásárlások visszaállítása";
+
+"Memory" = "Memória";
+
+"Archive All Chats" = "Összes csevegés archiválása";
+
+"Could not archive all chats" = "Nem sikerült archiválni az összes csevegést";
+
+"Archived Chats" = "Archivált csevegések";
+
+"Delete All Chats" = "Összes csevegés törlése";
+
+"Email missing!" = "Hiányzó e-mail-cím";
+
+"Confirm Export" = "Exportálás megerősítése";
+
+"Upgrade to ChatGPT Plus" = "Bővítés ChatGPT Plusra";
+
+"Improve voice for everyone" = "A hangalapú funkciók minőségének javítása mindenki számára";
+
+"Off" = "Kikapcsolva";
+
+"Customize ChatGPT" = "A ChatGPT testreszabása";
+
+"Desktop Launcher" = "Asztali indító";
+
+"Light" = "Világos mód";
+
+"System" = "Rendszer";
+
+"New Features" = "Új funkciók";
+
+"Could not update the memory setting. Please try again later." = "Nem sikerült frissíteni a memória beállítását. Próbáld újra később.";
+
+"Delete Account" = "Fiók törlése";
+
+"Conversation not found" = "A beszélgetés nem található";
+
+"Help" = "Súgó";
+
+"Keep ChatGPT on top" = "A ChatGPT megtartása felül";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "A fiókadatok és a beszélgetések az exportálásban szerepelnek. \n\nAz adatokat letölthető fájlban a regisztrált e-mail-címedre küldi a rendszer. \n\nA feldolgozás eltarthat egy ideig. Értesítést küldünk, amikor elkészült.";
+
+"Haptic Feedback" = "Haptikus visszajelzés";
+
+"Subscription Cancellation" = "Előfizetés törlése";
+
+"Error deleting all chats" = "Hiba történt az összes csevegés törlése közben";
+
+"Could not delete conversation. Please try again later." = "Nem sikerült törölni a beszélgetést. Próbáld újra később.";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "Hiba történt a fiók törlése közben. Próbáld újra. Ha a probléma továbbra is fennáll, vedd fel velünk a kapcsolatot a help.openai.com oldalon.";
+
+"App" = "App";
+
+"Help Center" = "Súgóközpont";
+
+"Manage Subscriptions" = "Előfizetések kezelése";
+

@@ -1,0 +1,52 @@
+"Error loading customizations. Please try again later." = "加载自定义项时出错。请稍后重试。";
+
+"Discard changes" = "放弃更改";
+
+"Customize ChatGPT" = "自定义 ChatGPT";
+
+"Keep editing" = "保留编辑";
+
+"Save" = "保存";
+
+"Error saving custom instructions" = "保存自定义指令时出错";
+
+"Browse the internet to find answers" = "浏览互联网以寻找答案";
+
+"Custom Instructions Enabled or Disabled" = "自定义指令已启用或禁用";
+
+"Choose which tools can be used with GPT-4." = "选择哪些工具可与 GPT-4 搭配使用。";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "您希望 ChatGPT 了解您的哪些方面以便提供更好的回复？";
+
+"Execute code using Code Interpreter" = "使用代码解译器来执行代码";
+
+"Thought starters" = "启发思考的提示";
+
+"DALL•E" = "DALL•E";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "确定要放弃更改吗？\n您所做的全部更改都将丢失。";
+
+"Saving Custom Instructions" = "正在保存自定义指令";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "自定义指令将应用于所有新聊天。[了解更多](chat-preferences-disclosures)";
+
+"GPT-4 Capabilities" = "GPT-4 功能";
+
+"Unsaved changes" = "未保存的更改";
+
+"Browsing" = "浏览";
+
+"An unknown error occurred. Please try again later" = "发生未知错误。请稍后重试";
+
+"Show tips" = "显示提示";
+
+"How would you like ChatGPT to respond?" = "您希望 ChatGPT 如何进行回复？";
+
+"Enable for new chats" = "为新聊天启用";
+
+"Code" = "代码";
+
+"Error updating state for customizations. Please try again later." = "更新自定义项状态时出错。请稍后重试。";
+
+"Generate images using DALL•E" = "正在使用 DALL•E 生成图片";
+

@@ -1,0 +1,16 @@
+"Expected a non-file URL, but received a file URL" = "Očakávala sa nesúborová URL adresa, ale prijatá bola URL adresa súboru.";
+
+"Enable photo library access in Settings to save photos." = "Ak chceš uložiť fotografie, povoľ prístup ku knižnici fotografií v nastaveniach.";
+
+"Expected a file URL, but received a non-file URL" = "Očakávala sa URL adresa súboru, ale prijatá bola nesúborová URL adresa.";
+
+"Photos Access Denied" = "Prístup k fotografiám je zamietnutý.";
+
+"Please try again later.\n\n(%@)" = "Skús to znova neskôr.\n\n(%@)";
+
+"Failed to Save Image" = "Nepodarilo sa uložiť obrázok.";
+
+"Not authorized" = "Neautorizované";
+
+"Image conversion failed" = "Konverzia obrázka zlyhala.";
+

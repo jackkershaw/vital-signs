@@ -1,0 +1,52 @@
+"GPT-4 Capabilities" = "Способности на GPT-4";
+
+"Show tips" = "Прикажи совети";
+
+"How would you like ChatGPT to respond?" = "Како би сакал ChatGPT да ти одговори?";
+
+"Customize ChatGPT" = "Приспособи го ChatGPT";
+
+"Discard changes" = "Отфрли ги промените";
+
+"Code" = "Код";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Приспособените упатства ќе се применат на сите нови разговори. [Дознај повеќе](chat-preferences-disclosures)";
+
+"Saving Custom Instructions" = "Зачувување приспособени упатства";
+
+"Save" = "Зачувај";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Што би сакал ChatGPT да знае за тебе за да ти даде подобри одговори?";
+
+"Keep editing" = "Продолжи да уредуваш";
+
+"Choose which tools can be used with GPT-4." = "Избери кои алатки може да се користат со GPT-4.";
+
+"DALL•E" = "DALL•E";
+
+"Error loading customizations. Please try again later." = "Грешка при вчитување на приспособувањата. Обиди се повторно подоцна.";
+
+"Enable for new chats" = "Овозможи за нови разговори";
+
+"Thought starters" = "Поттикнувачи на размислување";
+
+"Execute code using Code Interpreter" = "Примени го кодот користејќи толкувач на кодови";
+
+"Custom Instructions Enabled or Disabled" = "Приспособените упатства се овозможени или оневозможени";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Сигурно сакаш да ги отфрлиш твоите промени?\nСите промени што си ги направил ќе бидат изгубени.";
+
+"Error saving custom instructions" = "Грешка при зачувување на приспособените упатства";
+
+"Generate images using DALL•E" = "Генерирај слики со користење на DALL·E";
+
+"Error updating state for customizations. Please try again later." = "Грешка при ажурирање на состојбата за приспособувања. Обиди се повторно подоцна.";
+
+"Unsaved changes" = "Незачувани промени";
+
+"Browse the internet to find answers" = "Прелистај на интернет за да најдеш одговори";
+
+"An unknown error occurred. Please try again later" = "Настана непозната грешка. Обиди се повторно подоцна";
+
+"Browsing" = "Прелистување";
+

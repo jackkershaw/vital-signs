@@ -1,0 +1,50 @@
+"There was an error preparing the conversation. Please try again. %@" = "Konuşma hazırlanırken bir hata oluştu. Lütfen tekrar dene. %@";
+
+"Share anonymously" = "Anonim olarak paylaş";
+
+"Shared Link Title" = "Paylaşılan Bağlantının Başlığı";
+
+"Title" = "Başlık";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "Bu sohbetin bağlantısını zaten paylaştın. Yeni iletiler eklemek istiyorsan bu bağlantıyı sil ve sohbetini tekrar paylaş.";
+
+"Share link" = "Bağlantı paylaş";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "“%@” paylaşılan bağlantısını silmek istediğinden emin misin? Bu sohbeti tekrar paylaşarak her zaman yeni bir bağlantı oluşturabilirsin.";
+
+"Delete link" = "Bağlantıyı sil";
+
+"There was an error deleting your shared link." = "Paylaşılan bağlantın silinirken bir hata oluştu.";
+
+"The conversation has no messages." = "Konuşmada ileti yok.";
+
+"Share your name" = "İsmini paylaş";
+
+"Update title" = "Başlığı güncelle";
+
+"Edit title" = "Başlığı düzenle";
+
+"Recipients won't be able to view images." = "Alıcılar görüntüleri açamayacak.";
+
+"Your custom instructions won’t be shared with viewers." = "Özel talimatların, görüntüleyen kişilerle paylaşılmayacak.";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "Bağlantını paylaştıktan sonra gönderdiğin ya da aldığın iletiler paylaşılmayacak. URL’ye sahip olan kişiler paylaşılmış sohbetini görüntüleyebilecek.";
+
+"Shared link deleted." = "Paylaşılan bağlantı silindi.";
+
+"Shared Link Owner" = "Paylaşılan Bağlantının Sahibi";
+
+"The share link is invalid. %@" = "Paylaşılan bağlantı geçersiz. %@";
+
+"Help and FAQ" = "Yardım ve SSS";
+
+"Options" = "Seçenekler";
+
+"Share link to chat" = "Bağlantıyı sohbette paylaş";
+
+"Missing Name" = "Eksik İsim";
+
+"There was an error sharing the conversation. Please try again. %@" = "Konuşma paylaşılırken bir hata oluştu. Lütfen tekrar dene. %@";
+
+"Shared Link Date" = "Paylaşılan Bağlantının Tarihi";
+

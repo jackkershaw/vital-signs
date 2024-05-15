@@ -1,0 +1,26 @@
+"Shared conversation is invalid." = "La conversación compartida no es válida.";
+
+"Failed to determine model." = "Error al determinar el modelo.";
+
+"Report" = "Denunciar";
+
+"The shared conversation does not exist." = "La conversación compartida no existe.";
+
+"This conversation may reflect the link creator’s custom instructions, which aren’t shared and can meaningfully change how the model responds." = "Esta conversación puede reflejar las instrucciones personalizadas del creador del enlace, que no se comparten y pueden modificar significativamente la forma en que responde el modelo.";
+
+"Help and FAQ" = "Ayuda y preguntas frecuentes";
+
+"Menu" = "Menú";
+
+"Shared Link Date" = "Fecha del enlace compartido";
+
+"Shared conversation" = "Conversación compartida";
+
+"Failed to load shared conversation." = "Error al cargar la conversación compartida.";
+
+"Shared Link Owner" = "Propietario del enlace compartido";
+
+"Continue" = "Continuar";
+
+"Shared Link Title" = "Título del enlace compartido";
+

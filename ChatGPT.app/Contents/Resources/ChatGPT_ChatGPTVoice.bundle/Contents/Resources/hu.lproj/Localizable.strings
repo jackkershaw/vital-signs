@@ -1,0 +1,170 @@
+"Choose a voice" = "Hang kiválasztása";
+
+"Play" = "Lejátszás";
+
+"Tap to activate" = "Koppints az aktiváláshoz";
+
+"Select %@" = "%@ kiválasztása";
+
+"Voice feedback: give thumbs down" = "Visszajelzés a hangról: nem tetszik";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "Úgy döntöttél, hogy megosztod a hangalapú csevegéseid hanganyagait a modelljeink továbbfejlesztése és betanítása érdekében. Idetartoznak a mikrofonhasználat során rögzített hanganyagok is, amikor a modell gondolkodik vagy beszél. A megosztást bármikor leállíthatod a beállításokban.";
+
+"Click to activate" = "Kattints az aktiváláshoz";
+
+"%lld." = "%lld.";
+
+"Click to send manually" = "Kattints a kézi elküldéshez";
+
+"Flip camera to the rear" = "Váltás hátlapi kamerára";
+
+"Helping improve voice" = "A hangalapú technológia továbbfejlesztésének elősegítése";
+
+"Restart" = "Újraindítás";
+
+"Tap to connect" = "Koppints a csatlakozáshoz";
+
+"Poor connection" = "Gyenge kapcsolatminőség";
+
+"Click to interrupt" = "Kattints a félbeszakításhoz";
+
+"Thinking" = "Gondolkodás folyamatban";
+
+"Voice chat ended after " = "A hangalapú csevegés véget ért ennyi idő után:";
+
+"Go forward 15 seconds" = "Előretekerés 15 másodperccel";
+
+"Pause" = "Szüneteltetés";
+
+"Tap to cancel" = "Koppints a törléshez";
+
+"Connection failed, tap to retry" = "A csatlakozás meghiúsult. Koppints az újrapróbálkozáshoz.";
+
+"Unknown error" = "Ismeretlen hiba";
+
+"Voice mode" = "Hang mód";
+
+"Lost" = "Elveszett";
+
+"Paused" = "Szüneteltetve";
+
+"You can change this later." = "Később módosíthatod ezt a beállítást.";
+
+"Failed to connect" = "Nem sikerült csatlakozni";
+
+"Take picture" = "Kép készítése";
+
+"Open camera" = "Kamera megnyitása";
+
+"Halted" = "Leállítva";
+
+"Voice feedback: give thumbs up" = "Visszajelzés a hangról: tetszik";
+
+"Tap to interrupt" = "Koppints a félbeszakításhoz";
+
+"Click to connect" = "Kattints a csatlakozáshoz";
+
+"Connecting.." = "Csatlakozás..";
+
+"Hold for manual control" = "A kézi vezérléshez tartsd lenyomva az ujjad";
+
+"Enable microphone access in Settings" = "Mikrofon-hozzáférés engedélyezése a Beállításokban";
+
+"Submit feedback" = "Visszajelzés beküldése";
+
+"Poor" = "Gyenge";
+
+"What went wrong?" = "Mi volt a probléma?";
+
+"Close" = "Bezárás";
+
+"Audio issues" = "Hangot érintő problémák";
+
+"Other" = "Egyéb";
+
+"See more information about voice research" = "További információ megtekintése a hangkutatásról";
+
+"Unable to review action" = "Nem sikerült ellenőrizni a műveletet";
+
+"Stop listening" = "Figyelés leállítása";
+
+"Connection failed, click to retry" = "A csatlakozás meghiúsult. Kattints az újrapróbálkozáshoz.";
+
+"Go backward 15 seconds" = "Visszatekerés 15 másodperccel";
+
+"On for training" = "Bekapcsolva a betanításnál";
+
+"Learn more" = "További információ";
+
+"Listening" = "Figyelés";
+
+"Unable to send response. Please try again." = "Nem sikerült elküldeni a választ. Próbáld újra.";
+
+"It interrupted me" = "Félbeszakított";
+
+"Connecting" = "Csatlakozás";
+
+"Listening intently" = "Intenzív figyelés";
+
+"Unselect %@" = "%@ kiválasztásának visszavonása";
+
+"Select all that apply" = "Jelöld meg az összes vonatkozó lehetőséget";
+
+"Voice chat ended" = "A hangalapú csevegés véget ért";
+
+"Speak now" = "Most beszélhetsz";
+
+"Resume listening" = "Figyelés folytatása";
+
+"Idle" = "Tétlen";
+
+"Grace Period for %@s" = "Türelmi idő: %@ mp";
+
+"Flip camera to the front" = "Váltás előlapi kamerára";
+
+"%lldms" = "%lld ms";
+
+"Speak to keep active" = "Beszélj a csevegés aktívan tartásához";
+
+"I didn’t like the responses" = "Nem tetszettek a válaszok";
+
+"Thank you!" = "Köszönjük!";
+
+"Connect" = "Csatlakozás";
+
+"Connecting." = "Csatlakozás.";
+
+"Tap to dismiss" = "Koppints az elvetéshez";
+
+"Finish speaking to send" = "A küldéshez fejezd be a beszédet";
+
+"Start speaking" = "Kezdj beszélni";
+
+"It misheard me" = "Félreértett";
+
+"Click to cancel" = "Kattints a törléshez";
+
+"Pick photo" = "Fotó kiválasztása";
+
+"•" = "•";
+
+"Excellent" = "Tökéletes";
+
+"Connected" = "Csatlakozva";
+
+"Speaking" = "Beszéd folyamatban";
+
+"Unknown" = "Ismeretlen";
+
+"Save to Photos" = "Mentés a fotók közé";
+
+"Release to send" = "A küldéshez emeld el az ujjad a képernyőről";
+
+"Tap to send manually" = "Koppints a kézi elküldéshez";
+
+"Good" = "Jó";
+
+"Close camera" = "Kamera bezárása";
+
+"Error: '%@'" = "Hiba: „%@”";
+

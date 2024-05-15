@@ -1,0 +1,170 @@
+"Flip camera to the rear" = "পিছনের দিকে ক্যামেরা ফ্লিপ করুন";
+
+"Poor" = "খারাপ";
+
+"Voice feedback: give thumbs down" = "ভয়েস মতামত: থাম্বস ডাউন দিন";
+
+"Release to send" = "পাঠানোর জন্য রিলিজ করুন";
+
+"Unknown error" = "অজানা ত্রুটি";
+
+"On for training" = "প্রশিক্ষণের জন্য চালু";
+
+"Stop listening" = "শোনা বন্ধ করুন";
+
+"Speak to keep active" = "সক্রিয় থাকার জন্য কথা বলুন";
+
+"%lldms" = "%lldms";
+
+"Choose a voice" = "একটি কণ্ঠস্বর নির্বাচন করুন";
+
+"%lld." = "%lld।";
+
+"Tap to activate" = "সক্রিয় করতে ট্যাপ করুন";
+
+"Connecting" = "সংযোগ করা হচ্ছে";
+
+"Connect" = "সংযোগ করুন";
+
+"Connection failed, tap to retry" = "সংযোগ ব্যর্থ হয়েছে, আবার চেষ্টা করতে ট্যাপ করুন";
+
+"Unable to review action" = "প্রক্রিয়া পর্যালোচনা করা যাচ্ছে না";
+
+"I didn’t like the responses" = "আমি উত্তরগুলি পছন্দ করিনি";
+
+"Tap to cancel" = "বাতিল করতে ট্যাপ করুন";
+
+"Hold for manual control" = "ম্যানুয়াল নিয়ন্ত্রণের জন্য ধরে রাখুন";
+
+"Audio issues" = "অডিও সমস্যা";
+
+"Paused" = "বিরতি দেওয়া হয়েছে";
+
+"Lost" = "হারিয়ে গেছে";
+
+"Listening" = "শোনা";
+
+"Voice chat ended" = "ভয়েস চ্যাট শেষ হয়েছে";
+
+"Helping improve voice" = "কণ্ঠস্বর উন্নত করতে সাহায্য করা";
+
+"Click to send manually" = "ম্যানুয়ালি পাঠাতে ক্লিক করুন";
+
+"Connected" = "সংযুক্ত";
+
+"Tap to dismiss" = "বাতিল করতে ট্যাপ করুন";
+
+"Connecting.." = "সংযোগ করা হচ্ছে..";
+
+"Restart" = "পুনরায় চালু করুন";
+
+"Error: '%@'" = "ত্রুটি: '%@'";
+
+"Voice chat ended after " = "এর পরে ভয়েস চ্যাট শেষ হয়েছে";
+
+"Click to connect" = "সংযোগ করতে ক্লিক করুন";
+
+"What went wrong?" = "কী সমস্যা হয়েছিল?";
+
+"Take picture" = "ছবি তুলুন";
+
+"Save to Photos" = "ফটোতে সংরক্ষণ করুন";
+
+"It interrupted me" = "এটা আমাকে বিঘ্নিত করেছে";
+
+"Click to interrupt" = "বিঘ্নিত করতে ক্লিক করুন";
+
+"Listening intently" = "মনোযোগ দিয়ে শোনা";
+
+"Unknown" = "অজানা";
+
+"You can change this later." = "আপনি পরে এটি পরিবর্তন করতে পারেন।";
+
+"Pause" = "বিরতি";
+
+"Speaking" = "কথা বলা";
+
+"Click to cancel" = "বাতিল করতে ক্লিক করুন";
+
+"Thinking" = "চিন্তাভাবনা";
+
+"Enable microphone access in Settings" = "সেটিংসে মাইক্রোফোন অ্যাক্সেস সক্ষম করুন";
+
+"Resume listening" = "আবার শোনা শুরু করুন";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "আমাদের মডেলগুলো উন্নত করতে এবং প্রশিক্ষণ দিতে আপনি ভয়েস চ্যাট থেকে আপনার অডিও শেয়ার করতে বেছে নিয়েছেন। এর মধ্যে রয়েছে আপনার মাইক্রোফোন থেকে অডিও যখন মডেলটি চিন্তা করছে বা কথা বলছে। আপনি সেটিংসে শেয়ার করা বন্ধ করতে পারেন।";
+
+"Excellent" = "চমৎকার";
+
+"Failed to connect" = "সংযোগ করতে ব্যর্থ হয়েছে";
+
+"Other" = "অন্যান্য";
+
+"Voice mode" = "ভয়েস মোড";
+
+"Learn more" = "আরও জানুন";
+
+"Click to activate" = "সক্রিয় করতে ক্লিক করুন";
+
+"Play" = "খেলুন";
+
+"Close camera" = "ক্যামেরা বন্ধ করুন";
+
+"Start speaking" = "কথা বলা শুরু করুন";
+
+"Good" = "ভালো";
+
+"Pick photo" = "ফটো বেছে নেন";
+
+"See more information about voice research" = "ভয়েস গবেষণা সম্পর্কে আরও তথ্য দেখুন";
+
+"Connecting." = "সংযোগ স্থাপন করা হচ্ছে।";
+
+"Voice feedback: give thumbs up" = "ভয়েস মতামত: থাম্বস আপ দিন";
+
+"Speak now" = "এখনই কথা বলুন";
+
+"Connection failed, click to retry" = "সংযোগ ব্যর্থ হয়েছে, আবার চেষ্টা করতে ক্লিক করুন";
+
+"Grace Period for %@s" = "%@s এর জন্য অনুগ্রহের সময়কাল";
+
+"Submit feedback" = "মতামত জমা দিন";
+
+"Poor connection" = "খারাপ সংযোগ";
+
+"•" = "•";
+
+"Go backward 15 seconds" = "15 সেকেন্ড পিছনে যান";
+
+"Thank you!" = "ধন্যবাদ!";
+
+"Unselect %@" = "%@ নির্বাচন বাতিল করুন";
+
+"Open camera" = "ক্যামেরা খুলুন";
+
+"Select all that apply" = "প্রযোজ্য সব নির্বাচন করুন";
+
+"Finish speaking to send" = "পাঠানোর জন্য কথা বলা শেষ করুন";
+
+"Idle" = "নিষ্ক্রিয়";
+
+"Select %@" = "%@ নির্বাচন করুন";
+
+"Tap to connect" = "সংযোগ করতে ট্যাপ করুন";
+
+"Close" = "বন্ধ";
+
+"Flip camera to the front" = "সামনে ক্যামেরা ফ্লিপ করুন";
+
+"Tap to send manually" = "ম্যানুয়ালি পাঠাতে ট্যাপ করুন";
+
+"Go forward 15 seconds" = "15 সেকেন্ড এগিয়ে যান";
+
+"Unable to send response. Please try again." = "উত্তর পাঠানো যাচ্ছে না। অনুগ্রহ করে আবার চেষ্টা করুন।";
+
+"Tap to interrupt" = "বিঘ্নিত করতে ট্যাপ করুন";
+
+"It misheard me" = "এটা আমাকে ভুল শুনিয়েছে";
+
+"Halted" = "থামানো হয়েছে";
+

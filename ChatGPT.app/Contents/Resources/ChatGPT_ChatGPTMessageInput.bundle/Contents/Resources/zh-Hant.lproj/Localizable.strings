@@ -1,0 +1,82 @@
+"Send" = "傳送";
+
+"Stop Generating" = "停止生成";
+
+"Fullscreen" = "全螢幕";
+
+"To continue, you’ll need to replace the current attachment." = "若要繼續，則須取代現有的附件。";
+
+"Replace" = "取代";
+
+"You need %@ to continue this chat because it has attachments." = "You need %@ to continue this chat because it has attachments.";
+
+"Are you sure?" = "你確定嗎？";
+
+"Attach photos" = "附加照片";
+
+"Confirm" = "確認";
+
+"Attach files" = "附加檔案";
+
+"Edit selection" = "編輯選取項目";
+
+"Message" = "訊息";
+
+"You need %@ to continue this chat because this GPT requires it." = "You need %@ to continue this chat because this GPT requires it.";
+
+"Message ChatGPT" = "傳送訊息至 ChatGPT";
+
+"If you cancel the text conversion you will lose the recording." = "若取消文字轉換，你將失去錄製的內容。";
+
+"You need %@ to continue this chat because it uses audio." = "You need %@ to continue this chat because it uses audio.";
+
+"Upload File" = "上傳檔案";
+
+"You've reached your %@ limit." = "You've reached your %@ limit.";
+
+"Switch to Voice mode" = "切換至語音模式";
+
+"Shows the voice recording interface and begins recording" = "顯示語音錄製介面並開始錄音";
+
+"New Message" = "新訊息";
+
+"Continue Generating" = "繼續生成";
+
+"You need %@ to continue this chat because it uses tools." = "You need %@ to continue this chat because it uses tools.";
+
+"Image attachment failed." = "無法附加圖像。";
+
+"Image upload failed." = "無法上傳圖像。";
+
+"This chat uses an older version of your custom instructions" = "此交談使用舊版本的自訂指令";
+
+"This chat is currently unavailable" = "This chat is currently unavailable";
+
+"Dictation" = "聽寫";
+
+"Microphone access required" = "Microphone access required";
+
+"Remove attachment" = "移除附件";
+
+"Failed, retry?" = "操作失敗，要重試嗎？";
+
+"Edit image" = "編輯圖像";
+
+"Stop" = "停止";
+
+"File upload failed." = "無法上傳檔案。";
+
+"Scroll to bottom" = "捲動至底部";
+
+"Replace attachment?" = "要取代附件嗎？";
+
+"Get Plus to Chat" = "取得 Plus 繼續交談";
+
+"Editing message" = "正在編輯訊息";
+
+"No connection" = "No connection";
+
+"You need %@ to continue this chat because it has images." = "You need %@ to continue this chat because it has images.";
+
+"Attached image" = "附加的圖像";
+

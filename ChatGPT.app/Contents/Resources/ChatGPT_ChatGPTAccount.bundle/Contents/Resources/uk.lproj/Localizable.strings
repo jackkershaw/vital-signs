@@ -1,0 +1,24 @@
+"An error occurred. Please try again." = "Сталася помилка. Повторіть спробу.";
+
+"You will still be able to use ChatGPT with the other workspaces associated with this email address." = "Ви все одно зможете використовувати ChatGPT з іншими робочими областями, пов’язаними із цією адресою електронної пошти.";
+
+"Start using ChatGPT for free" = "Почати використовувати ChatGPT безплатно";
+
+"This will create your personal workspace automatically, using the Free plan." = "Буде автоматично створено вашу особисту робочу область за умовами безплатного плану.";
+
+"Your chat history and settings will not be available." = "Ваша історія чатів і налаштування будуть недоступні.";
+
+"Personal account" = "Особистий обліковий запис";
+
+"Workspaces" = "Робочі області";
+
+"Deactivated" = "Деактивовано";
+
+"Your team owner has deactivated the workspace." = "Власник вашої команди деактивував цю робочу область.";
+
+"Continue" = "Продовжити";
+
+"Your workspace is deactivated" = "Вашу робочу область деактивовано";
+
+"%@ workspace is deactivated" = "Робочу область «%@» деактивовано";
+

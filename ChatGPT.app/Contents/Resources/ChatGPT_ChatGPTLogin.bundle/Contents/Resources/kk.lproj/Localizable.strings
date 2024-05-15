@@ -1,0 +1,70 @@
+"Unknown other error." = "Басқа белгісіз қате.";
+
+"Let’s chit-chat" = "Сөйлесейік";
+
+"Let’s collaborate" = "Бірге жұмыс істейік";
+
+"Let’s explore" = "Зерттейік";
+
+"PKCE not allowed." = "PKCE рұқсат етілмейді.";
+
+"Terms of Use" = "Пайдалану шарттары";
+
+"Missing bundle id." = "Жиынтық идентификаторы жоқ.";
+
+"Revoke failed." = "Қайтарып алынбады.";
+
+"Let’s design" = "Жобалайық";
+
+"No refresh token found." = "Жаңарту токені табылмады.";
+
+"Invalid invite url." = "Шақыру URL мекенжайы жарамсыз.";
+
+"Store failed." = "Сақталмады.";
+
+"Let’s brainstorm" = "Талқылайық";
+
+"Privacy Policy" = "Құпиялылық саясаты";
+
+"Something went wrong." = "Бірдеңе дұрыс болмады.";
+
+"There was a problem. Please restart the app." = "Мәселе шықты. Қолданбаны өшіріп, қайта қосыңыз.";
+
+"Sign in failed" = "Жүйеге кірмедіңіз";
+
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "Бірдеңе дұрыс болмады. Құрылғыңыздағы күн мен уақыт дұрыс екенін және «Параметрлер → Жалпы → Күн және уақыт» бөлімінде «Автоматты түрде орнату» функциясы қосылғанын тексеріңіз.";
+
+"There was a problem clearing sign in info. Please try again." = "Жүйеге кіру туралы ақпаратты өшіру кезінде мәселе туындады. Қайталап көріңіз.";
+
+"Request cancelled." = "Сұраудан бас тартылды.";
+
+"Let’s go" = "Бастайық";
+
+"Let’s create" = "Жасайық";
+
+"Renew failed." = "Жаңарту орындалмады.";
+
+"No sign in info found. Please sign in." = "Жүйеге кіру туралы ақпарат табылмады. Жүйеге кіріңіз.";
+
+"Failed to validate id token." = "Идентификатор токенін тексеру орындалмады.";
+
+"Let’s invent" = "Жаңалық ашайық";
+
+"There was a problem saving sign in info. Please try again." = "Жүйеге кіру туралы ақпаратты сақтау кезінде мәселе туындады. Қайталап көріңіз.";
+
+"Continue with Google" = "Google-да жалғастыру";
+
+"There is a problem with the server. Please try again later." = "Серверде ақаулық пайда болды. Қайталап көріңіз.";
+
+"No authorization code found." = "Авторизация коды табылмады.";
+
+"Sign up with email" = "Электрондық пошта арқылы тіркелу";
+
+"Unknown error." = "Белгісіз қате.";
+
+"Sign in request was cancelled." = "Кіру сұрауынан бас тартылды.";
+
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "Apple серверлерімен байланысу кезінде мәселе туындады. Қайталап көріңіз. (%lld)";
+
+"Let’s discover" = "Білейік";
+

@@ -1,0 +1,40 @@
+"Error loading GPTs" = "GPT -களை ஏற்றுவதில் பிழை";
+
+"Are you sure?" = "உறுதியாக சொல்கிறீர்களா?";
+
+"Error deleting memory" = "நினைவகத்தை நீக்குவதில் பிழை";
+
+"No memories" = "நினைவகங்கள் இல்லை";
+
+"Clear ChatGPT’s memory" = "ChatGPT -இன் நினைவகத்தை அழிக்கவும்";
+
+"Clear Memory" = "நினைவகத்தை அழிக்கவும்";
+
+"Learn More" = "மேலும் அறியவும்";
+
+"Select a GPT" = "ஒரு GPT -ஐத் தேர்ந்தெடுக்கவும்";
+
+"Clear this GPT's memory" = "இந்த GPT நினைவகத்தை அழிக்கவும்";
+
+"Error loading memories" = "நினைவகங்களை ஏற்றுவதில் பிழை";
+
+"Memory is disabled" = "நினைவகம் முடக்கப்பட்டுள்ளது";
+
+"%@ won't use or create memories" = "%@ நினைவகங்களைப் பயன்படுத்தவோ அல்லது உருவாக்கவோ செய்யாது";
+
+"Could not reset memory. Please try again later." = "நினைவகத்தை மீட்டமைக்க முடியவில்லை. மீண்டும் முயற்சி செய்யவும்.";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "நீங்கள் %@ -உடன் அரட்டையடிக்கும்போது, அது நினைவில் வைத்திருக்கும் விவரங்கள் மற்றும் முன்னுரிமைகள் இங்கே காண்பிக்கப்படும்.";
+
+"Memory" = "நினைவகம்";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ உங்கள் அரட்டைகளில் இருந்து நினைவில் வைத்திருந்த அனைத்தையும் மறந்துவிடும். இதை மாற்ற முடியாது.";
+
+"%@'s memories" = "%@ -இன் நினைவகங்கள்";
+
+"Search memories" = "நினைவகங்களைத் தேடவும்";
+
+"Open menu to select which GPT to show memories for" = "GPT -இல் காட்டும் நினைவகத்தை தேர்ந்தெடுக்க பட்டியலைத் திறக்கவும்";
+
+"Turn On" = "இயக்கவும்";
+

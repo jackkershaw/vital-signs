@@ -1,0 +1,170 @@
+"Connection failed, click to retry" = "Холболт амжилтгүй. Дахин оролдохын тулд товшино уу";
+
+"Audio issues" = "Аудио асуудал";
+
+"Select %@" = "%@ сонгох";
+
+"Failed to connect" = "Холболт амжилтгүй";
+
+"Poor connection" = "Холболт муу байна";
+
+"It misheard me" = "Энэ намайг буруу сонссон";
+
+"Connection failed, tap to retry" = "Холболт амжилтгүй. Дахин оролдохын тулд дарна уу";
+
+"%lld." = "%lld.";
+
+"Voice feedback: give thumbs down" = "Дуут санал хүсэлт: зөвшөөрөх";
+
+"Click to connect" = "Холбох бол товшино уу";
+
+"Paused" = "Түр зогсоосон";
+
+"Unable to send response. Please try again." = "Хариу илгээх боломжгүй. Дахин оролдоно уу.";
+
+"Error: '%@'" = "Алдаа: \"%@\"";
+
+"Good" = "Сайн";
+
+"Submit feedback" = "Санал хүсэлт илгээх";
+
+"See more information about voice research" = "Дуу хоолойн судалгааны талаар дэлгэрэнгүй мэдээлэл үзэх";
+
+"Speak now" = "Одоо ярь";
+
+"Play" = "Тоглуулах";
+
+"Go forward 15 seconds" = "15 секундээр урагшлуулах";
+
+"Tap to connect" = "Холбохын тулд дарна уу";
+
+"On for training" = "Сургалтад зориулж асаах";
+
+"Idle" = "Сул байгаа";
+
+"Resume listening" = "Үргэлжлүүлэн сонсох";
+
+"Unable to review action" = "Үйлдэл хянах боломжгүй";
+
+"Finish speaking to send" = "Илгээхийн тулд яриаг дуусга";
+
+"What went wrong?" = "Ямар нэг зүйл буруу болсон уу?";
+
+"Pause" = "Түр зогсоох";
+
+"Start speaking" = "Ярьж эхэл";
+
+"Voice chat ended" = "Дуут чат дууссан";
+
+"Connecting.." = "Холбогдож байна..";
+
+"Thank you!" = "Баярлалаа!";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "Манай загваруудыг сайжруулах, сургахын тулд та дуут чатын аудиог хуваалцахаар сонгосон. Үүнд загварын бодох, ярих үед таны микрофоноос гарах аудио багтана. Та тохиргоо хэсгээс хуваалцалтыг зогсоож болно.";
+
+"Flip camera to the front" = "Камерыг урагш эргүүлэх";
+
+"Voice chat ended after " = "Үүний дараа дуут чат дууссан ";
+
+"Lost" = "Алдсан";
+
+"Choose a voice" = "Дуу хоолой сонгох";
+
+"Release to send" = "Илгээх бол сулла";
+
+"Listening intently" = "Анхааралтай сонсож байна";
+
+"Unknown error" = "Үл мэдэгдэх алдаа";
+
+"Tap to interrupt" = "Саатуулахын тулд дарна уу";
+
+"Stop listening" = "Сонсохоо боль";
+
+"Click to activate" = "Идэвхжүүлэх бол товшино уу";
+
+"Listening" = "Сонсож байна";
+
+"Close camera" = "Камер хаах";
+
+"Tap to send manually" = "Гараар илгээхийн тулд дарна уу";
+
+"Flip camera to the rear" = "Камерыг хойш эргүүлэх";
+
+"Close" = "Хаах";
+
+"Enable microphone access in Settings" = "Тохиргоо хэсгээс микрофон руу нэвтрэх эрхийг идэвхжүүлнэ үү";
+
+"It interrupted me" = "Энэ надад саад болсон";
+
+"Grace Period for %@s" = "Сунгах хугацаа %@ сек";
+
+"Unselect %@" = "%@ сонгохыг болих";
+
+"Speak to keep active" = "Идэвхтэй байхын тулд ярь";
+
+"Connect" = "Холбогдох";
+
+"Go backward 15 seconds" = "15 секундээр ухраах";
+
+"Click to cancel" = "Цуцлах бол товшино уу";
+
+"Take picture" = "Зураг авах";
+
+"Poor" = "Муу";
+
+"Hold for manual control" = "Гараар удирдахын тулд барина уу";
+
+"Click to send manually" = "Гараар илгээх бол товшино уу";
+
+"Tap to cancel" = "Цуцлахын тулд дарна уу";
+
+"Save to Photos" = "Зураг руу хадгалах";
+
+"Other" = "Бусад";
+
+"Speaking" = "Ярьж байна";
+
+"Tap to dismiss" = "Хаахын тулд дарна уу";
+
+"Unknown" = "Үл мэдэгдэх";
+
+"Learn more" = "Нэмэлт мэдээлэл авах";
+
+"Pick photo" = "Зураг сонгох";
+
+"Connecting." = "Холбогдож байна.";
+
+"Connecting" = "Холбогдож байна";
+
+"Click to interrupt" = "Цуцлах бол товшино уу";
+
+"Voice mode" = "Дуут горим";
+
+"Helping improve voice" = "Дуу хоолойг сайжруулахад тусалж байна";
+
+"•" = "•";
+
+"%lldms" = "%lldмсек";
+
+"Excellent" = "Онц сайн";
+
+"Restart" = "Унтрааж асаах";
+
+"Select all that apply" = "Тохирох бүхнийг сонго";
+
+"Halted" = "Тасалдуулсан";
+
+"Thinking" = "Бодож байна";
+
+"Tap to activate" = "Идэвхжүүлэхийн тулд дарна уу";
+
+"Open camera" = "Камер нээх";
+
+"Connected" = "Холбогдсон";
+
+"You can change this later." = "Үүнийг та дараа өөрчилж болно.";
+
+"Voice feedback: give thumbs up" = "Дуут санал хүсэлт: татгалзах";
+
+"I didn’t like the responses" = "Хариулт надад таалагдсангүй";
+

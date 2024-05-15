@@ -1,0 +1,34 @@
+"The recording was cancelled." = "Nakansela ang pagre-record.";
+
+"There was a problem with the recording." = "Nagkaproblema sa pagre-record.";
+
+"Open Settings" = "Buksan ang Mga Setting";
+
+"Start new recording" = "Magsimula ng bagong recording";
+
+"Recordings must be longer than 1s." = "Dapat mas mahaba sa 1 segundo ang mga recording.";
+
+"There was a problem starting the recording." = "Nagkaproblema sa pagsisimula ng pagre-record.";
+
+"Tap to record" = "I-tap para mag-record";
+
+"To use Whisper, you need to allow ChatGPT to use your microphone." = "Para magamit ang Whisper, kailangan mong payagan ang ChatGPT na gamitin ang iyong microphone.";
+
+"Tap to stop recording" = "I-tap para itigil ang pagre-record";
+
+"There was an unexpected error. %@" = "Nagkaroon ng hindi inaasahang error. %@";
+
+"An internet connection is required" = "Kinakailangan ng koneksyon ng internet";
+
+"Click to record" = "I-click para mag-record";
+
+"Auto-Detect" = "Awtomatikong I-detect";
+
+"Converting to text…" = "Kino-convert sa text...";
+
+"Click to stop recording" = "I-click para itigil ang pagre-record";
+
+"Retry transcription" = "Subukan ulit ang transcription";
+
+"The recording could not be processed. Please check your internet connection. (%lld)" = "Hindi maproseso ang pagre-record. I-check ang iyong koneksyon sa internet. (%lld)";
+

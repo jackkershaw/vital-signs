@@ -1,0 +1,16 @@
+"You do not have access to this app yet. You can still use ChatGPT at %@" = "Nimate še dostopa do te aplikacije. Še vedno lahko uporabljate ChatGPT na %@";
+
+"You do not have access to the Desktop app yet. You can still use ChatGPT at %@" = "Nimate še dostopa do namizne aplikacije. Še vedno lahko uporabljate ChatGPT na %@";
+
+"You are logged out. Please open the ChatGPT app to log in." = "Odjavljeni ste. Odprite aplikacijo ChatGPT, da se prijavite.";
+
+"Did not receive a response from ChatGPT. Please try again." = "Ni bilo odgovora ChatGPT-ja. Poskusite znova.";
+
+"Received an empty response from ChatGPT. Please try again." = "ChatGPT je podal prazen odgovor. Poskusite znova.";
+
+"Your most recent request failed. Please try again." = "Vaša najnovejša zahteva ni uspela. Poskusite znova.";
+
+"Can't determine the right ChatGPT model to use. Please try again." = "Ni mogoče določiti, kateri model ChatGPT naj se uporablja. Poskusite znova.";
+
+"You do not have access to this app yet!" = "Nimate še dostopa do te aplikacije!";
+

@@ -1,0 +1,48 @@
+"Learn More" = "Finn ut mer";
+
+"Error deleting memory" = "Feil ved sletting av minne";
+
+"Could not reset memory. Please try again later." = "Kunne ikke tilbakestille minnet. Prøv igjen senere.";
+
+"Are you sure?" = "Er du sikker?";
+
+"Turn On" = "Slå på";
+
+"Clear this GPT's memory" = "Tøm minnet for denne GPT-en";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "Når du chatter med %@, vises detaljene og preferansene som huskes her.";
+
+"Clear Memory" = "Tøm minnet";
+
+"Error loading memories" = "Feil ved lasting minner";
+
+"Open menu to select which GPT to show memories for" = "Åpne menyen for å velge hvilken GPT du vil vise minner for";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "Når du chatter med %@, vises detaljene og preferansene den husker her.";
+
+"No memories" = "Ingen minner";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ vil glemme alt den husker fra chattene dine. Dette kan ikke angres.";
+
+"Memory is disabled" = "Minne er deaktivert";
+
+"Error loading GPTs" = "Feil ved lasting av GPT-er";
+
+"Search memories" = "Søk i minne";
+
+"Select a GPT" = "Velg en GPT";
+
+"%@ won't use or create memories" = "%@ vil ikke bruke eller opprette minner";
+
+"Clear ChatGPT’s memory" = "Tøm minnet i ChatGPT";
+
+"Open menu to select which GPT to show memories for" = "Åpne menyen for å velge hvilken GPT minner skal vises for";
+
+"%@'s memories" = "%@s minner";
+
+"Search memories" = "Søk i minner";
+
+"Clear this GPT's memory" = "Tøm minnet til denne GPT-en";
+
+"Memory" = "Minne";
+

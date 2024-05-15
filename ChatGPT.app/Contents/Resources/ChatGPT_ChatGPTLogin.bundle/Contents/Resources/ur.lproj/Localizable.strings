@@ -1,0 +1,70 @@
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "کچھ غلط ہوا ہے. براہ کرم یقینی بنائیں کہ آپ کی ڈیوائس کی تاریخ اور وقت درست ہے اور یہ کہ 'خودکار طور پرترتیب دیں' کو 'ترتیبات ⭠ عمومی ⭠ تاریخ اور وقت' کے تحت تبدیل کیا گیا ہے۔";
+
+"Renew failed." = "تجدید نہیں ہوئی۔";
+
+"Invalid invite url." = "دعوت نامے کا غلط url۔";
+
+"Let’s brainstorm" = "سوچ بچار کریں";
+
+"There was a problem saving sign in info. Please try again." = "سائن ان کی معلومات کو محفوظ کرنے میں ایک مسئلہ تھا۔ براہ کرم دوبارہ کوشش کریں.";
+
+"Store failed." = "سٹور نہیں ہوا۔";
+
+"Let’s chit-chat" = "بات چیت کریں";
+
+"Let’s design" = "ڈیزائن کریں";
+
+"Let’s discover" = "دریافت کریں";
+
+"Revoke failed." = "منسوخ نہیں ہوئی۔";
+
+"Let’s explore" = "کھوج لگائیں";
+
+"Let’s invent" = "ایجاد کریں";
+
+"PKCE not allowed." = "PKCE کی اجازت نہیں ہے۔";
+
+"Missing bundle id." = "بنڈل آئی ڈی غائب ہے۔";
+
+"There was a problem clearing sign in info. Please try again." = "سائن ان کی معلومات ہٹانے میں ایک مسئلہ تھا۔ براہ کرم دوبارہ کوشش کریں.";
+
+"There was a problem. Please restart the app." = "ایک مسئلہ تھا، براہ کرم ایپ دوبارہ شروع کریں۔";
+
+"Privacy Policy" = "رازداری کی پالیسی";
+
+"Continue with Google" = "Google کے ساتھ جاری رکھیں";
+
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "Apple سرورز سے رابطہ کرنے میں ایک مسئلہ تھا۔ براہ کرم دوبارہ کوشش کریں. (%lld)";
+
+"Something went wrong." = "کچھ غلط ہوا ہے۔";
+
+"Request cancelled." = "درخواست منسوخ ہو گئی۔";
+
+"Unknown other error." = "نامعلوم دوسری خرابی۔";
+
+"No refresh token found." = "کوئی ریفریش ٹوکن نہیں ملا۔";
+
+"Sign in failed" = "سائن ان نہیں ہوا";
+
+"Failed to validate id token." = "آئی ڈی ٹوکن کی توثیق نہیں ہوئی۔";
+
+"Sign up with email" = "ای میل کے ساتھ سائن اپ کریں";
+
+"Sign in request was cancelled." = "سائن ان کی درخواست منسوخ ہو گئی تھی۔";
+
+"No sign in info found. Please sign in." = "سائن ان کی کوئی معلومات نہیں ملی۔  براہ کرم سائن ان کریں.";
+
+"Let’s create" = "بنائیں";
+
+"Terms of Use" = "استعمال کی شرائط";
+
+"Let’s go" = "چلیں";
+
+"Let’s collaborate" = "تعاون کریں";
+
+"There is a problem with the server. Please try again later." = "سرور کے ساتھ ایک مسئلہ ہے۔ براہ کرم کچھ دیر بعد دوبارہ کوشش کریں.";
+
+"Unknown error." = "نا معلوم خرابی۔";
+
+"No authorization code found." = "کوئی تصدیقی کوڈ نہیں ملا۔";
+

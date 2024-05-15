@@ -1,0 +1,104 @@
+"You need %@ to continue this chat because it has images." = "Kuna see vestlus sisaldab pilte, vajate selle jätkamiseks %@.";
+
+"This chat is currently unavailable" = "See vestlus pole hetkel saadaval";
+
+"You've reached your %@ limit." = "Olete saavutanud oma %@ limiidi.";
+
+"Microphone access required" = "Nõutav juurdepääs mikrofonile";
+
+"Image upload failed." = "Pildi üleslaadimine ebaõnnestus.";
+
+"Edit selection" = "Valimi redigeerimine";
+
+"Get Plus to Chat" = "Hangi vestlemiseks Plus";
+
+"No connection" = "Ühendus puudub";
+
+"Confirm" = "Kinnita";
+
+"You need %@ to continue this chat because it has attachments." = "You need %@ to continue this chat because it has attachments.";
+
+"You need %@ to continue this chat because it has images." = "You need %@ to continue this chat because it has images.";
+
+"Attach photos" = "Manusta pilte";
+
+"Shows the voice recording interface and begins recording" = "Kuvab hääle salvestamise kasutajaliidese ja alustab salvestamist";
+
+"Fullscreen" = "Täisekraan";
+
+"Stop Generating" = "Lõpeta genereerimine";
+
+"You need %@ to continue this chat because it has attachments." = "Kuna see vestlus sisaldab manuseid, vajate selle jätkamiseks %@.";
+
+"Dictation" = "Dikteerimine";
+
+"You need %@ to continue this chat because this GPT requires it." = "You need %@ to continue this chat because this GPT requires it.";
+
+"Message ChatGPT" = "Saada ChatGPT-le sõnum";
+
+"To continue, you’ll need to replace the current attachment." = "Jätkamiseks peate praeguse manuse välja vahetama.";
+
+"You need %@ to continue this chat because it uses audio." = "You need %@ to continue this chat because it uses audio.";
+
+"You've reached your %@ limit." = "You've reached your %@ limit.";
+
+"You need %@ to continue this chat because this GPT requires it." = "Kuna selle GPT puhul on see nõutav, vajate selle vestluse jätkamiseks %@.";
+
+"Attach files" = "Manusta faile";
+
+"Remove attachment" = "Eemalda manus";
+
+"If you cancel the text conversion you will lose the recording." = "Kui tühistate teksti kujule konvertimise, kaotate salvestuse.";
+
+"Image attachment failed." = "Pildi manustamine ebaõnnestus";
+
+"Failed, retry?" = "Ebaõnnestus, kas proovida uuesti?";
+
+"Replace" = "Asenda";
+
+"Scroll to bottom" = "Kerige alla";
+
+"Switch to Voice mode" = "Lülitu häälrežiimi";
+
+"If you cancel the text conversion you will lose the recording." = "Kui tühistate teksti konverteerimise, kaotate salvestuse.";
+
+"You need %@ to continue this chat because it uses tools." = "You need %@ to continue this chat because it uses tools.";
+
+"This chat is currently unavailable" = "This chat is currently unavailable";
+
+"Continue Generating" = "Jätka genereerimist";
+
+"You need %@ to continue this chat because it uses tools." = "Kuna see vestlus kasutab tööriistu, vajate selle jätkamiseks %@.";
+
+"Attached image" = "Manusta";
+
+"Microphone access required" = "Microphone access required";
+
+"You need %@ to continue this chat because it uses audio." = "Kuna see vestlus kasutab heli, vajate selle jätkamiseks %@.";
+
+"Message" = "Sõnum";
+
+"Are you sure?" = "Kas olete kindel?";
+
+"Send" = "Saada";
+
+"Edit image" = "Redigeeri pilti...";
+
+"File upload failed." = "Faili üleslaadimine ebaõnnestus.";
+
+"Replace attachment?" = "Kas asendada manus?";
+
+"No connection" = "No connection";
+
+"This chat uses an older version of your custom instructions" = "See vestlus kasutab teie kohandatud juhiste vanemat versiooni";
+
+"Stop" = "Peata";
+
+"New Message" = "Uus sõnum";
+
+"Upload File" = "Laadi fail üles";
+
+"Image upload failed." = "Pildi üleslaadimine nurjus.";
+
+"Editing message" = "Sõnumi redigeerimine";
+

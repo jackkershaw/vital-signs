@@ -1,0 +1,16 @@
+"Image conversion failed" = "이미지 변환 실패";
+
+"Expected a file URL, but received a non-file URL" = "파일이 있는 URL을 예측했으나 파일이 없는 URL을 받았습니다";
+
+"Failed to Save Image" = "이미지 저장 실패";
+
+"Please try again later.\n\n(%@)" = "나중에 다시 시도해 주세요.\n\n(%@)";
+
+"Photos Access Denied" = "사진 액세스 거부됨";
+
+"Not authorized" = "권한 없음";
+
+"Enable photo library access in Settings to save photos." = "사진을 저장하려면 설정에서 사진 라이브러리 액세스 권한을 허용해 주세요.";
+
+"Expected a non-file URL, but received a file URL" = "파일이 없는 URL을 예측했으나 파일이 있는 URL을 받았습니다";
+

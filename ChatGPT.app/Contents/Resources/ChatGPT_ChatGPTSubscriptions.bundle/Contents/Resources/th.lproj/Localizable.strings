@@ -1,0 +1,36 @@
+"In-app purchases are currently unavailable. Please try again later." = "ไม่สามารถซื้อในแอปได้ในขณะนี้ โปรดลองอีกครั้งในภายหลัง";
+
+"Due to high demand, we've temporarily paused upgrades." = "เนื่องจากมีความต้องการใช้งานสูง เราจึงระงับการอัปเกรดชั่วคราว";
+
+"The purchase was unsuccessful. Please try again later." = "การซื้อไม่สำเร็จ โปรดลองอีกครั้งในภายหลัง";
+
+"Access to advanced features" = "การเข้าถึงคุณสมบัติขั้นสูง";
+
+"This subscription is associated with another OpenAI account.\n\nPlease login with that account to access it, or visit help.openai.com for support." = "บริการสมาชิกนี้เกี่ยวข้องกับบัญชี OpenAI อื่น\n\nโปรดลงชื่อเข้าใช้ด้วยบัญชีนั้นเพื่อเข้าถึง หรือไปที่ help.openai.com เพื่อรับความช่วยเหลือ";
+
+"Upgrade to Plus" = "อัปเกรดเป็น Plus";
+
+"year" = "ปี";
+
+"Access our most powerful model and advanced features" = "เข้าถึงโมเดลที่ทรงพลังที่สุดของเราและคุณสมบัติขั้นสูง";
+
+"Advanced data analysis, vision, web browsing, and file uploads" = "การเข้าถึงการวิเคราะห์ข้อมูลขั้นสูง การมองเห็น การเลือกดูเว็บ และการอัปโหลดไฟล์";
+
+"The purchase is pending and will be processed once payment has been confirmed." = "การซื้ออยู่ในสถานะรอและจะดำเนินการเมื่อมีการยืนยันการชำระเงินแล้ว";
+
+"Auto-renews for %@/%@ until canceled" = "ต่อบริการอัตโนมัติในราคา %@/%@ จนกว่าจะยกเลิก";
+
+"Access to %@" = "การเข้าถึง %@";
+
+"Error code: %@" = "รหัสข้อผิดพลาด: %@";
+
+"Create and use custom GPTs" = "สร้างและใช้ GPT แบบกำหนดเอง";
+
+"Get ChatGPT Plus" = "รับ ChatGPT Plus";
+
+"week" = "สัปดาห์";
+
+"DALL·E image generation" = "การสร้างภาพด้วย DALL·E";
+
+"month" = "เดือน";
+

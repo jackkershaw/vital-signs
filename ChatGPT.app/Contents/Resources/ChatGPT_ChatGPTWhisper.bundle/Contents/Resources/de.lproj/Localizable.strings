@@ -1,0 +1,34 @@
+"Tap to stop recording" = "Zum Aufnahmestopp tippen";
+
+"An internet connection is required" = "Ein Internetanschluss ist erforderlich";
+
+"Auto-Detect" = "Automatisch erkennen";
+
+"Click to record" = "Zum Aufnehmen klicken";
+
+"There was a problem starting the recording." = "Es gab ein Problem beim Beginn der Aufnahme.";
+
+"There was a problem with the recording." = "Es gab ein Problem bei der Aufnahme.";
+
+"Recordings must be longer than 1s." = "Aufnahmen müssen mindestens eine Sekunde lang sein";
+
+"To use Whisper, you need to allow ChatGPT to use your microphone." = "Um Whisper zu verwenden, musst du ChatGPT gestatten, dein Mikrofon zu verwenden.";
+
+"Retry transcription" = "Transkription erneut versuchen";
+
+"The recording was cancelled." = "Die Aufnahme wurde abgebrochen.";
+
+"Open Settings" = "Einstellungen öffnen";
+
+"Click to stop recording" = "Zum Aufnahmestopp klicken";
+
+"The recording could not be processed. Please check your internet connection. (%lld)" = "Die Aufnahme konnte nicht verarbeitet werden. Überprüfe deine Internetverbindung. (%lld)";
+
+"Converting to text…" = "In Text umwandeln...";
+
+"Start new recording" = "Neue Aufnahme beginnen";
+
+"Tap to record" = "Zum Aufnehmen tippen";
+
+"There was an unexpected error. %@" = "Ein unerwarteter Fehler ist aufgetreten. %@";
+

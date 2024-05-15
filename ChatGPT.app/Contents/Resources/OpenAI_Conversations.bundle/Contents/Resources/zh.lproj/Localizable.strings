@@ -1,0 +1,124 @@
+"Stopped reading documents" = "已停止读取文档";
+
+"Reading document" = "正在读取文档";
+
+"Doing research with Bing" = "正在通过 Bing 进行研究";
+
+"Error reading documents" = "读取文档时出错";
+
+"Talked to %@" = "已与“%@”对话";
+
+"Reading documents" = "正在读取文档";
+
+"Archive Chat" = "归档聊天";
+
+"Read %@" = "读取 %@";
+
+"Stopped talking to %@" = "已停止与“%@”对话";
+
+"Error analyzing" = "分析时出错";
+
+"Archive" = "归档";
+
+"You declined this action" = "您已拒绝此操作";
+
+"Creating image" = "正在创建图片";
+
+"Search failed" = "无法搜索";
+
+"Creating %lld images…" = "正在创建 %lld 张图片……";
+
+"Reading %@" = "正在读取“%@”";
+
+"Searched 1 site" = "已搜索 1 个网站";
+
+"Read %lld documents" = "读取 %lld 份文档";
+
+"Stopped analyzing" = "已停止分析";
+
+"Unable to find metadata" = "找不到元数据";
+
+"Stopped reading document" = "已停止读取文档";
+
+"Visited %@" = "已访问“%@”";
+
+"Unable to find citation ID" = "找不到引语 ID";
+
+"Unsupported content" = "不支持的内容";
+
+"Talking to %@" = "正在与“%@”对话";
+
+"System error" = "系统错误";
+
+"Starting action" = "开始操作";
+
+"Stopped researching" = "已停止研究";
+
+"Browsing %@" = "正在浏览 %@";
+
+"Searching “%@”" = "正在搜索“%@”";
+
+"Error creating images" = "创建图片时出错";
+
+"Stopped creating image" = "已停止创建图片";
+
+"Error reading document" = "读取文档时出错";
+
+"Error creating image" = "创建图片时出错";
+
+"Stopped" = "已停止";
+
+"Visited the web" = "已访问网页";
+
+"Read document" = "读取文档";
+
+"Error browsing" = "浏览时出错";
+
+"Finished analyzing" = "已结束分析";
+
+"Delete Chat" = "删除聊天";
+
+"Creating 1 image…" = "正在创建 1 张图片……";
+
+"Visited %lld sites" = "已访问 %lld 个网站";
+
+"site" = "网站";
+
+"Error talking to %@" = "与“%@”对话时出错";
+
+"Read documents" = "读取文档";
+
+"Searched %lld sites" = "已搜索 %lld 个网站";
+
+"Are you sure you want to archive this chat?\nYou can view archived chats in Settings" = "确定要归档此聊天？\n您可以在“设置”中查看归档的聊天";
+
+"Search stopped" = "搜索已停止";
+
+"Invalid citation" = "无效的引用";
+
+"Writing prompts…" = "正在编写提示……";
+
+"Visiting %@" = "正在访问 %@";
+
+"Unable to generate URL" = "无法生成 URL";
+
+"Research complete" = "研究完成";
+
+"Stopped talking to site" = "已停止与网站对话";
+
+"This can't be undone." = "此操作无法撤销。";
+
+"Making a research plan" = "制定研究计划";
+
+"Searching" = "正在搜索";
+
+"an external site" = "外部网站";
+
+"Error researching" = "研究时出错";
+
+"Any created memories will be retained." = "所有创建的记忆都将保留。";
+
+"Stopped browsing" = "已停止浏览";
+
+"Analyzing" = "正在分析";
+

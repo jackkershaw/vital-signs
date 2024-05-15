@@ -1,0 +1,70 @@
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "Hiba történt az Apple-szerverekkel való kapcsolatfelvétel közben. Próbáld újra. (%lld)";
+
+"Let’s invent" = "Találd fel";
+
+"Let’s create" = "Hozd létre";
+
+"There was a problem clearing sign in info. Please try again." = "Hiba történt a bejelentkezési adatok törlése közben. Próbáld újra.";
+
+"Store failed." = "A tárolás meghiúsult.";
+
+"No sign in info found. Please sign in." = "Nem találhatók bejelentkezési adatok. Jelentkezz be.";
+
+"Continue with Google" = "Folytatás a Google-lal";
+
+"Let’s collaborate" = "Működj együtt";
+
+"Revoke failed." = "A visszavonás meghiúsult.";
+
+"Privacy Policy" = "Adatvédelmi irányelvek";
+
+"Missing bundle id." = "Hiányzó csomagazonosító.";
+
+"Sign in failed" = "Nem sikerült bejelentkezni";
+
+"Sign up with email" = "Regisztráció e-mail-címmel";
+
+"There was a problem saving sign in info. Please try again." = "Hiba történt a bejelentkezési adatok mentése közben. Próbáld újra.";
+
+"PKCE not allowed." = "Nem engedélyezett PKCE.";
+
+"Renew failed." = "A megújítás meghiúsult.";
+
+"No authorization code found." = "Nem található hitelesítési kód.";
+
+"Unknown error." = "Ismeretlen hiba.";
+
+"Let’s chit-chat" = "Csevegj";
+
+"Unknown other error." = "Ismeretlen egyéb hiba.";
+
+"Sign in request was cancelled." = "A bejelentkezési kérelem törölve lett.";
+
+"Failed to validate id token." = "Nem sikerült érvényesíteni az azonosítótokent.";
+
+"There was a problem. Please restart the app." = "Hiba történt. Indítsd újra az appot.";
+
+"Let’s design" = "Tervezz";
+
+"Let’s explore" = "Fedezd fel";
+
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "Hiba történt. Ellenőrizd, hogy megfelelően állítottad-e be az eszközön a dátumot és az időt, valamint hogy be van-e kapcsolva az „Automatikus beállítás” a következő elérési úton: „Beállítások → Általános → Dátum és idő”.";
+
+"Terms of Use" = "Általános szerződési feltételek";
+
+"Let’s discover" = "Ismerd meg";
+
+"Something went wrong." = "Hiba történt.";
+
+"Let’s go" = "Vágj bele";
+
+"Invalid invite url." = "Érvénytelen meghívási URL.";
+
+"Let’s brainstorm" = "Ötletelj";
+
+"There is a problem with the server. Please try again later." = "Probléma adódott a szerverrel. Próbáld újra később.";
+
+"No refresh token found." = "Nem található frissítési token.";
+
+"Request cancelled." = "Kérelem törölve.";
+

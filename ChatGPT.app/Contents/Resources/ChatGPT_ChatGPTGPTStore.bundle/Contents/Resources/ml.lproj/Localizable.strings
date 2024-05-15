@@ -1,0 +1,114 @@
+"By community builder" = "കമ്മ്യൂണിറ്റി ബിൽഡർ മുഖേന";
+
+"Feedback" = "ഫീഡ്ബാക്ക്";
+
+"Loading more" = "കൂടുതൽ ലോഡ് ചെയ്യുന്നു";
+
+"Searching…" = "തിരയുന്നു…";
+
+"Top Suggestions" = "മുൻനിര നിർദ്ദേശങ്ങൾ";
+
+"Chats: %@" = "ചാറ്റുകൾ: %@";
+
+"Share" = "പങ്കിടുക";
+
+"Exceptional!" = "അസാധാരണം!";
+
+"By %@" = "%@-ൻ്റെ";
+
+"Start chat" = "ചാറ്റ് ആരംഭിക്കുക";
+
+"Remove GPT" = "GPT നീക്കം ചെയ്യുക";
+
+"Are you sure you want to delete this GPT?" = "ഈ GPT ഇല്ലാതാക്കണമെന്ന് ഉറപ്പാണോ?";
+
+"Tap a star" = "ഒരു സ്റ്റാറിൽ ടാപ്പ് ചെയ്യുക";
+
+"Public" = "പൊതുവായത്";
+
+"Okay" = "ഓക്കേ";
+
+"Thank you for your feedback!" = "നിങ്ങളുടെ ഫീഡ്ബാക്കിന് നന്ദി!";
+
+"Bad" = "മോശം";
+
+"Anyone with a link" = "ലിങ്ക് കൈവശമുള്ള ആർക്കും";
+
+"Visibility" = "വിസിബിലിറ്റി";
+
+"Unable to load, retry?" = "ലോഡ് ചെയ്യാനാവുന്നില്ല, വീണ്ടും ശ്രമിക്കണോ?";
+
+"Include my email **%@**" = "എൻ്റെ **%@** എന്ന ഇമെയിൽ ഉൾപ്പെടുത്തുക";
+
+"How would you rate this GPT?" = "ഈ GPT-യെ നിങ്ങൾ എങ്ങനെ വിലയിരുത്തും?";
+
+"Include my email" = "എൻ്റെ ഇമെയിൽ ഉൾപ്പെടുത്തുക";
+
+"in **%@**" = "**%@**-ൽ";
+
+"Search Public GPTs" = "പൊതു GPT-കൾ തിരയുക";
+
+"How would you rate **%@**?" = "**%@** നിങ്ങൾ എങ്ങനെ വിലയിരുത്തും?";
+
+"Great" = "കൊള്ളാം";
+
+"Remove" = "നീക്കം ചെയ്യുക";
+
+"Failed to delete GPT, retry?" = "GPT ഇല്ലാതാക്കുന്നതിൽ പരാജയപ്പെട്ടു, വീണ്ടും ശ്രമിക്കണോ?";
+
+"Capabilities" = "കഴിവുകൾ";
+
+"Explore" = "കണ്ടെത്തുക";
+
+"Editing and creating a GPT is only available on web for now." = "GPT എഡിറ്റ് ചെയ്യലും സൃഷ്ടിക്കലും ഇപ്പോൾ വെബിൽ മാത്രമേ ലഭ്യമാകൂ.";
+
+"Untitled" = "പേരില്ലാത്തത്";
+
+"Report" = "റിപ്പോർട്ട്";
+
+"Are you sure you want to remove this GPT from your recents?" = "നിങ്ങളുടെ സമീപകാല ഇനങ്ങളിൽ നിന്ന് ഈ GPT ഇല്ലാതാക്കണമെന്ന് തീർച്ചയാണോ?";
+
+"Failed to remove recent GPT, retry?" = "സമീപകാല GPT നീക്കം ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു, വീണ്ടും ശ്രമിക്കണോ?";
+
+"Start Chat" = "ചാറ്റ് ആരംഭിക്കുക";
+
+"Top Picks" = "തിരഞ്ഞെടുത്ത മികച്ചവ";
+
+"Editing Not Available" = "എഡിറ്റിംഗ് ലഭ്യമല്ല";
+
+"Recently Used" = "അടുത്തിടെ ഉപയോഗിച്ചത്";
+
+"Only me" = "എനിക്ക് മാത്രം";
+
+"Good" = "നല്ലത്";
+
+"No Results Found" = "ഒരു ഫലവും കണ്ടെത്താനായില്ല";
+
+"My GPTs" = "എൻ്റെ GPT-കൾ";
+
+"No Recents" = "സമീപകാലത്ത് ഒന്നുമില്ല";
+
+"Get Plus to Chat" = "ചാറ്റ് ചെയ്യാൻ Plus നേടൂ";
+
+"Edit" = "എഡിറ്റ് ചെയ്യുക";
+
+"See more" = "കൂടുതൽ കാണുക";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "^[%lld സ്റ്റാറുകൾ](inflect: true), %@റേറ്റിംഗുകളിൽ";
+
+"Options" = "ഓപ്ഷനുകൾ";
+
+"Add a note" = "ഒരു കുറിപ്പ് ചേർക്കുക";
+
+"%@ rating" = "%@ റേറ്റിംഗ്";
+
+"Conversation starters" = "സംഭാഷണം തുടങ്ങിവയ്ക്കുന്നവ";
+
+"Star rating" = "സ്റ്റാർ റേറ്റിംഗ്";
+
+"%@ chats" = "%@ ചാറ്റുകൾ";
+
+"Optional private note for creator…" = "സ്രഷ്ടാവിനുള്ള ഓപ്ഷണൽ പ്രൈവറ്റ് നോട്ട്...";
+
+"Anyone at %@" = "%@-ലെ ആർക്കും";
+

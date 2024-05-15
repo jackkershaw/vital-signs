@@ -1,0 +1,18 @@
+"The response is invalid. Please try again." = "回覆無效。請重試一次。";
+
+"There is a problem with your account info. Please try signing out then in." = "您的帳戶資訊有問題。請嘗試登出後再登入。";
+
+"This content may violate our content policy. Please try again with different content." = "此內容可能違反我們的內容政策。請使用其他內容重試。";
+
+"Unsupported content" = "不支援的內容";
+
+"The server is overloaded. Please try again later." = "伺服器過載。請稍後重試。";
+
+"System error" = "系統錯誤";
+
+"There is a problem with your request. (%lld, %@)" = "未能處理您的請求。(%lld、%@)";
+
+"You've made too many requests. Please try again later. (429, %@)" = "您提出了太多請求。請稍後重試。(429、%@)";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "伺服器出現問題。請稍後重試。(%lld、%@)";
+

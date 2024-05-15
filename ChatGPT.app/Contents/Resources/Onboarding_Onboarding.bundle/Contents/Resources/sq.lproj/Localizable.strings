@@ -1,0 +1,96 @@
+"Something went wrong. Please restart the app, or sign out and try again." = "Diçka shkoi keq. Rinis aplikacionin ose dil dhe provo përsëri.";
+
+"Area code" = "Kodi i zonës";
+
+"Finish creating your OpenAI account" = "Përfundo krijimin e llogarisë në OpenAI";
+
+"There was a problem verifying the code. %@" = "Pati një problem me verifikimin e kodit. %@";
+
+"Verify you're human" = "Verifiko që je njeri";
+
+"Open Mail App" = "Hap aplikacionin e postës";
+
+"Verify your email" = "Verifiko emailin";
+
+"Sorry, we aren't able to create your account" = "Na vjen keq, nuk jemi në gjendje ta krijojmë llogarinë tënde";
+
+"Failed to load required information." = "Ngarkimi i informacionit të kërkuar dështoi.";
+
+"Phone number" = "Numri i telefonit";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "Informacioni i kërkuar nuk u mor dot. Kontrollo lidhjen e internetit dhe rinis aplikacionin. (%@)";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Pati një problem me lidhjen e internetit. Provo përsëri. (%lld)";
+
+"Verify phone number" = "Verifiko numrin e telefonit";
+
+"Please provide a phone number for verification." = "Jep një numër telefoni për verifikim.";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Duke klikuar \"Vazhdo\", pranon [Kushtet](https://openai.com/policies/terms-of-use) dhe [Politikën tonë të privatësisë](https://openai.com/policies/privacy-policy) dhe [Shtojcën e Koresë](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Continue" = "Vazhdo";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Duke klikuar \"Vazhdo\", konfirmon se ke pëlqimin e prindërve ose të kujdestarit për ta përdorur ChatGPT-në, pranon [Kushtet](https://openai.com/policies/terms-of-use) dhe [Politikën tonë të privatësisë](https://openai.com/policies/privacy-policy) dhe [shtojcën e Koresë](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Please solve this puzzle so we know you're a person." = "Zgjidh këtë enigmë në mënyrë që të kuptojmë se je një njeri.";
+
+"Enter the code we just sent to your number ending in **%@" = "Fut kodin që sapo dërguam te numri që përfundon me **%@";
+
+"There was a problem verifying your phone number. %@" = "Pati një problem me verifikimin e numrit tënd të telefonit. %@";
+
+"Something went wrong. Sign out and try again." = "Diçka shkoi keq. Dil dhe provo përsëri.";
+
+"Resend code" = "Ridërgo kodin";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Duke klikuar \"Vazhdo\", konfirmon se ke pëlqimin e prindërve ose të kujdestarit për ta përdorur ChatGPT-në, pranon [Kushtet](https://openai.com/policies/terms-of-use) dhe [Politikën e privatësisë](https://openai.com/policies/privacy-policy).";
+
+"Code" = "Kodi";
+
+"Birthday" = "Ditëlindja";
+
+"Your email is not yet verified. Please check your email inbox." = "Emaili yt nuk është akoma i verifikuar. Kontrollo kutinë hyrëse të emailit.";
+
+"I've verified my email" = "E kam verifikuar emailin tim";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "Për ndihmë, shiko [udhëzuesin e verifikimit të telefonit](https://help.openai.com/articles/6613520-phone-verification).";
+
+"Please check your internet connection and retry." = "Kontrollo lidhjen e internetit dhe provo përsëri.";
+
+"error" = "gabim";
+
+"Select your Birthday" = "Zgjidh ditëlindjen tënde";
+
+"There was a problem, please try again. (%@)" = "Pati një problem, provo sërish. (%@)";
+
+"You have made too many attempts. Please try again later." = "Ke bërë shumë përpjekje. Provo përsëri më vonë.";
+
+"Email resent!" = "Emaili u ridërgua!";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Ndodhi një gabim. Llogaria është krijuar tashmë, por s’mund të rifreskohet. Dil dhe hyr sërish.";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "Nuk mund ta krijojmë llogarinë tënde për shkak të [Kushteve të përdorimit](https://openai.com/policies/terms-of-use).";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "Vendet nuk mund të merren. Kontrollo lidhjen tënde të internetit dhe rinis aplikacionin. %@";
+
+"First name" = "Emri";
+
+"Something went wrong. Please try again." = "Diçka shkoi keq. Provo përsëri.";
+
+"Tell us about you." = "Na trego për veten.";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "Dërguam një email te %@.\nKliko lidhjen brenda emailit për të filluar.";
+
+"Please choose a valid date for your birthday." = "Zgjidh një datë të vlefshme për ditëlindjen tënde.";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Duke klikuar \"Vazhdo\", pranon [Kushtet](https://openai.com/policies/terms-of-use) dhe [Politikën tonë të privatësisë](https://openai.com/policies/privacy-policy).";
+
+"Select your area code" = "Zgjidh kodin e zonës";
+
+"Last name" = "Mbiemri";
+
+"Resend email" = "Ridërgo emailin";
+
+"There was a problem, please try again." = "Pati një problem, provo sërish.";
+
+"Your account could not be created. Please try again. %@" = "Llogaria nuk u krijua dot. Provo sërish. %@";
+

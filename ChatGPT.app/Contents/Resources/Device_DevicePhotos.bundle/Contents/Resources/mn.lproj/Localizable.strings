@@ -1,0 +1,16 @@
+"Enable photo library access in Settings to save photos." = "Зураг хадгалахын тулд Тохиргоо хэсэгт зургийн санд нэвтрэх эрхийг идэвхжүүлнэ үү.";
+
+"Not authorized" = "Зөвшөөрөөгүй";
+
+"Please try again later.\n\n(%@)" = "Дараа дахин оролдоно уу.\n\n(%@)";
+
+"Image conversion failed" = "Зургийг хувиргаж чадсангүй";
+
+"Expected a non-file URL, but received a file URL" = "Файлын бус URL хүлээж байсан хэдий ч, файлын URL хүлээж авлаа";
+
+"Expected a file URL, but received a non-file URL" = "Файлын URL хүлээж байсан хэдий ч, файлын бус URL хүлээж авлаа";
+
+"Photos Access Denied" = "Зураг руу нэвтрэхийг хориглосон";
+
+"Failed to Save Image" = "Зургийг хадгалж чадсангүй";
+

@@ -1,0 +1,16 @@
+"Received an empty response from ChatGPT. Please try again." = "ChatGPT’den boş bir yanıt alındı. Lütfen tekrar dene.";
+
+"Your most recent request failed. Please try again." = "En son talebin başarısız oldu. Lütfen tekrar dene.";
+
+"You do not have access to this app yet. You can still use ChatGPT at %@" = "Henüz bu uygulamaya erişimin yok. Yine de şurada ChatGPT kullanabilirsin: %@";
+
+"You are logged out. Please open the ChatGPT app to log in." = "Oturumun kapalı. Lütfen oturum açmak için ChatGPT uygulamasını aç.";
+
+"Can't determine the right ChatGPT model to use. Please try again." = "Kullanılacak doğru ChatGPT modeli belirlenemiyor. Lütfen tekrar dene.";
+
+"You do not have access to this app yet!" = "Henüz bu uygulamaya erişimin yok!";
+
+"You do not have access to the Desktop app yet. You can still use ChatGPT at %@" = "Henüz Masaüstü uygulamasına erişimin yok. Yine de şurada ChatGPT kullanabilirsin: %@";
+
+"Did not receive a response from ChatGPT. Please try again." = "ChatGPT’den bir yanıt alınmadı. Lütfen tekrar dene.";
+

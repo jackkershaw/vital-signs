@@ -1,0 +1,74 @@
+"Decline" = "Từ chối";
+
+"#%lld row" = "hàng số %lld";
+
+"Memories updated" = "Đã cập nhật các bộ nhớ";
+
+"Deny" = "Phủ nhận";
+
+"File expired" = "Tệp đã hết hạn";
+
+"Failed, retry?" = "Không thành công, thử lại?";
+
+"Loading…" = "Đang tải…";
+
+"Select Text" = "Chọn Văn Bản";
+
+"File unavailable" = "Tệp không có sẵn";
+
+"Your most recent request failed. Please retry!" = "Yêu cầu gần đây nhất của bạn không thành công. Vui lòng thử lại!";
+
+"Regenerate" = "Tạo lại";
+
+"Read Aloud" = "Đọc To";
+
+"Selection" = "Lựa chọn";
+
+"How would you rate this GPT?" = "Bạn đánh giá thế nào về GPT này?";
+
+"Manage memories" = "Quản lý bộ nhớ";
+
+"Continue Generating" = "Tiếp Tục Tạo";
+
+"Response rating failed." = "Đánh giá phản hồi không thành công.";
+
+"Edit" = "Chỉnh sửa";
+
+"Upgraded response" = "Đã nâng cấp phản hồi";
+
+"You" = "Bạn";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT chỉ lưu giữ các tệp trong một khoảng thời gian giới hạn. Bắt đầu cuộc trò chuyện mới hoặc tải lên tệp mới để tiếp tục cuộc trò chuyện của bạn.";
+
+"Memory updated" = "Đã cập nhật bộ nhớ";
+
+"Bad" = "Tệ";
+
+"\"%@\" column" = "Cột \"%@\"";
+
+"Please try again later.%@" = "Vui lòng thử lại sau.%@";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Tệp này không còn khả dụng nữa. Bắt đầu cuộc trò chuyện mới hoặc tải lên tệp mới để tiếp tục cuộc trò chuyện của bạn.";
+
+"Analysis" = "Phân tích";
+
+"\"%@\" cell" = "Ô \"%@\"";
+
+"Stop Generating" = "Dừng Tạo";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Được viết bằng mô hình có khả năng tối ưu nhất của chúng tôi, GPT-4, có sẵn trên ChatGPT Plus";
+
+"A GPT" = "GPT";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "Đang tải lên ^[%lld tệp đính kèm](inflect: true)…";
+
+"Quick Look" = "Xem nhanh";
+
+"Change Model" = "Thay Đổi Mô Hình";
+
+"Sign in to %@" = "Đăng nhập vào %@";
+
+"Save File As…" = "Lưu tệp dưới dạng…";
+
+"Always allow" = "Luôn cho phép";
+

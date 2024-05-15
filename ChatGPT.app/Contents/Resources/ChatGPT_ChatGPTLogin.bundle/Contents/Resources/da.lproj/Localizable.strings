@@ -1,0 +1,70 @@
+"Sign up with email" = "Tilmeld dig med e-mail";
+
+"Sign in failed" = "Kunne ikke logge ind";
+
+"Let’s chit-chat" = "Lad os smalltalke lidt";
+
+"Let’s explore" = "Lad os udforske";
+
+"There was a problem. Please restart the app." = "Der opstod et problem. Genstart venligst appen.";
+
+"Let’s brainstorm" = "Lad os brainstorme";
+
+"Invalid invite url." = "Ugyldig invitations-url.";
+
+"Revoke failed." = "Tilbagekaldelse mislykkedes.";
+
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "Der opstod et problem med at kontakte Apples servere. Prøv igen. (%lld)";
+
+"Request cancelled." = "Anmodningen er annulleret.";
+
+"Renew failed." = "Fornyelse mislykkedes.";
+
+"Let’s discover" = "Lad os gå på opdagelse";
+
+"Let’s create" = "Lad os komme i gang med at skabe";
+
+"Something went wrong." = "Noget gik galt.";
+
+"No refresh token found." = "Der blev ikke fundet noget opdaterings-token.";
+
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "Noget gik galt. Sørg for, at din enheds dato og klokkeslæt er korrekte, og at 'Indstil automatisk' er slået til under 'Indstillinger → Generelt → Dato og tid'.";
+
+"There was a problem saving sign in info. Please try again." = "Der opstod et problem med at gemme login-oplysninger. Prøv venligst igen.";
+
+"Let’s invent" = "Lad os opfinde";
+
+"Let’s collaborate" = "Lad os samarbejde";
+
+"Let’s go" = "Lad os komme i gang";
+
+"Terms of Use" = "Vilkår for brug";
+
+"Store failed." = "Lagring mislykkedes.";
+
+"There was a problem clearing sign in info. Please try again." = "Der opstod et problem med at rydde login-oplysninger. Prøv venligst igen.";
+
+"Unknown error." = "Ukendt fejl.";
+
+"There is a problem with the server. Please try again later." = "Der er et problem med serveren. Prøv igen senere.";
+
+"Privacy Policy" = "Privatlivspolitik";
+
+"Unknown other error." = "Anden ukendt fejl.";
+
+"PKCE not allowed." = "PKCE ikke tilladt.";
+
+"Failed to validate id token." = "Kunne ikke validere id-token.";
+
+"Continue with Google" = "Fortsæt med Google";
+
+"Let’s design" = "Lad os designe";
+
+"No sign in info found. Please sign in." = "Der blev ikke fundet nogen login-oplysninger. Log venligst ind.";
+
+"No authorization code found." = "Der blev ikke fundet nogen autorisationskode.";
+
+"Missing bundle id." = "Bundle-id mangler.";
+
+"Sign in request was cancelled." = "Log ind-anmodningen blev annulleret.";
+

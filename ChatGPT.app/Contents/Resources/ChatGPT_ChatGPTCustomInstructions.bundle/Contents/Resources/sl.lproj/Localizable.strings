@@ -1,0 +1,52 @@
+"How would you like ChatGPT to respond?" = "Kako želite, da se ChatGPT odzove?";
+
+"Discard changes" = "Zavrzi spremembe";
+
+"Browse the internet to find answers" = "Brskajte po spletu, da najdete odgovore";
+
+"Unsaved changes" = "Neshranjene spremembe";
+
+"Saving Custom Instructions" = "Shranjevanje navodil po meri";
+
+"Error updating state for customizations. Please try again later." = "Napaka pri posodabljanju stanja za prilagoditve. Poskusite znova pozneje.";
+
+"Error loading customizations. Please try again later." = "Napaka pri nalaganju prilagoditev. Poskusite znova pozneje.";
+
+"Generate images using DALL•E" = "Ustvarjajte slike z uporabo DALL•E";
+
+"Customize ChatGPT" = "Prilagoditev ChatGPT-ja";
+
+"Custom Instructions Enabled or Disabled" = "Navodila po meri omogočena ali onemogočena";
+
+"Choose which tools can be used with GPT-4." = "Izberite orodja, ki se lahko uporabljajo z GPT-4";
+
+"DALL•E" = "DALL•E";
+
+"Show tips" = "Prikaži nasvete";
+
+"An unknown error occurred. Please try again later" = "Prišlo je do neznane napake. Poskusite znova pozneje.";
+
+"Enable for new chats" = "Omogoči za nove klepete";
+
+"Thought starters" = "Razmislite o:";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Kaj želite, da ChatGPT ve o vas, da zagotovi boljše odgovore?";
+
+"Save" = "Shrani";
+
+"Browsing" = "Brskanje";
+
+"GPT-4 Capabilities" = "Sposobnosti GPT-4";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Navodila po meri bodo uporabljena za vse nove klepete. [Več o tem](chat-preferences-disclosures)";
+
+"Error saving custom instructions" = "Napaka pri shranjevanju navodil po meri";
+
+"Execute code using Code Interpreter" = "Izvršite kodo z uporabo tolmača kod (Code Interpreter)";
+
+"Keep editing" = "Nadaljuj z urejanjem";
+
+"Code" = "Koda";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Ali ste prepričani, da želite zavreči vaše spremembe?\nVse spremembe, ki ste jih naredili, bodo izgubljene.";
+

@@ -1,0 +1,16 @@
+"Not authorized" = "Hindi awtorisado";
+
+"Failed to Save Image" = "Hindi Ma-save ang Larawan";
+
+"Image conversion failed" = "Hindi ma-convert ang larawan";
+
+"Photos Access Denied" = "Tinanggihan ang Access sa Mga Litrato";
+
+"Expected a non-file URL, but received a file URL" = "Naghintay ng non-file URL, pero nakatanggap ng file URL";
+
+"Enable photo library access in Settings to save photos." = "I-enable ang access sa photo library sa Mga Setting para ma-save ang mga litrato.";
+
+"Expected a file URL, but received a non-file URL" = "Naghintay ng file URL, pero nakatanggap ng non-file URL";
+
+"Please try again later.\n\n(%@)" = "Pakisubukan ulit mamaya.\n\n(%@)";
+

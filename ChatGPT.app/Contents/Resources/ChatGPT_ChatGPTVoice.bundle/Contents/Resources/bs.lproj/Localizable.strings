@@ -1,0 +1,170 @@
+"Close" = "Zatvori";
+
+"Voice chat ended" = "Glasovni razgovor je završen";
+
+"Voice feedback: give thumbs up" = "Glasovni odgovor: dajte palac gore";
+
+"Click to cancel" = "Kliknite za otkazivanje";
+
+"Open camera" = "Otvori kameru";
+
+"Start speaking" = "Počnite govoriti";
+
+"Poor" = "Slabo";
+
+"Voice chat ended after " = "Glasovni razgovor se završio nakon";
+
+"Click to activate" = "Kliknite za aktivaciju";
+
+"Error: '%@'" = "Greška: '%@'";
+
+"Select %@" = "Odaberi%@";
+
+"%lldms" = "%lldms";
+
+"Speak to keep active" = "Govorite da ostanete aktivni";
+
+"Halted" = "Obustavljeno";
+
+"Idle" = "Mirovanje";
+
+"Connecting.." = "Povezivanje..";
+
+"Connection failed, tap to retry" = "Veza nije uspjela, dodirnite da pokušate ponovo";
+
+"What went wrong?" = "U čemu je bio problem?";
+
+"Connecting." = "Povezivanje.";
+
+"Tap to send manually" = "Dodirnite da pošaljete ručno";
+
+"Tap to cancel" = "Dodirnite da otkažete";
+
+"Unable to send response. Please try again." = "Nije moguće poslati odgovor. Pokušajte ponovno.";
+
+"Learn more" = "Saznajte više";
+
+"Pause" = "Pauza";
+
+"Close camera" = "Zatvori kameru";
+
+"Connecting" = "Povezivanje";
+
+"Thinking" = "Razmišljanje";
+
+"Unknown error" = "Nepoznata greška";
+
+"Poor connection" = "Loš kvalitet veze";
+
+"%lld." = "%lld";
+
+"Thank you!" = "Hvala vam!";
+
+"Grace Period for %@s" = "Grejs period za %@";
+
+"Tap to interrupt" = "Dodirnite da prekinete";
+
+"It interrupted me" = "Prekinulo me";
+
+"Click to interrupt" = "Kliknite za obustavljanje";
+
+"On for training" = "Uključeno za obuku";
+
+"Select all that apply" = "Odaberite sve što je primjenjivo";
+
+"I didn’t like the responses" = "Nisu mi se svidjeli odgovori";
+
+"Voice feedback: give thumbs down" = "Glasovni odgovor: dajte palac dolje";
+
+"Good" = "Dobro";
+
+"Stop listening" = "Prestanite slušati";
+
+"Excellent" = "Odlično";
+
+"Connected" = "Povezano";
+
+"Restart" = "Započni ponovo";
+
+"Resume listening" = "Nastavi slušati";
+
+"It misheard me" = "Nisam se dobro čuo/la";
+
+"Hold for manual control" = "Zadržite za ručnu kontrolu";
+
+"Speak now" = "Sad govorite";
+
+"Unable to review action" = "Nije moguće provjeriti radnju";
+
+"Other" = "Ostalo";
+
+"Connect" = "Povežite se";
+
+"Failed to connect" = "Povezivanje nije uspjelo";
+
+"Tap to dismiss" = "Dodirnite da odbacite";
+
+"Submit feedback" = "Pošalji odgovor";
+
+"Audio issues" = "Problemi sa zvukom";
+
+"Tap to activate" = "Dodirnite da aktivirate";
+
+"Listening" = "Slušanje";
+
+"Paused" = "Pauzirano";
+
+"Speaking" = "Govor";
+
+"Unknown" = "Nepoznato";
+
+"Tap to connect" = "Dodirnite da se povežete";
+
+"Click to send manually" = "Kliknite za ručno slanje";
+
+"Voice mode" = "Glasovni modul";
+
+"Flip camera to the rear" = "Prebacite na zadnju kameru";
+
+"Go backward 15 seconds" = "Idite unazad 15 sekundi";
+
+"Lost" = "Izgubljeno";
+
+"Enable microphone access in Settings" = "Omogućite pristup mikrofonu u Podešavanjima";
+
+"Play" = "Emituj";
+
+"Take picture" = "Napravite fotografiju";
+
+"•" = "•";
+
+"Flip camera to the front" = "Prebacite na prednju kameru";
+
+"Go forward 15 seconds" = "Idite naprijed 15 sekundi";
+
+"Release to send" = "Otpustite da pošaljete";
+
+"Unselect %@" = "Poništi izbor %@";
+
+"Pick photo" = "Odaberi fotografiju";
+
+"Connection failed, click to retry" = "Povezivanje nije uspjelo, kliknite da pokušate ponovo";
+
+"Finish speaking to send" = "Završite s razgovorom za slanje";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "Odabrali ste podijeliti svoj audio zapis iz glasovnog razgovora kako biste unaprijedili obuku naših modela. Ovo uključuje audio zapis sa vašeg mikrofona dok model razmišlja ili govori. Možete zaustaviti dijeljenje u postavkama.";
+
+"Helping improve voice" = "Pomozite nam da unaprijedimo glas";
+
+"Choose a voice" = "Odaberite glas";
+
+"You can change this later." = "Ovo možete kasnije promijeniti.";
+
+"See more information about voice research" = "Vidi više informacija o istraživanju glasa";
+
+"Save to Photos" = "Sačuvaj u Fotografije";
+
+"Click to connect" = "Kliknite za povezivanje";
+
+"Listening intently" = "Pažljivo slušanje";
+

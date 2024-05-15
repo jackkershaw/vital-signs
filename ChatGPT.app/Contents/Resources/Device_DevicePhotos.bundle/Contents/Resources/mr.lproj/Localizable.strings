@@ -1,0 +1,16 @@
+"Image conversion failed" = "प्रतिमा रूपांतरण अयशस्वी";
+
+"Photos Access Denied" = "फोटो ऍक्सेस नाकारला";
+
+"Expected a non-file URL, but received a file URL" = "फाइल नसलेली URL अपेक्षित आहे, परंतु फाइल URLप्राप्त झाली आहे";
+
+"Not authorized" = "अधिकृत नाही";
+
+"Expected a file URL, but received a non-file URL" = "फाइल URL अपेक्षित आहे, परंतु फाइल नसलेली URL प्राप्त झाली आहे";
+
+"Please try again later.\n\n(%@)" = "कृपया नंतर पुन्हा प्रयत्न करा. \n\n(%@)";
+
+"Failed to Save Image" = "प्रतिमा जतन करण्यात अयशस्वी";
+
+"Enable photo library access in Settings to save photos." = "फोटो सेव्ह करण्यासाठी सेटिंग्जमध्ये फोटो लायब्ररी प्रवेश सक्षम करा.";
+

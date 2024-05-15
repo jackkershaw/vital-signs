@@ -1,0 +1,26 @@
+"Shared Link Owner" = "Хуваалцсан холбоосын хариуцагч";
+
+"Menu" = "Цэс";
+
+"Failed to determine model." = "Загварыг тодорхойлж чадсангүй.";
+
+"Shared conversation" = "Хуваалцсан яриа";
+
+"Continue" = "Үргэлжлүүлэх";
+
+"The shared conversation does not exist." = "Хуваалцсан яриа байхгүй.";
+
+"Help and FAQ" = "Тусламж, Түгээмэл асуултууд";
+
+"Failed to load shared conversation." = "Хуваалцсан яриаг ачаалж чадсангүй.";
+
+"Report" = "Мэдээлэх";
+
+"Shared Link Title" = "Хуваалцсан холбоосын нэр";
+
+"Shared Link Date" = "Хуваалцсан холбоосын огноо";
+
+"This conversation may reflect the link creator’s custom instructions, which aren’t shared and can meaningfully change how the model responds." = "Энэ яриа нь холбоос үүсгэгчийн тусгай зааврыг тусгаж болох ба үүнийг хуваалцаагүй бөгөөд загвар яаж хариулахыг учир утгатайгаар өөрчлөх боломжтой.";
+
+"Shared conversation is invalid." = "Хуваалцсан яриа буруу байна.";
+

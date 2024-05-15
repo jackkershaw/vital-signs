@@ -1,0 +1,124 @@
+"Unable to generate URL" = "Nepavyksta sugeneruoti URL";
+
+"Stopped researching" = "Sustabdytas tyrinėjimas";
+
+"Making a research plan" = "Sudaromas tyrinėjimo planas";
+
+"Stopped creating image" = "Sustabdytas vaizdo kūrimas";
+
+"Finished analyzing" = "Baigta analizuoti";
+
+"You declined this action" = "Atsisakėte šio veiksmo";
+
+"Creating %lld images…" = "Kuriami %lld vaizdai (-ų)…";
+
+"Reading document" = "Nuskaitomas dokumentas";
+
+"Talked to %@" = "Kalbėta su %@";
+
+"Starting action" = "Pradedamas veiksmas";
+
+"Search stopped" = "Search stopped";
+
+"Stopped reading document" = "Sustabdytas dokumento nuskaitymas";
+
+"Searching" = "Ieškoma";
+
+"Invalid citation" = "Netinkama citata";
+
+"Visited %@" = "Aplankyta %@";
+
+"Creating image" = "Kuriamas vaizdas";
+
+"site" = "svetainė";
+
+"Stopped talking to %@" = "Sustabdytas kalbėjimas su %@";
+
+"Creating 1 image…" = "Kuriamas 1 vaizdas…";
+
+"Visited %lld sites" = "Aplankytos %lld svetainės (-ių)";
+
+"Unsupported content" = "Nepalaikomas turinys";
+
+"Delete Chat" = "Šalinti pokalbį";
+
+"Research complete" = "Baigta tyrinėti";
+
+"Error analyzing" = "Klaida analizuojant";
+
+"Error creating images" = "Klaida kuriant vaizdus";
+
+"Reading documents" = "Nuskaitomi dokumentai";
+
+"Error browsing" = "Klaida naršant";
+
+"Error researching" = "Klaida tyrinėjant";
+
+"Search failed" = "Search failed";
+
+"Visited the web" = "Aplankytas žiniatinklis";
+
+"Are you sure you want to archive this chat?\nYou can view archived chats in Settings" = "Ar tikrai norite archyvuoti šį pokalbį?\nSuarchyvuotus pokalbius galite peržiūrėti nuostatose";
+
+"Stopped" = "Sustabdyta";
+
+"Read documents" = "Nuskaityti dokumentus";
+
+"Read %lld documents" = "Nuskaityti %lld dokumentus";
+
+"Stopped browsing" = "Sustabdytas naršymas";
+
+"Visiting %@" = "Aplankoma %@";
+
+"Searching “%@”" = "Ieškoma „%@“";
+
+"Unable to find citation ID" = "Nepavyksta rasti citavimo ID";
+
+"Talking to %@" = "Kalbama su %@";
+
+"Read %@" = "Nuskaityti %@";
+
+"Unable to find metadata" = "Nepavyksta rasti metaduomenų";
+
+"Reading %@" = "Nuskaitomas %@";
+
+"Searched %lld sites" = "Searched %lld sites";
+
+"Any created memories will be retained." = "Visos sukurtos atmintys bus išsaugotos.";
+
+"Archive Chat" = "Archyvuoti pokalbį";
+
+"Stopped talking to site" = "Sustabdytas kalbėjimas su svetaine";
+
+"Browsing %@" = "Naršymas %@";
+
+"Read document" = "Nuskaityti dokumentą";
+
+"Searched 1 site" = "Searched 1 site";
+
+"Stopped reading documents" = "Sustabdytas dokumentų nuskaitymas";
+
+"Writing prompts…" = "Įrašomi raginimai…";
+
+"Archive" = "Archyvuoti";
+
+"Doing research with Bing" = "Tyrinėjimas naudojant „Bing“";
+
+"Error talking to %@" = "Klaida kalbantis su %@";
+
+"Error reading document" = "Klaida nuskaitant dokumentą";
+
+"Error reading documents" = "Klaida nuskaitant dokumentus";
+
+"System error" = "Sistemos klaida";
+
+"Analyzing" = "Analizuojama";
+
+"Stopped analyzing" = "Sustabdytas analizavimas";
+
+"an external site" = "išorinė svetainė";
+
+"This can't be undone." = "Šio veiksmo anuliuoti negalima.";
+
+"Error creating image" = "Klaida kuriant vaizdą";
+

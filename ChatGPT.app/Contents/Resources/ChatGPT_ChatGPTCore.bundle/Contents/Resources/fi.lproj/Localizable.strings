@@ -1,0 +1,82 @@
+"This chat won't appear in history or be used to train our models. For safety purposes, we may keep a copy of this chat for up to 30 days." = "Tämä keskustelu ei näy historiassa eikä sitä käytetä mallien kouluttamiseen. Voimme turvallisuussyistä säilyttää kopion tästä keskustelusta korkeintaan 30 päivän ajan.";
+
+"By %@" = "Tekijä: %@";
+
+"ChatGPT" = "ChatGPT";
+
+"The builder of this GPT can’t view your chats" = "Tämän GPT:n tekijä ei voi nähdä keskustelujasi";
+
+"Open Link" = "Avaa linkki";
+
+"Learns from previous chats to improve future conversations" = "Oppii aiemmista keskusteluista parantaakseen tulevia keskusteluja";
+
+"community builder" = "yhteisötekijä";
+
+"Failed to load citation" = "Lainauksen lataus epäonnistui";
+
+"Citation" = "Lainaus";
+
+"Untitled" = "Nimetön";
+
+"GitHub" = "GitHub";
+
+"Copy Link" = "Kopioi linkki";
+
+"Memory" = "Muisti";
+
+"Website" = "Verkkosivusto";
+
+"Your limit resets in %lld minutes" = "Your limit resets in %lld minutes";
+
+"Any data shared with a third party through GPT actions are subject to the third party's privacy policy. [Learn more](https://help.openai.com/en/articles/8914046-temporary-chat-faq)" = "Kaikki tiedot, jotka on jaettu kolmannen osapuolen kanssa GPT-toimintojen kautta, ovat kolmannen osapuolen tietosuojakäytännön alaisia. [Lue lisää](https://help.openai.com/en/articles/8914046-temporary-chat-faq)";
+
+"Contents may violate our content policy" = "Sisältö voi olla sisältökäytäntömme vastaista";
+
+"Your limit resets tomorrow at %@" = "Your limit resets tomorrow at %@";
+
+"Link unavailable" = "Linkki ei ole käytettävissä";
+
+"The builder of this GPT can’t view your chats or memories" = "Tämän GPT:n tekijä ei voi nähdä keskustelujasi tai muistojasi";
+
+"Invalid citation" = "Virheellinen lainaus";
+
+"Twitter" = "Twitter";
+
+"Me" = "Minä";
+
+"Temporary Chat" = "Väliaikainen keskustelu";
+
+"Your limit resets at %@" = "Your limit resets at %@";
+
+"Retrieves or takes actions outside of ChatGPT" = "Hakee tietoja tai suorittaa toimintoja ChatGPT:n ulkopuolella";
+
+"This version of the app will be sunset soon!" = "Tämä sovellusversio vanhenee pian!";
+
+"By community builder" = "Tekijä: yhteisötekijä";
+
+"Pinned" = "Kiinnitetty";
+
+"Actions" = "Toiminnot";
+
+"Your limit resets in 1 minute" = "Your limit resets in 1 minute";
+
+"By" = "Tekijä:";
+
+"Info" = "Tiedot";
+
+"Browsing" = "Selaaminen";
+
+"LinkedIn" = "LinkedIn";
+
+"DALL•E Images" = "DALL•E-kuvat";
+
+"Your limit resets %@" = "Your limit resets %@";
+
+"Unsupported content" = "Sisältöä ei tueta";
+
+"Data Analysis" = "Tietojen analyysi";
+
+"This chat won't appear in history, use or create memories, or be used to train our models. For safety purposes, we may keep a copy of this chat for up to 30 days." = "Tämä keskustelu ei näy historiassa tai käytä tai luo muistoja, eikä sitä käytetä mallien kouluttamiseen. Voimme turvallisuussyistä säilyttää kopion tästä keskustelusta korkeintaan 30 päivän ajan.";
+
+"Instagram" = "Instagram";
+

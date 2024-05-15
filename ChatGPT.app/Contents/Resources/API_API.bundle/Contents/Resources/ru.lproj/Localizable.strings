@@ -1,0 +1,18 @@
+"The server is having problems. Please try again later. (%lld, %@)" = "На сервере проблемы. Повторите попытку позже. (%lld, %@)";
+
+"System error" = "Системная ошибка";
+
+"There is a problem with your request. (%lld, %@)" = "Возникла проблема с вашим запросом. (%lld, %@)";
+
+"The response is invalid. Please try again." = "Ответ недействителен. Попробуйте еще раз.";
+
+"You've made too many requests. Please try again later. (429, %@)" = "Вы сделали слишком много запросов. Повторите попытку позже. (429, %@)";
+
+"Unsupported content" = "Неподдерживаемый контент";
+
+"This content may violate our content policy. Please try again with different content." = "Этот контент может нарушать нашу политику в отношении контента. Попробуйте еще раз с другим контентом.";
+
+"The server is overloaded. Please try again later." = "Сервер перегружен. Повторите попытку позже.";
+
+"There is a problem with your account info. Please try signing out then in." = "Возникла проблема с информацией о вашей учетной записи. Попробуйте выйти, а затем войти.";
+

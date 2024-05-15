@@ -1,0 +1,178 @@
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "Saat parhaat tulokset, kun valitset pääasiallisen kielesi. Automaattinen havaitseminen saattaa tukea sitä, vaikka sitä ei olisi luettelossa.";
+
+"Recent login required" = "Edellyttää äskettäistä sisäänkirjautumista";
+
+"Light" = "Vaalea";
+
+"Could not delete all chats" = "Kaikkien keskustelujen poistaminen ei onnistunut";
+
+"App" = "Sovellus";
+
+"Always show ChatGPT in dock" = "Näytä ChatGPT aina ohjauspaneelissa";
+
+"Could not update the memory setting. Please try again later." = "Muistiasetuksen päivittäminen ei onnistunut. Yritä myöhemmin uudelleen.";
+
+"Haptic Feedback" = "Haptinen palaute";
+
+"Error archiving all chats" = "Virhe kaikkien keskustelujen arkistoinnissa";
+
+"View" = "Näytä";
+
+"This workspace is private and opted out of training." = "Tämä työtila on yksityinen, ja se on poistettu kouluttamiskäytöstä.";
+
+"Export Data" = "Vie tiedot";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "Tilin poistamisessa tapahtui virhe. Yritä uudelleen. Mikäli ongelma jatkuu, käy osoitteessa help.openai.com.";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "Et voi muuttaa tilaustasi tässä sovelluksessa, koska ostit tilauksen toiselta alustalta.";
+
+"Voice" = "Ääni";
+
+"Delete Account" = "Poista tili";
+
+"Privacy Policy" = "Tietosuojakäytäntö";
+
+"System" = "Järjestelmä";
+
+"On" = "Päällä";
+
+"Free Plan" = "Free-sopimus";
+
+"ChatGPT Enterprise" = "ChatGPT Enterprise";
+
+"Manage Subscriptions" = "Tilausten hallinta";
+
+"Delete All Chats" = "Poista kaikki keskustelut";
+
+"Archived conversations will be available here" = "Arkistoidut keskustelut ovat saatavilla täällä";
+
+"We couldn't load your archived chats" = "Arkistoituja keskustelujasi ei voitu ladata";
+
+"Speech" = "Puhe";
+
+"Unarchive" = "Poista arkistosta";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "Voit poistaa tilisi vain, jos olet kirjautunut sisään viimeisten 10 minuutin aikana.\n\nKirjaudu sisään uudelleen ja palaa sitten tänne jatkaaksesi.";
+
+"Subscription Cancellation" = "Tilauksen peruuttaminen";
+
+"ChatGPT for %@" = "ChatGPT %@-käyttäjille";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "ChatGPT muuttuu hyödyllisemmäksi keskustelun edetessä, sillä se mukauttaa vastaukset tietojen ja asetusten perusteella. [Lue lisää](%@)\n\nSaadaksesi tietää, mitä ChatGPT muistaa, tai opettaaksesi sille jotain uutta, keskustele sen kanssa:\n\n• ”Muista, että pidän ytimekkäistä vastauksista.”\n• ”Hankin juuri koiranpennun!”\n• ”Mitä muistat minusta?”\n• ”Mihin jäimme edellisessä projektissa?”";
+
+"All your chats will be archived. This cannot be undone." = "Kaikki keskustelusi arkistoidaan. Tätä toimintoa ei voi peruuttaa.";
+
+"Successfully exported data. You should receive an email shortly with your data." = "Tietojen vieminen onnistui. Sinun pitäisi saada pian sähköposti, joka sisältää tietosi.";
+
+"Manage Memory" = "Muistin hallinta";
+
+"ChatGPT Team" = "ChatGPT Team";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "Tilisi tiedot ja keskustelut liitetään vientiin.\n\nTiedot lähetetään rekisteröityyn sähköpostiosoitteeseesi ladattavana tiedostona.\n\nKäsittely voi kestää jonkin aikaa. Saat ilmoituksen, kun se on valmis.";
+
+"Could not archive all chats" = "Kaikkien keskustelujen arkistoiminen ei onnistunut";
+
+"Help" = "Ohje";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "Tilisi poistaminen ei peruuta aktiivisia sovelluksen sisäisiä tilauksia. Voit peruuttaa ne Apple ID:n asetuksissa.";
+
+"Terms of Use" = "Käyttöehdot";
+
+"Restore purchases" = "Palauta ostokset";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Jaa tulevien äänikeskustelujesi äänisisältö mallien parantamiseksi ja kouluttamiseksi. Se tekee äänikeskusteluista parempia kaikille. [Lue lisää](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Data Controls" = "Tiedonhallinta";
+
+"Improve the model for everyone" = "Auta parantamaan mallia kaikille";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Tallenna uudet keskustelut tässä laitteessa historiaasi ja salli niiden käyttäminen mallien parantamiseen. Tallentamattomat keskustelut poistetaan järjestelmistämme 30 päivän kuluessa. Tämä asetus ei synkronoidu muille laitteille. [Lue lisää](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Your account has been queued for deletion." = "Tilisi tullaan poistamaan.";
+
+"Conversation not found" = "Keskustelua ei löytynyt";
+
+"All your chats will be cleared from history. This cannot be undone." = "Kaikki keskustelusi poistetaan historiasta. Tätä toimintoa ei voi peruuttaa.";
+
+"Yesterday" = "Eilen";
+
+"Chat training" = "Keskustelujen kouluttaminen";
+
+"Help Center" = "Ohjekeskus";
+
+"Upgrade to ChatGPT Plus" = "Päivitä ChatGPT Plus -versioon";
+
+"Main Language" = "Pääkieli";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "Tilin poistaminen on lopullista, eikä sitä voi peruuttaa. Kaikki tietosi, kuten profiilisi, keskustelusi ja API-käyttösi, poistetaan.\n\nEt voi käyttää samaa sähköpostiosoitetta tai puhelinnumeroa uuden tilin luomiseen.\n\nJos olet käyttänyt ChatGPT:tä API:n kautta, myös sen käyttöoikeus poistetaan.";
+
+"Customize ChatGPT" = "Mukauta ChatGPT:tä";
+
+"ChatGPT Plus" = "ChatGPT Plus";
+
+"Desktop Launcher" = "Työpöydän oikotiet";
+
+"Could not delete conversation. Please try again later." = "Keskustelun poistaminen ei onnistunut. Yritä myöhemmin uudelleen.";
+
+"New Features" = "Uudet ominaisuudet";
+
+"Email" = "Sähköpostiosoite";
+
+"Manage workspace" = "Työtilan hallinta";
+
+"Improve voice for everyone" = "Auta parantamaan ääntä kaikille";
+
+"Error updating setting. Please try again later" = "Virhe asetuksen päivittämisessä. Yritä myöhemmin uudelleen.";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Salli sisältösi käyttö mallien kouluttamiseen, mikä tekee ChatGPT:stä paremman sinulle ja muille käyttäjille. Suojaamme yksityisyytesi. [Lue lisää](https://help.openai.com/en/articles/7730893-data-controls-faq).";
+
+"Search Archive" = "Hae arkistosta";
+
+"Chat History & Training" = "Keskusteluhistoria ja kouluttaminen";
+
+"Are you sure?" = "Oletko varma?";
+
+"Memory" = "Muisti";
+
+"Error deleting all chats" = "Virhe kaikkien keskustelujen poistamisessa";
+
+"App Language" = "Sovelluksen kieli";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Tallenna uudet keskustelut tässä laitteessa historiaasi. Tallentamattomat keskustelut poistetaan järjestelmistämme 30 päivän kuluessa. Tämä asetus ei synkronoidu muille laitteille. [Lue lisää](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"No archived chats" = "Ei arkistoituja keskusteluja";
+
+"Archived Chats" = "Arkistoidut keskustelut";
+
+"Off" = "Pois päältä";
+
+"Color Scheme" = "Värimalli";
+
+"Email missing!" = "Sähköpostiosoite puuttuu!";
+
+"We were unable to process your export at this time. Please try again later." = "Vientiäsi ei voitu käsitellä juuri nyt. Yritä myöhemmin uudelleen.";
+
+"Subscription" = "Tilaus";
+
+"Archive All Chats" = "Arkistoi kaikki keskustelut";
+
+"None" = "Ei mitään";
+
+"Chat history" = "Keskusteluhistoria";
+
+"Keyboard Shortcut" = "Pikanäppäin";
+
+"Today" = "Tänään";
+
+"Could not unarchive conversation. Please try again later." = "Keskustelun poistaminen arkistosta ei onnistunut. Yritä myöhemmin uudelleen.";
+
+"Dark" = "Tumma";
+
+"Keep ChatGPT on top" = "Pidä ChatGPT ylhäällä";
+
+"Workspace" = "Työtila";
+
+"Confirm Export" = "Vahvista vienti";
+
+"About" = "Tietoja";
+

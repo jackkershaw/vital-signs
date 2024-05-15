@@ -1,0 +1,40 @@
+"Turn On" = "I-on";
+
+"Clear this GPT's memory" = "I-clear ang memory ng GPT na ito";
+
+"Are you sure?" = "Sigurado ka ba?";
+
+"Clear Memory" = "I-clear ang Memory";
+
+"Memory" = "Memory";
+
+"Could not reset memory. Please try again later." = "Hindi ma-reset ang memory. Pakisubukan ulit mamaya.";
+
+"Clear ChatGPT’s memory" = "I-clear ang memory ng ChatGPT";
+
+"Error deleting memory" = "Nagka-error sa pag-delete ng memory";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "Habang nakikipag-chat sa %@, ipapakita dito ang mga detalye at kagustuhang naaalala nito.";
+
+"Learn More" = "Alamin ang Higit Pa";
+
+"No memories" = "Walang memory";
+
+"Error loading memories" = "Nagka-error sa pag-load ng mga memory";
+
+"%@'s memories" = "Mga memory ng %@";
+
+"Search memories" = "Maghanap sa mga memory";
+
+"Open menu to select which GPT to show memories for" = "Buksan ang menu para piliin kung sa aling GPT ipapakita ang mga memory";
+
+"%@ won't use or create memories" = "Hindi magagamit o gagawa ng mga memory ang %@";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "Kakalimutan ng %@ ang lahat ng naaalala nito mula sa iyong mga chat. Hindi na ito mababawi.";
+
+"Error loading GPTs" = "Nagka-error sa pag-load ng mga GPT";
+
+"Memory is disabled" = "Naka-disable ang memory";
+
+"Select a GPT" = "Mamili ng GPT";
+

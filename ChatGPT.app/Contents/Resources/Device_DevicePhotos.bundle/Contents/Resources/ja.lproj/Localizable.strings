@@ -1,0 +1,16 @@
+"Image conversion failed" = "画像を変換できませんでした";
+
+"Photos Access Denied" = "写真へのアクセスが拒否されました";
+
+"Enable photo library access in Settings to save photos." = "写真を保存するには、[設定] で写真ライブラリへのアクセスを有効にしてください。";
+
+"Not authorized" = "許可されていません";
+
+"Failed to Save Image" = "画像を保存できませんでした";
+
+"Expected a non-file URL, but received a file URL" = "ファイルではない URL が必要でしたが、ファイルの URL を受け取りました";
+
+"Please try again later.\n\n(%@)" = "後でもう一度お試しください。\n\n(%@)";
+
+"Expected a file URL, but received a non-file URL" = "ファイルの URL が必要でしたが、ファイルではない URL を受け取りました";
+

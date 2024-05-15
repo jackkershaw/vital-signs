@@ -1,0 +1,50 @@
+"Keep in Sidebar" = "সাইডবারে রাখুন";
+
+"Temporary Chat" = "সাময়িক চ্যাট";
+
+"ChatGPT" = "ChatGPT";
+
+"Manage Chat" = "চ্যাট পরিচালনা করুন";
+
+"Memory Off" = "'স্মৃতি' বন্ধ করা আছে";
+
+"Rename" = "নাম পরিবর্তন করুন";
+
+"Rename Chat" = "চ্যাটের নাম পরিবর্তন করুন";
+
+"Archive" = "আর্কাইভ করুন";
+
+"Share" = "শেয়ার করুন";
+
+"%lld more" = "%lld আরও বেশি";
+
+"Remove From Sidebar" = "সাইডবার থেকে অপসারণ করুন";
+
+"Upgrade Plan" = "পরিকল্পনা আপগ্রেড করুন";
+
+"This GPT is no longer available." = "এই GPT আর উপলভ্য নয়।";
+
+"No results for **%@**" = "এর জন্য কোনও ফলাফল নেই **%@**";
+
+"No results for **%@**" = " এর জন্য কোনও ফলাফল নেই **%@**";
+
+"See less" = "কম দেখুন";
+
+"%@ requires memory to be on. Adjust in **settings**." = "%@ স্মৃতি চালু থাকা প্রয়োজন । **সেটিংসে** সুসামঞ্জস্য করুন ।";
+
+"Review GPT" = "GPT পুনরায় দেখুন";
+
+"Your workspace owner hasn't approved this GPT" = "আপনার কর্মক্ষেত্রের মালিক এই GPT অনুমোদন করেননি।";
+
+"Title" = "শিরোনাম";
+
+"Menu" = "মেনু";
+
+"Explore GPTs" = "GPTs অন্বেষণ করুন";
+
+"Share GPT" = "GPT শেয়ার করুন";
+
+"ChatGPT %@" = "ChatGPT %@";
+
+"Unable to load GPT." = "GPT লোড করা যাচ্ছে না।";
+

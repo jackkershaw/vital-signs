@@ -1,0 +1,18 @@
+"You've made too many requests. Please try again later. (429, %@)" = "თქვენ გამოგზავნეთ ძალიან ბევრი მოთხოვნა. სცადეთ მოგვიანებით. (429, %@)";
+
+"There is a problem with your request. (%lld, %@)" = "თქვენს მოთხოვნასთან დაკავშირებით პრობლემაა. (%lld, %@)";
+
+"There is a problem with your account info. Please try signing out then in." = "თქვენს ანგარიშის ინფორმაციასთან დაკავშირებით პრობლემაა. სცადეთ ანგარიშიდან გასვლა და ხელახლა შესვლა.";
+
+"System error" = "სისტემური შეცდომა";
+
+"This content may violate our content policy. Please try again with different content." = "ეს შინაარსი, შესაძლოა, არღვევდეს შინაარსის პოლიტიკას. სცადეთ სხვა შინაარსი.";
+
+"Unsupported content" = "მხარდაუჭერელი კონტენტი";
+
+"The response is invalid. Please try again." = "პასუხში არასწორია. სცადეთ ხელახლა.";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "სერვერს პრობლემა შეექმნა. სცადეთ მოგვიანებით. (%lld, %@)";
+
+"The server is overloaded. Please try again later." = "სერვერი ამჟამად გადატვირთულია. სცადეთ მოგვიანებით.";
+

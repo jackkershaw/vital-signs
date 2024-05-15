@@ -1,0 +1,52 @@
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Az egyéni instrukciókat figyelembe vesszük az új csevegéseknél. [További információ](chat-preferences-disclosures)";
+
+"Enable for new chats" = "Engedélyezés új csevegéseknél";
+
+"Unsaved changes" = "Nem mentett módosítások";
+
+"Discard changes" = "Módosítások elvetése";
+
+"GPT-4 Capabilities" = "A GPT-4 funkciói";
+
+"Save" = "Mentés";
+
+"Generate images using DALL•E" = "Generálj képeket a DALL•E használatával";
+
+"Error updating state for customizations. Please try again later." = "Hiba történt a testreszabási lehetőségek állapotának frissítése közben. Próbáld újra később.";
+
+"Code" = "Kód";
+
+"Error saving custom instructions" = "Hiba történt az egyéni instrukciók mentése közben.";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Biztosan el szeretnéd vetni a módosításokat? \nA módosításaid véglegesen elvesznek.";
+
+"Choose which tools can be used with GPT-4." = "Válaszd ki a GPT-4-gyel használható eszközöket.";
+
+"Execute code using Code Interpreter" = "Futtass kódot a Kódértelmező használatával";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Mit szeretnél, ha a ChatGPT tudna rólad, ahhoz hogy jobb válaszokat adjon?";
+
+"Customize ChatGPT" = "A ChatGPT testreszabása";
+
+"DALL•E" = "DALL•E";
+
+"An unknown error occurred. Please try again later" = "Ismeretlen hiba történt. Próbáld újra később.";
+
+"Error loading customizations. Please try again later." = "Hiba történt a testreszabási lehetőségek betöltése közben. Próbáld újra később.";
+
+"Thought starters" = "Gondolatébresztők";
+
+"Saving Custom Instructions" = "Egyéni instrukciók mentése";
+
+"How would you like ChatGPT to respond?" = "Hogyan válaszoljon a ChatGPT?";
+
+"Keep editing" = "Szerkesztés folytatása";
+
+"Browse the internet to find answers" = "Böngéssz az interneten válaszok kereséséért";
+
+"Custom Instructions Enabled or Disabled" = "Engedélyezett vagy letiltott egyéni instrukciók";
+
+"Browsing" = "Böngészés";
+
+"Show tips" = "Tippek megjelenítése";
+

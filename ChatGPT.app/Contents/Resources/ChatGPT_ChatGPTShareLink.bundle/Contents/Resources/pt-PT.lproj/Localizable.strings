@@ -1,0 +1,50 @@
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "As mensagens enviadas ou recebidas após a partilha da sua ligação não serão partilhadas. Qualquer pessoa com o URL poderá ver o seu chat partilhado.";
+
+"Delete link" = "Eliminar ligação";
+
+"Share link" = "Partilhar ligação";
+
+"Missing Name" = "Nome em falta";
+
+"Shared link deleted." = "Ligação partilhada eliminada";
+
+"There was an error preparing the conversation. Please try again. %@" = "Ocorreu um erro ao preparar a conversa. Tente novamente. %@";
+
+"Shared Link Date" = "Data da ligação partilhada";
+
+"Share your name" = "Partilhar o seu nome";
+
+"The share link is invalid. %@" = "A ligação de partilha é inválida. %@";
+
+"Share link to chat" = "Partilhar ligação com o chat";
+
+"The conversation has no messages." = "A conversa não tem mensagens.";
+
+"Shared Link Owner" = "Proprietário da ligação partilhada";
+
+"Edit title" = "Editar título";
+
+"Share anonymously" = "Partilhar de forma anónima";
+
+"There was an error deleting your shared link." = "Ocorreu um erro ao eliminar a sua ligação partilhada.";
+
+"There was an error sharing the conversation. Please try again. %@" = "Ocorreu um erro ao partilhar a conversa. Tente novamente. %@";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "Já partilhou uma ligação para este chat. Se pretender incluir novas mensagens, elimine esta ligação e partilhe o seu chat novamente.";
+
+"Recipients won't be able to view images." = "Os destinatários não poderão ver imagens.";
+
+"Options" = "Opções";
+
+"Help and FAQ" = "Ajuda e Perguntas frequentes";
+
+"Title" = "Título";
+
+"Update title" = "Atualizar título";
+
+"Shared Link Title" = "Título da ligação partilhada";
+
+"Your custom instructions won’t be shared with viewers." = "As suas instruções personalizadas não serão partilhadas com visualizadores.";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "Tem a certeza de que pretende eliminar a ligação partilhada “%@”? Pode sempre criar uma nova ligação partilhando este chat novamente.";
+

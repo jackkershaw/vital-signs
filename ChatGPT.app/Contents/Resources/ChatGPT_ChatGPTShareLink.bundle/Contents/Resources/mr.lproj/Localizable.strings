@@ -1,0 +1,50 @@
+"Options" = "पर्याय";
+
+"Help and FAQ" = "मदत आणि FAQ";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "तुमची खात्री आहे की तुम्ही शेअर केलेला दुवा \"%@\" हटवू इच्छिता? ही चॅट पुन्हा शेअर करून तुम्ही कधीही नवीन लिंक तयार करू शकता.";
+
+"Shared link deleted." = "शेअर केलेली लिंक हटवली.";
+
+"Shared Link Date" = "शेअर केलेल्या लिंक्स";
+
+"Shared Link Title" = "शेअर केलेल्या दुव्याचे शीर्षक";
+
+"Your custom instructions won’t be shared with viewers." = "तुमच्या कस्टम सूचना दर्शकांसोबत शेअर केल्या जाणार नाहीत.";
+
+"Recipients won't be able to view images." = "प्राप्तकर्ते प्रतिमा पाहू शकणार नाहीत.";
+
+"Shared Link Owner" = "शेअर केलेली लिंक मालक";
+
+"Delete link" = "लिंक हटवा";
+
+"Share link" = "दुवा सामायिक करा";
+
+"The share link is invalid. %@" = "शेअर लिंक अवैध आहे. %@";
+
+"There was an error deleting your shared link." = "तुमचा शेअर केलेला दुवा हटवताना त्रुटी आली.";
+
+"Share link to chat" = "चॅटची लिंक शेअर करा";
+
+"Edit title" = "शीर्षक सुधारित करा";
+
+"The conversation has no messages." = "संभाषणात कोणतेही संदेश नाहीत.";
+
+"There was an error preparing the conversation. Please try again. %@" = "संभाषण तयार करताना त्रुटी आली. कृपया पुन्हा प्रयत्न करा. %@";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "तुम्ही या चॅटचा दुवाआधीच शेअर केला आहे. तुम्हाला नवीन संदेश समाविष्ट करायचे असल्यास, हा दुवा हटवा आणि तुमचे चॅट पुन्हा शेअर करा.";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "तुमचा दुवा शेअर केल्यानंतर पाठवलेले किंवा मिळालेले मेसेज शेअर केले जाणार नाहीत. URL असलेले कोणीही तुमचे शेअर केलेले चॅट पाहण्यास सक्षम असेल.";
+
+"Missing Name" = "गहाळ नाव";
+
+"Update title" = "शीर्षक अद्यतनित करा";
+
+"Title" = "शीर्षक";
+
+"There was an error sharing the conversation. Please try again. %@" = "संभाषण शेअर करताना त्रुटी आली. कृपया पुन्हा प्रयत्न करा.%@";
+
+"Share anonymously" = "अनामिकपणे शेअर करा";
+
+"Share your name" = "तुमचे नाव शेअर करा";
+

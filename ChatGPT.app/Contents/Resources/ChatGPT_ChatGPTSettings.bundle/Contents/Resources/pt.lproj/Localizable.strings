@@ -1,0 +1,180 @@
+"All your chats will be cleared from history. This cannot be undone." = "Todos os seus chats serão apagados do histórico. Isso não poderá ser revertido.";
+
+"ChatGPT for %@" = "ChatGPT para %@";
+
+"Email missing!" = "Falta o e-mail!";
+
+"Subscription Cancellation" = "Cancelamento da assinatura";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "Não é possível realizar alterações em sua assinatura neste aplicativo porque você a comprou em outra plataforma.";
+
+"View" = "Exibir";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "O ChatGPT ficará mais útil à medida que você conversar com ele, captando detalhes e preferências para adaptar as respostas a você. [Saiba mais](%@)\n\nPara entender do que o ChatGPT se lembra ou ensinar algo novo, basta conversar com ele:\n\n• “Lembre-se de que gosto de respostas concisas.”\n• “Acabei de ganhar um filhotinho!”\n• “O que você lembra de mim?”\n• “Onde paramos no meu último projeto?”";
+
+"App" = "Aplicativo";
+
+"Workspace" = "Espaço de trabalho";
+
+"Haptic Feedback" = "Resposta háptica";
+
+"Chat history" = "Histórico de chats";
+
+"We couldn't load your archived chats" = "Não foi possível carregar seus chats arquivados";
+
+"Archived conversations will be available here" = "As conversas arquivadas estarão disponíveis aqui";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Salve novos chats deste aparelho em seu histórico e permita que eles sejam usados ​​para melhorar nossos modelos. Os chats não salvos serão excluídos de nossos sistemas em 30 dias. Esta configuração não é sincronizada entre aparelhos. [Saiba mais](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Error updating setting. Please try again later" = "Erro ao atualizar a configuração. Tente novamente mais tarde";
+
+"Voice" = "Voz";
+
+"Manage Memory" = "Gerenciar memória";
+
+"We were unable to process your export at this time. Please try again later." = "Não foi possível processar sua exportação neste momento. Tente novamente mais tarde.";
+
+"Recent login required" = "É necessário um login recente";
+
+"Could not delete conversation. Please try again later." = "Não foi possível excluir a conversa. Tente novamente mais tarde.";
+
+"ChatGPT Enterprise" = "ChatGPT Enterprise";
+
+"Manage workspace" = "Gerenciar espaço de trabalho";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "A exclusão da sua conta não cancelará nenhuma assinatura ativa no aplicativo. Você pode cancelar essas assinaturas nas configurações do seu ID Apple.";
+
+"Could not delete all chats" = "Não foi possível excluir todos os chats";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "Ocorreu um erro durante a exclusão da sua conta. Tente novamente. Se o problema continuar, acesse help.openai.com.";
+
+"Keep ChatGPT on top" = "Manter o ChatGPT sempre visível";
+
+"Dark" = "Escuro";
+
+"Search Archive" = "Pesquisar arquivo";
+
+"Help Center" = "Central de ajuda";
+
+"None" = "Nenhum";
+
+"This workspace is private and opted out of training." = "Este espaço de trabalho é privativo e não faz parte do treinamento.";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "A exclusão de sua conta é permanente e não pode ser desfeita. Todos os seus dados, inclusive o perfil, as conversas e o uso da API serão removidos.\n\nVocê não pode reutilizar o mesmo e-mail ou número de telefone para uma nova conta.\n\nSe estiver usando o ChatGPT com a API, esse acesso também será excluído.";
+
+"Terms of Use" = "Termos de uso";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Permite que seu conteúdo seja utilizado para treinar nossos modelos, aprimorando o ChatGPT para você e todos os outros usuários. Tomamos medidas para proteger sua privacidade. [Saiba mais](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"ChatGPT Team" = "ChatGPT Team";
+
+"Free Plan" = "Plano Grátis";
+
+"Archived Chats" = "Chats arquivados";
+
+"Customize ChatGPT" = "Personalizar ChatGPT";
+
+"Email" = "E-mail";
+
+"Manage Subscriptions" = "Gerenciar assinaturas";
+
+"Successfully exported data. You should receive an email shortly with your data." = "Dados exportados com sucesso. Você deve receber um e-mail em breve com seus dados.";
+
+"Always show ChatGPT in dock" = "Sempre exibir o ChatGPT no dock";
+
+"Today" = "Hoje";
+
+"Keyboard Shortcut" = "Atalho de teclado";
+
+"Data Controls" = "Controlar dados";
+
+"Main Language" = "Idioma principal";
+
+"Chat History & Training" = "Histórico de chats e treinamento";
+
+"Error archiving all chats" = "Erro ao arquivar todos os chats";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "Conversas e detalhes da sua conta serão incluídos na exportação.\n\nOs dados serão enviados para o e-mail cadastrado em um arquivo para download.\n\nO processamento pode levar algum tempo. Você receberá uma notificação quando estiver concluído.";
+
+"Chat training" = "Treinamento de chat";
+
+"Error deleting all chats" = "Erro ao excluir todos os chats";
+
+"New Features" = "Novos recursos";
+
+"Conversation not found" = "Conversa não encontrada";
+
+"Are you sure?" = "Tem certeza?";
+
+"Your account has been queued for deletion." = "Sua conta foi colocada na fila de exclusão.";
+
+"Upgrade to ChatGPT Plus" = "Fazer upgrade para o ChatGPT Plus";
+
+"ChatGPT Plus" = "ChatGPT Plus";
+
+"Could not update the memory setting. Please try again later." = "Não foi possível atualizar a configuração da memória. Tente novamente mais tarde.";
+
+"App Language" = "Idioma do aplicativo";
+
+"Memory" = "Memória";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "Só é possível excluir sua conta se você tiver entrado nos últimos 10 minutos.\n\nEntre novamente e volte aqui para continuar.";
+
+"Desktop Launcher" = "Iniciador de área de trabalho";
+
+"Could not unarchive conversation. Please try again later." = "Não foi possível desarquivar a conversa. Tente novamente mais tarde.";
+
+"System" = "Sistema";
+
+"Delete Account" = "Excluir conta";
+
+"Subscription" = "Assinatura";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Salve novos chats deste aparelho em seu histórico. Os chats não salvos serão excluídos de nossos sistemas em 30 dias. Esta configuração não é sincronizada entre aparelhos. [Saiba mais](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Permitir que seu conteúdo seja utilizado para treinar nossos modelos, aprimorando o ChatGPT para você e todos os outros usuários. Tomamos medidas para proteger sua privacidade. [Saiba mais](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Export Data" = "Exportar dados";
+
+"Light" = "Claro";
+
+"Speech" = "Fala";
+
+"Improve voice for everyone" = "Melhore a voz para todo mundo";
+
+"Privacy Policy" = "Política de privacidade";
+
+"Off" = "Desativada";
+
+"On" = "Ativada";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Compartilhe o áudio de futuros chats de voz para aprimorar e treinar nossos modelos. Isso melhora a qualidade dos chats de voz para todos. [Saiba mais](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"All your chats will be archived. This cannot be undone." = "Todos os seus chats serão arquivados. Isso não poderá ser revertido.";
+
+"Delete All Chats" = "Excluir todos os chats";
+
+"Yesterday" = "Ontem";
+
+"Confirm Export" = "Confirmar exportação";
+
+"Could not archive all chats" = "Não foi possível arquivar todos os chats";
+
+"Archive All Chats" = "Arquivar todos os chats";
+
+"Restore purchases" = "Restaurar compras";
+
+"Help" = "Ajuda";
+
+"About" = "Sobre";
+
+"No archived chats" = "Sem chats arquivados";
+
+"Color Scheme" = "Esquema de cores";
+
+"Unarchive" = "Desarquivar";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "Para obter melhores resultados, selecione o idioma principal que você fala. Caso não esteja listado, ele ainda poderá ser compatível por meio da detecção automática.";
+
+"Improve the model for everyone" = "Melhore o modelo para todo mundo";
+

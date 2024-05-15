@@ -1,0 +1,150 @@
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "Mar alaale markaad tifatirtid tilmaamaha shakhsiyeysan, waxey saameyn ku yeelan doonaan dhammaan sheekeysiyada aad abuurto. Wada-sheekeysiyadii hore lama cusbooneysiin doono.";
+
+"Built for business" = "Loo-dhisay ganacsi";
+
+"Welcome to your company's workspace" = "Kusoo dhawow goobta shaqo ee shirkadaada";
+
+"Help improve voice" = "Caawi horumarinta codak";
+
+"Continue" = "Sii wad";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "Halkan waxaad isticmaali kartaa moodeeladeena ugu dambeeyey, oo leh awoodo, iyo xadidaadyo yar.";
+
+"Chats may be reviewed by our AI trainers to improve our systems." = "Sheekeysiyada waxaa dib-u-eegi kara tababarayaasheena AI si loo hagaajiyo nidaamyadeena.";
+
+"Made for use at work" = "Loo sameeyey goob shaqo";
+
+"Chat with voice" = "Ku sheekeyso cod";
+
+"Manage what it remembers" = "Maaree wax ay xasuusato";
+
+"Share" = "Wadaag";
+
+"Just start talking" = "Keliya bilaw inaad hadasho";
+
+"Help improve our models" = "Caawi hagaajinta moodeeladeena";
+
+"More helpful over time" = "Waxtar dheeri ah wakhti kadib";
+
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "ChatGPT waxey qaadi doontaa waxa ay ka barato sheekeysiyada dhexdooda, iyadoo u ogolaaneysa iney bixiso jawaabo sii habboon.";
+
+"Share audio from future voice chats to improve and train our models." = "Wadaag maqal laga helo sheekeysiyo cod oo mustaqbalka ah si aad u horumarisid una tababartid moodeeladeena.";
+
+"Taking steps to protect privacy" = "Qaadida tallaabo si loo ilaaliyo asturnaan";
+
+"Now you can have spoken conversations with ChatGPT." = "Haddeerta waxaad ChatGPT la yeelan kartaa wada-sheekeysiyo hadal ah.";
+
+"Welcome to the %@ workspace" = "Ku soo dhawow %@ goobta shaqo";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "Ka eeg qoraalada codka taariikhdaada. Cajalada maqalka lama kaydiyo.";
+
+"ChatGPT now has memory across chats" = "ChatGPT waxey hadda leedahay xasuuso sheekeysiyada dhexdooda ah";
+
+"Start with a photo" = "Ku bilaw sawir";
+
+"Memory off" = "Xusuusta la damiyey";
+
+"Welcome to ChatGPT" = "Kusoo dhawow ChatGPT";
+
+"Check your facts" = "Ka baar xaqiiqooyinkaaga";
+
+"Follows custom instructions" = "Waxey raacdaa tilmaamaha gaarka ah";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "Waxaad luuqad la doorbido ku cayimi kartaa Habeynadaada sifo dareen sii saxan u heshid.";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "Tilmaamahaada waxey wanaajin doonaan moodeeladeena. Booqo [Xarunteena Kaalmada](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) si aad wax badan ugu barato sida loo isticmaalo xogtaada.";
+
+"You’re in control" = "Adigaa hogaanka haya";
+
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "Adigaa hogaanka haya. Dib-u-eeg oo tirtir xasuuso qaar, kasoo bilaw aasaas, ama ka dami aalada habeynada dhexdooda.";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "ChatGPT waxey ka jawaabi kartaa su’aalaha, kaa caawin karta inaad barato, qori karta koodh, afkaar kula samayn karta, iyo kuwo badan.";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "Si aad u horumarisid sheekeysiyada codka ah, kooxdeena ayaa dib-u-eegi doonta maqalka. Waxaan qaadnaa tallaabooyin si aan u yareyno cadadka macaluumaadka shakhsi ahaaneed ee kujira maqalka si aan u tababarno moodeeladeena.";
+
+"Select an area of the image to edit" = "Dooro gob sawirka ah si aad tifatir";
+
+"Chat without having to look at your screen." = "Sheekeyso adigoo eegeynin shaashadaada.";
+
+"Picture perfect" = "Sawir-u-saxsan";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Haddii aadan rabin inaad sii wadid, waxaad xili kasta habeynada ku joojin kartaa wadaagida.\n\n[Wax Badan ka Baro](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "ChatGPT waxey bixin kartaa macaluumaad qaldan oo ku saabsan dadka, goobaha, ama xaqiiqooyinka.";
+
+"Not in history" = "Kuma jirto taariikhda";
+
+"Language is auto-detected" = "Luuqad si otomaatik ah abaa loo dareemay";
+
+"Tap Select, highlight the area, and describe changes in chat." = "Taabo Dooro, bidhaami goobta, oo qeex isbedelada sheekeysiga dhexdiis ah.";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "Isku day isticmaal sawir si aad u hagaajisid baaskiilkaaga, u abuurtid qoraal-cunto-karineed, ama u falanqeysid sawiro adag.";
+
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "Shakhsiyey is-dhexgelada aad la yeelato ChatGPT adigoo bixinaya faahfaahino iyo hagitaano gaar ah oo ku aadan sheeykeysigaaga.";
+
+"Tap Edit and describe changes in chat." = "Taabo Tifatir oo qeex isbedelada sheekeysiga gudihii.";
+
+"No model training" = "Ma jirto tababarid moodeel";
+
+"Custom Instructions will still be followed if you have them enabled." = "Tilmaamaha Gaarka ah ayaa wali la raaci doonaa haddii aad furato.";
+
+"Chats are saved" = "Sheekeysiyada waa la kaydiyaa";
+
+"Don’t share sensitive info" = "Ha wadaagin macaluumaad xasaasi ah";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "Inkastoo aan ilaalo leenahay, ChatGPT waxey ku siin kartaa macaluumaad qaldan. Looma hagaajin iney waano bixiso.";
+
+"Edit the full image" = "Tifatir sawirka buuxa";
+
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "ChatGPT waxey noqon doontaa mid waxtar badan leh hadba intaad la sheekeysaneysid, iyadoo si joogto ah u xasuusato faahfaahinada iyo doorbidaadyada.";
+
+"Refine DALL·E Images" = "Sifee sawirada DALL·E";
+
+"Control your chat history" = "Xakamee taariikhda sheekeysigaaga";
+
+"Temporary Chats won’t be used to improve our models." = "Sheekeysi Ku-meel-gaar ah looma adeegsan doono in lagu hagaajiyo moodeeladeena.";
+
+"Learn more" = "Wax badan ka baro";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "Inta lagu jiro Sheekeysi ku-meel-gaar ah, ChatGPT ma adeegsan doono ama abuuri doono xasuuso. Tilmaamo shakhsiyeysan ayaa wali la raaci doonaa hadey kuu furanyihiin.";
+
+"Choose a voice" = "Dooro cod";
+
+"Active for new chats" = "U firfircoon sheekeysiyo cusub";
+
+"Hands-free" = "Gacmo la’aan";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "Sheekeysi Ku-meel-gaar ah kama soo muuqan doonto taariikhdaada. Ujeedooyin amni darteed, waxaan hayn karnaa nuqul sheekeysigaaga ah ilaa 30 maalmood.";
+
+"Improve voice chats for everyone" = "U horumari sheekeysiyada codka ah qofwalba";
+
+"Chat with images" = "Ku sheekeyso sawiraan";
+
+"Introducing\nCustom Instructions" = "Keenaya\nTilmaamaha Shakhsiyeysan";
+
+"Snap a picture to ask ChatGPT about the world around you." = "Sawir iska soo qabo si aad ChatGPT dunida kuugu hareereysan.";
+
+"Temporary Chat" = "Sheekeysi Ku-meel-gaar ah";
+
+"Keep the conversation going" = "Sii wad wada-sheekeysiga";
+
+"Get Started" = "Bilaw";
+
+"Now you can have spoken conversations with GPTs." = "Haddeerta waxaad GPT-yada la yeelan kartaa wada-sheekeysiyo hadal ah.";
+
+"By default, chats in this workspace are not used to train our AI models." = "Aslan, sheekeysiga goobtan shaqo looma adeegsado in lagu tababaro moodeeladeena AI.";
+
+"Don't Share" = "Ha Wadaagin";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "Abbka rasmiga ah waa bilaash, ku-hagaajiya taariikhdaada agabyada oo idil, wuxuuna OpenAI kaaga keenaa horumarinada moodeel kuwii ugu dambeeyey.";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "Macno-guud ka bixi wakaaladaada, doorkaaga, ama mashaariic gaar ah si aad u heshid jawaabo wanaagsan ee adiga kuu gaar ah.";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "Go’aanso in sheekeysiyada cusub ee agabkan ay kasoo muuqan doonaan taariikhdaada oo loo isticmaali doono in lagu horumariyo nidaamkeena.";
+
+"Ask away" = "Hadaba waydii";
+
+"ChatGPT can be inaccurate" = "ChatGPT way qaldami kartaa";
+
+"Welcome to\nChatGPT" = "Kusoo dhawow\nChatGPT";
+

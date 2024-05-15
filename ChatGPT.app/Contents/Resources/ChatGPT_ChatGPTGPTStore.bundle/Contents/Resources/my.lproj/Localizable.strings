@@ -1,0 +1,118 @@
+"Capabilities" = "စွမ်းရည်များ";
+
+"Start Chat" = "ချတ် စတင်ရန်";
+
+"Star rating" = "ကြယ်အဆင့်သတ်မှတ်ချက်";
+
+"Share" = "မျှဝေပါ";
+
+"Okay" = "အိုကေ";
+
+"How would you rate this GPT?" = "ဤ GPT ကို သင်မည်ကဲ့သို့ အဆင့်သတ်မှတ် မည်နည်း။";
+
+"Explore" = "စူးစမ်းပါ";
+
+"Search Public GPTs" = "အများသုံး GPT များ ရှာဖွေရန်";
+
+"Feedback" = "Feedback";
+
+"Great" = "အလွန်ကောင်း";
+
+"Get Plus to Chat" = "ချတ်ရန် Plus ကို ယူလိုက်ပါ";
+
+"Visibility" = "မြင်နိုင်စွမ်း";
+
+"%@ rating" = "%@ အဆင့် သတ်မှတ်ချက်";
+
+"Edit" = "ပြင်ဆင်";
+
+"How would you rate **%@**?" = "**%@** ကို သင်မည်ကဲ့သို့ အဆင့်သတ်မှတ် မည်နည်း။";
+
+"Feedback" = "ထင်မြင်ချက်";
+
+"Good" = "ကောင်း";
+
+"No Recents" = "မကြာသေးမီက မရှိပါ";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "အဆင့် သတ်မှတ်ချက်%@မှ ^[%lld ကြယ်](inflect: true) ";
+
+"Bad" = "ညံ့";
+
+"Are you sure you want to remove this GPT from your recents?" = "ဤ GPT ကို သင်၏ မကြာသေးမီကမှ ဖယ်ရှားလိုသည်မှာ သေချာပါသလား။";
+
+"Exceptional!" = "ခြွင်းချက်";
+
+"Anyone with a link" = "လင့်ခ်ရှိသူ မည်သူမဆို";
+
+"Include my email **%@**" = "ကျွန်ုပ်၏ အီးမေးလ် **%@** ကို ထည့်သွင်းပါ";
+
+"Report" = "တိုင်ကြား ";
+
+"Thank you for your feedback!" = "သင်၏ အကြံပြုချက် အတွက် ကျေးဇူးတင်ပါသည်။";
+
+"Unable to load, retry?" = "တင်၍မရပါ၊ ပြန်လုပ်ဆောင်မလား။";
+
+"By %@" = "%@ မှ";
+
+"in **%@**" = "**%@** တွင်";
+
+"Recently Used" = "မကြာသေးမီက အသုံးပြုခဲ့သည်";
+
+"Start chat" = "ချတ် စတင်ရန်";
+
+"Failed to remove recent GPT, retry?" = "မကြာသေးမီက GPT ကို ဖယ်ရှား၍မရပါ၊ ပြန်လုပ်ဆောင်မလား။";
+
+"Top Picks" = "ထိပ်တန်း ရွေးချယ်မှုများ";
+
+"Public" = "အများသုံး";
+
+"Optional private note for creator…" = "ဖန်တီးသူအတွက် (ချန်ထားနိုင်) သီးသန့်မှတ်စု...";
+
+"Loading more" = "ထပ်မံ လုပ်ဆောင်နေပါတယ်။";
+
+"Only me" = "မိမိတစ်ဦးတည်း";
+
+"Tap a star" = "ကြယ်တစ်ပွင့်ကို နှိပ်ပါ";
+
+"Chats: %@" = "ချတ်များ- %@";
+
+"Editing and creating a GPT is only available on web for now." = "GPT ကို ပြင်ဆင်ခြင်းနှင့် ဖန်တီးခြင်းကို ယခုလောလောဆယ် ဝဘ်ပေါ်တွင်သာ ရနိုင်ပါသည်။";
+
+"Untitled" = "ခေါင်းစဉ်မရှိပါ";
+
+"Failed to delete GPT, retry?" = "GPT ကိုဖျက်၍မရပါ၊ ပြန်လုပ်ဆောင်မလား။";
+
+"%@ chats" = "%@ ချတ်များ";
+
+"Searching…" = "ရှာဖွေနေသည်...";
+
+"Anyone at %@" = "%@ ရှိ မည်သူမဆို";
+
+"Are you sure you want to delete this GPT?" = "ဤ GPT ကို ဖျက်လိုသည်မှာ သေချာပါသလား။";
+
+"By community builder" = "လူမှု အသိုင်းအဝိုင်း တည်ဆောက်သူမှ";
+
+"Editing Not Available" = "ပြင်ဆင်ခြင်း မရနိုင်ပါ";
+
+"Get Plus to Chat" = "ချတ်သို့ Plus ကို ယူလိုက်ပါ";
+
+"Remove GPT" = "GPT ကိုဖယ်ရှားပါ";
+
+"Add a note" = "မှတ်စုတစ်ခုထည့်ပါ။";
+
+"Options" = "ရွေးချယ်မှုများ";
+
+"No Results Found" = "ရလဒ်များ မတွေ့ပါ";
+
+"See more" = "ပိုမို ကြည့်ရှုမည်";
+
+"My GPTs" = "ကျွန်ုပ်၏ GPT များ";
+
+"Remove" = "ဖယ်ရှားပါ";
+
+"Top Suggestions" = "ထိပ်တန်း အကြံပြုချက်များ";
+
+"Include my email" = "ကျွန်ုပ်၏ အီးမေးလ်ကို ထည့်သွင်းပါ။";
+
+"Conversation starters" = "စကားဝိုင်း စတင်သည်";
+

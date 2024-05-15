@@ -1,0 +1,18 @@
+"Unsupported content" = "Ikke støttet innhold";
+
+"System error" = "Systemfeil";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "Det er problemer med serveren. Prøv igjen litt senere. (%lld, %@)";
+
+"You've made too many requests. Please try again later. (429, %@)" = "Det er gjort for mange forespørsler. Prøv igjen litt senere. (429, %@)";
+
+"The response is invalid. Please try again." = "Svaret er ugyldig. Prøv igjen.";
+
+"There is a problem with your request. (%lld, %@)" = "Det er et problem med forespørselen. (%lld, %@)";
+
+"There is a problem with your account info. Please try signing out then in." = "Det er et problem med kontoinformasjonen. Prøv å logge ut og inn igjen.";
+
+"The server is overloaded. Please try again later." = "Serveren er overbelastet. Prøv igjen litt senere.";
+
+"This content may violate our content policy. Please try again with different content." = "Dette innholdet kan være i strid med våre retningslinjer for innhold. Prøv med annet innhold.";
+

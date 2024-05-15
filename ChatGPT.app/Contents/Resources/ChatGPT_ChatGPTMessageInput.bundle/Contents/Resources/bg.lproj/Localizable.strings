@@ -1,0 +1,92 @@
+"You need %@ to continue this chat because it has images." = "Трябва да %@ продължите този чат, защото в него има изображения.";
+
+"Are you sure?" = "Сигурен(на) ли сте?";
+
+"Attach files" = "Прикачете файлове";
+
+"Fullscreen" = "Цял екран";
+
+"New Message" = "Ново съобщение";
+
+"You need %@ to continue this chat because it has attachments." = "Трябва да %@ продължите този чат, защото в него има прикачени файлове.";
+
+"You need %@ to continue this chat because it uses audio." = "Трябва да %@ продължите този чат, защото той използва аудио.";
+
+"You need %@ to continue this chat because it uses audio." = "Трябва %@ да продължите този чат, защото той използва аудио.";
+
+"Replace" = "Заменете";
+
+"Shows the voice recording interface and begins recording" = "Показва интерфейса за запис на глас и започва запис";
+
+"Switch to Voice mode" = "Преминете на гласов режим";
+
+"Scroll to bottom" = "Плъзнете до долу";
+
+"Get Plus to Chat" = "Вземете Plus, за да започнете чат";
+
+"Upload File" = "Качете файл";
+
+"Edit image" = "Редактиране на изображението";
+
+"Image attachment failed." = "Неуспешно прикачване на изображение.";
+
+"If you cancel the text conversion you will lose the recording." = "Ако отмените конвертирането на текст, ще загубите записа.";
+
+"Edit selection" = "Редактиране на избора";
+
+"You need %@ to continue this chat because this GPT requires it." = "Трябва %@ да продължите този чат, защото този GPT го изисква.";
+
+"Failed, retry?" = "Неуспешно. Искате ли да опитате отново?";
+
+"Message ChatGPT" = "Изпратете съобщение до ChatGPT";
+
+"Remove attachment" = "Премахване на прикачения файл";
+
+"Attach photos" = "Прикачете снимки";
+
+"You need %@ to continue this chat because it has images." = "Трябва %@ да продължите този чат, защото в него има изображения.";
+
+"Stop" = "Стоп";
+
+"You need %@ to continue this chat because this GPT requires it." = "Трябва да %@ продължите този чат, защото този GPT го изисква.";
+
+"Dictation" = "Диктувайте";
+
+"You need %@ to continue this chat because it uses tools." = "Трябва да %@ продължите този чат, защото той използва инструменти.";
+
+"File upload failed." = "Качването на файл не е успешно.";
+
+"Message" = "Съобщение";
+
+"To continue, you’ll need to replace the current attachment." = "За да продължите, ще трябва да замените текущия прикачен файл.";
+
+"This chat uses an older version of your custom instructions" = "Този чат използва по-стара версия на инструкциите по ваш избор";
+
+"Confirm" = "Потвърждаване";
+
+"No connection" = "Няма връзка";
+
+"You need %@ to continue this chat because it has attachments." = "Трябва %@ да продължите този чат, защото в него има прикачени файлове.";
+
+"Attached image" = "Прикачено изображение";
+
+"This chat is currently unavailable" = "Този чат не е достъпен в момента.";
+
+"You've reached your %@ limit." = "Достигнахте вашия %@ лимит.";
+
+"You need %@ to continue this chat because it uses tools." = "Трябва %@ да продължите този чат, защото той използва инструменти.";
+
+"Send" = "Изпращане";
+
+"Editing message" = "Редактиране на съобщение";
+
+"Stop Generating" = "Спрете генерирането";
+
+"Microphone access required" = "Изисква се достъп до микрофон";
+
+"Replace attachment?" = "Замяна на прикачения файл?";
+
+"Continue Generating" = "Продължете с генерирането";
+
+"Image upload failed." = "Неуспешно качване на изображение.";
+

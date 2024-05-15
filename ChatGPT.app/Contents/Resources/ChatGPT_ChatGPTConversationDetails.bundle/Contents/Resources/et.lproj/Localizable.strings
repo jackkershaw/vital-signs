@@ -1,0 +1,60 @@
+"Model Info" = "Mudeliteave";
+
+"No connected accounts are available for this GPT." = "Selle GPT jaoks ei ole saadaval ühendatud kontosid.";
+
+"Connected Accounts" = "Ühendatud kontod";
+
+"Report Conversation" = "Teata vestlusest";
+
+"Ask" = "Küsi";
+
+"This chat uses an older version of your custom instructions." = "See vestlus kasutab teie kohandatud juhiste vanemat versiooni.";
+
+"Error loading connected accounts.\n\n(%@)" = "Viga ühendatud kontode laadimisel.\n\n(%@)";
+
+"Actions" = "Toimingud";
+
+"Capabilities" = "Võimalused";
+
+"Report" = "Teata";
+
+"Please try again later.\n\n(%@)" = "Proovige hiljem uuesti.\n\n(%@)";
+
+"Description" = "Kirjeldus";
+
+"Confirm Logout" = "Kinnita väljalogimine";
+
+"Privacy Policy" = "Privaatsuspõhimõtted";
+
+"Accounts" = "Kontod";
+
+"Model Info" = "Mudeli teave";
+
+"None" = "Puudub";
+
+"No actions are available for this GPT" = "Selle GPT jaoks pole toiminguid saadaval";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "Hallake, millistele kolmanda osapoole kontodele %@ juurde pääseb.";
+
+"Custom instructions" = "Kohandatud juhised";
+
+"Select which websites are allowed to see data from conversations with %@." = "Valige, millistel veebisaitidel on lubatud näha andmeid vestlustest %@-ga.";
+
+"Failed to update setting, retry?" = "Seade värskendamine ebaõnnestus, kas proovida uuesti?";
+
+"Failed to update setting, retry?" = "Sätte värskendamine nurjus. Kas soovite uuesti proovida?";
+
+"Always" = "Alati";
+
+"Report GPT" = "Teata GPT-st";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "Hallake, millistele kolmandatele osapoole kontodele %@ juurde pääseb.";
+
+"Privacy & Safety" = "Privaatsus ja ohutus";
+
+"No actions are available for this GPT" = "Selle GPT jaoks ei ole toiminguid saadaval";
+
+"Error loading action settings" = "Viga toimingu sätete laadmisel";
+
+"Are you sure you want to log out of %@?" = "Kas olete kindel, et soovite %@välja logida?";
+

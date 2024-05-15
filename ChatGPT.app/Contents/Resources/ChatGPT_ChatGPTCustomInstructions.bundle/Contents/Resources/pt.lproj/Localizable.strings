@@ -1,0 +1,52 @@
+"Thought starters" = "Estímulos criativos";
+
+"How would you like ChatGPT to respond?" = "Como o ChatGPT deveria responder?";
+
+"Enable for new chats" = "Habilitar para novos chats";
+
+"Error loading customizations. Please try again later." = "Erro ao carregar personalizações. Tente novamente mais tarde.";
+
+"Unsaved changes" = "Alterações não salvas";
+
+"Choose which tools can be used with GPT-4." = "Escolha quais ferramentas podem ser usadas com o GPT-4.";
+
+"Browsing" = "Navegando";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "O que você gostaria que o ChatGPT soubesse a seu respeito para fornecer melhores respostas?";
+
+"DALL•E" = "DALL•E";
+
+"Error saving custom instructions" = "Erro ao salvar instruções personalizadas";
+
+"Browse the internet to find answers" = "Navegue na internet para encontrar respostas";
+
+"Error updating state for customizations. Please try again later." = "Erro ao atualizar o estado das personalizações. Tente novamente mais tarde.";
+
+"GPT-4 Capabilities" = "Capacidades do GPT-4";
+
+"An unknown error occurred. Please try again later" = "Ocorreu um erro desconhecido. Tente novamente mais tarde";
+
+"Keep editing" = "Continuar editando";
+
+"Saving Custom Instructions" = "Salvando instruções personalizadas";
+
+"Discard changes" = "Descartar alterações";
+
+"Code" = "Código";
+
+"Customize ChatGPT" = "Personalizar ChatGPT";
+
+"Generate images using DALL•E" = "Gere imagens com o DALL·E";
+
+"Save" = "Salvar";
+
+"Show tips" = "Mostrar dicas";
+
+"Execute code using Code Interpreter" = "Execute códigos com o Interpretador de código";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Tem certeza de que deseja descartar as alterações?\nQuaisquer alterações realizadas serão perdidas.";
+
+"Custom Instructions Enabled or Disabled" = "Instruções personalizadas habilitadas ou desabilitadas";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "As instruções personalizadas serão aplicadas a todos os novos chats. [Saiba mais](chat-preferences-disclosures)";
+

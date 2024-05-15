@@ -1,0 +1,18 @@
+"The response is invalid. Please try again." = "Odgovor je neveljaven. Poskusite znova.";
+
+"This content may violate our content policy. Please try again with different content." = "Ta vsebina morda krši našo politiko vsebine. Poskusite znova z drugačno vsebino.";
+
+"You've made too many requests. Please try again later. (429, %@)" = "Podali ste preveč zahtev. Poskusite znova pozneje. (429, %@)";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "Strežnik ima težave. Poskusite znova pozneje. (%lld, %@)";
+
+"The server is overloaded. Please try again later." = "Strežnik je preobremenjen. Poskusite znova pozneje.";
+
+"There is a problem with your request. (%lld, %@)" = "Prišlo je do težave z vašo zahtevo. (%lld, %@)";
+
+"There is a problem with your account info. Please try signing out then in." = "Prišlo je do težave z informacijami o vašem računu. Poskusite se odjaviti in znova vpisati.";
+
+"Unsupported content" = "Nepodprta vsebina";
+
+"System error" = "Sistemska napaka";
+

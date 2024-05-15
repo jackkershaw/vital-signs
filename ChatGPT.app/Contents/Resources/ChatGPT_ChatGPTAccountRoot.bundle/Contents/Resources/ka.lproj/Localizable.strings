@@ -1,0 +1,12 @@
+"Error loading account information. Please try again later." = "შეცდომა ანგარიშის ინფორმაციის ჩატვირთვისას. სცადეთ მოგვიანებით.";
+
+"  %@\n\n  OpenAI employees are required to use internal builds to access ChatGPT.\n" = "  %@\n\n OpenAI-ს თანამშრომლებს მოეთხოვებათ შიდა მოხმარებისთვის განკუთვნილი ვერსიების გამოყენება რათა ჰქონდეთ წვდომა ChatGPT-ზე.\n";
+
+"Checking system health…" = "მიმდინარეობს სისტემის შემოწმება…";
+
+"Download the beta build or contact [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W) if you're having issues." = "ჩამოტვირთეთ ბეტა ვერსია ან კონტაქტი [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W)თუ პრობლემები გაქვთ.";
+
+"Loading account…" = "მომხმარებლის ანგარიში იტვირთება…";
+
+"Check your OpenAI e-mail for an invite titled \"OpenAI has invited you to test ChatGPT\" or contact [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A) to be added." = "შეამოწმეთ OpenAI-ს ელფოსტა მოწვევის წერილისთვის (სახელწოდებით „OpenAI გიწვევთ ChatGPT-ს გამოსაცდელად“) ან დაგვიკავშირდით [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A)-ზე დასამატებლად.";
+

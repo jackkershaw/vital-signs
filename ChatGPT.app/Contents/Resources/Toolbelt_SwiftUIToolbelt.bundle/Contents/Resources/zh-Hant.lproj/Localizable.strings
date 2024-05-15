@@ -1,0 +1,37 @@
+" " = " ";
+
+"%@" = "%@";
+
+"%@:%llu (%@)" = "%@:%llu (%@)";
+
+"<Progress Description>" = "<Progress Description>";
+
+"C" = "C";
+
+"L" = "L";
+
+"LLLLL" = "LLLLL";
+
+"Long" = "Long";
+
+"Long Long Long" = "Long Long Long";
+
+"MM" = "MM";
+
+"Med Med" = "Med Med";
+
+"S" = "S";
+
+"Short" = "Short";
+
+"Stub" = "Stub";
+
+"T" = "T";
+
+"Title" = "標題";
+
+"Tweaks" = "微調";
+
+"bold" = "粗體";
+
+"italic" = "斜體";

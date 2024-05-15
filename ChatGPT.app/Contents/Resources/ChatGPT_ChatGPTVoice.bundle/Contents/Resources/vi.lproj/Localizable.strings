@@ -1,0 +1,170 @@
+"Select %@" = "Chọn %@";
+
+"Pick photo" = "Chọn ảnh";
+
+"Audio issues" = "Sự cố âm thanh";
+
+"Hold for manual control" = "Giữ để điều khiển bằng tay";
+
+"Close" = "Đóng";
+
+"%lld." = "%lld.";
+
+"Voice chat ended after " = "Đoạn chat thoại kết thúc sau ";
+
+"Unselect %@" = "Bỏ chọn %@";
+
+"%lldms" = "%lldms";
+
+"Poor" = "Kém";
+
+"Go backward 15 seconds" = "Lùi lại 15 giây";
+
+"Halted" = "Đã tạm dừng";
+
+"Connecting" = "Đang kết nối";
+
+"Unknown error" = "Lỗi không xác định";
+
+"Finish speaking to send" = "Kết thúc nói để gửi";
+
+"Connecting.." = "Đang kết nối..";
+
+"Unable to review action" = "Không thể xem xét hành động";
+
+"Tap to connect" = "Nhấn để kết nối";
+
+"Start speaking" = "Bắt đầu nói";
+
+"Resume listening" = "Tiếp tục nghe";
+
+"Select all that apply" = "Chọn tất cả các mục phù hợp";
+
+"See more information about voice research" = "Xem thêm thông tin về nghiên cứu giọng nói";
+
+"Enable microphone access in Settings" = "Cho phép quyền truy cập micro trong Cài đặt";
+
+"Learn more" = "Tìm hiểu thêm";
+
+"Helping improve voice" = "Giúp cải thiện giọng nói";
+
+"Click to connect" = "Nhấp để kết nối";
+
+"Tap to dismiss" = "Nhấn để loại bỏ";
+
+"Click to interrupt" = "Nhấp để làm gián đoạn";
+
+"Thank you!" = "Cảm ơn!";
+
+"Poor connection" = "Kết nối kém";
+
+"Unable to send response. Please try again." = "Không thể gửi phản hồi. Vui lòng thử lại.";
+
+"Connected" = "Đã kết nối";
+
+"Connection failed, tap to retry" = "Kết nối không thành công, nhấn để thử lại";
+
+"Listening" = "Đang nghe";
+
+"Stop listening" = "Ngừng lắng nghe";
+
+"Play" = "Chơi";
+
+"Go forward 15 seconds" = "Đi tiếp 15 giây";
+
+"Pause" = "Tạm dừng";
+
+"Choose a voice" = "Chọn một giọng thoại";
+
+"Voice mode" = "Chế độ giọng nói";
+
+"What went wrong?" = "Chuyện gì đã xảy ra vậy?";
+
+"Other" = "Khác";
+
+"It interrupted me" = "Nó ngắt lời tôi";
+
+"Click to activate" = "Nhấp để kích hoạt";
+
+"Connecting." = "Đang kết nối.";
+
+"Listening intently" = "Chăm chú lắng nghe";
+
+"Speak now" = "Nói ngay";
+
+"Take picture" = "Chụp ảnh";
+
+"It misheard me" = "Nó nghe nhầm tôi";
+
+"Idle" = "Vô nghĩa";
+
+"Submit feedback" = "Nộp phản hồi";
+
+"Save to Photos" = "Lưu vào Ảnh";
+
+"On for training" = "Đang trong quá trình huấn luyện";
+
+"You can change this later." = "Bạn có thể thay đổi tùy chọn này sau.";
+
+"Lost" = "Mất";
+
+"Close camera" = "Đóng camera";
+
+"I didn’t like the responses" = "Tôi không thích các phản hồi";
+
+"Tap to cancel" = "Nhấn để hủy";
+
+"Speaking" = "Đang nói";
+
+"Thinking" = "Đang suy nghĩ";
+
+"Flip camera to the front" = "Chuyển sang camera trước";
+
+"Voice feedback: give thumbs up" = "Phản hồi thoại: nhấn ngón tay hướng lên";
+
+"Voice chat ended" = "Đoạn chat thoại đã kết thúc";
+
+"Restart" = "Khởi động lại";
+
+"Good" = "Tốt";
+
+"Error: '%@'" = "Lỗi: \"%@\"";
+
+"•" = "•";
+
+"Speak to keep active" = "Nói để tiếp tục hoạt động";
+
+"Click to cancel" = "Nhấp để hủy";
+
+"Tap to send manually" = "Nhấn để gửi thủ công";
+
+"Excellent" = "Xuất sắc";
+
+"Grace Period for %@s" = "Thời gian gia hạn trong %@ giây";
+
+"Open camera" = "Mở camera";
+
+"Paused" = "Đã tạm dừng";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "Bạn đã chọn chia sẻ âm thanh của mình từ đoạn chat thoại để cải thiện và huấn luyện mô hình của chúng tôi. Điều này bao gồm âm thanh từ micro của bạn khi mô hình đang suy nghĩ hoặc nói. Bạn có thể ngừng chia sẻ trong cài đặt.";
+
+"Connection failed, click to retry" = "Kết nối không thành công, nhấp để thử lại";
+
+"Tap to activate" = "Nhấn để kích hoạt";
+
+"Tap to interrupt" = "Nhấn để làm gián đoạn";
+
+"Connect" = "Kết nối";
+
+"Click to send manually" = "Nhấp để gửi thủ công";
+
+"Flip camera to the rear" = "Chuyển sang camera sau";
+
+"Release to send" = "Nhả ra để gửi";
+
+"Failed to connect" = "Không thể kết nối";
+
+"Voice feedback: give thumbs down" = "Phản hồi thoại: nhấn ngón tay hướng xuống";
+
+"Unknown" = "Không xác định";
+

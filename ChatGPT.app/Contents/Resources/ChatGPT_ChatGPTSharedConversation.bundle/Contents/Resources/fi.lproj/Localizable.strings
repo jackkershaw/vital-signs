@@ -1,0 +1,26 @@
+"Shared conversation is invalid." = "Jaettu keskustelu on virheellinen.";
+
+"Menu" = "Valikko";
+
+"Continue" = "Jatka";
+
+"Failed to determine model." = "Mallin määritys epäonnistui.";
+
+"Shared Link Owner" = "Jaetun linkin omistaja";
+
+"Shared Link Title" = "Jaetun linkin otsikko";
+
+"The shared conversation does not exist." = "Jaettua keskustelua ei ole olemassa.";
+
+"This conversation may reflect the link creator’s custom instructions, which aren’t shared and can meaningfully change how the model responds." = "Tähän keskusteluun voivat vaikuttaa linkin tekijän mukautetut ohjeet, joita ei ole jaettu, ja ne voivat muuttaa merkittävästi sitä, miten malli vastaa.";
+
+"Help and FAQ" = "Ohjeet ja yleisimmät kysymykset";
+
+"Report" = "Ilmianna";
+
+"Shared conversation" = "Jaettu keskustelu";
+
+"Shared Link Date" = "Jaetun linkin päivämäärä";
+
+"Failed to load shared conversation." = "Jaetun keskustelun lataaminen epäonnistui.";
+

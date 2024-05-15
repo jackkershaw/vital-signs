@@ -1,0 +1,70 @@
+"Prompt" = "คำสั่ง";
+
+"The file download failed. Please try again later." = "ดาวน์โหลดไฟล์ไม่สำเร็จ โปรดลองอีกครั้งในภายหลัง";
+
+"More" = "เพิ่มเติม";
+
+"Flash on, tap to toggle off" = "แฟลชเปิด แตะเพื่อสลับเป็นปิด";
+
+"Annotate by drawing on the image" = "ทำคำอธิบายประกอบโดยการวาดบนภาพ";
+
+"Select" = "เลือก";
+
+"Select an area to edit" = "เลือกบริเวณเพื่อแก้ไข";
+
+"This file has expired." = "ไฟล์นี้หมดอายุแล้ว";
+
+"Select camera device" = "เลือกอุปกรณ์กล้อง";
+
+"Image saved" = "บันทึกภาพแล้ว";
+
+"Camera access is restricted on this device. Please check your parental control or system settings." = "การอนุญาตเข้าถึงกล้องบนอุปกรณ์นี้ถูกจำกัด โปรดตรวจสอบการควบคุมโดยผู้ปกครองหรือการตั้งค่าระบบ";
+
+"Copied" = "คัดลอกแล้ว";
+
+"Camera Access Denied" = "การเข้าถึงกล้องถูกปฏิเสธ";
+
+"Flash auto, tap to toggle on" = "แฟลชอัตโนมัติ แตะเพื่อสลับเป็นเปิด";
+
+"Next" = "ถัดไป";
+
+"Undo" = "เลิกทำ";
+
+"Back" = "ย้อนกลับ";
+
+"Pick photo" = "เลือกรูป";
+
+"View prompt" = "ดูคำสั่ง";
+
+"Thank you for your feedback!" = "ขอบคุณสำหรับข้อเสนอแนะ";
+
+"Enable camera access in Settings to take photos." = "เปิดอนุญาตการเข้าถึงกล้องในการตั้งค่าเพื่อถ่ายรูป";
+
+"The file was not found." = "ไม่พบไฟล์นี้";
+
+"Redo" = "ทำซ้ำ";
+
+"Rear camera selected, tap to toggle to front" = "เลือกกล้องหลังอยู่ แตะเพื่อสลับเป็นกล้องหน้า";
+
+"Annotate" = "เขียนคำอธิบายประกอบ";
+
+"Bad response" = "คำตอบไม่ดี";
+
+"Good response" = "คำตอบดี";
+
+"This file is not available." = "ไม่มีไฟล์นี้";
+
+"Front camera selected, tap to toggle to rear" = "เลือกกล้องหน้าอยู่ แตะเพื่อสลับเป็นกล้องหลัง";
+
+"Flash off, tap to toggle to auto" = "แฟลชปิด แตะเพื่อสลับเป็นอัตโนมัติ";
+
+"Dismiss" = "เลิก";
+
+"Learn more" = "เรียนรู้เพิ่มเติม";
+
+"Download complete" = "ดาวน์โหลดเสร็จแล้ว";
+
+"Failed to load image" = "โหลดภาพไม่สำเร็จ";
+
+"Camera Access Restricted" = "ถูกจำกัดการเข้าถึงกล้อง";
+

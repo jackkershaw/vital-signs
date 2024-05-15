@@ -1,0 +1,52 @@
+"Failed to update setting, retry?" = "無法更新設定，要重試嗎？";
+
+"Error loading connected accounts.\n\n(%@)" = "載入已連接的帳戶時發生錯誤。\n\n(%@)";
+
+"Model Info" = "模型資訊";
+
+"Always" = "一律如此";
+
+"Select which websites are allowed to see data from conversations with %@." = "選取哪些網站可查看與 %@ 進行的對話資料。";
+
+"This chat uses an older version of your custom instructions." = "此交談使用舊版本的自訂指令。";
+
+"Report Conversation" = "檢舉對話";
+
+"Custom instructions" = "自訂指令";
+
+"No actions are available for this GPT" = "此 GPT 沒有可用的動作";
+
+"Description" = "說明";
+
+"Actions" = "動作";
+
+"Are you sure you want to log out of %@?" = "你確定要登出 %@ 嗎？";
+
+"Privacy & Safety" = "隱私權與安全";
+
+"Error loading action settings" = "載入動作設定時發生錯誤";
+
+"Capabilities" = "功能";
+
+"Report GPT" = "檢舉 GPT";
+
+"Privacy Policy" = "隱私權政策";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "管理哪些第三方帳戶可由「%@」存取。";
+
+"No connected accounts are available for this GPT." = "此 GPT 沒有可用的已連接帳戶。";
+
+"Accounts" = "帳戶";
+
+"Report" = "檢舉";
+
+"Connected Accounts" = "已連接的帳戶";
+
+"Ask" = "詢問";
+
+"Please try again later.\n\n(%@)" = "請稍後再試。\n\n(%@)";
+
+"None" = "無";
+
+"Confirm Logout" = "確認登出";
+

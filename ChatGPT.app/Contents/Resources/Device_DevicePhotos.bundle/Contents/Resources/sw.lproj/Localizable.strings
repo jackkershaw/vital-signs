@@ -1,0 +1,16 @@
+"Expected a non-file URL, but received a file URL" = "Ilitarajia URL isiyo ya faili, lakini ilipokea URL ya faili";
+
+"Enable photo library access in Settings to save photos." = "Washa ufikiaji wa maktaba ya picha katika Mipangilio ili kuhifadhi picha.";
+
+"Photos Access Denied" = "Ufikiaji wa Kamera Umenyimwa";
+
+"Please try again later.\n\n(%@)" = "Tafadhali jaribu tena baadaye.\n\n(%@)";
+
+"Image conversion failed" = "Ugeuzaji wa picha haukufaulu";
+
+"Not authorized" = "Haijaidhinishwa";
+
+"Expected a file URL, but received a non-file URL" = "Ilitarajia URL ya faili, lakini ilipokea URL isiyo ya faili";
+
+"Failed to Save Image" = "Imeshindwa Kuhifadhi Picha";
+

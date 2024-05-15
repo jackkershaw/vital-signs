@@ -1,0 +1,52 @@
+"No connected accounts are available for this GPT." = "Hakuna akaunti zilizounganishwa zinazopatikana kwa GPT hii.";
+
+"Report Conversation" = "Ripoti mazungumzo";
+
+"Select which websites are allowed to see data from conversations with %@." = "Chagua tovuti ambazo zinaruhusiwa kuona data kutoka kwa mazungumzo na %@.";
+
+"Please try again later.\n\n(%@)" = "Tafadhali jaribu tena baadaye.\n\n(%@)";
+
+"Failed to update setting, retry?" = "Imeshindwa kusasisha mpangilio, utajaribu tena?";
+
+"Ask" = "Uliza";
+
+"Capabilities" = "Vipengele";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "Dhibiti akaunti za mhusika mwingine zinazoweza kufikiwa na %@.";
+
+"This chat uses an older version of your custom instructions." = "Gumzo hili hutumia toleo la zamani la maagizo yako maalum.";
+
+"Custom instructions" = "Maagizo maalum";
+
+"Accounts" = "Akaunti";
+
+"Privacy & Safety" = "Faragha na Usalama";
+
+"Description" = "Maelezo";
+
+"Actions" = "Hatua";
+
+"Report" = "Ripoti";
+
+"Connected Accounts" = "Akaunti Zilizounganishwa";
+
+"Always" = "Wakati wote";
+
+"Are you sure you want to log out of %@?" = "Una uhakika ungependa kutoka %@?";
+
+"Confirm Logout" = "Thibitisha Kutoka";
+
+"Report GPT" = "Ripoti GPT";
+
+"Model Info" = "Maelezo ya Muundo";
+
+"No actions are available for this GPT" = "Hakuna vitendo vinavyopatikana kwa GPT hii";
+
+"Error loading action settings" = "Hitilafu imtokea wakati wa kupakia mipangilio ya kitendo";
+
+"None" = "Hamna";
+
+"Privacy Policy" = "Sera ya Faragha";
+
+"Error loading connected accounts.\n\n(%@)" = "Hitilafu imetokea wakati wa kupakia akaunti zilizounganishwa.\n\n(%@)";
+

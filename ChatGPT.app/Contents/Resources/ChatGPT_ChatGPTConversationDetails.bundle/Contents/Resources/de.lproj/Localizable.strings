@@ -1,0 +1,52 @@
+"Description" = "Beschreibung";
+
+"Failed to update setting, retry?" = "Aktualisieren der Einstellungen fehlgeschlagen. Erneut versuchen?";
+
+"Model Info" = "Modellinformationen";
+
+"Error loading action settings" = "Fehler beim Laden der Aktionseinstellungen";
+
+"Error loading connected accounts.\n\n(%@)" = "Fehler beim Laden der verbundenen Konten.\n\n(%@)";
+
+"Report Conversation" = "Gespräch melden";
+
+"Accounts" = "Konten";
+
+"Select which websites are allowed to see data from conversations with %@." = "Wähle aus, welche Websites Daten aus Gesprächen mit %@ sehen können.";
+
+"Please try again later.\n\n(%@)" = "Versuche es später erneut. \n\n(%@)";
+
+"Confirm Logout" = "Abmeldung bestätigen";
+
+"None" = "Keine";
+
+"Ask" = "Fragen";
+
+"Report GPT" = "GPT melden";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "Verwalte die Konten Dritter, auf die %@ zugreifen darf.";
+
+"Capabilities" = "Funktionen";
+
+"No actions are available for this GPT" = "Für dieses GPT sind keine Aktionen verfügbar";
+
+"This chat uses an older version of your custom instructions." = "Dieser Chat verwendet eine ältere Version deiner individuellen Hinweise.";
+
+"Always" = "Immer";
+
+"Custom instructions" = "Individuelle Hinweise";
+
+"No connected accounts are available for this GPT." = "Für dieses GPT sind keine verbundenen Konten verfügbar.";
+
+"Are you sure you want to log out of %@?" = "Möchtest du dich wirklich von %@ abmelden?";
+
+"Privacy & Safety" = "Datenschutz und Sicherheit";
+
+"Report" = "Melden";
+
+"Connected Accounts" = "Verbundene Konten";
+
+"Actions" = "Aktionen";
+
+"Privacy Policy" = "Datenschutzrichtlinie";
+

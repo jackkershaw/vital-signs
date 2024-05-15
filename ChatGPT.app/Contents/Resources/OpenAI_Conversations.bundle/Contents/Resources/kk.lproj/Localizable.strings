@@ -1,0 +1,124 @@
+"Unsupported content" = "Қолдау көрсетілмейтін контент";
+
+"Error talking to %@" = "%@ деген пайдаланушымен сөйлесу қатесі";
+
+"Archive Chat" = "Чатты мұрағаттау";
+
+"Searching “%@”" = "«%@» ізделуде";
+
+"Stopped creating image" = "Суретті жасау тоқтатылды";
+
+"Creating %lld images…" = "%lld сурет жасалуда…";
+
+"Browsing %@" = "Шолу %@";
+
+"an external site" = "сыртқы сайт";
+
+"Stopped talking to site" = "Сайтпен сөйлесу тоқтатылды";
+
+"Error creating image" = "Сурет жасау қатесі";
+
+"Search stopped" = "Search stopped";
+
+"Stopped reading document" = "Құжаттың оқылуы тоқтатылды";
+
+"Stopped reading documents" = "Құжаттардың оқылуы тоқтатылды";
+
+"Error creating images" = "Суреттер жасау қатесі";
+
+"Reading document" = "Құжат оқылуда";
+
+"Talking to %@" = "%@ желісімен сөйлесуде";
+
+"Delete Chat" = "Чатты жою";
+
+"Are you sure you want to archive this chat?\nYou can view archived chats in Settings" = "Осы чатты мұрағаттау қажеттігін растайсыз ба?\nМұрағатталған чаттарды Параметрлерден көруге болады";
+
+"Reading documents" = "Құжаттар оқылуда";
+
+"Starting action" = "Әрекеттің басталуы";
+
+"Stopped analyzing" = "Талдау тоқтатылды";
+
+"Error researching" = "Зерттеу қатесі";
+
+"Read %@" = "%@ оқу";
+
+"Writing prompts…" = "Көмексөздер жазуда…";
+
+"site" = "сайт";
+
+"Error browsing" = "Шолу қатесі";
+
+"Read %lld documents" = "%lld құжат оқу";
+
+"Visited the web" = "Веб-сайтқа кірді";
+
+"Invalid citation" = "Сілтеме жарамсыз";
+
+"Any created memories will be retained." = "Жасалған жадтар сақталады.";
+
+"Error reading documents" = "Құжаттарды оқу қатесі";
+
+"Creating 1 image…" = "1 сурет жасалуда…";
+
+"Search failed" = "Search failed";
+
+"Doing research with Bing" = "Bing арқылы зерттеу жасалуда";
+
+"Archive" = "Мұрағат";
+
+"Stopped talking to %@" = "%@ деген пайдаланушымен сөйлесу тоқтатылды";
+
+"Unable to find metadata" = "Метадеректерді табу мүмкін болмады";
+
+"Visiting %@" = "%@ бетіне кіруде";
+
+"Stopped researching" = "Зерттеу тоқтатылды";
+
+"Making a research plan" = "Зерттеу жоспары жасалуда";
+
+"System error" = "Жүйе қатесі";
+
+"Talked to %@" = "%@ желісімен сөйлесті";
+
+"Error analyzing" = "Талдау қатесі";
+
+"Creating image" = "Сурет жасалуда";
+
+"Research complete" = "Зерттеу аяқталды";
+
+"Searched %lld sites" = "Searched %lld sites";
+
+"Reading %@" = "%@ оқылуда";
+
+"You declined this action" = "Бұл әрекетті қабылдамадыңыз";
+
+"Error reading document" = "Құжатты оқу қатесі";
+
+"Read document" = "Құжатты оқу";
+
+"Searched 1 site" = "Searched 1 site";
+
+"Searching" = "Ізделуде…";
+
+"Visited %lld sites" = "%lld сайтқа кірді";
+
+"Visited %@" = "%@ бетіне кірді";
+
+"Unable to generate URL" = "URL жасау мүмкін болмады";
+
+"Read documents" = "Құжаттарды оқу";
+
+"Analyzing" = "Талдау жасалуда";
+
+"Unable to find citation ID" = "Сілтеме идентификаторын табу мүмкін болмады";
+
+"Stopped" = "Тоқтатылды";
+
+"Stopped browsing" = "Шолу тоқтатылды";
+
+"This can't be undone." = "Бұны қайтару мүмкін болмайды.";
+
+"Finished analyzing" = "Талдау аяқталды";
+

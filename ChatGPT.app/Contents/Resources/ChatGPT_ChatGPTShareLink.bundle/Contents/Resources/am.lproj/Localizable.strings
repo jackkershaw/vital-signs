@@ -1,0 +1,50 @@
+"Your custom instructions won’t be shared with viewers." = "ብጁ መመሪያዎችዎ ለተመልካቾች አይጋሩም።";
+
+"Share link" = "አገናኝ ያጋሩ";
+
+"There was an error preparing the conversation. Please try again. %@" = "ውይይቱን ማዘጋጀት ላይ ስህተት ነበር። እባክዎ እንደገና ይሞክሩ። %@";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "እርግጠኛ ኖት የተጋራውን አገናኝ \"%@\" መሰረዝ ይፈልጋሉ? ይህንን ውይይት እንደገና በማጋራት ሁልጊዜ አዲስ አገናኝ መፍጠር ይችላሉ።";
+
+"Delete link" = "አገናኝን ሰርዝ";
+
+"Help and FAQ" = "እገዛ እና በተደጋጋሚ የሚጠየቁ ጥያዌዎች";
+
+"The share link is invalid. %@" = "የተጋራው ማገናኛ ልክ ያልሆነ ነው። %@";
+
+"The conversation has no messages." = "ውይይቱ ምንም መልእክቶች የሉትም።";
+
+"Share your name" = "ስምዎን ያጋሩ";
+
+"Share link to chat" = "ለመወያየት አገናኝ ያጋሩ";
+
+"Update title" = "ርዕስ ያዘምኑ";
+
+"Options" = "አማራጮች";
+
+"Share anonymously" = "ማንነት ሳይታወቅ ያጋሩ";
+
+"Missing Name" = "የጠፋ ስም";
+
+"Shared Link Title" = "የተጋራ አገናኝ ርዕስ";
+
+"Title" = "ርዕስ";
+
+"Recipients won't be able to view images." = "ተቀባዮች ምስሎችን ማየት አይችሉም።";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "አገናኝዎን ካጋሩ በኋላ የተላኩ ወይም የተቀበሏቸው መልዕክቶች አይጋሩም። URL ያለው ማንኛውም ሰው የእርስዎን የጋራ ውይይት ማየት ይችላል።";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "አስቀድመው ወደዚህ ውይይት የሚወስድ አገናኝ አጋርተዋል። አዲስ መልዕክቶችን ማካተት ከፈለጉ ይህን አገናኝ ይሰርዙ እና ውይይትዎን እንደገና ያጋሩ።";
+
+"Edit title" = "ርዕስ አርትዕ";
+
+"Shared Link Date" = "የተጋራ አገናኝ ቀን";
+
+"There was an error sharing the conversation. Please try again. %@" = "ውይይቱን ማጋራት ላይ ስህተት ነበር። እባክዎ እንደገና ይሞክሩ። %@";
+
+"Shared Link Owner" = "የተጋራ አገናኝ ባለቤት";
+
+"Shared link deleted." = "የተጋራ አገናኝ ተሰርዟል።";
+
+"There was an error deleting your shared link." = "የእርስዎን የተጋራ አገናኝ መሰረዝ ላይ ስህተት ነበር።";
+

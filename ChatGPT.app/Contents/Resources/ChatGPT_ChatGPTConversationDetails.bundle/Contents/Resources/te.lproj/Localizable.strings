@@ -1,0 +1,52 @@
+"Custom instructions" = "అనుకూల సూచనలు";
+
+"None" = "ఏదీ కాదు";
+
+"Report Conversation" = "సంభాషణను నివేదించండి";
+
+"Actions" = "చర్యలు";
+
+"Privacy & Safety" = "గోప్యత & భద్రత";
+
+"Select which websites are allowed to see data from conversations with %@." = "%@తో సంభాషణల నుండి డేటాను చూడటానికి ఏ వెబ్‌సైట్‌లను అనుమతించాలో ఎంచుకోండి.";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "ఏ 3వ-పార్టీ ఖాతాలను %@ ద్వారా ప్రాప్యత చేయవచ్చో నిర్వహించండి.";
+
+"Model Info" = "నమూనా సమాచారం";
+
+"Are you sure you want to log out of %@?" = "మీరు ఖచ్చితంగా %@ నుండి లాగ్ అవుట్ చేయాలనుకుంటున్నారా?";
+
+"No connected accounts are available for this GPT." = "ఈ GPT కోసం అనుసంధించిన ఖాతాలు ఏవీ అందుబాటులో లేవు.";
+
+"This chat uses an older version of your custom instructions." = "ఈ చాట్ మీ అనుకూల సూచనలు పాత వెర్షన్ ‌ ను ఉపయోగిస్తుంది.";
+
+"Privacy Policy" = "గోప్యతా విధానం";
+
+"Error loading connected accounts.\n\n(%@)" = "అనుసంధించిన ఖాతాలను లోడ్ చేయడంలో లోపం.\n\n(%@)";
+
+"Confirm Logout" = "లాగ్అవుట్ ‌ ను నిర్ధారించండి";
+
+"Always" = "ఎల్లప్పుడూ";
+
+"Failed to update setting, retry?" = "సెట్టింగ్ ‌ ను అప్‌డేట్ చేయడంలో విఫలమైంది, మళ్లీ ప్రయత్నించాలా?";
+
+"Please try again later.\n\n(%@)" = "దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.\n\n(%@)";
+
+"Ask" = "అడగండి";
+
+"Error loading action settings" = "చర్య సెట్టింగ్‌లను లోడ్ చేయడంలో లోపం";
+
+"No actions are available for this GPT" = "ఈ GPT కోసం ఎటువంటి చర్యలు అందుబాటులో లేవు";
+
+"Description" = "వివరణ";
+
+"Report GPT" = "GPTని నివేదించండి";
+
+"Accounts" = "ఖాతాలు";
+
+"Capabilities" = "సామర్థ్యాలు";
+
+"Report" = "నివేదిక";
+
+"Connected Accounts" = "అనుసంధించబడిన ఖాతాలు";
+

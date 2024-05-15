@@ -1,0 +1,124 @@
+"Visited %@" = "A consulté %@";
+
+"Stopped reading document" = "Arrêt de la lecture du document";
+
+"Error creating image" = "Erreur de création de l’image";
+
+"Stopped talking to %@" = "Fin de la communication avec %@";
+
+"Reading documents" = "Lecture des documents en cours";
+
+"Searching “%@”" = "Recherche de « %@ » en cours";
+
+"Search stopped" = "Arrêt de la recherche";
+
+"Creating 1 image…" = "Création d’une image en cours…";
+
+"Stopped analyzing" = "Arrêt de l’analyse";
+
+"Creating %lld images…" = "Création de %lld images en cours…";
+
+"Error reading document" = "Erreur de lecture du document";
+
+"Read documents" = "Lire les documents";
+
+"Delete Chat" = "Supprimer le clavardage";
+
+"Starting action" = "Début de l’action";
+
+"Stopped talking to site" = "Arrêt de la communication avec le site";
+
+"Talking to %@" = "En communication avec %@";
+
+"Visited the web" = "A consulté le web";
+
+"Stopped researching" = "Arrêt de la recherche";
+
+"Error talking to %@" = "Erreur de communication avec %@";
+
+"Read %lld documents" = "Lire %lld documents";
+
+"Read document" = "Lire le document";
+
+"Reading %@" = "Lecture de %@ en cours";
+
+"Search failed" = "Échec de la recherche";
+
+"Invalid citation" = "Citation non valide";
+
+"an external site" = "un site externe";
+
+"System error" = "Erreur système";
+
+"Are you sure you want to archive this chat?\nYou can view archived chats in Settings" = "Voulez-vous vraiment archiver ce clavardage?\nVous pouvez consulter les clavardages archivés dans Paramètres.";
+
+"Writing prompts…" = "Rédaction des requêtes en cours…";
+
+"Archive Chat" = "Archiver le clavardage";
+
+"Error analyzing" = "Erreur d’analyse";
+
+"Archive" = "Archiver";
+
+"Visiting %@" = "Consultation de %@";
+
+"Stopped creating image" = "Arrêt de la création de l’image";
+
+"Any created memories will be retained." = "Toutes les mémoires créées seront conservées.";
+
+"Error researching" = "Erreur de recherche";
+
+"Error creating images" = "Erreur de création des images";
+
+"Stopped" = "Arrêté";
+
+"Stopped browsing" = "Arrêt de la navigation";
+
+"Talked to %@" = "A communiqué avec %@";
+
+"Unsupported content" = "Contenu non pris en charge";
+
+"Stopped reading documents" = "Arrêt de lecture des documents";
+
+"Finished analyzing" = "Analyse terminée";
+
+"Creating image" = "Création d’une image";
+
+"Making a research plan" = "Élaboration d’un plan de recherche";
+
+"Searched %lld sites" = "Searched %lld sites";
+
+"Searched 1 site" = "Searched 1 site";
+
+"You declined this action" = "Vous avez refusé cette action";
+
+"site" = "site";
+
+"Unable to generate URL" = "Impossible de générer l’URL";
+
+"Visited %lld sites" = "A consulté %lld sites";
+
+"Unable to find citation ID" = "Impossible de trouver l’ID de citation";
+
+"Error reading documents" = "Erreur de lecture des documents";
+
+"Analyzing" = "Analyse en cours";
+
+"Doing research with Bing" = "Recherche en cours avec Bing";
+
+"Reading document" = "Lecture du document en cours";
+
+"Research complete" = "Recherche terminée";
+
+"This can't be undone." = "Cette action est irréversible.";
+
+"Unable to find metadata" = "Impossible de trouver les métadonnées";
+
+"Error browsing" = "Erreur de navigation";
+
+"Read %@" = "Lire %@";
+
+"Browsing %@" = "Navigation %@";
+
+"Searching" = "Recherche en cours";
+

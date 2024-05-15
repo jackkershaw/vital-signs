@@ -1,0 +1,50 @@
+"Your custom instructions won’t be shared with viewers." = "Tavas pielāgotās norādes netiks koplietotas ar skatītājiem.";
+
+"Update title" = "Atjaunināt nosaukumu";
+
+"Options" = "Opcijas";
+
+"Missing Name" = "Trūkst vārda / nosaukuma";
+
+"Shared Link Date" = "Koplietotās saites datums";
+
+"Shared Link Owner" = "Koplietotās saites īpašnieks";
+
+"Recipients won't be able to view images." = "Saņēmēji nevarēs skatīt attēlus.";
+
+"Delete link" = "Dzēst saiti";
+
+"Share anonymously" = "Koplietot anonīmi";
+
+"The share link is invalid. %@" = "Koplietošanas saite nav derīga. %@";
+
+"There was an error preparing the conversation. Please try again. %@" = "Sagatavojot sarunu, radās kļūda. Lūdzu, mēģini vēlreiz. %@";
+
+"Edit title" = "Rediģēt nosaukumu";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "Vai tiešām vēlies dzēst koplietoto saiti „%@”? Vienmēr vari izveidot jaunu saiti, vēlreiz koplietojot šo tērzētavu.";
+
+"The conversation has no messages." = "Sarunā nav ziņojumu.";
+
+"Share your name" = "Koplietot savu vārdu";
+
+"Title" = "Nosaukums";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "Tu jau esi koplietojis šo saiti šajā tērzētavā. Ja vēlies iekļaut jaunus ziņojumus, izdzēs šo saiti un koplieto tērzētavu vēlreiz.";
+
+"Share link" = "Koplietot saiti";
+
+"Share link to chat" = "Saites koplietošana tērzētavā";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "Ziņojumi, ko nosūti vai saņem pēc saites koplietošanas, netiks koplietoti. Ikviens, kuram ir URL, varēs skatīt kopīgo tērzētavu.";
+
+"Help and FAQ" = "Palīdzība un BUJ";
+
+"There was an error sharing the conversation. Please try again. %@" = "Koplietojot sarunu, radās kļūda. Lūdzu, mēģini vēlreiz. %@";
+
+"Shared link deleted." = "Koplietotā saite dzēsta.";
+
+"There was an error deleting your shared link." = "Dzēšot koplietoto saiti, radās kļūda.";
+
+"Shared Link Title" = "Koplietotās saites nosaukums";
+

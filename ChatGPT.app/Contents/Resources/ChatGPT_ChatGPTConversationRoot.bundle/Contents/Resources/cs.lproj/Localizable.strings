@@ -1,0 +1,34 @@
+"Deleting chat failed" = "Odstranění chatu selhalo";
+
+"Voice capabilities aren’t currently available with this GPT because it requires memory to be on." = "Hlasové funkce nejsou momentálně k dispozici s tímto GPT, protože vyžaduje zapnutí paměti.";
+
+"Open Memory Settings" = "Otevřít nastavení paměti";
+
+"Deleting chat…" = "Odstraňování chatu…";
+
+"Memory off" = "Paměť vypnuta";
+
+"Toggle Sidebar" = "Přepnout postranní panel";
+
+"Please make sure this feature is enabled for your account." = "Ujisti se, že je tato funkce ve tvém účtu povolena.";
+
+"Turn history on" = "Zapnout historii";
+
+"Voice unavailable" = "Hlas není k dispozici";
+
+"Voice capabilities aren’t currently available when history is turned off." = "Hlasové funkce nejsou momentálně k dispozici, když je historie vypnutá.";
+
+"Close menu" = "Zavřít nabídku";
+
+"Thank you for your feedback!" = "Děkujeme za zpětnou vazbu!";
+
+"Open Settings" = "Otevřít nastavení";
+
+"Deleted chat" = "Odstraněný chat";
+
+"There is a problem with your internet connection." = "Došlo k problému s tvým připojením k internetu.";
+
+"Error reading message out loud" = "Chyba při čtení zprávy nahlas";
+
+"History off" = "Historie vypnuta";
+

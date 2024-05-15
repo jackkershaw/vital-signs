@@ -1,0 +1,170 @@
+"Other" = "ఇతర";
+
+"Tap to cancel" = "రద్దు చేయడానికి ట్యాప్ చేయండి";
+
+"Tap to send manually" = "మాన్యువల్ ‌ గా పంపడానికి ట్యాప్ చేయండి";
+
+"Close" = "మూసివేయి";
+
+"Click to connect" = "కనెక్ట్ చేయడానికి క్లిక్ చేయండి";
+
+"Connection failed, click to retry" = "కనెక్షన్ విఫలమైంది, మళ్లీ ప్రయత్నించడానికి క్లిక్ చేయండి";
+
+"%lld." = "%lld.";
+
+"Click to activate" = "సక్రియం చేయడానికి క్లిక్ చేయండి";
+
+"Enable microphone access in Settings" = "సెట్టింగ్‌లలో మైక్రోఫోన్ యాక్సెస్ ‌ ను ప్రారంభించండి";
+
+"%lldms" = "%lldms";
+
+"Unknown" = "తెలియదు";
+
+"Restart" = "రీస్టార్ట్ చేయండి";
+
+"You can change this later." = "మీరు దీన్ని తర్వాత మార్చవచ్చు.";
+
+"I didn’t like the responses" = "నాకు స్పందనలు నచ్చలేదు";
+
+"Listening intently" = "శ్రద్ధగా వినుట";
+
+"Paused" = "తాత్కాలికంగా నిలిపివేయబడింది";
+
+"Resume listening" = "వినడాన్ని పునఃప్రారంభించండి";
+
+"It interrupted me" = "అది నాకు అంతరాయం కలిగించింది";
+
+"Voice chat ended" = "వాయిస్ చాట్ ముగిసింది";
+
+"Excellent" = "అద్భుతం";
+
+"Voice feedback: give thumbs up" = "వాయిస్ ఫీడ్ ‌ బ్యాక్: థంబ్ ‌ అప్ ఇవ్వండి";
+
+"Click to cancel" = "రద్దు చేయడానికి క్లిక్ చేయండి";
+
+"Failed to connect" = "కనెక్ట్ చేయడంలో విఫలమైంది";
+
+"Select all that apply" = "వర్తించే అన్నింటినీ ఎంచుకోండి";
+
+"Connect" = "కనెక్ట్ చేయండి";
+
+"Unable to send response. Please try again." = "ప్రతిస్పందన పంపడం సాధ్యం కాలేదు. దయచేసి మళ్లీ ప్రయత్నించండి.";
+
+"Listening" = "వినడం";
+
+"Play" = "ప్లే చేయండి";
+
+"Voice feedback: give thumbs down" = "వాయిస్ ఫీడ్ ‌ బ్యాక్: థంబ్స్ డౌన్ ఇవ్వండి";
+
+"Unknown error" = "తెలియని లోపం";
+
+"Grace Period for %@s" = "%@ల కోసం గ్రేస్ పీరియడ్";
+
+"Helping improve voice" = "వాయిస్ ‌ ను మెరుగుపరచడంలో సహాయపడటం";
+
+"Pause" = "పాజ్ చేయండి";
+
+"Select %@" = "%@ను ఎంచుకోండి ";
+
+"Pick photo" = "ఫోటోను ఎంచుకోండి";
+
+"Learn more" = "మరింత నేర్చుకోండి";
+
+"Audio issues" = "ఆడియో సమస్యలు";
+
+"Flip camera to the rear" = "కెమెరాను వెనుకకు తిప్పండి";
+
+"What went wrong?" = "ఏమి తప్పు జరిగింది?";
+
+"Connected" = "కనెక్ట్ చేయబడింది";
+
+"Connecting" = "కనెక్ట్ అవుతోంది";
+
+"Connection failed, tap to retry" = "కనెక్షన్ విఫలమైంది, తిరిగి ప్రయత్నించడానికి ట్యాప్ చేయండి";
+
+"Halted" = "నిలిపివేయబడింది";
+
+"Submit feedback" = "అభిప్రాయాన్ని సమర్పించండి";
+
+"Speak to keep active" = "యాక్టివ్ ‌ గా ఉండటానికి మాట్లాడండి";
+
+"Idle" = "పనిలేకుండా";
+
+"Connecting.." = "కనెక్ట్ అవుతోంది..";
+
+"Release to send" = "పంపడానికి విడుదల చేయండి";
+
+"Hold for manual control" = "మాన్యువల్ నియంత్రణ కోసం పట్టుకోండి";
+
+"See more information about voice research" = "వాయిస్ పరిశోధన గురించి మరింత సమాచారాన్ని చూడండి";
+
+"Flip camera to the front" = "కెమెరాను ముందు వైపుకు తిప్పండి";
+
+"Start speaking" = "మాట్లాడటం ప్రారంభించండి";
+
+"Good" = "బాగుంది";
+
+"On for training" = "శిక్షణ కోసం";
+
+"Choose a voice" = "వాయిస్ ‌ ను ఎంచుకోండి";
+
+"Speak now" = "ఇప్పుడే మాట్లాడండి";
+
+"Voice chat ended after " = "తర్వాత వాయిస్ చాట్ ముగిసింది ";
+
+"Lost" = "పోయింది";
+
+"Go backward 15 seconds" = "15 సెకన్లు వెనుకకు వెళ్ళండి";
+
+"Finish speaking to send" = "పంపడానికి మాట్లాడటం ముగించండి";
+
+"Go forward 15 seconds" = "15 సెకన్లు ముందుకు వెళ్ళండి";
+
+"It misheard me" = "అది నన్ను తప్పుగా విన్నది";
+
+"Open camera" = "కెమెరా తెరువు";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "మా మోడళ్లను మెరుగుపరచడానికి మరియు శిక్షణ ఇవ్వడానికి మీరు వాయిస్ చాట్‌‌ల నుండి మీ ఆడియోను పంచుకోవాలని ఎంచుకున్నారు. న ఆలోచిస్తున్నప్పుడు లేదా మాట్లాడుతున్నప్పుడు మీ మైక్రోఫోన్ నుండి వచ్చే ఆడియో ఇందులో ఉంటుంది. మీరు సెట్టింగ్‌లలో షేర్ చేయడం ఆపివేయవచ్చు.";
+
+"Tap to interrupt" = "అంతరాయం కలిగించడానికి ట్యాప్ చేయండి";
+
+"Tap to connect" = "కనెక్ట్ చేయడానికి ట్యాప్ చేయండి";
+
+"Stop listening" = "వినడం ఆపేయండి";
+
+"Click to interrupt" = "అంతరాయం కలిగించడానికి క్లిక్ చేయండి";
+
+"Speaking" = "మాట్లాడుట";
+
+"Tap to activate" = "యాక్టివేట్ చేయడానికి ట్యాప్ చేయండి";
+
+"•" = "•";
+
+"Unable to review action" = "చర్యను సమీక్షించడం సాధ్యం కాలేదు";
+
+"Poor" = "బాగాలేదు";
+
+"Voice mode" = "వాయిస్ మోడ్";
+
+"Connecting." = "కనెక్ట్ అవుతోంది.";
+
+"Unselect %@" = "%@ను ఎంపిక నుండి తీసివేయండి";
+
+"Close camera" = "కెమెరాను మూసివేయండి";
+
+"Error: '%@'" = "లోపం: '%@'";
+
+"Thinking" = "ఆలోచన";
+
+"Click to send manually" = "మాన్యువల్‌గా పంపడానికి క్లిక్ చేయండి";
+
+"Thank you!" = "ధన్యవాదాలు!";
+
+"Tap to dismiss" = "తొలగించడానికి ట్యాప్ చేయండి";
+
+"Take picture" = "చిత్రాన్ని తీయండి";
+
+"Save to Photos" = "ఫోటోలకు సేవ్ చేయండి";
+
+"Poor connection" = "కనెక్షన్ సరిగా లేదు";
+

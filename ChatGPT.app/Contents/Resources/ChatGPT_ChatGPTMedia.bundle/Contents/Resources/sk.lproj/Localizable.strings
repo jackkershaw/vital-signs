@@ -1,0 +1,70 @@
+"Rear camera selected, tap to toggle to front" = "Je vybratý zadný fotoaparát, klepnutím prepneš na predný";
+
+"Camera Access Denied" = "Prístup k fotoaparátu je zamietnutý.";
+
+"Front camera selected, tap to toggle to rear" = "Je vybratý predný fotoaparát, klepnutím prepneš na zadný";
+
+"Pick photo" = "Vybrať fotografiu";
+
+"Annotate by drawing on the image" = "Pridať poznámku kreslením na obrázku";
+
+"Enable camera access in Settings to take photos." = "Ak chceš snímať fotografie, povoľ prístup k fotoaparátu v nastaveniach.";
+
+"Flash off, tap to toggle to auto" = "Blesk je vypnutý, klepnutím ho prepneš na automatický";
+
+"Select an area to edit" = "Vyber plochu, ktorú chceš upraviť";
+
+"Camera access is restricted on this device. Please check your parental control or system settings." = "Prístup k fotoaparátu na tomto zariadení je obmedzený. Skontroluj rodičovskú kontrolu alebo nastavenia systému.";
+
+"Next" = "Ďalej";
+
+"Failed to load image" = "Nepodarilo sa načítať obrázok";
+
+"Select camera device" = "Vybrať fotoaparát";
+
+"View prompt" = "Zobraziť príkaz";
+
+"Bad response" = "Zlá odpoveď";
+
+"Flash on, tap to toggle off" = "Blesk je zapnutý, klepnutím ho prepneš na vypnutý";
+
+"Thank you for your feedback!" = "Vďaka za pripomienky!";
+
+"Download complete" = "Sťahovanie sa dokončilo";
+
+"Camera Access Restricted" = "Prístup k fotoaparátu je obmedzený.";
+
+"This file is not available." = "Tento súbor nie je k dispozícii.";
+
+"Learn more" = "Ďalšie informácie";
+
+"Good response" = "Dobrá odpoveď";
+
+"This file has expired." = "Platnosť tohto súboru vypršala.";
+
+"Prompt" = "Príkaz";
+
+"Flash auto, tap to toggle on" = "Blesk je automatický, klepnutím ho prepneš na zapnutý";
+
+"Redo" = "Znova";
+
+"Copied" = "Skopírované";
+
+"The file download failed. Please try again later." = "Súbor sa nepodarilo stiahnuť. Skús to znova neskôr.";
+
+"Annotate" = "Pridať poznámku";
+
+"Select" = "Vybrať";
+
+"Dismiss" = "Skryť";
+
+"Image saved" = "Obrázok sa uložil";
+
+"More" = "Viac";
+
+"Undo" = "Zrušiť zmeny";
+
+"The file was not found." = "Súbor sa nenašiel.";
+
+"Back" = "Späť";
+

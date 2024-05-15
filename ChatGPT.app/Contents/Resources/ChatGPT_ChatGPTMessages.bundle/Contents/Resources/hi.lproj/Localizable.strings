@@ -1,0 +1,74 @@
+"Memory updated" = "मेमोरी को अपडेट किया गया";
+
+"\"%@\" column" = "\"%@\" कॉलम";
+
+"Memories updated" = "मेमोरीज़ को अपडेट करें";
+
+"Failed, retry?" = "असफ़ल रहा, दोबारा कोशिश करना चाहते हैं?";
+
+"Decline" = "अस्वीकार करें";
+
+"Selection" = "सिलेक्शन";
+
+"Save File As…" = "फ़ाइल को इस रूप में सेव करें…";
+
+"Bad" = "खराब";
+
+"Change Model" = "मॉडल बदलें";
+
+"Deny" = "नामंज़ूर करें";
+
+"Continue Generating" = "जनरेट करना जारी रखें";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "ये फ़ाइल अब उपलब्ध नहीं है। अपनी बातचीत जारी रखने के लिए एक नई बातचीत शुरू करें या एक नई फ़ाइल अपलोड करें।";
+
+"Response rating failed." = "जवाब की रेटिंग असफ़ल रही।";
+
+"Upgraded response" = "जवाब को अपग्रेड किया गया";
+
+"Stop Generating" = "जनरेट करना बंद करें";
+
+"How would you rate this GPT?" = "आप इस GPT को कितनी रेटिंग देंगे?";
+
+"You" = "आप";
+
+"\"%@\" cell" = "\"%@\" सेल";
+
+"Your most recent request failed. Please retry!" = "आपका सबसे हालिया अनुरोध असफल हो गया। कृपया दोबारा कोशिश करें!";
+
+"Regenerate" = "दोबारा जनरेट करें";
+
+"#%lld row" = "#%lld पंक्ति";
+
+"Sign in to %@" = "%@ में साइन इन करें";
+
+"Manage memories" = "मेमोरीज़ को मैनेज करें";
+
+"Select Text" = "टेक्स्ट चुनें";
+
+"File expired" = "फ़ाइल एक्सपायर हो गई";
+
+"A GPT" = "A GPT";
+
+"Please try again later.%@" = "कृपया बाद में दोबारा कोशिश करें।%@";
+
+"Read Aloud" = "ज़ोर से पढ़ें";
+
+"Analysis" = "एनालिसिस";
+
+"Quick Look" = "त्वरित लुक";
+
+"Always allow" = "हमेशा अनुमति दें";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT केवल सीमित समय के लिए फ़ाइलें रखता है। अपनी बातचीत जारी रखने के लिए एक नई बातचीत शुरू करें या एक नई फ़ाइल अपलोड करें।";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "^[%lld अटैचमेंट्स](inflect: true) अपलोड किए जा रहे हैं…";
+
+"Loading…" = "लोड किया जा रहा है...";
+
+"Edit" = "एडिट करें";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "हमारे सबसे सक्षम मॉडल, GPT-4 के साथ लिखा गया, जो ChatGPT Plus पर उपलब्ध है";
+
+"File unavailable" = "फ़ाइल अनुपलब्ध";
+

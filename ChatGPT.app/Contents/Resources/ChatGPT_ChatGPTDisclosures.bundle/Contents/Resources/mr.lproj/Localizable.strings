@@ -1,0 +1,152 @@
+"Select an area of the image to edit" = "सुधारित करण्यासाठी प्रतिमेचे क्षेत्र निवडणे";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "तुमच्या इतिहासातील व्हॉइस ट्रान्सक्रिप्शन पहा. ऑडिओ क्लिप संग्रहित नाहीत.";
+
+"By default, chats in this workspace are not used to train our AI models." = "डीफॉल्टनुसार, या कार्यक्षेत्रामधील चॅट्स आमच्या AI मॉडेलला प्रशिक्षित करण्यासाठी वापरल्या जात नाहीत.";
+
+"Chat with images" = "प्रतिमांसह चॅट करा ";
+
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "तुमच्या चॅटसाठी विशिष्ट तपशील आणि मार्गदर्शक तत्त्वे देऊन ChatGPT सह तुमचे परस्परसंवाद सानुकूलित करणे.";
+
+"Follows custom instructions" = "सानुकूल सूचनांचे अनुसरण करते";
+
+"No model training" = "मॉडेल प्रशिक्षण नाही";
+
+"Memory off" = "स्मृती बंद करणे";
+
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "तुम्ही नियंत्रणात आहात. विशिष्ट आठवणींचे पुनरावलोकन करणेआणि हटवा, सुरवातीपासून रीस्टार्ट करा किंवा सेटिंग्जमध्ये वैशिष्ट्य बंद करणे.";
+
+"Picture perfect" = "चित्र परिपूर्ण";
+
+"Welcome to the %@ workspace" = "%@ कार्यक्षेत्रात स्वागत आहे";
+
+"More helpful over time" = "कालांतराने अधिक उपयुक्त होते";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "तुमच्यासाठी तयार केलेली उत्तम उत्तरे मिळवण्यासाठी तुमच्या उद्योग, भूमिका किंवा विशिष्ट प्रकल्पांबद्दल संदर्भ देणे.";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "तुमची बाइक दुरुस्त करण्यासाठी, रेसिपी तयार करण्यासाठी किंवा जटिल आलेखांचे विश्लेषण करण्यासाठी फोटो वापरून पहा.";
+
+"Manage what it remembers" = "काय आठवते ते व्यवस्थापित करणे";
+
+"Don’t share sensitive info" = "संवेदनशील माहिती शेअर करू नका";
+
+"Not in history" = "इतिहासात नाही";
+
+"Now you can have spoken conversations with ChatGPT." = "आता तुम्ही ChatGPT सह संभाषण करू शकता.";
+
+"Continue" = "सुरू ठेवा";
+
+"Learn more" = "अधिक जाणून घ्या";
+
+"You’re in control" = "तुम्ही नियंत्रणात आहात";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "व्हॉइस चॅट सुधारण्यासाठी, आमची टीम ऑडिओचे पुनरावलोकन करू शकते. आमच्या मॉडेलना प्रशिक्षित करण्यासाठी वापरल्या जाणाऱ्या ऑडिओमधील वैयक्तिक माहितीचे प्रमाण कमी करण्यासाठी आम्ही पावले उचलतो.";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "या डिव्हाइसवरील नवीन चॅट तुमच्या इतिहासात दिसतील की नाही ते ठरवा आणि आमच्या सिस्टम सुधारण्यासाठी वापरण्यात येईल.";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "तात्पुरते चॅट्सतुमच्या इतिहासात दिसणार नाहीत. सुरक्षिततेच्या उद्देशाने, आम्ही तुमच्या चॅटची प्रत 30 दिवसांपर्यंत ठेवू शकतो.";
+
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "ChatGPT चॅट्स दरम्यान जे शिकते ते घेऊन जाईल, ज्यामुळे ते अधिक संबंधित प्रतिसाद देऊ शकेल.";
+
+"Welcome to ChatGPT" = "ChatGPT मध्ये आपले स्वागत आहे";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "तुम्ही सुरू ठेवू इच्छित नसल्यास, तुम्ही सेटिंग्जमध्ये कधीही शेअर करणे थांबवू शकता.\n\n[अधिक जाणून घ्या](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "हे अधिकृत ॲप विनामूल्य आहे, सर्व उपकरणांवर तुमचा इतिहास समक्रमित करते आणि तुमच्यासाठी OpenAI कडून नवीनतम मॉडेल सुधारणा आणते.";
+
+"Don't Share" = "शेअर करू नका";
+
+"Share audio from future voice chats to improve and train our models." = "आमचे मॉडेल सुधारण्यासाठी आणि प्रशिक्षित करण्यासाठी भविष्यातील व्हॉइस चॅटमधील ऑडिओ शेअर करा.";
+
+"Now you can have spoken conversations with GPTs." = "आता तुम्ही GPT सह संभाषण करू शकता.";
+
+"Temporary Chat" = "तात्पुरते चॅट";
+
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "जेव्हा तुम्ही तुमच्या सानुकूल सूचना सुधारित कराल तेव्हा त्या तुम्ही तयार केलेल्या सर्व नवीन चॅटमध्ये प्रभावी होतील. जुनी संभाषणे अद्यतन केली जाणार नाहीत.";
+
+"Welcome to the %@ workspace" = "कार्यक्षेत्रात %@ स्वागत आहे";
+
+"Chat without having to look at your screen." = "तुमच्या स्क्रीनकडे न पाहता चॅट करा.";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "तुमच्या सूचना आमचे मॉडेल्स अधिक चांगली बनवतील. तुमचा डेटा कसा वापरला जाईल याबद्दल अधिक जाणून घेण्यासाठी आमच्या [मदत केंद्रा](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) ला भेट देणे.";
+
+"Hands-free" = "हँड्स फ्री";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "अधिक अचूक शोधासाठी तुम्ही सेटिंग्जमध्ये प्राधान्यकृत भाषा निर्दिष्ट करू शकता.";
+
+"Choose a voice" = "आवाज निवडा";
+
+"Just start talking" = "फक्त बोलणे सुरू करा";
+
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "तुम्ही चॅट कराल, तपशील आणि प्राधान्ये सतत लक्षात ठेवून ChatGPT अधिक उपयुक्त होईल.";
+
+"Custom Instructions will still be followed if you have them enabled." = "तुम्ही सक्षम केलेल्या सानुकूल सूचनांचे पालन केले जाईल.";
+
+"Improve voice chats for everyone" = "प्रत्येकासाठी व्हॉइस चॅट सुधारा";
+
+"Tap Select, highlight the area, and describe changes in chat." = "निवडवर टॅप करणे, क्षेत्र हायलाइट करणे आणि चॅटमधील बदलांचे वर्णन करणे.";
+
+"Edit the full image" = "पूर्ण प्रतिमा सुधारितकरणे";
+
+"ChatGPT now has memory across chats" = "ChatGPT ला आता चॅट्सवर स्मृती आहे";
+
+"Built for business" = "व्यवसायासाठी बांधले आहे";
+
+"Control your chat history" = "तुमचा चॅट इतिहास नियंत्रित करा";
+
+"Tap Edit and describe changes in chat." = "सुधारणाकरणे वर टॅप करणे आणि चॅटमधील बदलांचे वर्णन करणे.";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "ChatGPT प्रश्नांची उत्तरे देऊ शकते, तुम्हाला शिकण्यास मदत करू शकते, कोड लिहू शकते, एकत्र विचारमंथन करू शकते आणि बरेच काही करू शकते.";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "ChatGPT लोक, ठिकाणे किंवा तथ्यांबद्दल चुकीची माहिती देऊ शकते.";
+
+"Welcome to\nChatGPT" = "ChatGPT मध्ये आपले स्वागत आहे";
+
+"Taking steps to protect privacy" = "गोपनीयतेचे रक्षण करण्यासाठी पावले उचलणे";
+
+"Help improve voice" = "आवाज सुधारण्यास मदत करा";
+
+"ChatGPT can be inaccurate" = "ChatGPT चुकीचे असू शकते";
+
+"Made for use at work" = "कामावर वापरण्यासाठी बनवलेले आहे";
+
+"Active for new chats" = "नवीन चॅटसाठी सक्रिय";
+
+"Chats may be reviewed by our AI trainers to improve our systems." = "आमच्या सिस्टममध्ये सुधारणा करण्यासाठी आमच्या AI प्रशिक्षकांद्वारे चॅटचे पुनरावलोकन केले जाऊ शकते.";
+
+"Help improve our models" = "आमचे मॉडेल्स सुधारण्यात मदत करणे";
+
+"Introducing\nCustom Instructions" = "परिचय करून दिला\nसानुकूल सूचना";
+
+"Keep the conversation going" = "संभाषण चालू ठेवणे";
+
+"Get Started" = "सुरु करूयात";
+
+"Check your facts" = "तुमचे तथ्य तपासा";
+
+"Refine DALL·E Images" = "DALL·E प्रतिमा परिष्कृत करणे";
+
+"Share" = "शेअर करा";
+
+"Temporary Chats won’t be used to improve our models." = "आमची मॉडेल्स सुधारण्यासाठी तात्पुरत्या चॅटचा वापर केला जाणार नाही.";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled.";
+
+"Snap a picture to ask ChatGPT about the world around you." = "तुमच्या सभोवतालच्या जगाबद्दल ChatGPT ला विचारण्यासाठी एक चित्र घ्या.";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "आमच्याकडे सुरक्षितता असताना, ChatGPT तुम्हाला चुकीची माहिती देऊ शकते. सल्ला देण्याचा हेतू नाही.";
+
+"Welcome to your company's workspace" = "तुमच्या कंपनीच्या वर्कस्पेसमध्ये तुमचे स्वागत आहे";
+
+"Start with a photo" = "फोटोसह प्रारंभ करा";
+
+"Chat with voice" = "आवाजाने चॅट करा";
+
+"Chats are saved" = "चॅट जतन केल्या जातात";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "येथे तुम्ही आमची नवीनतम मॉडेल्स, अधिक क्षमता आणि कमी मर्यादांसह वापरू शकता.";
+
+"Ask away" = "दूर विचारा";
+
+"Language is auto-detected" = "भाषा स्वयं-शोधली जाते";
+

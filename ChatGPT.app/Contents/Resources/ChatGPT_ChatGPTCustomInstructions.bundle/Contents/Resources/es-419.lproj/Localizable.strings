@@ -1,0 +1,52 @@
+"GPT-4 Capabilities" = "Funcionalidades de GPT-4";
+
+"Browse the internet to find answers" = "Explorar en Internet para encontrar respuestas";
+
+"DALL•E" = "DALL E";
+
+"Execute code using Code Interpreter" = "Ejecutar el código con el Intérprete de código";
+
+"Show tips" = "Mostrar consejos";
+
+"Discard changes" = "Descartar cambios";
+
+"Custom Instructions Enabled or Disabled" = "Instrucciones personalizadas activadas o desactivadas";
+
+"How would you like ChatGPT to respond?" = "¿Cómo quieres que responda ChatGPT?";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "¿Qué quieres que ChatGPT sepa sobre ti para ofrecer mejores respuestas?";
+
+"Saving Custom Instructions" = "Guardando instrucciones personalizadas";
+
+"Choose which tools can be used with GPT-4." = "Selecciona las herramientas que se pueden usar con GPT-4.";
+
+"An unknown error occurred. Please try again later" = "Ocurrió un error desconocido. Inténtalo nuevamente más tarde.";
+
+"Thought starters" = "Frases para iniciar un pensamiento";
+
+"Error saving custom instructions" = "Error al guardar instrucciones personalizadas";
+
+"Code" = "Código";
+
+"Customize ChatGPT" = "Personalizar ChatGPT";
+
+"Browsing" = "Explorando";
+
+"Error updating state for customizations. Please try again later." = "Error al actualizar el estado de las personalizaciones. Inténtalo de nuevo más tarde.";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "¿Seguro quieres descartar los cambios?\nTodos los cambios realizados se perderán.";
+
+"Generate images using DALL•E" = "Generar imágenes con DALL E";
+
+"Unsaved changes" = "Cambios sin guardar";
+
+"Enable for new chats" = "Activar para chats nuevos";
+
+"Error loading customizations. Please try again later." = "Error al cargar personalizaciones. Inténtalo nuevamente más tarde.";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Las instrucciones personalizadas se aplicarán a todos los chats nuevos. [Obtener más información](chat-preferences-disclosures)";
+
+"Save" = "Guardar";
+
+"Keep editing" = "Seguir editando";
+

@@ -1,0 +1,82 @@
+"Continue Generating" = "ਬਣਾਉਣਾ ਜਾਰੀ ਰੱਖੋ";
+
+"Failed, retry?" = "ਅਸਫਲ, ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰਨੀ ਹੈ?";
+
+"You need %@ to continue this chat because this GPT requires it." = "ਇਸ ਚੈਟ ਨੂੰ ਜਾਰੀ ਰੱਖਣ ਲਈ ਤੁਹਾਨੂੰ %@ ਦੀ ਲੋੜ ਹੈ ਕਿਉਂਕਿ ਇਸ GPT ਨੂੰ ਇਸਦੀ ਲੋੜ ਹੈ।";
+
+"Stop Generating" = "ਬਣਾਉਣਾ ਬੰਦ ਕਰੋ";
+
+"Message ChatGPT" = "ChatGPT ਨੂੰ ਸੁਨੇਹਾ ਭੇਜੋ...";
+
+"Replace" = "ਬਦਲੋ";
+
+"Switch to Voice mode" = "ਵੁਆਇਸ ਮੋਡ ‘ਤੇ ਸਵਿੱਚ ਕਰੋ";
+
+"You need %@ to continue this chat because it uses tools." = "ਇਸ ਚੈਟ ਨੂੰ ਜਾਰੀ ਰੱਖਣ ਲਈ ਤੁਹਾਨੂੰ %@ ਦੀ ਲੋੜ ਹੈ, ਕਿਉਂਕਿ ਇਹ ਟੂਲਾਂ ਦੀ ਵਰਤੋਂ ਕਰਦੀ ਹੈ।";
+
+"Image upload failed." = "ਤਸਵੀਰ ਅੱਪਲੋਡ ਕਰਨਾ ਅਸਫਲ ਹੋਇਆ।";
+
+"Microphone access required" = "ਮਾਈਕ੍ਰੋਫੋਨ ਪਹੁੰਚ ਲੋੜੀਂਦੀ ਹੈ";
+
+"No connection" = "ਕੁਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ";
+
+"New Message" = "ਨਵਾਂ ਸੁਨੇਹਾ";
+
+"This chat uses an older version of your custom instructions" = "ਇਹ ਚੈਟ ਤੁਹਾਡੀਆਂ ਕਸਟਮ ਹਦਾਇਤਾਂ ਦੇ ਪੁਰਾਣੇ ਸੰਸਕਰਣ ਨੂੰ ਵਰਤਦੀ ਹੈ।";
+
+"Attach photos" = "ਤਸਵੀਰਾਂ ਨੱਥੀ ਕਰੋ";
+
+"You need %@ to continue this chat because it has images." = "ਇਸ ਚੈਟ ਨੂੰ ਜਾਰੀ ਰੱਖਣ ਲਈ ਤੁਹਾਨੂੰ %@ ਦੀ ਲੋੜ ਹੈ ਕਿਉਂਕਿ ਇਸ ਵਿੱਚ ਤਸਵੀਰਾਂ ਹਨ।";
+
+"Message" = "ਸੁਨੇਹਾ";
+
+"Scroll to bottom" = "ਬਿਲਕੁਲ ਥੱਲੇ ਸਕ੍ਰੋਲ ਕਰੋ";
+
+"You've reached your %@ limit." = "ਤੁਸੀਂ ਆਪਣੀ %@ ਸੀਮਾ ‘ਤੇ ਪਹੁੰਚ ਚੁੱਕੇ ਹੋ।";
+
+"You need %@ to continue this chat because it has attachments." = "ਇਸ ਚੈਟ ਨੂੰ ਜਾਰੀ ਰੱਖਣ ਲਈ ਤੁਹਾਨੂੰ %@ ਦੀ ਲੋੜ ਹੈ, ਕਿਉਂਕਿ ਇਸ ਵਿੱਚ ਜੁੜਤਾਂ ਹਨ।";
+
+"Are you sure?" = "ਕੀ ਤੁਹਾਨੂੰ ਪੂਰਾ ਯਕੀਨ ਹੈ?";
+
+"Image attachment failed." = "ਤਸਵੀਰ ਨੱਥੀ ਕਰਨਾ ਅਸਫਲ ਹੋਇਆ।";
+
+"Edit selection" = "ਚੁਣੇ ਹੋਏ ਦਾ ਸੰਪਾਦਨ ਕਰੋ";
+
+"If you cancel the text conversion you will lose the recording." = "ਜੇਕਰ ਤੁਸੀਂ ਟੈਕਸਟ ਬਦਲਾਅ ਨੂੰ ਰੱਦ ਕਰਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਰਿਕਾਰਡਿੰਗ ਗੁਆ ਦਿਓਗੇ।";
+
+"Stop" = "ਰੁਕੋ";
+
+"Fullscreen" = "ਫੁੱਲਸਕ੍ਰੀਨ";
+
+"This chat is currently unavailable" = "ਇਹ ਚੈਟ ਅਜੇ ਗੈਰ-ਉਪਲਬਧ ਹੈ";
+
+"Remove attachment" = "ਜੁੜਤ ਹਟਾਓ";
+
+"Shows the voice recording interface and begins recording" = "ਆਵਾਜ਼ ਰਿਕਾਰਡਿੰਗ ਇੰਟਰਫੇਸ ਨੂੰ ਦਿਖਾਉਂਦਾ ਹੈ ਅਤੇ ਰਿਕਾਰਡਿੰਗ ਨੂੰ ਸ਼ੁਰੂ ਕਰਦਾ ਹੈ";
+
+"Upload File" = "ਫਾਈਲ ਅੱਪਲੋਡ ਕਰੋ";
+
+"Dictation" = "ਬੋਲ ਅਨੁਸਾਰ ਲਿਖਤ (ਡਿਕਟੇਟਸ਼ਨ)";
+
+"Attached image" = "ਤਸਵੀਰ ਨੱਥੀ ਕੀਤੀ ਗਈ";
+
+"Editing message" = "ਸੁਨੇਹੇ ਦਾ ਸੰਪਾਦਨ ਕਰੋ";
+
+"Send" = "ਭੇਜੋ";
+
+"Get Plus to Chat" = "ਚੈਟ ਲਈ ਪਲੱਸ ਲਵੋ";
+
+"You need %@ to continue this chat because it uses audio." = "ਇਸ ਚੈਟ ਨੂੰ ਜਾਰੀ ਰੱਖਣ ਲਈ ਤੁਹਾਨੂੰ %@ ਦੀ ਲੋੜ ਹੈ ਕਿਉਂਕਿ ਇਹ ਆਡੀਓ ਦੀ ਵਰਤੋਂ ਕਰਦੀ ਹੈ।";
+
+"Attach files" = "ਫਾਈਲਾਂ ਨੱਥੀ ਕਰੋ";
+
+"File upload failed." = "ਤਸਵੀਰ ਅੱਪਲੋਡ ਅਸਫਲ ਹੋਇਆ।";
+
+"To continue, you’ll need to replace the current attachment." = "ਜਾਰੀ ਰੱਖਣ ਲਈ, ਤੁਹਾਨੂੰ ਮੌਜੂਦਾ ਜੁੜਤ ਨੂੰ ਬਦਲਣ ਦੀ ਲੋੜ ਹੋਵੇਗੀ।";
+
+"Confirm" = "ਪੁਸ਼ਟੀ ਕਰੋ";
+
+"Edit image" = "ਤਸਵੀਰ ਦਾ ਸੰਪਾਦਨ ਕਰੋ...";
+
+"Replace attachment?" = "ਜੁੜਤ ਬਦਲੀ ਕਰਨੀ ਹੈ?";
+

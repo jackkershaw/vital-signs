@@ -1,0 +1,114 @@
+"Exceptional!" = "ልዩ!";
+
+"Conversation starters" = "የውይይት ጀማሪዎች";
+
+"Edit" = "አርትዕ";
+
+"Anyone with a link" = "ማገናኛ ያለው ማንኛውም ሰው";
+
+"Are you sure you want to remove this GPT from your recents?" = "እርግጠኛ ነዎት ይህን GPT ከቅርብ ጊዜዎችዎ ማስወገድ ይፈልጋሉ?";
+
+"Bad" = "መጥፎ";
+
+"%@ rating" = "%@ ደረጃ መስጠት";
+
+"Feedback" = "Feedback";
+
+"Loading more" = "ተጨማሪ በመጫን ላይ";
+
+"Recently Used" = "በቅርብ ጊዜ ጥቅም ላይ የዋለ";
+
+"Remove" = "አስወግድ";
+
+"Editing Not Available" = "አርትዖት አይገኝም";
+
+"Failed to remove recent GPT, retry?" = "የቅርብ ጊዜ GPTን ማስወገድ አልተሳካም፣ እንደገና ይሞከር?";
+
+"No Recents" = "ምንም የቅርብ ጊዜ የለም።";
+
+"By %@" = "በ %@";
+
+"Top Picks" = "ከፍተኛ ምርጫዎች";
+
+"Options" = "አማራጮች";
+
+"Remove GPT" = "GPTን አስወግድ";
+
+"Editing and creating a GPT is only available on web for now." = "GPTን ማረም እና መፍጠር አሁን በድር ገጽ ላይ ብቻ ይገኛል።";
+
+"Explore" = "ያስሱ";
+
+"Top Suggestions" = "ከፍተኛ ጥቆማዎች";
+
+"Okay" = "እሺ";
+
+"Failed to delete GPT, retry?" = "GPTን መሰረዝ አልተሳካም፣ እንደገና ይሞከር?";
+
+"%@ chats" = "%@ ውይይቶች";
+
+"Capabilities" = "ችሎታዎች";
+
+"See more" = "ተጨማሪ ይመልከቱ";
+
+"Start Chat" = "ውይይት ጀምር";
+
+"How would you rate this GPT?" = "ይህን GPT እንዴት ይመዝኑታል?";
+
+"Unable to load, retry?" = "መጫን አልተቻለም፣ እንደገና ይሞክሩ?";
+
+"Great" = "በጣም አሪፍ";
+
+"Search Public GPTs" = "የህዝብ GPTs ፈልግ";
+
+"Visibility" = "ታይነት";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "%@ የመመዘኛ ^[%lld ኮከቦች](inflect: true)";
+
+"Untitled" = "ርዕስ አልባ";
+
+"Good" = "ጥሩ";
+
+"Optional private note for creator…" = "አማራጭ የግል ማስታወሻ ለፈጣሪ…";
+
+"Star rating" = "የኮከብ መመዘኛ";
+
+"Tap a star" = "አንድ ኮከብ ይጫኑ";
+
+"Only me" = "እኔ ብቻ";
+
+"Searching…" = "በመፈለግ ላይ…";
+
+"Include my email **%@**" = "ኢሜይሌን አካትት**%@**";
+
+"Report" = "ረፖርት";
+
+"Share" = "ያጋሩ";
+
+"Chats: %@" = "ውይይቶች፡ %@";
+
+"Include my email" = "ኢሜይሌን አካትት";
+
+"No Results Found" = "ምንም ውጤቶች አልተገኙም።";
+
+"Get Plus to Chat" = "ለመወያየት ፕላስ ያግኙ";
+
+"By community builder" = "በማህበረሰብ ገንቢ";
+
+"Add a note" = "ማስታወሻ ጨምር";
+
+"in **%@**" = "**%@** ውስጥ";
+
+"Anyone at %@" = "%@ ላይ ያለ ማንኛውም ሰው";
+
+"My GPTs" = "የእኔ GPTs";
+
+"Thank you for your feedback!" = "ለአስተያየትዎ እናመሰግናለን!";
+
+"Start chat" = "ውይይት ጀምር";
+
+"Are you sure you want to delete this GPT?" = "እርግጠኛ ነዎት ይህን GPT መሰረዝ ይፈልጋሉ?";
+
+"How would you rate **%@**?" = "**%@**ን እንዴት ይመዝኑታል?";
+
+"Public" = "የህዝብ";
+

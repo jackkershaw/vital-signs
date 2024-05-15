@@ -1,0 +1,34 @@
+"There is a problem with your internet connection." = "您的互联网连接存在问题。";
+
+"Voice capabilities aren’t currently available with this GPT because it requires memory to be on." = "此 GPT 要求启用记忆功能，因此该 GPT 目前无法使用语音功能。";
+
+"Voice unavailable" = "语音不可用";
+
+"Close menu" = "关闭菜单";
+
+"Deleting chat…" = "正在删除聊天……";
+
+"Deleted chat" = "已删除聊天";
+
+"Voice capabilities aren’t currently available when history is turned off." = "目前历史记录已关闭，因此语音功能不可用。";
+
+"History off" = "历史记录关闭";
+
+"Toggle Sidebar" = "切换边栏";
+
+"Open Memory Settings" = "打开记忆设置";
+
+"Please make sure this feature is enabled for your account." = "请确保已为您的帐户启用此功能。";
+
+"Open Settings" = "打开设置";
+
+"Turn history on" = "开启历史记录";
+
+"Memory off" = "记忆关闭";
+
+"Deleting chat failed" = "无法删除聊天";
+
+"Thank you for your feedback!" = "感谢您的反馈！";
+
+"Error reading message out loud" = "朗读消息时出错";
+

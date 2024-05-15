@@ -1,0 +1,26 @@
+"Report" = "Indberet";
+
+"Shared Link Title" = "Delt link titel";
+
+"Shared Link Date" = "Delt link dato";
+
+"The shared conversation does not exist." = "Den delte samtale findes ikke.";
+
+"Shared conversation" = "Delt samtale";
+
+"This conversation may reflect the link creator’s custom instructions, which aren’t shared and can meaningfully change how the model responds." = "Denne samtale kan afspejle linkopretterens brugerdefinerede instruktioner, som ikke er delt, og dermed ændre væsentligt på, hvordan modellen svarer.";
+
+"Menu" = "Menu";
+
+"Continue" = "Fortsæt";
+
+"Shared Link Owner" = "Delt link ejer";
+
+"Help and FAQ" = "Hjælp og FAQ";
+
+"Failed to load shared conversation." = "Kunne ikke indlæse delt samtale.";
+
+"Failed to determine model." = "Kunne ikke fastslå modellen.";
+
+"Shared conversation is invalid." = "Delt samtale er ugyldig.";
+

@@ -1,0 +1,52 @@
+"Enable for new chats" = "புதிய அரட்டைகளை இயக்கவும்";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "உங்கள் மாற்றங்களை நிச்சயமாக நிராகரிக்க விரும்புகிறீர்களா? நீங்கள் செய்த மாற்றங்கள் இழக்கப்படும்.";
+
+"Saving Custom Instructions" = "தனிப்பயன் அறிவுறுத்தல்களைச் சேமிக்கிறது";
+
+"Error saving custom instructions" = "தனிப்பயன் அறிவுறுத்தல்களைச் சேமிப்பதில் பிழை";
+
+"Error loading customizations. Please try again later." = "தனிப்பயனாக்கங்களை ஏற்றுவதில் பிழை. பிறகு முயற்சிக்கவும்.";
+
+"GPT-4 Capabilities" = "GPT-4 திறன்கள்";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "அனைத்து புதிய அரட்டைகளுக்கும் தனிப்பயன் அறிவுறுத்தல்கள் பயன்படுத்தப்படும். [மேலும் அறியவும்](chat-preferences-disclosures)";
+
+"Discard changes" = "மாற்றங்களை நிராகரிக்கவும்";
+
+"DALL•E" = "DALL·E";
+
+"Save" = "சேமிக்கவும்";
+
+"Generate images using DALL•E" = "DALL·E -ஐப் பயன்படுத்தி படங்களை உருவாக்கவும்";
+
+"Unsaved changes" = "சேமிக்கப்படாத மாற்றங்கள்";
+
+"An unknown error occurred. Please try again later" = "அறியப்படாத பிழை ஏற்பட்டுள்ளது. தயவுசெய்து பிறகு முயற்சிக்கவும்.";
+
+"Error updating state for customizations. Please try again later." = "தனிப்பயனாக்கலுக்கான நிலையைப் புதுப்பிப்பதில் பிழை. பிறகு முயற்சிக்கவும்.";
+
+"Browsing" = "உலாவுதல்";
+
+"Execute code using Code Interpreter" = "Code Interpreter மூலம் குறியீட்டை இயக்கவும்";
+
+"Code" = "குறியீடு";
+
+"Show tips" = "உதவிக்குறிப்புகளைக் காட்டவும்";
+
+"Thought starters" = "சிந்தனையைத் தொடங்குபவர்கள்";
+
+"How would you like ChatGPT to respond?" = "ChatGPT எவ்வாறு பதிலளிக்க வேண்டும் என்று விரும்புகிறீர்கள்?";
+
+"Choose which tools can be used with GPT-4." = "GPT-4 உடன் எந்தெந்த கருவிகளைப் பயன்படுத்தலாம் என்பதைத் தேர்வுசெய்யவும்";
+
+"Browse the internet to find answers" = "பதில்களைக் கண்டறிய இணையத்தில் உலாவவும்";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "சிறந்த பதில்களை வழங்க உங்களைப் பற்றி ChatGPT என்ன தெரிந்து கொள்ள வேண்டும் என விரும்புகிறீர்கள்?";
+
+"Customize ChatGPT" = "ChatGPT -ஐத் தனிப்பயனாக்கு";
+
+"Custom Instructions Enabled or Disabled" = "தனிப்பயன் அறிவுறுத்தல்கள் செயல்படுத்தபட்டுள்ளது அல்லது முடக்கப்பட்டுள்ளது";
+
+"Keep editing" = "தொடர்ந்து திருத்தவும்";
+

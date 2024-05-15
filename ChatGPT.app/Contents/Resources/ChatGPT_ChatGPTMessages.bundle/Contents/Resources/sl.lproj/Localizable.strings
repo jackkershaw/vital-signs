@@ -1,0 +1,74 @@
+"Manage memories" = "Upravljaj pomnilnike";
+
+"Change Model" = "Sprememba modela";
+
+"Memories updated" = "Pomnilniki posodobljeni";
+
+"\"%@\" column" = "Stolpec »%@«";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Napisano z našim najzmogljivejšim modelom GPT-4, ki je na voljo na ChatGPT Plus.";
+
+"File unavailable" = "Datoteka ni na voljo";
+
+"You" = "Vi";
+
+"#%lld row" = "Vrstica št. %lld";
+
+"Continue Generating" = "Nadaljuj z ustvarjanjem";
+
+"Bad" = "Slabo";
+
+"Quick Look" = "Hiter ogled";
+
+"Please try again later.%@" = "Poskusite znova pozneje.%@";
+
+"Decline" = "Zavrni";
+
+"Stop Generating" = "Ustavi ustvarjanje";
+
+"Edit" = "Uredi";
+
+"Failed, retry?" = "Neuspešno. Želite poskusiti znova?";
+
+"Loading…" = "Nalaganje ...";
+
+"Sign in to %@" = "Vpiši se v %@";
+
+"Response rating failed." = "Ocena odgovora ni uspela.";
+
+"How would you rate this GPT?" = "Kako bi ocenili ta GPT?";
+
+"Selection" = "Izbor";
+
+"Save File As…" = "Shrani datoteko kot …";
+
+"Memory updated" = "Pomnilnik posodobljen";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "Nalaganje ^[%lld prilog](inflect: true) …";
+
+"Deny" = "Odkloni";
+
+"File expired" = "Datoteka je potekla";
+
+"Select Text" = "Izberi besedilo";
+
+"Analysis" = "Analiza";
+
+"\"%@\" cell" = "Celica »%@«";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Ta datoteka ni več na voljo. Če želite nadaljevati vaš pogovor, začnite nov pogovor ali naložite novo datoteko.";
+
+"Upgraded response" = "Nadgrajeni odgovor";
+
+"Your most recent request failed. Please retry!" = "Vaša najnovejša zahteva ni uspela. Poskusite znova.";
+
+"A GPT" = "GPT";
+
+"Regenerate" = "Ustvari znova";
+
+"Read Aloud" = "Beri naglas";
+
+"Always allow" = "Vedno dovoli";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT hrani datoteke le za določen čas. Če želite nadaljevati vaš pogovor, začnite nov pogovor ali naložite novo datoteko.";
+

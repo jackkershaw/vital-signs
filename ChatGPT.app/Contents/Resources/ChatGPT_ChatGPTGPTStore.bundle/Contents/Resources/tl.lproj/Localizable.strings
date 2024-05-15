@@ -1,0 +1,112 @@
+"Anyone at %@" = "Kahit sino sa %@";
+
+"Editing and creating a GPT is only available on web for now." = "Sa web lang available sa ngayon ang pag-edit at paggawa ng GPT.";
+
+"Failed to remove recent GPT, retry?" = "Hindi maalis ang kamakailang GPT, subukan ulit?";
+
+"Start chat" = "Magsimula ng Chat";
+
+"Public" = "Pampubliko";
+
+"Capabilities" = "Mga Kakayahan";
+
+"Remove" = "Alisin";
+
+"Thank you for your feedback!" = "Salamat sa iyong feedback!";
+
+"Okay" = "Okay";
+
+"Optional private note for creator…" = "Opsyonal na pribadong note para sa creator…";
+
+"Feedback" = "Feedback";
+
+"%@ rating" = "%@ rating";
+
+"Failed to delete GPT, retry?" = "Hindi ma-delete ang GPT, subukan ulit?";
+
+"Tap a star" = "Mag-tap ng star";
+
+"Share" = "Ibahagi";
+
+"Bad" = "Pangit";
+
+"Chats: %@" = "Mga Chat: %@";
+
+"Options" = "Mga opsyon";
+
+"Star rating" = "Star rating";
+
+"Report" = "I-report";
+
+"%@ chats" = "%@ chat";
+
+"Exceptional!" = "Napakahusay!";
+
+"Top Suggestions" = "Mga Nangungunang Suggestion";
+
+"Great" = "Magaling";
+
+"By %@" = "Ni %@";
+
+"Include my email **%@**" = "Isama ang email ko na **%@**";
+
+"Include my email" = "Isama ang email ko";
+
+"My GPTs" = "Mga GPT ko";
+
+"Add a note" = "Maglagay ng note";
+
+"Unable to load, retry?" = "Hindi ma-load, subukan ulit?";
+
+"How would you rate **%@**?" = "Paano mo ire-rate ang **%@**?";
+
+"Are you sure you want to delete this GPT?" = "Sigurado ka bang gusto mong i-delete ang GPT na ito?";
+
+"Loading more" = "Naglo-load ng higit pa";
+
+"Recently Used" = "Kamakailang Ginamit";
+
+"Visibility" = "Visibility";
+
+"Start Chat" = "Magsimula ng Chat";
+
+"Anyone with a link" = "Kahit sinong may link";
+
+"How would you rate this GPT?" = "Paano mo ire-rate ang GPT na ito?";
+
+"Remove GPT" = "Alisin ang GPT";
+
+"Untitled" = "Walang Pamagat";
+
+"Conversation starters" = "Mga pangpasimula ng pag-uusap";
+
+"No Results Found" = "Walang mga Nahanap na Resulta";
+
+"Searching…" = "Naghahanap...";
+
+"Top Picks" = "Mga Pangunahing Pinipili";
+
+"Search Public GPTs" = "Maghanap ng mga Public GPT";
+
+"See more" = "Tingnan ang higit pa";
+
+"Only me" = "Ako lang";
+
+"Explore" = "Mag-explore";
+
+"No Recents" = "Walang mga Kamakailan";
+
+"Editing Not Available" = "Hindi Available ang Pag-edit";
+
+"Edit" = "I-edit";
+
+"Are you sure you want to remove this GPT from your recents?" = "Sigurado ka bang gusto mong alisin ang GPT na ito sa mga kamakailan mo?";
+
+"By community builder" = "Ng community builder";
+
+"Get Plus to Chat" = "Kumuha ng Plus para Mag-chat";
+
+"Good" = "Mabuti";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "^[%lld stars](inflect: true), %@ ng ratings";
+

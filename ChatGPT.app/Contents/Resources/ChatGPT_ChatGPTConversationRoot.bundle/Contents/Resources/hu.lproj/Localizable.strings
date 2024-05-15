@@ -1,0 +1,34 @@
+"Deleted chat" = "Csevegés törölve";
+
+"Close menu" = "Menü bezárása";
+
+"Error reading message out loud" = "Hiba történt az üzenet felolvasása közben";
+
+"Voice unavailable" = "A hang nem áll rendelkezésre";
+
+"Open Settings" = "Beállítások megnyitása";
+
+"Deleting chat…" = "Csevegés törlése…";
+
+"Open Memory Settings" = "Memória beállításainak megnyitása";
+
+"Please make sure this feature is enabled for your account." = "Gondoskodj róla, hogy ez a funkció be legyen kacsolva a fiókodnál.";
+
+"Toggle Sidebar" = "Oldalsáv be-/kikapcsolása";
+
+"Thank you for your feedback!" = "Köszönjük a visszajelzésedet!";
+
+"Turn history on" = "Előzmények bekapcsolása";
+
+"Voice capabilities aren’t currently available with this GPT because it requires memory to be on." = "A hangalapú előzmények jelenleg nem állnak rendelkezésre ennél a GPT-nél, mert be kell hozzá kapcsolni a Memóriát.";
+
+"Deleting chat failed" = "Nem sikerült törölni a csevegést";
+
+"Voice capabilities aren’t currently available when history is turned off." = "A hangalapú funkciók jelenleg nem állnak rendelkezésre, ha az előzmények ki vannak kapcsolva.";
+
+"Memory off" = "Memória kikapcsolva";
+
+"There is a problem with your internet connection." = "Probléma merült fel az internetkapcsolattal.";
+
+"History off" = "Előzmények kikapcsolva";
+

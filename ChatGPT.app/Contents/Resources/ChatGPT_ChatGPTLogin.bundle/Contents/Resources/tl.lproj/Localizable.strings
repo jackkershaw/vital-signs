@@ -1,0 +1,70 @@
+"Let’s chit-chat" = "Magchikahan na tayo";
+
+"No authorization code found." = "Walang nahanap na code ng awtorisasyon.";
+
+"Let’s brainstorm" = "Mag-brainstorm na tayo";
+
+"There was a problem saving sign in info. Please try again." = "Nagkaproblema sa pagse-save ng impormasyon sa pag-sign in. Pakisubukan ulit.";
+
+"Let’s explore" = "Mag-explore na tayo";
+
+"Let’s collaborate" = "Makipag-collaborate na tayo";
+
+"Let’s invent" = "Mag-imbento na tayo";
+
+"Sign up with email" = "Mag-sign up gamit ang email";
+
+"There is a problem with the server. Please try again later." = "May problema sa server. Pakisubukan ulit mamaya.";
+
+"Sign in request was cancelled." = "Nakansela ang kahilingan sa pag-sign in";
+
+"Missing bundle id." = "Nawawalang bundle id.";
+
+"Let’s create" = "Gumawa na tayo";
+
+"Let’s go" = "Tara na";
+
+"No sign in info found. Please sign in." = "Walang nahanap na impormasyon sa pag-sign in. Mag-sign in.";
+
+"Invalid invite url." = "Hindi valid na invite url.";
+
+"Privacy Policy" = "Patakaran sa Privacy";
+
+"No refresh token found." = "Walang nahanap na refresh token.";
+
+"Continue with Google" = "Magpatuloy sa Google";
+
+"Let’s discover" = "Tumuklas na tayo";
+
+"Revoke failed." = "Hindi ma-revoke.";
+
+"There was a problem clearing sign in info. Please try again." = "Nagkaproblema sa pag-clear ng impormasyon sa pag-sign in. Pakisubukan ulit.";
+
+"Request cancelled." = "Nakansela ang kahilingan.";
+
+"Failed to validate id token." = "Hindi ma-validate ang id token.";
+
+"Store failed." = "Hindi ma-store.";
+
+"Renew failed." = "Hindi ma-renew.";
+
+"Sign in failed" = "Hindi makapag-sign in";
+
+"Unknown other error." = "Isa pang error na hindi alam.";
+
+"There was a problem. Please restart the app." = "Nagkaproblema. Paki-restart ang app.";
+
+"Terms of Use" = "Mga Tuntunin ng Paggamit";
+
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "Nagkaproblema sa pagkontak sa mga server ng Apple. Pakisubukan ulit. (%lld)";
+
+"Let’s design" = "Magdisenyo na tayo";
+
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "Nagkaproblema. Tiyaking tama ang petsa at oras ng iyong device, at ang 'Awtomatikong I-set' ay naka-toggle sa ilalim ng 'Mga Setting → Pangkalahatan → Petsa at Oras'.";
+
+"Unknown error." = "Hindi alam na error.";
+
+"PKCE not allowed." = "Hindi pinapayagan ang PKCE.";
+
+"Something went wrong." = "Nagkaproblema.";
+

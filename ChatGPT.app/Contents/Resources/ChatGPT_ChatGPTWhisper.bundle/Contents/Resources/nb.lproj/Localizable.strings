@@ -1,0 +1,34 @@
+"The recording was cancelled." = "Opptaket ble avbrutt.";
+
+"Recordings must be longer than 1s." = "Opptak må være lengre enn 1 sek.";
+
+"Tap to stop recording" = "Trykk for å stoppe opptak";
+
+"There was an unexpected error. %@" = "Det oppsto en uventet feil. %@";
+
+"Auto-Detect" = "Automatisk deteksjon";
+
+"Retry transcription" = "Prøv avskrift på nytt";
+
+"Converting to text…" = "Konverterer til tekst …";
+
+"To use Whisper, you need to allow ChatGPT to use your microphone." = "For å bruke Whisper, må du tillate at ChatGPT kan bruke mikrofonen din.";
+
+"Tap to record" = "Trykk for å ta opp";
+
+"An internet connection is required" = "Du må være koblet til internett";
+
+"Start new recording" = "Start nytt opptak";
+
+"There was a problem with the recording." = "Det oppsto et problem med opptaket.";
+
+"The recording could not be processed. Please check your internet connection. (%lld)" = "Opptaket kunne ikke behandles. Sjekk internettforbindelsen. (%lld)";
+
+"Click to record" = "Klikk for å ta opp";
+
+"Click to stop recording" = "Klikk for å stoppe opptak";
+
+"There was a problem starting the recording." = "Det oppsto et problem med å starte opptaket.";
+
+"Open Settings" = "Åpne innstillinger";
+

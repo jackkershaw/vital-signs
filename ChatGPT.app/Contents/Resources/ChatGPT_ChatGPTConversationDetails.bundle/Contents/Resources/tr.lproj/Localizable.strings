@@ -1,0 +1,52 @@
+"Manage which 3rd-party accounts can be accessed by %@." = "%@ tarafından hangi üçüncü taraf hesaplarına erişilebileceğini yönet.";
+
+"No connected accounts are available for this GPT." = "Bu GPT için bir bağlı hesap mevcut değil.";
+
+"This chat uses an older version of your custom instructions." = "Bu sohbet, özel talimatlarının daha eski bir sürümünü kullanıyor.";
+
+"Report GPT" = "GPT’yi Bildir";
+
+"Connected Accounts" = "Bağlı Hesaplar";
+
+"Capabilities" = "Yetenekler";
+
+"Description" = "Açıklama";
+
+"Custom instructions" = "Özel talimatlar";
+
+"Failed to update setting, retry?" = "Ayar güncellenemedi. Tekrar denensin mi?";
+
+"Model Info" = "Model Bilgisi";
+
+"Error loading action settings" = "Eylem ayarlarını yükleme hatası";
+
+"Ask" = "Sor";
+
+"Report" = "Bildir";
+
+"Privacy Policy" = "Gizlilik Politikası";
+
+"Select which websites are allowed to see data from conversations with %@." = "Hangi web sitelerinin, %@ ile yapılan konuşmalardaki verileri görmesine izin verileceğini seç.";
+
+"Confirm Logout" = "Oturumu Kapatmayı Onayla";
+
+"No actions are available for this GPT" = "Bu GPT için bir eylem mevcut değil.";
+
+"Actions" = "Eylemler";
+
+"Report Conversation" = "Konuşmayı Bildir";
+
+"Are you sure you want to log out of %@?" = "%@ oturumunu kapatmak istediğinden emin misin?";
+
+"Always" = "Her zaman";
+
+"None" = "Yok";
+
+"Error loading connected accounts.\n\n(%@)" = "Bağlı hesapları yükleme hatası.\n\n(%@)";
+
+"Privacy & Safety" = "Gizlilik ve Güvenlik";
+
+"Accounts" = "Hesaplar";
+
+"Please try again later.\n\n(%@)" = "Lütfen daha sonra tekrar dene.\n\n(%@)";
+

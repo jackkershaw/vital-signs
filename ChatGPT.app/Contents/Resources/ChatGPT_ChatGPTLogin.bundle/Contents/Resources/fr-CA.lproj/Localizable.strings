@@ -1,0 +1,70 @@
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "Un problème de communication avec les serveurs d’Apple est survenu. Veuillez réessayer. (%lld)";
+
+"Missing bundle id." = "ID d’ensemble manquant.";
+
+"No sign in info found. Please sign in." = "Aucune donnée de connexion trouvée. Connectez-vous.";
+
+"Let’s go" = "Allons-y";
+
+"Something went wrong." = "Un problème s’est produit.";
+
+"There was a problem clearing sign in info. Please try again." = "Un problème est survenu lors de l’effacement des données de connexion. Veuillez réessayer.";
+
+"Sign in request was cancelled." = "Demande de connexion annulée.";
+
+"Privacy Policy" = "Politique de confidentialité";
+
+"Sign up with email" = "S’inscrire avec une adresse courriel";
+
+"Let’s explore" = "Explorons";
+
+"Let’s collaborate" = "Collaborons";
+
+"No refresh token found." = "Jeton d’actualisation introuvable.";
+
+"Request cancelled." = "Demande annulée.";
+
+"Let’s create" = "Créons";
+
+"Failed to validate id token." = "Échec de validation du jeton d’ID.";
+
+"Unknown other error." = "Autre erreur inconnue.";
+
+"PKCE not allowed." = "PKCE interdite.";
+
+"No authorization code found." = "Code d’autorisation introuvable.";
+
+"Continue with Google" = "Continuer avec Google";
+
+"Let’s brainstorm" = "Faisons un remue-méninges";
+
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "Un problème est survenu. Assurez-vous que la date et l’heure de l’appareil sont exactes et que l’option Réglage automatique est activée sous Paramètres → Général → Date et heure.";
+
+"Unknown error." = "Erreur inconnue.";
+
+"Let’s chit-chat" = "Bavardons";
+
+"Renew failed." = "Échec de renouvellement.";
+
+"There was a problem saving sign in info. Please try again." = "Un problème d’enregistrement des données de connexion est survenu. Veuillez réessayer.";
+
+"Sign in failed" = "Échec de connexion";
+
+"Store failed." = "Échec de stockage.";
+
+"Let’s invent" = "Inventons";
+
+"There is a problem with the server. Please try again later." = "Le serveur a rencontré un problème. Veuillez réessayer plus tard.";
+
+"Revoke failed." = "Révocation annulée.";
+
+"Invalid invite url." = "URL d’invitation invalide.";
+
+"Let’s discover" = "Découvrons";
+
+"There was a problem. Please restart the app." = "Un problème est survenu. Veuillez redémarrer l’appli.";
+
+"Terms of Use" = "Conditions générales d’utilisation";
+
+"Let’s design" = "Concevons";
+

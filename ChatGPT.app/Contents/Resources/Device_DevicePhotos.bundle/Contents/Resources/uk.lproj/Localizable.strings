@@ -1,0 +1,16 @@
+"Expected a file URL, but received a non-file URL" = "Очікувалася URL-адреса файлу, однак отримано URL-адресу іншого ресурсу";
+
+"Photos Access Denied" = "Доступ до фотографій заборонено";
+
+"Enable photo library access in Settings to save photos." = "Увімкніть доступ до бібліотеки фотографій у налаштуваннях, щоб зберігати фотографії.";
+
+"Not authorized" = "Немає дозволу";
+
+"Image conversion failed" = "Не вдалося перетворити зображення";
+
+"Please try again later.\n\n(%@)" = "Повторіть спробу пізніше.\n\n(%@)";
+
+"Expected a non-file URL, but received a file URL" = "Очікувалася URL-адреса ресурсу, що відрізняється від файлу, однак отримано URL-адресу файлу";
+
+"Failed to Save Image" = "Не вдалося зберегти зображення";
+

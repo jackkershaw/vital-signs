@@ -1,0 +1,82 @@
+"Edit image" = "Editar imagem";
+
+"Failed, retry?" = "Falhou, tentar novamente?";
+
+"Attach files" = "Anexar ficheiros";
+
+"Edit selection" = "Editar seleção";
+
+"If you cancel the text conversion you will lose the recording." = "Se cancelar a conversão para texto, perderá a gravação.";
+
+"Remove attachment" = "Retirar anexo";
+
+"Editing message" = "A editar mensagem";
+
+"You need %@ to continue this chat because it has attachments." = "You need %@ to continue this chat because it has attachments.";
+
+"Message ChatGPT" = "Mensagem ChatGPT";
+
+"New Message" = "Nova mensagem";
+
+"You need %@ to continue this chat because this GPT requires it." = "You need %@ to continue this chat because this GPT requires it.";
+
+"File upload failed." = "O carregamento do ficheiro falhou.";
+
+"Confirm" = "Confirmar";
+
+"Image upload failed." = "O carregamento da imagem falhou.";
+
+"Message" = "Mensagem";
+
+"Stop Generating" = "Parar de gerar";
+
+"To continue, you’ll need to replace the current attachment." = "Para continuar, terá de substituir o anexo atual.";
+
+"This chat uses an older version of your custom instructions" = "Este chat utiliza uma versão mais antiga das suas instruções personalizadas";
+
+"You need %@ to continue this chat because it uses audio." = "You need %@ to continue this chat because it uses audio.";
+
+"You've reached your %@ limit." = "You've reached your %@ limit.";
+
+"Attach photos" = "Anexar fotografias";
+
+"Image attachment failed." = "Falha ao anexar a imagem.";
+
+"You need %@ to continue this chat because it uses tools." = "You need %@ to continue this chat because it uses tools.";
+
+"Continue Generating" = "Continuar a gerar";
+
+"This chat is currently unavailable" = "This chat is currently unavailable";
+
+"Stop" = "Parar";
+
+"Microphone access required" = "Microphone access required";
+
+"Scroll to bottom" = "Deslocar para o fundo";
+
+"Switch to Voice mode" = "Trocar para modo Voz";
+
+"Fullscreen" = "Ecrã inteiro";
+
+"Are you sure?" = "Confirmar?";
+
+"Dictation" = "Ditado";
+
+"Replace" = "Substituir";
+
+"Upload File" = "Carregar ficheiro";
+
+"Get Plus to Chat" = "Obtenha o Plus para Conversar";
+
+"Replace attachment?" = "Substituir anexo?";
+
+"Send" = "Enviar";
+
+"No connection" = "No connection";
+
+"Attached image" = "Imagem anexada";
+
+"You need %@ to continue this chat because it has images." = "You need %@ to continue this chat because it has images.";
+
+"Shows the voice recording interface and begins recording" = "Mostra a interface de gravação de voz e inicia a gravação";
+

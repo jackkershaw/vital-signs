@@ -1,0 +1,34 @@
+"Memory off" = "Հիշողությունն անջատված է";
+
+"Voice unavailable" = "Ձայնայինը հասանելի չէ";
+
+"Deleting chat failed" = "Չհաջողվեց ջնջել զրույցը";
+
+"Voice capabilities aren’t currently available with this GPT because it requires memory to be on." = "Ձայնային հնարավորությունները այս պահին հասանելի չեն այս GPT-ի հետ․ դրա համար պետք է հիշողությունը միացված լինի։";
+
+"Turn history on" = "Միացնել պատմությունը";
+
+"Open Settings" = "Բացել կարգավորումները";
+
+"Deleting chat…" = "Զրույցը ջնջվում է…";
+
+"Deleted chat" = "Զրույցը ջնջվել է";
+
+"Open Memory Settings" = "Բացել հիշողության կարգավորումները";
+
+"Thank you for your feedback!" = "Շնորհակալություն ձեր կարծիքի համար։";
+
+"There is a problem with your internet connection." = "Խնդիր կա ձեր համացանցի կապակցման հետ։";
+
+"Toggle Sidebar" = "Փոխարկել կողագոտին";
+
+"Voice capabilities aren’t currently available when history is turned off." = "Ձայնային հնարավորությունները այս պահին հասանելի չեն, երբ պատմությունն անջատված է։";
+
+"Close menu" = "Փակել ընտրացանկը";
+
+"History off" = "Պատմությունն անջատված է";
+
+"Error reading message out loud" = "Սխալ առաջացավ հաղորդագրությունը բարձրաձայն ընթերցելիս";
+
+"Please make sure this feature is enabled for your account." = "Համոզվեք, որ այս հատկությունը միացված է ձեր հաշվի համար։";
+

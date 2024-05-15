@@ -1,0 +1,40 @@
+"As you chat with %@, the details and preferences it remembers will be shown here." = "Lorsque vous discutez avec %@, les détails et les préférences qu'il garde en mémoire sont affichés ici.";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ oubliera tout ce qu'il a conservé de vos chats. Cette action est définitive.";
+
+"Error loading memories" = "Erreur lors du chargement des éléments mémorisés";
+
+"Could not reset memory. Please try again later." = "Impossible de réinitialiser la mémoire. Veuillez réessayer plus tard.";
+
+"Select a GPT" = "Sélectionner un GPT";
+
+"No memories" = "Aucun élément mémorisé";
+
+"Open menu to select which GPT to show memories for" = "Ouvrir le menu afin de sélectionner le GPT pour lequel afficher les éléments mémorisés";
+
+"Clear this GPT's memory" = "Effacer la mémoire de ce GPT";
+
+"Turn On" = "Activer";
+
+"Clear Memory" = "Effacer la mémoire";
+
+"Learn More" = "En savoir plus";
+
+"Error deleting memory" = "Erreur lors de la suppression de la mémoire";
+
+"Clear ChatGPT’s memory" = "Effacer la mémoire de ChatGPT";
+
+"%@'s memories" = "Éléments mémorisés de %@";
+
+"Memory" = "Mémoire";
+
+"Search memories" = "Rechercher dans les éléments mémorisés";
+
+"Error loading GPTs" = "Erreur lors du chargement des GPT";
+
+"%@ won't use or create memories" = "%@ n’utilisera ni ne créera d’éléments mémorisés";
+
+"Are you sure?" = "Êtes-vous sûr ?";
+
+"Memory is disabled" = "Mémoire désactivée";
+

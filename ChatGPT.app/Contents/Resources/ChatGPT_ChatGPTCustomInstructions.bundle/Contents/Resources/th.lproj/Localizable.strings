@@ -1,0 +1,52 @@
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "แน่ใจหรือว่าคุณต้องการจะละทิ้งการเปลี่ยนแปลงเหล่านี้ การเปลี่ยนแปลงใดที่คุณทำจะหายไปทั้งหมด";
+
+"Save" = "บันทึก";
+
+"Show tips" = "แสดงคำแนะนำ";
+
+"Unsaved changes" = "การเปลี่ยนแปลงที่ยังไม่บันทึก";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "คำสั่งแบบกำหนดเองจะนำมาใช้กับแชตใหม่ทั้งหมด [เรียนรู้เพิ่มเติม](chat-preferences-disclosures)";
+
+"Saving Custom Instructions" = "กำลังบันทึกคำสั่งแบบกำหนดเอง";
+
+"Browse the internet to find answers" = "เลือกดูเนื้อหาในอินเทอร์เน็ตเพื่อหาคำตอบ";
+
+"Discard changes" = "ละทิ้งการเปลี่ยนแปลง";
+
+"Error saving custom instructions" = "เกิดข้อผิดพลาดในการบันทึกคำสั่งแบบกำหนดเอง";
+
+"Generate images using DALL•E" = "สร้างภาพโดยใช้ DALL•E";
+
+"DALL•E" = "DALL·E";
+
+"Keep editing" = "แก้ไขต่อไป";
+
+"Thought starters" = "ตัวช่วยตั้งต้นความคิด";
+
+"An unknown error occurred. Please try again later" = "เกิดข้อผิดพลาดที่ไม่รู้จัก โปรดลองอีกครั้งในภายหลัง";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "คุณอยากให้ ChatGPT รู้อะไรบ้างเกี่ยวกับคุณเพื่อให้ได้คำตอบที่ดีขึ้น";
+
+"Execute code using Code Interpreter" = "ดำเนินการตามโค้ดโดยใช้เครื่องมือแปลโค้ด";
+
+"Error loading customizations. Please try again later." = "เกิดข้อผิดพลาดในการโหลดค่าการปรับแต่งแบบกำหนดเอง โปรดลองอีกครั้งในภายหลัง";
+
+"Browsing" = "การเลือกดู";
+
+"Enable for new chats" = "เปิดการใช้งานสำหรับแชตใหม่";
+
+"Error updating state for customizations. Please try again later." = "เกิดข้อผิดพลาดในการอัปเดตสถานะสำหรับค่าการปรับแต่งแบบกำหนดเอง โปรดลองอีกครั้งในภายหลัง";
+
+"Choose which tools can be used with GPT-4." = "เลือกเครื่องมือที่จะนำมาใช้กับ GPT-4";
+
+"Code" = "รหัส";
+
+"How would you like ChatGPT to respond?" = "คุณอยากให้ ChatGPT ตอบสนองอย่างไร";
+
+"Custom Instructions Enabled or Disabled" = "เปิดหรือปิดการใช้งานคำสั่งแบบกำหนดเอง";
+
+"GPT-4 Capabilities" = "คุณสมบัติของ GPT-4";
+
+"Customize ChatGPT" = "ปรับแต่ง ChatGPT";
+

@@ -1,0 +1,14 @@
+"Checking system health…" = "सिस्टम हेल्थ तपासत आहे... ";
+
+"Checking system health…" = "सिस्टम हेल्थ तपासत आहे...";
+
+"Download the beta build or contact [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W) if you're having issues." = "बीटा बिल्ड डाउनलोड करा किंवा तुम्हाला समस्या येत असल्यास संपर्क [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W) साधा.";
+
+"Error loading account information. Please try again later." = "खाते माहिती लोड करताना त्रुटी. कृपया पुन्हा प्रयत्न करा.";
+
+"  %@\n\n  OpenAI employees are required to use internal builds to access ChatGPT.\n" = "  %@ \n\n OpenAI कर्मचाऱ्यांना ChatGPT मध्ये प्रवेश करण्यासाठी अंतर्गत बिल्ड वापरणे आवश्यक आहे.";
+
+"Loading account…" = "खाते लोड करत आहे...";
+
+"Check your OpenAI e-mail for an invite titled \"OpenAI has invited you to test ChatGPT\" or contact [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A) to be added." = "\"OpenAI ने तुम्हाला ChatGPT चाचणी करण्यासाठी आमंत्रित केले आहे\" किंवा जोडण्यासाठी संपर्कासाठी[#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A) तुमचा OpenAI ई-मेल तपासा.";
+

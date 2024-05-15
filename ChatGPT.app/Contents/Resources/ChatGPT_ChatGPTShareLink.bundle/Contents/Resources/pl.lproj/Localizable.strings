@@ -1,0 +1,50 @@
+"Options" = "Opcje";
+
+"Missing Name" = "Brak nazwy";
+
+"Edit title" = "Edytuj tytuł";
+
+"There was an error preparing the conversation. Please try again. %@" = "Wystąpił błąd podczas przygotowywania konwersacji. Spróbuj ponownie. %@";
+
+"Shared Link Date" = "Data udostępnionego linku";
+
+"Update title" = "Zaktualizuj tytuł";
+
+"Recipients won't be able to view images." = "Odbiorcy nie będą widzieć obrazów.";
+
+"Shared link deleted." = "Usunięto udostępniony link.";
+
+"Help and FAQ" = "Pomoc i często zadawane pytania";
+
+"Shared Link Owner" = "Właściciel udostępnionego linku";
+
+"Share link to chat" = "Udostępnij link do czatu";
+
+"Delete link" = "Usuń link";
+
+"Share anonymously" = "Udostępnij anonimowo";
+
+"There was an error sharing the conversation. Please try again. %@" = "Wystąpił błąd podczas udostępniania konwersacji. Spróbuj ponownie. %@";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "Czy na pewno chcesz usunąć udostępniony link „%@”? Zawsze możesz utworzyć nowy link, ponownie udostępniając ten czat.";
+
+"Share your name" = "Udostępnij swoją nazwę";
+
+"Your custom instructions won’t be shared with viewers." = "Twoje instrukcje niestandardowe nie zostaną udostępnione wyświetlającym.";
+
+"The share link is invalid. %@" = "Udostępniony link jest niepoprawny. %@";
+
+"Share link" = "Udostępnij link";
+
+"There was an error deleting your shared link." = "Wystąpił błąd podczas usuwania udostępnionego linku.";
+
+"The conversation has no messages." = "Konwersacja nie zawiera żadnych wiadomości.";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "Wiadomości wysłane lub odebrane po udostępnieniu linku nie będą udostępniane. Każda osoba z adresem URL będzie mogła wyświetlić Twój udostępniany czat.";
+
+"Title" = "Tytuł";
+
+"Shared Link Title" = "Tytuł udostępnionego linku";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "Już udostępniono link do tego czatu. Jeśli chcesz uwzględnić nowe wiadomości, usuń ten link i ponownie udostępnij czat.";
+

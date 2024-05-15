@@ -1,0 +1,70 @@
+"The file was not found." = "Файл олдсонгүй.";
+
+"Next" = "Дараах";
+
+"Undo" = "Үйлдэл буцаах";
+
+"Redo" = "Үйлдэл давтах";
+
+"Flash off, tap to toggle to auto" = "Камерийн гэрэл унтраах, тээглүүр автомат болгох бол дар";
+
+"Camera Access Denied" = "Камерт нэвтрэхийг хориглосон";
+
+"Copied" = "Хуулсан";
+
+"More" = "Дэлгэрэнгүй";
+
+"Annotate by drawing on the image" = "Зурган дээр зурж тэмдэглэл бичээрэй";
+
+"Prompt" = "Сануулга";
+
+"Front camera selected, tap to toggle to rear" = "Урд камер сонгогдсон байна. Хойд камер луу шилжих тээглүүр дар";
+
+"Select camera device" = "Камерын төхөөрөмж сонгох";
+
+"Rear camera selected, tap to toggle to front" = "Хойд камер сонгогдсон байна. Урд камер луу шилжих тээглүүр дар";
+
+"Download complete" = "Татаж авах дууслаа";
+
+"Flash auto, tap to toggle on" = "Камерийн гэрэл автомат, тээглүүр асаах дар";
+
+"Thank you for your feedback!" = "Санал хүсэлт өгсөнд баярлалаа!";
+
+"Back" = "Буцах";
+
+"This file has expired." = "Энэ файлын хугацаа дууссан байна.";
+
+"Image saved" = "Зураг хадгалагдсан";
+
+"Flash on, tap to toggle off" = "Камерийн гэрэл асаах, тээглүүр унтраах дар";
+
+"Bad response" = "Муу хариулт";
+
+"The file download failed. Please try again later." = "Файл татан авалт амжилтгүй. Дараа дахин оролдоно уу.";
+
+"Camera Access Restricted" = "Камерт нэвтрэхийг хязгаарласан";
+
+"Enable camera access in Settings to take photos." = "Зураг авахын тулд Тохиргоо хэсэгт камерт нэвтрэх эрхийг идэвхжүүлнэ үү.";
+
+"Failed to load image" = "Зургийг ачаалж чадсангүй";
+
+"Select" = "Сонгох";
+
+"This file is not available." = "Энэ файлыг ашиглах боломжгүй.";
+
+"Annotate" = "Тэмдэглэл бичих";
+
+"Select an area to edit" = "Засах талбай сонгох";
+
+"Dismiss" = "Хаах";
+
+"View prompt" = "Сануулга үзэх";
+
+"Camera access is restricted on this device. Please check your parental control or system settings." = "Уг төхөөрөмж дээр камерт нэвтрэхийг хязгаарласан байна. Эцэг эхийн хяналт эсвэл системийн тохиргоог шалгана уу.";
+
+"Learn more" = "Нэмэлт мэдээлэл авах";
+
+"Pick photo" = "Зураг сонгох";
+
+"Good response" = "Сайн хариулт";
+

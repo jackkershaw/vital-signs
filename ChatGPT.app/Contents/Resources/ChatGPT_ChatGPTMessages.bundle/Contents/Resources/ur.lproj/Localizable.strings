@@ -1,0 +1,74 @@
+"Selection" = "انتخاب";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "^[%lldمنسلکات ](inflect: true) اپ لوڈ کر رہا ہے۔۔۔";
+
+"Always allow" = "ہمیشہ اجازت دیں";
+
+"File unavailable" = "فائل دستیاب نہیں ہے";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "ہمارے سب سے قابل ماڈل GPT-4 کے ساتھ لکھا گیا جو ChatGPT Plus پر دستیاب ہے";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT فائلوں کو صرف ایک محدود وقت کے لیے رکھتا ہے۔ ایک نئی گفتگو شروع کریں یا اپنی گفتگو جاری رکھنے کے لیے ایک نئی فائل اپ لوڈ کریں۔";
+
+"Your most recent request failed. Please retry!" = "آپ کی حالیہ درخواست ناکام ہوگئی۔ براہ کرم دوبارہ کوشش کریں!";
+
+"#%lld row" = "#%lld قطار";
+
+"Save File As…" = "فائل کو بطور محفوظ کریں۔۔۔";
+
+"Continue Generating" = "بنانا جاری رکھیں";
+
+"Memories updated" = "میموریز اپ ڈیٹ ہو گئیں";
+
+"How would you rate this GPT?" = "آپ اس GPT کو کیا درجہ دیں گے؟";
+
+"Loading…" = "لوڈنگ ہو رہی ہے۔۔۔";
+
+"Decline" = "مسترد کریں";
+
+"Response rating failed." = "جواب کی درجہ بندی نہیں ہوئی۔";
+
+"Sign in to %@" = "%@ پر سائن ان کریں";
+
+"Regenerate" = "دوبارہ بنائیں";
+
+"A GPT" = "A GPT";
+
+"Read Aloud" = "بلند آواز سے پڑھیں";
+
+"Bad" = "برا";
+
+"Stop Generating" = "بنانا بند کریں";
+
+"File expired" = "فائل کی میعاد ختم ہو گئی ہے";
+
+"Edit" = "ترمیم کریں";
+
+"You" = "آپ";
+
+"Please try again later.%@" = "براہ کرم کچھ دیر بعد دوبارہ کوشش کریں۔ %@";
+
+"Quick Look" = "Quick Look";
+
+"Upgraded response" = "اپ گریڈ شدہ جواب";
+
+"Failed, retry?" = "نہیں ہوا، کیا دوبارہ کوشش کریں؟";
+
+"Select Text" = "متن منتخب کریں";
+
+"Analysis" = "تجزیہ";
+
+"Manage memories" = "میموریز کا انتظام کریں";
+
+"Deny" = "انکار کریں";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "یہ فائل اب دستیاب نہیں ہے۔ ایک نئی گفتگو شروع کریں یا اپنی گفتگو جاری رکھنے کے لیے ایک نئی فائل اپ لوڈ کریں۔";
+
+"\"%@\" column" = "\"%@\" کالم";
+
+"Change Model" = "ماڈل تبدیل کریں";
+
+"Memory updated" = "میموری اپ ڈیٹ ہوگئی";
+
+"\"%@\" cell" = "\"%@\" سیل";
+

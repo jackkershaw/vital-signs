@@ -1,0 +1,50 @@
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "แน่ใจหรือไม่ว่าคุณต้องการลบลิงก์ที่แบ่งปัน \"%@\" คุณสามารถสร้างลิงก์ใหม่ได้เสมอด้วยการแบ่งปันแชตนี้อีกครั้ง";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "ข้อความที่คุณส่งหรือรับหลังจากแบ่งปันลิงก์จะไม่มีการเปิดเผย ใครก็ตามที่มี URL จะสามารถดูแชตที่แบ่งปันได้";
+
+"Your custom instructions won’t be shared with viewers." = "จะไม่มีการแบ่งปันคำสั่งแบบกำหนดเองของคุณกับผู้ดู";
+
+"Options" = "ตัวเลือก";
+
+"Share your name" = "แบ่งปันชื่อของคุณ";
+
+"Title" = "หัวข้อ";
+
+"The conversation has no messages." = "บทสนทนานี้ไม่มีข้อความ";
+
+"Edit title" = "แก้ไขหัวข้อ";
+
+"Shared Link Date" = "วันที่ของลิงก์ที่แบ่งปัน";
+
+"Recipients won't be able to view images." = "ผู้รับจะไม่สามารถดูภาพได้";
+
+"Shared link deleted." = "ลบลิงก์ที่แบ่งปันแล้ว";
+
+"Share link" = "แบ่งปันลิงก์";
+
+"Share anonymously" = "แบ่งปันแบบไม่ระบุชื่อ";
+
+"There was an error deleting your shared link." = "เกิดข้อผิดพลาดในการลบลิงก์ที่คุณแบ่งปัน";
+
+"Delete link" = "ลบลิงก์";
+
+"There was an error preparing the conversation. Please try again. %@" = "เกิดข้อผิดพลาดในการเตรียมบทสนทนา โปรดลองอีกครั้ง %@";
+
+"Help and FAQ" = "การช่วยเหลือและคำถามที่พบบ่อย";
+
+"Shared Link Owner" = "เจ้าของลิงก์ที่แบ่งปัน";
+
+"Update title" = "อัปเดตหัวข้อ";
+
+"The share link is invalid. %@" = "ลิงก์ที่แบ่งปันไม่สามารถใช้งานได้ %@";
+
+"Shared Link Title" = "ชื่อลิงก์ที่แบ่งปัน";
+
+"There was an error sharing the conversation. Please try again. %@" = "เกิดข้อผิดพลาดในการแบ่งปันบทสนทนา โปรดลองอีกครั้ง %@";
+
+"Share link to chat" = "แบ่งปันลิงก์ไปที่แชต";
+
+"Missing Name" = "ไม่มีชื่อ";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "คุณได้แบ่งปันลิงก์ไปที่แชตนี้แล้ว หากคุณต้องการเพิ่มข้อความใหม่ด้วย ให้ลบลิงก์นี้แล้วแบ่งปันแชตอีกครั้ง";
+

@@ -1,0 +1,52 @@
+"Connected Accounts" = "जोडलेली खाती";
+
+"None" = "काहीही नाही";
+
+"Capabilities" = "क्षमता";
+
+"Manage which 3rd-party accounts can be accessed by %@." = " द्वारे कोणत्या तृतीय पक्ष खात्यांमध्ये प्रवेश केला जाऊ शकतो हे व्यवस्थापित करा %@.";
+
+"Custom instructions" = "सानुकूल सूचना";
+
+"Report" = "अहवाल";
+
+"Privacy Policy" = "गोपनीयता धोरण";
+
+"Description" = "वर्णन";
+
+"Report Conversation" = "संभाषणाचा अहवाल द्या";
+
+"Model Info" = "मॉडेल माहिती";
+
+"Accounts" = "खाती";
+
+"Error loading connected accounts.\n\n(%@)" = "कनेक्ट केलेली खाती लोड करताना त्रुटी.\n\n(%@)";
+
+"No actions are available for this GPT" = "या GPT साठी कोणतीही कृती उपलब्ध नाही";
+
+"Are you sure you want to log out of %@?" = "तुमची खात्री आहे की तुम्ही लॉग आउट करू इच्छिता%@?";
+
+"Actions" = "क्रिया";
+
+"Privacy & Safety" = "गोपनीयता आणि सुरक्षितता";
+
+"Report GPT" = "GPT अहवाल द्या";
+
+"No connected accounts are available for this GPT." = "या GPT साठी कोणतीही कनेक्ट केलेली खाती उपलब्ध नाहीत.";
+
+"Failed to update setting, retry?" = "सेटिंग्ज अद्यतन करण्यात अयशस्वी,पुन्हा प्रयत्न करा.";
+
+"Error loading action settings" = "क्रिया सेटिंग्ज लोड करताना त्रुटी";
+
+"Select which websites are allowed to see data from conversations with %@." = "सोबतच्या संभाषणांमधून डेटा पाहण्यासाठी कोणत्या वेबसाइटना परवानगी आहे ते निवडा %@.";
+
+"Please try again later.\n\n(%@)" = "कृपया नंतर पुन्हा प्रयत्न करा. \n\n(%@)";
+
+"Always" = "नेहमी";
+
+"This chat uses an older version of your custom instructions." = "हे चॅट तुमच्या सानुकूल सूचनांची जुनी आवृत्ती वापरते";
+
+"Confirm Logout" = "लॉगआउटची पुष्टी करा";
+
+"Ask" = "विचारा";
+

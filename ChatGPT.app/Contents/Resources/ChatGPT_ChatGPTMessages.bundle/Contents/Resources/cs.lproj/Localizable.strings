@@ -1,0 +1,74 @@
+"Decline" = "Odmítnout";
+
+"Manage memories" = "Spravovat paměti";
+
+"Change Model" = "Změnit model";
+
+"Stop Generating" = "Zastavit generování";
+
+"Deny" = "Zamítnout";
+
+"File expired" = "Platnost souboru vypršela";
+
+"Failed, retry?" = "Nepodařilo se, zkusit znovu?";
+
+"Always allow" = "Vždy povolit";
+
+"Memory updated" = "Paměť byla aktualizována";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Tento soubor již není k dispozici. Chceš-li pokračovat v konverzaci, začni znova nebo nahraj nový soubor.";
+
+"Read Aloud" = "Přečíst nahlas";
+
+"How would you rate this GPT?" = "Jak bys ohodnotil tento GPT?";
+
+"Analysis" = "Analýza";
+
+"Quick Look" = "Rychlý pohled";
+
+"Selection" = "Výběr";
+
+"\"%@\" cell" = "„%@“ buňka";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Napsáno pomocí našeho nejschopnějšího modelu, GPT-4, k dispozici na ChatGPT Plus";
+
+"Response rating failed." = "Hodnocení odpovědi se nezdařilo.";
+
+"Regenerate" = "Vytvořit znovu";
+
+"Continue Generating" = "Pokračovat v generování";
+
+"Memories updated" = "Paměti byly aktualizovány";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT uchovává soubory pouze po omezenou dobu. Chceš-li pokračovat v konverzaci, začni znova nebo nahraj nový soubor.";
+
+"File unavailable" = "Soubor není k dispozici";
+
+"#%lld row" = "#%lld řádek";
+
+"Loading…" = "Načítání...";
+
+"Upgraded response" = "Upgradovaná odpověď";
+
+"Sign in to %@" = "Přihlásit se k %@";
+
+"A GPT" = "GPT";
+
+"Select Text" = "Vybrat text";
+
+"Please try again later.%@" = "Zkus to znovu později.%@";
+
+"You" = "Ty";
+
+"Bad" = "Špatně";
+
+"Your most recent request failed. Please retry!" = "Tvůj poslední požadavek se nezdařil. Zkus to znovu!";
+
+"Save File As…" = "Uložit soubor jako…";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "Nahrávání ^[%lld příloh](inflect: true)…";
+
+"\"%@\" column" = "„%@“ sloupec";
+
+"Edit" = "Upravit";
+

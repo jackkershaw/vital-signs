@@ -1,0 +1,50 @@
+"Shared Link Title" = "શેર કરેલ લિંક શીર્ષક";
+
+"There was an error deleting your shared link." = "તમારી શેર કરેલી લિંક કાઢી નાખવામાં એરર આવી હતી.";
+
+"Share link to chat" = "ચેટ કરવા માટે લિંક શેર કરો";
+
+"There was an error preparing the conversation. Please try again. %@" = "વાર્તાલાપ તૈયાર કરવામાં એરર આવી હતી. કૃપા કરીને ફરીથી પ્રયતન કરો. %@";
+
+"Missing Name" = "નામ ખૂટે છે";
+
+"Your custom instructions won’t be shared with viewers." = "તમારી કસ્ટમ સૂચનાઓ દર્શકો સાથે શેર કરવામાં આવશે નહીં.";
+
+"Title" = "શીર્ષક";
+
+"Options" = "વિકલ્પો";
+
+"Edit title" = "શીર્ષક એડિટ કરો";
+
+"Share link" = "લિંક શેર કરો";
+
+"Help and FAQ" = "મદદ અને FAQ";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "તમે પહેલેથી જ આ ચેટની લિંક શેર કરી છે. જો તમે નવા સંદેશા શામેલ કરવા માંગતા હો, તો આ લિંકને કાઢી નાખો અને તમારી ચેટ ફરીથી શેર કરો.";
+
+"Share your name" = "તમારું નામ શેર કરો";
+
+"There was an error sharing the conversation. Please try again. %@" = "વાતચીત શેર કરવામાં એરર આવી હતી. કૃપા કરીને ફરીથી પ્રયતન કરો. %@";
+
+"Shared link deleted." = "શેર કરેલી લિંક કાઢી નાખી.";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "શું તમે ખરેખર શેર કરેલ લિંક &quot;%@&quot; ને કાઢી નાખવા માંગો છો? તમે હંમેશા આ ચેટને ફરીથી શેર કરીને નવી લિંક બનાવી શકો છો.";
+
+"The share link is invalid. %@" = "શેર લિંક અમાન્ય છે. %@";
+
+"Delete link" = "લિંક કાઢી નાખો";
+
+"Update title" = "શીર્ષક અપડેટ કરો";
+
+"Share anonymously" = "અજ્ઞાત રૂપે શેર કરો";
+
+"Shared Link Date" = "શેર કરેલ લિંક તારીખ";
+
+"Shared Link Owner" = "શેર કરેલ લિંક માલિક";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "તમારી લિંક શેર કર્યા પછી મોકલેલા અથવા પ્રાપ્ત થયેલા સંદેશાઓ શેર કરવામાં આવશે નહીં. URL ધરાવનાર કોઈપણ તમારી શેર કરેલી ચેટ જોઈ શકશે.";
+
+"Recipients won't be able to view images." = "પ્રાપ્તકર્તાઓ ઇમેજઈમેજીસ જોવા માટે સમર્થ હશે નહીં.";
+
+"The conversation has no messages." = "વાતચીતમાં કોઈ સંદેશા નથી.";
+

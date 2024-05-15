@@ -1,0 +1,18 @@
+"There is a problem with your request. (%lld, %@)" = "Vandamál kom upp í tengslum við beiðnina þína. (%lld, %@)";
+
+"This content may violate our content policy. Please try again with different content." = "Þetta efni kann að brjóta gegn efnisstefnu okkar. Reyndu aftur með öðru efni.";
+
+"Unsupported content" = "Óstutt efni";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "Vandamál eru á netþjóninum. Reyndu aftur síðar. (%lld, %@)";
+
+"The server is overloaded. Please try again later." = "Of mikið álag er á netþjóninum. Reyndu aftur síðar.";
+
+"System error" = "Kerfisvilla";
+
+"You've made too many requests. Please try again later. (429, %@)" = "Þú hefur sent inn of margar beiðnir. Reyndu aftur síðar. (429, %@)";
+
+"The response is invalid. Please try again." = "Svarið er ógilt. Reyndu aftur.";
+
+"There is a problem with your account info. Please try signing out then in." = "Vandamál kom upp í tengslum við reikningsupplýsingarnar þínar. Prófaðu að skrá þig út og svo aftur inn.";
+

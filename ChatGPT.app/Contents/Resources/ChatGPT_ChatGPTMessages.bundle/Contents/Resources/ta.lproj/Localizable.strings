@@ -1,0 +1,80 @@
+"Continue Generating" = "உருவாக்குவதைத் தொடரவும்";
+
+"Manage memories" = "நினைவகத்தை நிர்வகிக்கவும்";
+
+"Upgraded response" = "மேம்படுத்தப்பட்ட பதில்";
+
+"Always allow" = "எப்போதும் அனுமதிக்கவும்";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "ChatGPT Plus -இல் கிடைக்கும் எங்கள் மிகவும் திறமையான மாடலான GPT-4 -உடன் எழுதப்பட்டது";
+
+"Your most recent request failed. Please retry!" = "உங்கள் சமீபத்திய கோரிக்கை தோல்வியடைந்தது. மீண்டும் முயற்சி செய்யவும்!";
+
+"Edit" = "திருத்தவும்";
+
+"Analysis" = "பகுப்பாய்வு";
+
+"Sign in to %@" = "%@ -இல் உள்நுழையவும்";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT குறிப்பிட்ட காலத்திற்கு மட்டுமே கோப்புகளை வைத்திருக்கும். உங்கள் உரையாடலைத் தொடர புதிய உரையாடலைத் தொடங்கவும் அல்லது ஒரு புதிய கோப்பைப் பதிவேற்றவும்.";
+
+"File expired" = "கோப்பு காலாவதியாகிவிட்டது";
+
+"Decline" = "நிராகரிக்கவும்";
+
+"Memory updated" = "நினைவகம் இற்றைப்படுத்தப்பட்டது";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "^[%lld இணைப்புகளையும் ](inflect: true) பதிவேற்றுகிறது…";
+
+"\"%@\" cell" = "“%@” கட்டம்";
+
+"Regenerate" = "மீண்டும் உருவாக்கவும்";
+
+"Bad" = "மோசமானது";
+
+"Response rating failed." = "பதில் மதிப்பீடு தோல்வியடைந்தது.";
+
+"Change Model" = "மாதிரியை மாற்றவும்";
+
+"Manage memories" = "நினைவகங்களை நிர்வகிக்கவும்";
+
+"Selection" = "தேர்வு";
+
+"Save File As…" = "இவ்வாறு கோப்பை சேமியுங்கள்…";
+
+"A GPT" = "ஒரு GPT";
+
+"You" = "நீங்கள்";
+
+"Memories updated" = "நினைவகங்கள் இற்றைப்படுத்தப்பட்டது";
+
+"How would you rate this GPT?" = "இந்த GPT -ஐ எப்படி மதிப்பிடுவீர்கள்?";
+
+"#%lld row" = "#%lld நிரை";
+
+"Quick Look" = "துரித பார்வை";
+
+"Read Aloud" = "உரக்கப் படிக்கவும்";
+
+"Deny" = "மறுக்கவும்";
+
+"Loading…" = "ஏற்றுகிறது...";
+
+"Stop Generating" = "உருவாக்குவதை நிறுத்தவும்";
+
+"Select Text" = "உரையைத் தேர்ந்தெடுக்கவும்";
+
+"Please try again later.%@" = "தயவுசெய்து பிறகு முயற்சிக்கவும். %@";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "இந்தக் கோப்பு இனி கிடைக்காது. உங்கள் உரையாடலைத் தொடர புதிய உரையாடலைத் தொடங்கவும் அல்லது ஒரு புதிய கோப்பைப் பதிவேற்றவும்.";
+
+"Response rating failed." = "பதில் மதிப்பிடுதல் தோல்வியடைந்தது.";
+
+"File unavailable" = "கோப்பு கிடைக்கவில்லை";
+
+"Memories updated" = "நினைவகங்கள் இற்றைப்படுத்தப்பட்டன";
+
+"\"%@\" column" = "“%@” நிரல்";
+
+"Failed, retry?" = "தோல்வியடைந்துவிட்டது, மீண்டும் முயற்சிக்கவா?";
+

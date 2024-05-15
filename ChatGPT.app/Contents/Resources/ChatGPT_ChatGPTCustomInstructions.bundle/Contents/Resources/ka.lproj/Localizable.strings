@@ -1,0 +1,52 @@
+"Error saving custom instructions" = "შეცდომა პერსონალიზებული ინსტრუქციების შენახვისას";
+
+"Saving Custom Instructions" = "მიმდინარეობს პერსონალიზებული ინსტრუქციების შენახვა";
+
+"GPT-4 Capabilities" = "GPT-4-ს შესაძლებლობები";
+
+"Keep editing" = "რედაქტირების გაგრძელება";
+
+"Thought starters" = "იდეები, რომლებიც შექმნილია აზროვნების სტიმულირებისთვის";
+
+"Choose which tools can be used with GPT-4." = "აირჩიეთ, რომელ ხელსაწყოებს უნდა იყენებდეს GPT-4?";
+
+"Save" = "შენახვა";
+
+"Error updating state for customizations. Please try again later." = "შეცდომა პერსონალიზებული ინსტრუქციების მდგომარეობის განახლებისას. სცადეთ მოგვიანებით.";
+
+"Show tips" = "რჩევების ჩვენება";
+
+"Code" = "კოდი";
+
+"Customize ChatGPT" = "ChatGPT-ს პერსონალიზაცია";
+
+"Browse the internet to find answers" = "ინტერნეტში ძებნა პასუხების მოსაძებნად";
+
+"Discard changes" = "ცვლილებების გაუქმება";
+
+"Unsaved changes" = "შეუნახავი ცვლილებები";
+
+"Enable for new chats" = "გააქტიურეთ ახალი ჩატებისთვის";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "რა გსურთ, ChatGPT-ს აცნობოთ თქვენ შესახებ, რომ უკეთესი პასუხები მიიღოთ?";
+
+"Error loading customizations. Please try again later." = "შეცდომა პერსონალიზებული ინსტრუქციების ჩატვირთვისას. სცადეთ მოგვიანებით.";
+
+"Execute code using Code Interpreter" = "კოდის შესრულება კოდის თარჯიმნის მეშვეობით";
+
+"Custom Instructions Enabled or Disabled" = "პერსონალიზებული ინსტრუქციები ჩართულია ან გამორთულია";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "პერსონალიზებული ინსტრუქციები გავრცელდება ყველა ახალ ჩატზე. [ვრცლად](chat-preferences-disclosures)";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "ნამდვილად გსურთ ცვლილებების გაუქმება? თქვენ მიერ შეტანილი ყველა ცვლილება დაიკარგება. ";
+
+"Browsing" = "მიმდინარეობს ძიება";
+
+"How would you like ChatGPT to respond?" = "როგორ პასუხს ისურვებდით ChatGPT-ისგან?";
+
+"Generate images using DALL•E" = "სურათების გენერირება DALL-E-ს მეშვეობით";
+
+"DALL•E" = "DALL-E";
+
+"An unknown error occurred. Please try again later" = "მოხდა გაურკვეველი შეცდომა. სცადეთ მოგვიანებით";
+

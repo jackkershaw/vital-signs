@@ -1,0 +1,82 @@
+"File upload failed." = "फ़ाइल अपलोड करना असफ़ल रहा।";
+
+"Image upload failed." = "फ़ाइल अपलोड करना असफ़ल रहा।";
+
+"Switch to Voice mode" = "वॉइस मोड में स्विच करें";
+
+"Failed, retry?" = "असफ़ल रहा, दोबारा कोशिश करना चाहते हैं?";
+
+"Message" = "मैसेज";
+
+"Send" = "भेजें";
+
+"Attach files" = "फ़ाइलें अटैच करें";
+
+"Continue Generating" = "जनरेट करना जारी रखें";
+
+"You need %@ to continue this chat because it has attachments." = "You need %@ to continue this chat because it has attachments.";
+
+"Remove attachment" = "अटैचमेंट हटाएँ";
+
+"Upload File" = "फ़ाइल अपलोड करें";
+
+"Editing message" = "मैसेज बदलें";
+
+"If you cancel the text conversion you will lose the recording." = "अगर आप टेक्स्ट कन्वर्ज़न को कैंसल कर देंगे तो आप रिकॉर्डिंग खो देंगे।";
+
+"You need %@ to continue this chat because this GPT requires it." = "You need %@ to continue this chat because this GPT requires it.";
+
+"Are you sure?" = "क्या आप वाकई ये करना चाहते हैं?";
+
+"Stop Generating" = "जनरेट करना बंद करें";
+
+"Get Plus to Chat" = "चैट करने के लिए Plus प्राप्त करें";
+
+"Image attachment failed." = "इमेज अटैच करना असफ़ल रहा।";
+
+"Replace" = "रीप्लेस करें";
+
+"You need %@ to continue this chat because it uses audio." = "You need %@ to continue this chat because it uses audio.";
+
+"You've reached your %@ limit." = "You've reached your %@ limit.";
+
+"Dictation" = "डिक्टेशन";
+
+"Shows the voice recording interface and begins recording" = "वॉइस रिकॉर्डिंग इंटरफ़ेस दिखाता है और रिकॉर्डिंग शुरू करता है";
+
+"You need %@ to continue this chat because it uses tools." = "You need %@ to continue this chat because it uses tools.";
+
+"Fullscreen" = "फ़ुलस्क्रीन";
+
+"This chat is currently unavailable" = "This chat is currently unavailable";
+
+"Microphone access required" = "Microphone access required";
+
+"Replace attachment?" = "अटैचमेंट को बदलें?";
+
+"Attached image" = "अटैच की हुई इमेज";
+
+"To continue, you’ll need to replace the current attachment." = "जारी रखने के लिए, आपको मौजूदा अटैचमेंट को बदलना होगा।";
+
+"Edit selection" = "सिलेक्शन को एडिट करें";
+
+"Stop" = "रुकें";
+
+"New Message" = "नया मैसेज";
+
+"Scroll to bottom" = "नीचे तक स्क्रॉल करें";
+
+"Message ChatGPT" = "ChatGPT को मैसेज करें…";
+
+"This chat uses an older version of your custom instructions" = "ये चैट आपके कस्टम निर्देशों के पुराने वर्ज़न का इस्तेमाल करती है";
+
+"Edit image" = "इमेज एडिट करें";
+
+"Confirm" = "कन्फ़र्म करें";
+
+"Attach photos" = "फ़ोटो अटैच करें";
+
+"No connection" = "No connection";
+
+"You need %@ to continue this chat because it has images." = "You need %@ to continue this chat because it has images.";
+

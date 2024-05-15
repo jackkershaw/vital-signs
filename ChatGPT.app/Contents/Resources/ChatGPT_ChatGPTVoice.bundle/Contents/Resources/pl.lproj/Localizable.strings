@@ -1,0 +1,170 @@
+"Hold for manual control" = "Przytrzymaj, aby sterować ręcznie";
+
+"Click to interrupt" = "Kliknij, aby przerwać";
+
+"Helping improve voice" = "Pomaganie w ulepszaniu głosu";
+
+"Listening intently" = "Uważne słuchanie";
+
+"%lld." = "%lld.";
+
+"Voice chat ended" = "Czat głosowy zakończony";
+
+"Grace Period for %@s" = "Dodatkowy czas przez %@ s";
+
+"You can change this later." = "Możesz zmienić to później.";
+
+"Unable to review action" = "Nie można zrecenzować działania";
+
+"Pause" = "Wstrzymaj";
+
+"Lost" = "Utracono";
+
+"Paused" = "Wstrzymano";
+
+"Connecting" = "Łączenie";
+
+"Speaking" = "Mówi";
+
+"Learn more" = "Dowiedz się więcej";
+
+"Poor connection" = "Niska jakość połączenia";
+
+"It misheard me" = "Źle mnie usłyszał";
+
+"Finish speaking to send" = "Skończ mówić, aby wysłać";
+
+"Voice mode" = "Tryb głosowy";
+
+"Unknown" = "Nieznane";
+
+"Open camera" = "Otwórz aparat";
+
+"Listening" = "Słuchanie";
+
+"Start speaking" = "Zacznij mówić";
+
+"Connected" = "Połączono";
+
+"Connecting.." = "Łączenie…";
+
+"Go backward 15 seconds" = "Przejdź wstecz o 15 sekund";
+
+"Other" = "Inne";
+
+"Stop listening" = "Przestań słuchać";
+
+"Voice feedback: give thumbs down" = "Opinia o czacie głosowym: przyznaj kciuk w dół";
+
+"Speak now" = "Mów teraz";
+
+"Go forward 15 seconds" = "Przejdź do przodu o 15 sekund";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "Wybrano udostępnianie dźwięku z czatów głosowych w celu ulepszania i trenowania naszych modeli. Obejmuje to dźwięk z Twojego mikrofonu, gdy model myśli lub mówi. Udostępnianie możesz zatrzymać w obszarze Ustawienia.";
+
+"Speak to keep active" = "Mów, aby utrzymać aktywność";
+
+"Pick photo" = "Wybierz zdjęcie";
+
+"Error: '%@'" = "Błąd: „%@”";
+
+"Release to send" = "Puść, aby wysłać";
+
+"Tap to interrupt" = "Dotknij, aby przerwać";
+
+"Good" = "Dobra";
+
+"What went wrong?" = "Co poszło nie tak?";
+
+"Select %@" = "Wybierz %@";
+
+"Connection failed, click to retry" = "Nie można nawiązać połączenia, kliknij, aby ponowić próbę";
+
+"Tap to dismiss" = "Dotknij, aby odrzucić";
+
+"Close camera" = "Zamknij aparat";
+
+"Poor" = "Niska jakość";
+
+"Halted" = "Wstrzymano";
+
+"Flip camera to the front" = "Przełącz na przedni aparat";
+
+"Connect" = "Połącz";
+
+"It interrupted me" = "Przerywał mi";
+
+"Restart" = "Uruchom ponownie";
+
+"Thinking" = "Myśli";
+
+"Click to cancel" = "Kliknij, aby anulować";
+
+"Tap to connect" = "Dotknij, aby połączyć";
+
+"Flip camera to the rear" = "Przełącz na tylny aparat";
+
+"Audio issues" = "Problemy z dźwiękiem";
+
+"Unable to send response. Please try again." = "Nie można wysłać odpowiedzi. Spróbuj ponownie.";
+
+"Close" = "Zamknij";
+
+"Take picture" = "Zrób zdjęcie";
+
+"See more information about voice research" = "Zobacz więcej informacji o badaniu głosu";
+
+"Thank you!" = "Dziękujemy!";
+
+"Enable microphone access in Settings" = "Włącz dostęp do mikrofonu w obszarze Ustawienia";
+
+"I didn’t like the responses" = "Nie podobały mi się odpowiedzi";
+
+"Click to activate" = "Kliknij, aby aktywować";
+
+"Connection failed, tap to retry" = "Nie można nawiązać połączenia, dotknij, aby ponowić próbę";
+
+"On for training" = "Włączone dla trenowania";
+
+"Resume listening" = "Wznów słuchanie";
+
+"Idle" = "Bezczynne";
+
+"Connecting." = "Łączenie.";
+
+"%lldms" = "%lld ms";
+
+"Excellent" = "Doskonała";
+
+"Play" = "Odtwórz";
+
+"Failed to connect" = "Nie można nawiązać połączenia";
+
+"Save to Photos" = "Zapisz w zdjęciach";
+
+"Tap to send manually" = "Dotknij, aby wysłać ręcznie";
+
+"Unknown error" = "Nieznany błąd";
+
+"Voice feedback: give thumbs up" = "Opinia o czacie głosowym: przyznaj kciuk w górę";
+
+"Tap to cancel" = "Dotknij, aby anulować";
+
+"•" = "•";
+
+"Select all that apply" = "Wybierz wszystkie, które mają zastosowanie";
+
+"Submit feedback" = "Prześlij opinię";
+
+"Voice chat ended after " = "Czat głosowy zakończony po ";
+
+"Unselect %@" = "Anuluj wybór opcji %@";
+
+"Click to send manually" = "Kliknij, aby wysłać ręcznie";
+
+"Tap to activate" = "Dotknij, aby aktywować";
+
+"Choose a voice" = "Wybierz głos";
+
+"Click to connect" = "Kliknij, aby połączyć";
+

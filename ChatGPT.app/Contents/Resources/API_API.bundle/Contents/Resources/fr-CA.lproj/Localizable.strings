@@ -1,0 +1,18 @@
+"This content may violate our content policy. Please try again with different content." = "Ce contenu pourrait enfreindre notre politique de contenu. Veuillez réessayer avec un contenu différent.";
+
+"The server is overloaded. Please try again later." = "Le serveur est surchargé. Veuillez réessayer plus tard.";
+
+"There is a problem with your account info. Please try signing out then in." = "Vos données de compte présentent un problème. Essayez de vous déconnecter et de vous reconnecter.";
+
+"Unsupported content" = "Contenu non pris en charge";
+
+"You've made too many requests. Please try again later. (429, %@)" = "Vous avez présenté trop de demandes. Veuillez réessayer plus tard. (429, %@)";
+
+"System error" = "Erreur système";
+
+"There is a problem with your request. (%lld, %@)" = "Votre demande présente un problème. (%lld, %@)";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "Le serveur rencontre des problèmes. Veuillez réessayer plus tard. (%lld, %@)";
+
+"The response is invalid. Please try again." = "La réponse est invalide. Veuillez réessayer.";
+

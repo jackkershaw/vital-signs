@@ -1,0 +1,170 @@
+"Error: '%@'" = "Грешка: „%@“";
+
+"On for training" = "Обучението е вкл.";
+
+"Voice feedback: give thumbs down" = "Гласова обратна връзка: дайте палец надолу";
+
+"Connecting" = "Свързва се";
+
+"Tap to interrupt" = "Докоснете, за да прекъснете";
+
+"Tap to send manually" = "Докоснете, за да изпратите ръчно";
+
+"Poor connection" = "Лоша връзка";
+
+"Connected" = "Свързан";
+
+"Excellent" = "Отлично";
+
+"%lld." = "%lld.";
+
+"Tap to dismiss" = "Докоснете, за да отхвърлите";
+
+"Speak to keep active" = "Говорете, за да останете активни";
+
+"Grace Period for %@s" = "Гратисен период за %@ сек";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "Избрахте да споделите аудиото си от гласовите чатове, за да подобрим и обучим нашите модели. Това включва звука от вашия микрофон, когато моделът мисли или говори. Можете да спрете споделянето в настройките.";
+
+"Hold for manual control" = "Задръжте за ръчно управление";
+
+"Open camera" = "Отворете камерата";
+
+"%lldms" = "%lldms";
+
+"Voice mode" = "Гласов режим";
+
+"Connecting.." = "Свързване...";
+
+"Resume listening" = "Възобновете слушането";
+
+"Close camera" = "Затворете камерата";
+
+"It interrupted me" = "Прекъсна ме";
+
+"Stop listening" = "Спрете да слушате";
+
+"Tap to activate" = "Докоснете, за да активирате";
+
+"Save to Photos" = "Запазване в Снимки";
+
+"Restart" = "Рестартиране";
+
+"Voice feedback: give thumbs up" = "Гласова обратна връзка: вдигнете палец";
+
+"Poor" = "Лоша";
+
+"Connection failed, tap to retry" = "Връзката е неуспешна, докоснете за нов опит";
+
+"Unable to send response. Please try again." = "Не може да се изпрати отговор. Моля, опитайте отново.";
+
+"Select %@" = "Изберете %@";
+
+"Lost" = "Изгубена";
+
+"Helping improve voice" = "Помага за подобряване на гласовите функции";
+
+"Click to send manually" = "Щракнете, за да изпратите ръчно";
+
+"Click to connect" = "Щракнете, за да се свържете";
+
+"Audio issues" = "Проблеми със звука";
+
+"Select all that apply" = "Изберете всички приложими";
+
+"Submit feedback" = "Изпратете обратна връзка";
+
+"Finish speaking to send" = "Завършете говоренето, за да изпратите";
+
+"Other" = "Други";
+
+"Unselect %@" = "Премахване на избора на %@";
+
+"Good" = "Добре";
+
+"Learn more" = "Научете повече";
+
+"Click to cancel" = "Щракнете, за да отмените";
+
+"Connecting." = "Свързва се.";
+
+"It misheard me" = "Не ме разбра";
+
+"Unknown" = "Неизвестно";
+
+"Enable microphone access in Settings" = "Активирайте достъпа до микрофона в Настройки";
+
+"Speaking" = "Говор";
+
+"Unable to review action" = "Не може да се прегледа действието";
+
+"Flip camera to the front" = "Завъртете камерата отпред";
+
+"Play" = "Възпроизвеждане";
+
+"See more information about voice research" = "Вижте повече информация за търсенето на глас";
+
+"Idle" = "Празен ход";
+
+"Flip camera to the rear" = "Завъртете камерата отзад";
+
+"Choose a voice" = "Изберете глас";
+
+"Listening" = "Слушане";
+
+"Go backward 15 seconds" = "Върнете се 15 секунди назад";
+
+"Halted" = "Спряно";
+
+"Take picture" = "Направете снимка";
+
+"Release to send" = "Освободете, за да изпратите";
+
+"Paused" = "На пауза";
+
+"Pick photo" = "Изберете снимка";
+
+"Thinking" = "Мислене";
+
+"Voice chat ended after " = "Гласовият чат приключи след";
+
+"Tap to connect" = "Докоснете, за да се свържете";
+
+"Click to interrupt" = "Щракнете, за да прекъснете";
+
+"You can change this later." = "Можете да промените това по-късно.";
+
+"What went wrong?" = "Какво се обърка?";
+
+"Connect" = "Свържете се";
+
+"Failed to connect" = "Неуспешно свързване";
+
+"Close" = "Затворете";
+
+"I didn’t like the responses" = "Не ми харесаха отговорите";
+
+"•" = "•";
+
+"Click to activate" = "Щракнете, за да активирате";
+
+"Start speaking" = "Започнете да говорите";
+
+"Listening intently" = "Напрегнато слушане";
+
+"Pause" = "Пауза";
+
+"Unknown error" = "Неизвестна грешка";
+
+"Connection failed, click to retry" = "Връзката е неуспешна, щракнете за нов опит";
+
+"Tap to cancel" = "Докоснете, за да отмените";
+
+"Thank you!" = "Благодаря ви!";
+
+"Speak now" = "Говорете сега";
+
+"Go forward 15 seconds" = "Преминете напред 15 секунди";
+
+"Voice chat ended" = "Гласовият чат приключи";
+

@@ -1,0 +1,50 @@
+"There was an error sharing the conversation. Please try again. %@" = "Әңгімені бөлісу кезінде қате шықты. Қайталап көріңіз. %@";
+
+"Share anonymously" = "Анонимді түрде бөлісу";
+
+"Shared Link Date" = "Бөлісілген сілтеме күні";
+
+"Share link to chat" = "Чат сілтемесін бөлісу";
+
+"Your custom instructions won’t be shared with viewers." = "Арнаулы нұсқауларыңыз көрушілермен бөлісілмейді.";
+
+"Update title" = "Тақырыпты жаңарту";
+
+"The share link is invalid. %@" = "Бөлісу сілтемесі жарамсыз. %@";
+
+"Shared Link Owner" = "Бөлісілген сілтеме иесі";
+
+"There was an error deleting your shared link." = "Ортақ сілтемеңізді жою кезінде қате шықты.";
+
+"There was an error preparing the conversation. Please try again. %@" = "Әңгімені дайындау кезінде қате шықты. Қайталап көріңіз. %@";
+
+"Options" = "Опциялар";
+
+"The conversation has no messages." = "Әңгімеде хабарлар жоқ.";
+
+"Share link" = "Сілтемені бөлісу";
+
+"Shared link deleted." = "Ортақ сілтеме жойылды.";
+
+"Missing Name" = "Атауы жоқ";
+
+"Help and FAQ" = "Анықтама және сұрақ-жауап";
+
+"Shared Link Title" = "Бөлісілген сілтеме тақырыбы";
+
+"Title" = "Тақырып";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "Сілтемеңізді бөліскеннен кейін жіберілген немесе алынған хабарлар бөлісілмейді. URL мекенжайы бар кез келген адам ортақ чатыңызды көре алады.";
+
+"Edit title" = "Атауын өзгерту";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "Осы чатпен сілтемеңізді бөліскенсіз. Жаңа хабарлар қосқыңыз келсе, осы сілтемені жойып, чатыңызды қайта бөлісіңіз.";
+
+"Recipients won't be able to view images." = "Алушылар суреттерді көре алмайды.";
+
+"Delete link" = "Сілтемені жою";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "«%@» бөлісілген сілтемеcін жою қажеттігін растайсыз ба? Осы чатты қайта бөлісу арқылы жаңа сілтемені қалаған уақытта жасай аласыз.";
+
+"Share your name" = "Атыңызды бөлісу";
+

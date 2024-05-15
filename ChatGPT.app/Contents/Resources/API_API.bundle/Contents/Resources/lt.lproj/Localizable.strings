@@ -1,0 +1,18 @@
+"You've made too many requests. Please try again later. (429, %@)" = "Pateikėte per daug užklausų. Bandykite dar kartą vėliau. (429, %@)";
+
+"There is a problem with your request. (%lld, %@)" = "Iškilo jūsų užklausos problema. (%lld, %@)";
+
+"The response is invalid. Please try again." = "Atsakymas netinkamas. Bandykite dar kartą.";
+
+"The server is overloaded. Please try again later." = "Serveris perkrautas. Bandykite dar kartą vėliau.";
+
+"There is a problem with your account info. Please try signing out then in." = "Iškilo jūsų paskyros informacijos problema. Pabandykite atsijungti, o tada vėl prisijungti.";
+
+"System error" = "Sistemos klaida";
+
+"Unsupported content" = "Nepalaikomas turinys";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "Kilo serverio problemų. Bandykite dar kartą vėliau. (%lld, %@)";
+
+"This content may violate our content policy. Please try again with different content." = "Šis turinys gali pažeisti mūsų turinio politiką. Bandykite dar kartą naudodami kitokį turinį.";
+

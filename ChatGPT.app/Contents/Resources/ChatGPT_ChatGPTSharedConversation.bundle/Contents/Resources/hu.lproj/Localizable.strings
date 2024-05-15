@@ -1,0 +1,26 @@
+"Report" = "Bejelentés";
+
+"Continue" = "Tovább";
+
+"This conversation may reflect the link creator’s custom instructions, which aren’t shared and can meaningfully change how the model responds." = "A beszélgetés a link alkotójának egyéni instrukcióit tükrözheti, amelyek nem kerülnek megosztásra, és jelentős hatással lehetnek a modell válaszaira.";
+
+"Menu" = "Menü";
+
+"Shared Link Title" = "Megosztott link címe";
+
+"Failed to load shared conversation." = "Nem sikerült betölteni a megosztott beszélgetést.";
+
+"Shared Link Date" = "Megosztott link dátuma";
+
+"Failed to determine model." = "Nem sikerült meghatározni a modellt.";
+
+"Shared conversation is invalid." = "A megosztott beszélgetés érvénytelen.";
+
+"The shared conversation does not exist." = "A megosztott beszélgetés nem létezik.";
+
+"Shared conversation" = "Megosztott beszélgetés";
+
+"Help and FAQ" = "Súgó és GYIK";
+
+"Shared Link Owner" = "Megosztott link tulajdonosa";
+

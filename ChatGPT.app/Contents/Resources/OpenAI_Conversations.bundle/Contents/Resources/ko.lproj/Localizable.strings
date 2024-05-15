@@ -1,0 +1,124 @@
+"Stopped talking to site" = "사이트와의 대화가 중지되었습니다";
+
+"Are you sure you want to archive this chat?\nYou can view archived chats in Settings" = "이 채팅을 아카이브에 보관하시겠습니까?\n설정에서 아카이브에 보관된 채팅을 보실 수 있습니다";
+
+"Visited the web" = "웹 방문함";
+
+"Visiting %@" = "%@ 방문 중";
+
+"Stopped" = "중지됨";
+
+"Archive" = "아카이브에 보관";
+
+"Stopped reading document" = "문서 읽기가 중지되었습니다";
+
+"Error reading documents" = "문서 읽기 오류";
+
+"Read %@" = "%@ 읽기";
+
+"Reading document" = "문서 읽는 중";
+
+"Visited %lld sites" = "%lld개 사이트 방문함";
+
+"Research complete" = "조사 완료";
+
+"Browsing %@" = "%@ 검색 중";
+
+"Reading %@" = "%@ 읽는 중";
+
+"Search stopped" = "검색 중지됨";
+
+"an external site" = "외부 사이트";
+
+"Any created memories will be retained." = "생성된 모든 메모리가 유지됩니다.";
+
+"Error researching" = "조사 오류";
+
+"Reading documents" = "문서 읽는 중";
+
+"Writing prompts…" = "프롬프트 작성 중...";
+
+"Stopped talking to %@" = "%@과(와)의 대화가 중지되었습니다";
+
+"Visited %@" = "%@ 방문함";
+
+"Creating %lld images…" = "이미지 %lld개 생성 중...";
+
+"Delete Chat" = "채팅 삭제";
+
+"Error analyzing" = "분석 오류";
+
+"Error browsing" = "검색 오류";
+
+"Analyzing" = "분석 중";
+
+"Error creating images" = "이미지 생성 오류";
+
+"This can't be undone." = "이 작업은 취소할 수 없습니다.";
+
+"Error creating image" = "이미지 생성 오류";
+
+"Starting action" = "작업 시작 중";
+
+"Stopped analyzing" = "분석이 중지되었습니다";
+
+"Talking to %@" = "%@과(와) 대화 중";
+
+"Invalid citation" = "잘못된 인용";
+
+"Stopped browsing" = "검색이 중지되었습니다";
+
+"Error reading document" = "문서 읽기 오류";
+
+"You declined this action" = "이 작업을 거부하셨습니다";
+
+"site" = "사이트";
+
+"Creating image" = "이미지 생성 중";
+
+"Searching “%@”" = "“%@” 검색 중";
+
+"Searched 1 site" = "사이트 1개 검색함";
+
+"Stopped researching" = "조사가 중지되었습니다";
+
+"Doing research with Bing" = "Bing으로 찾아보는 중";
+
+"System error" = "시스템 오류";
+
+"Stopped reading documents" = "문서 읽기가 중지되었습니다";
+
+"Read %lld documents" = "%lld개 문서 읽기";
+
+"Archive Chat" = "채팅을 아카이브에 보관";
+
+"Read document" = "문서 읽기";
+
+"Unable to find metadata" = "메타데이터를 찾을 수 없습니다";
+
+"Unsupported content" = "지원되지 않는 콘텐츠";
+
+"Stopped creating image" = "이미지 생성이 중지되었습니다";
+
+"Searched %lld sites" = "사이트 %lld개 검색함";
+
+"Unable to find citation ID" = "인용 ID를 찾을 수 없습니다";
+
+"Error talking to %@" = "%@과(와) 대화 오류";
+
+"Making a research plan" = "조사 계획 수립 중";
+
+"Read documents" = "문서 읽기";
+
+"Creating 1 image…" = "이미지 1개 생성 중...";
+
+"Searching" = "검색 중";
+
+"Unable to generate URL" = "URL을 생성할 수 없습니다";
+
+"Search failed" = "검색 실패";
+
+"Finished analyzing" = "분석 완료";
+
+"Talked to %@" = "%@과(와) 대화함";
+

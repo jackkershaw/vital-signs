@@ -1,0 +1,26 @@
+"Shared conversation is invalid." = "Дељени разговор је неважећи.";
+
+"This conversation may reflect the link creator’s custom instructions, which aren’t shared and can meaningfully change how the model responds." = "Овај разговор може да буде одраз прилагођених упутстава аутора линка која се не деле, а могу знатно да промене начин на који модел одговара.";
+
+"Failed to load shared conversation." = "Учитавање дељеног разговора није успело";
+
+"Report" = "Пријави";
+
+"Shared Link Owner" = "Власник дељеног линка";
+
+"The shared conversation does not exist." = "Дељени разговор не постоји.";
+
+"Shared Link Title" = "Наслов дељеног линка";
+
+"Continue" = "Настави";
+
+"Help and FAQ" = "Помоћ и честа питања";
+
+"Shared conversation" = "Дељени разговор";
+
+"Shared Link Date" = "Датум дељеног линка";
+
+"Menu" = "Мени";
+
+"Failed to determine model." = "Утврђивање модела није успело.";
+

@@ -1,0 +1,170 @@
+"Restart" = "إعادة التشغيل";
+
+"Helping improve voice" = "المساعدة على تحسين جودة الصوت";
+
+"Tap to interrupt" = "اضغط للمقاطعة";
+
+"I didn’t like the responses" = "لم تعجبني الإجابات";
+
+"Poor" = "رديء";
+
+"Listening" = "الاستماع";
+
+"See more information about voice research" = "عرض المزيد من المعلومات فيما يخص البحث الصوتي";
+
+"What went wrong?" = "ما المشكلة التي حدثت؟";
+
+"%lld." = "%lld.";
+
+"It interrupted me" = "لقد قاطعني";
+
+"Select all that apply" = "تحديد كل ما ينطبق";
+
+"Tap to cancel" = "اضغط للإلغاء";
+
+"Submit feedback" = "إرسال الملاحظات";
+
+"Voice chat ended after " = "انتهت الدردشة الصوتية بعد ";
+
+"Go backward 15 seconds" = "الرجوع 15 ثانية";
+
+"Click to send manually" = "اضغط للإرسال يدويًا";
+
+"Tap to dismiss" = "اضغط للتجاهل";
+
+"Voice feedback: give thumbs up" = "ملاحظات على الصوت: استجب بالاستحسان";
+
+"Start speaking" = "ابدأ التحدث";
+
+"Speaking" = "التحدث";
+
+"Stop listening" = "إيقاف الاستماع";
+
+"Tap to send manually" = "اضغط للإرسال يدويًا";
+
+"Grace Period for %@s" = "فترة سماح لمدة %@ ثانية";
+
+"Click to cancel" = "اضغط للإلغاء";
+
+"Lost" = "تم الفقد";
+
+"Paused" = "تم الإيقاف مؤقتًا";
+
+"Unable to send response. Please try again." = "تعذر إرسال إجابة. يرجى إعادة المحاولة.";
+
+"Flip camera to the front" = "انتقل إلى الكاميرا الأمامية";
+
+"Close" = "إغلاق";
+
+"Close camera" = "إغلاق الكاميرا";
+
+"You can change this later." = "يمكنك تغيير هذا الاختيار لاحقًا.";
+
+"Learn more" = "تعرف على المزيد";
+
+"Enable microphone access in Settings" = "قم بتمكين الوصول إلى الميكروفون من \"الإعدادات\"";
+
+"Connect" = "اتصل";
+
+"Take picture" = "التقط صورة";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "لقد اخترت مشاركة الصوت من الدردشات الصوتية لتحسين نماذجنا وتدريبها. وهذا يشمل الصوت الصادر من الميكروفون عندما يفكر النموذج أو يتحدث. يمكنك إيقاف المشاركة من \"الإعدادات\".";
+
+"Tap to activate" = "اضغط للتفعيل";
+
+"Voice mode" = "وضع الصوت";
+
+"Resume listening" = "مواصلة الاستماع";
+
+"Halted" = "متوقف";
+
+"Flip camera to the rear" = "انتقل إلى الكاميرا الخلفية";
+
+"Connected" = "متصل";
+
+"Excellent" = "ممتاز";
+
+"Click to interrupt" = "اضغط للمقاطعة";
+
+"Pause" = "إيقاف مؤقت";
+
+"Thinking" = "جاري التفكير";
+
+"Speak now" = "تحدث الآن";
+
+"Unselect %@" = "إلغاء تحديد %@";
+
+"Connecting." = "جاري الاتصال.";
+
+"Unknown" = "غير معروف";
+
+"Connecting.." = "جاري الاتصال..";
+
+"Unknown error" = "خطأ غير معروف";
+
+"Connecting" = "جاري الاتصال";
+
+"Select %@" = "تحديد %@";
+
+"Release to send" = "إيقاف الضغط للإرسال";
+
+"Failed to connect" = "تعذر الاتصال";
+
+"Other" = "غير ذلك";
+
+"Go forward 15 seconds" = "التقدم 15 ثانية";
+
+"Pick photo" = "اختر صورة";
+
+"%lldms" = "%lld مللي ثانية";
+
+"Error: '%@'" = "خطأ: ''%@''";
+
+"Good" = "جيد";
+
+"•" = "•";
+
+"Connection failed, click to retry" = "تعذر الاتصال، اضغط لإعادة المحاولة";
+
+"Voice chat ended" = "انتهت الدردشة الصوتية";
+
+"Finish speaking to send" = "إنهاء التحدث للإرسال";
+
+"Choose a voice" = "اختر صوتًا";
+
+"Listening intently" = "الاستماع بانتباه";
+
+"Poor connection" = "الاتصال رديء";
+
+"Voice feedback: give thumbs down" = "ملاحظات على الصوت: استجب بعدم الاستحسان";
+
+"Thank you!" = "شكرًا لك.";
+
+"Idle" = "غير نشط";
+
+"Connection failed, tap to retry" = "تعذر الاتصال، اضغط لإعادة المحاولة";
+
+"Click to connect" = "اضغط للاتصال";
+
+"It misheard me" = "لقد سمع ما قلت على نحو خاطئ";
+
+"Unable to review action" = "تعذر مراجعة الإجراء";
+
+"Hold for manual control" = "اضغط مع الاستمرار للتحكم اليدوي";
+
+"Play" = "تشغيل";
+
+"Audio issues" = "مشكلات في الصوت";
+
+"On for training" = "مفعل للتدريب";
+
+"Save to Photos" = "حفظ إلى الصور";
+
+"Tap to connect" = "اضغط للاتصال";
+
+"Speak to keep active" = "التحدث لإبقاء الجلسة نشطة";
+
+"Open camera" = "افتح الكاميرا";
+
+"Click to activate" = "اضغط للتفعيل";
+

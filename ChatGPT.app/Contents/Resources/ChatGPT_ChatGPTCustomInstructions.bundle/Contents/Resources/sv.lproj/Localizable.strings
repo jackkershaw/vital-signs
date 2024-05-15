@@ -1,0 +1,52 @@
+"Execute code using Code Interpreter" = "Kör kod med kodtolkaren";
+
+"Browse the internet to find answers" = "Surfa på internet för att hitta svar";
+
+"Error saving custom instructions" = "Det gick inte att spara anpassade instruktioner";
+
+"An unknown error occurred. Please try again later" = "Ett okänt fel uppstod. Försök igen senare.";
+
+"Error loading customizations. Please try again later." = "Det gick inte att ladda anpassningar. Försök igen senare.";
+
+"Enable for new chats" = "Aktivera för nya chattar";
+
+"DALL•E" = "DALL•E";
+
+"Unsaved changes" = "Ändringarna har inte sparats";
+
+"Custom Instructions Enabled or Disabled" = "Anpassade instruktioner aktiverade eller inaktiverade";
+
+"Code" = "Kod";
+
+"Error updating state for customizations. Please try again later." = "Det gick inte att uppdatera statusen för anpassningar. Försök igen senare.";
+
+"Saving Custom Instructions" = "Sparar anpassade instruktioner";
+
+"Customize ChatGPT" = "Anpassa ChatGPT";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Är du säker på att du vill ignorera dina ändringar?\nAlla ändringar går förlorade.";
+
+"Keep editing" = "Fortsätt redigera";
+
+"Generate images using DALL•E" = "Generera bilder med DALL•E";
+
+"GPT-4 Capabilities" = "GPT-4-funktioner";
+
+"Save" = "Spara";
+
+"Choose which tools can be used with GPT-4." = "Välj vilka verktyg som ska kunna användas med GPT-4.";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Anpassade instruktioner tillämpas på alla nya chattar. [Läs mer](chat-preferences-disclosures)";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Vad vill du att ChatGPT ska veta om dig för att kunna ge dig bättre svar?";
+
+"Discard changes" = "Ignorera ändringar";
+
+"Thought starters" = "Tankeväckare";
+
+"Browsing" = "Webbsurfning";
+
+"Show tips" = "Visa tips";
+
+"How would you like ChatGPT to respond?" = "Hur vill du att ChatGPT ska svara?";
+

@@ -1,0 +1,34 @@
+"There was an unexpected error. %@" = "Возникла непредвиденная ошибка. %@";
+
+"To use Whisper, you need to allow ChatGPT to use your microphone." = "Чтобы использовать Whisper, необходимо разрешить ChatGPT использовать микрофон.";
+
+"Click to record" = "Нажмите, чтобы начать запись";
+
+"The recording could not be processed. Please check your internet connection. (%lld)" = "Не удалось обработать запись. Проверьте интернет-соединение. (%lld)";
+
+"There was a problem with the recording." = "Возникла проблема с записью.";
+
+"Click to stop recording" = "Нажмите, чтобы остановить запись";
+
+"Retry transcription" = "Повторить транскрипцию";
+
+"Tap to stop recording" = "Нажмите, чтобы остановить запись";
+
+"Auto-Detect" = "Автоматически определять";
+
+"Converting to text…" = "Преобразование в текст…";
+
+"Tap to record" = "Нажмите для записи";
+
+"An internet connection is required" = "Необходимо подключение к интернету";
+
+"There was a problem starting the recording." = "Возникла проблема с началом записи.";
+
+"The recording was cancelled." = "Запись была отменена.";
+
+"Recordings must be longer than 1s." = "Записи должны быть длиннее 1 с.";
+
+"Open Settings" = "Открыть настройки";
+
+"Start new recording" = "Начать новую запись";
+

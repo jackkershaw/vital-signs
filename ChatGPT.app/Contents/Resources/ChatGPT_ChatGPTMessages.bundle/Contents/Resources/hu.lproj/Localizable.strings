@@ -1,0 +1,74 @@
+"Loading…" = "Betöltés…";
+
+"Your most recent request failed. Please retry!" = "A legutóbbi kérelmed meghiúsult. Próbáld újra.";
+
+"Stop Generating" = "Generálás leállítása";
+
+"Always allow" = "Engedélyezés mindig";
+
+"How would you rate this GPT?" = "Hogyan értékeled ezt a GPT-t?";
+
+"\"%@\" cell" = "„%@” cella";
+
+"Select Text" = "Szöveg kijelölése";
+
+"Quick Look" = "Gyors megtekintés";
+
+"Please try again later.%@" = "Próbáld újra később.%@";
+
+"Sign in to %@" = "Jelentkezz be a következőbe: %@";
+
+"\"%@\" column" = "„%@” oszlop";
+
+"Memories updated" = "Memóriák frissítése";
+
+"Deny" = "Megtagadás";
+
+"Decline" = "Elutasítás";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "A fájl már nem áll rendelkezésre. A beszélgetés folytatásához indíts új beszélgetést, vagy tölts fel egy új fájlt.";
+
+"File expired" = "A fájl lejárt";
+
+"Response rating failed." = "Nem sikerült értékelni a választ.";
+
+"You" = "Te";
+
+"Continue Generating" = "Generálás folytatása";
+
+"File unavailable" = "A fájl nem áll rendelkezésre";
+
+"Manage memories" = "Memóriák kezelése";
+
+"Memory updated" = "Memória frissítve";
+
+"Selection" = "Kijelölés";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "A legfejlettebb modellünk, a GPT-4 rendelkezésre áll a ChatGPT Plusban";
+
+"Read Aloud" = "Felolvasás";
+
+"Regenerate" = "Újragenerálás";
+
+"Save File As…" = "Fájl mentése másként…";
+
+"Change Model" = "Modell módosítása";
+
+"Failed, retry?" = "Nem sikerült. Szeretnél újrapróbálkozni?";
+
+"Analysis" = "Elemzés";
+
+"A GPT" = "Egy GPT";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "A ChatGPT csak korlátozott ideig őrzi meg a fájlokat. A beszélgetés folytatásához indíts új beszélgetést, vagy tölts fel egy új fájlt.";
+
+"Bad" = "Rossz";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "^[%lld csatolmány](inflect: true) feltöltése…";
+
+"Edit" = "Szerkesztés";
+
+"#%lld row" = "%lld. sor";
+
+"Upgraded response" = "Fejlettebb válaszadás";
+

@@ -1,0 +1,52 @@
+"Custom instructions" = "პერსონალიზებული ინსტრუქციები";
+
+"Failed to update setting, retry?" = "პარამეტრის განახლება ვერ მოხერხდა, ცდით ხელახლა?";
+
+"Are you sure you want to log out of %@?" = "ნამდვილად გსურთ %@-დან გასვლა?";
+
+"Confirm Logout" = "გასვლის დადასტურება";
+
+"Privacy Policy" = "კონფიდენციალურობის დებულება";
+
+"Privacy & Safety" = "კონფიდენციალურობა და უსაფრთხოება";
+
+"Report GPT" = "GPT-ს შესახებ შეტყობინება";
+
+"Accounts" = "ანგარიშები";
+
+"Connected Accounts" = "დაკავშირებული ანგარიშები";
+
+"No connected accounts are available for this GPT." = "ამ GPT-თვის ხელმისაწვდომი არ არის დაკავშირებული ანგარიშები.";
+
+"None" = "არცერთი";
+
+"Report Conversation" = "საუბრის შესახებ შეტყობინება";
+
+"Select which websites are allowed to see data from conversations with %@." = "აირჩიეთ, რომელი ვებსაიტებისთვისაა ნებადართული %@-თან საუბრების მონაცემებზე წვდომა.";
+
+"Please try again later.\n\n(%@)" = "სცადეთ მოგვიანებით.\n\n(%@)";
+
+"This chat uses an older version of your custom instructions." = "ეს ჩატი იყენებს თქვენი პერსონალიზებული ინსტრუქციების უფრო ძველ ვერსიას.";
+
+"Model Info" = "ინფორმაცია მოდელის შესახებ";
+
+"Description" = "აღწერილობა";
+
+"Actions" = "ქმედებები";
+
+"Ask" = "კითხვა";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "განსაზღვრეთ, მესამე მხარის რომელ ანგარიშებზე მიიღებს წვდომას %@.";
+
+"Error loading action settings" = "შეცდომა ქმედების პარამეტრების ჩატვირთვისას";
+
+"Report" = "გაფრთხილება";
+
+"Error loading connected accounts.\n\n(%@)" = "შეცდომა დაკავშირებული ანგარიშების ჩატვირთვისას.\n\n(%@)";
+
+"Capabilities" = "შესაძლებლობები";
+
+"Always" = "ყოველთვის";
+
+"No actions are available for this GPT" = "ამ GPT-სთვის ხელმისაწვდომი არ არის ქმედებები";
+

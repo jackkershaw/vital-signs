@@ -1,0 +1,114 @@
+"Share" = "Megosztás";
+
+"Editing Not Available" = "A szerkesztés nem áll rendelkezésre";
+
+"Add a note" = "Megjegyzés hozzáadása";
+
+"Include my email" = "Tartalmazza az e-mail-címemet";
+
+"Optional private note for creator…" = "Az alkotó nem kötelező privát megjegyzése…";
+
+"Are you sure you want to delete this GPT?" = "Biztosan törölni szeretnéd a GPT-t?";
+
+"Editing and creating a GPT is only available on web for now." = "A GPT-k szerkesztése és létrehozása jelenleg csak az interneten áll rendelkezésre.";
+
+"Star rating" = "Csillagos értékelés";
+
+"How would you rate this GPT?" = "Hogyan értékeled ezt a GPT-t?";
+
+"Public" = "Nyilvános";
+
+"Only me" = "Csak én";
+
+"Untitled" = "Névtelen";
+
+"Unable to load, retry?" = "Nem sikerült a betöltés. Szeretnél újrapróbálkozni?";
+
+"Are you sure you want to remove this GPT from your recents?" = "Biztosan el szeretnéd távolítani a GPT-t a legutóbb modellek listájáról?";
+
+"Anyone with a link" = "Link birtokában bárki";
+
+"Include my email **%@**" = "Tartalmazza az e-mail-címemet (**%@**)";
+
+"Options" = "Lehetőségek";
+
+"Top Suggestions" = "Releváns találatok";
+
+"in **%@**" = "itt: **%@**";
+
+"No Recents" = "Nincsenek újonnan megtekintett elemek";
+
+"See more" = "Továbbiak megtekintése";
+
+"Conversation starters" = "Beszélgetésindítók";
+
+"%@ chats" = "%@ csevegés";
+
+"Start Chat" = "Csevegés indítása";
+
+"By %@" = "A következőtől: %@";
+
+"%@ rating" = "%@ értékelés";
+
+"Great" = "Nagyszerű";
+
+"Searching…" = "Keresés folyamatban…";
+
+"Report" = "Bejelentés";
+
+"By community builder" = "Közösségépítőtől";
+
+"No Results Found" = "Nincs találat";
+
+"Recently Used" = "Nemrég használt";
+
+"Anyone at %@" = "Bárki a következőnél: %@";
+
+"Loading more" = "Továbbiak betöltése";
+
+"Remove" = "Eltávolítás";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "^[%lld csillag](inflect: true), %@ értékelésből";
+
+"Top Picks" = "Népszerű javaslatok";
+
+"Failed to delete GPT, retry?" = "Nem sikerült törölni a GPT-t. Szeretnél újrapróbálkozni?";
+
+"Explore" = "Felfedezés";
+
+"How would you rate **%@**?" = "Hogyan értékeled a következőt: **%@**?";
+
+"Exceptional!" = "Rendkívüli!";
+
+"Get Plus to Chat" = "A csevegéshez fizess elő a Plusra";
+
+"Chats: %@" = "Csevegések: %@";
+
+"Feedback" = "Visszajelzés";
+
+"Tap a star" = "Koppints egy csillagra";
+
+"Failed to remove recent GPT, retry?" = "Nem sikerült eltávolítani a legutóbb használt GPT-t. Szeretnél újrapróbálkozni?";
+
+"Search Public GPTs" = "Nyilvános GPT-k keresése";
+
+"Okay" = "Elmegy";
+
+"Remove GPT" = "GPT eltávolítása";
+
+"Bad" = "Rossz";
+
+"Good" = "Jó";
+
+"Visibility" = "Láthatóság";
+
+"Capabilities" = "Funkciók";
+
+"Start chat" = "Csevegés indítása";
+
+"Thank you for your feedback!" = "Köszönjük a visszajelzésedet!";
+
+"Edit" = "Szerkesztés";
+
+"My GPTs" = "Saját GPT-k";
+

@@ -1,0 +1,52 @@
+"Failed to update setting, retry?" = "Nie można zaktualizować ustawienia. Ponowić próbę?";
+
+"Are you sure you want to log out of %@?" = "Czy na pewno chcesz wylogować się z %@?";
+
+"Always" = "Zawsze";
+
+"Model Info" = "Informacje o modelu";
+
+"Accounts" = "Konta";
+
+"This chat uses an older version of your custom instructions." = "W tym czacie jest używana starsza wersja Twoich instrukcji niestandardowych.";
+
+"No connected accounts are available for this GPT." = "Dla tego modelu GPT nie są dostępne żadne połączone konta.";
+
+"Capabilities" = "Funkcje";
+
+"Description" = "Opis";
+
+"Report GPT" = "Zgłoś model GPT";
+
+"Ask" = "Zapytaj";
+
+"Error loading action settings" = "Błąd podczas ładowania ustawień działania";
+
+"Connected Accounts" = "Połączone konta";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "Zarządzaj tym, do których kont innych firm model %@ może uzyskiwać dostęp.";
+
+"No actions are available for this GPT" = "Dla tego modelu GPT nie są dostępne żadne działania";
+
+"None" = "Brak";
+
+"Confirm Logout" = "Potwierdź wylogowanie";
+
+"Report" = "Zgłoś";
+
+"Custom instructions" = "Instrukcje niestandardowe";
+
+"Privacy Policy" = "Zasady ochrony prywatności";
+
+"Actions" = "Działania";
+
+"Privacy & Safety" = "Prywatność i bezpieczeństwo";
+
+"Please try again later.\n\n(%@)" = "Spróbuj ponownie później.\n\n(%@)";
+
+"Select which websites are allowed to see data from conversations with %@." = "Wybierz, które witryny internetowe mogą uzyskiwać dostęp do danych z konwersacji z modelem %@.";
+
+"Report Conversation" = "Zgłoś konwersację";
+
+"Error loading connected accounts.\n\n(%@)" = "Błąd podczas ładowania połączonych kont.\n\n(%@)";
+

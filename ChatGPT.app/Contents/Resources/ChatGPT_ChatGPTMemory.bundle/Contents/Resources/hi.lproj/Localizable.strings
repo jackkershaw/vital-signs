@@ -1,0 +1,40 @@
+"No memories" = "कोई मेमोरीज़ नहीं";
+
+"%@ won't use or create memories" = "%@ मेमोरीज़ का इस्तेमाल नहीं करेगा या उन्हें बनाएगा नहीं";
+
+"Clear this GPT's memory" = "इस GPT की मेमोरी क्लियर करें";
+
+"Learn More" = "और ज़्यादा जानें";
+
+"Select a GPT" = "एक GPT चुनें";
+
+"Search memories" = "मेमोरीज़ सर्च करें";
+
+"Memory" = "मेमोरी";
+
+"Could not reset memory. Please try again later." = "मेमोरी रीसेट नहीं की जा सकी। कृपया बाद में दोबारा कोशिश करें।";
+
+"Are you sure?" = "क्या आप वाकई ये करना चाहते हैं?";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ वो सब कुछ भूल जाएगा जो उसने आपकी चैट्स से याद किया है। इसे दोबारा पहले जैसा नहीं किया जा सकता है।";
+
+"Memory is disabled" = "मेमोरी डिसेबल की गई है";
+
+"Turn On" = "चालू करें";
+
+"Error loading GPTs" = "GPTs लोड करने में एरर आया";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "जैसे ही आप %@ के साथ चैट करेंगे, उसे जो विवरण और प्रेफ़रेंसेस याद होंगे, वे यहाँ दिखाए जाएंगे।";
+
+"Error deleting memory" = "मेमोरी हटाने में एरर आया";
+
+"Open menu to select which GPT to show memories for" = "किस GPT के लिए मेमोरी दिखानी है, ये चुनने के लिए मेनू खोलें";
+
+"%@'s memories" = "%@ की मेमोरीज़";
+
+"Clear ChatGPT’s memory" = "ChatGPT की मेमोरी क्लियर करें";
+
+"Clear Memory" = "मेमोरी क्लियर करें";
+
+"Error loading memories" = "मेमोरीज़ लोड करने में एरर आया";
+

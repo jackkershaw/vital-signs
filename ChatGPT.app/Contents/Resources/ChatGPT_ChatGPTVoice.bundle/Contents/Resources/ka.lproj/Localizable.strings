@@ -1,0 +1,170 @@
+"Click to interrupt" = "დააწკაპუნეთ შეწყვეტისთვის";
+
+"Unknown error" = "უცნობი შეცდომა";
+
+"Voice feedback: give thumbs up" = "უკუკავშირი ხმის შესაფასებლად: მონიშნეთ ცერა თითები ზემოთ";
+
+"Unable to review action" = "ქმედების მიმოხილვა შეუძლებელია";
+
+"Thank you!" = "გმადლობთ!";
+
+"%lld." = "%lld.";
+
+"Helping improve voice" = "ხმის გაუმჯობესებაში დახმარება";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "თქვენ აირჩიეთ აუდიომასალის გაზიარების ფუნქცია, რომ ხელი შეუწყოთ ჩვენი მოდელების მომზადებასა და გაუმჯობესებას. ეს მოიცავს იმ აუდიომასალასაც, რომელიც იწერება თქვენი მიკროფონის მეშვეობით მოდელის ფიქრისა თუ ლაპარაკისას. გაზიარების შეწყვეტა შეგიძლიათ პარამეტრებიდან.";
+
+"Thinking" = "ფიქრობს";
+
+"Tap to interrupt" = "შეეხეთ შეწყვეტისთვის";
+
+"Click to send manually" = "დააწკაპუნეთ ხელით გაგზავნისთვის";
+
+"Paused" = "შეჩერებული";
+
+"Tap to connect" = "შეეხეთ დაკავშირებისთვის";
+
+"Stop listening" = "მოსმენის შეწყვეტა";
+
+"Connection failed, click to retry" = "დაკავშირება ვერ მოხერხდა, დააწკაპუნეთ ხელახლა საცდელად";
+
+"Listening" = "ისმენს";
+
+"Restart" = "ხელახლა დაწყება";
+
+"Speaking" = "ლაპარაკობს";
+
+"Connecting." = "მიმდინარეობს დაკავშირება.";
+
+"Submit feedback" = "უკუკავშირის გაგზავნა";
+
+"Lost" = "დაკარგული";
+
+"Speak to keep active" = "ილაპარაკეთ, რომ სესია აქტიური იყოს";
+
+"Finish speaking to send" = "დაასრულეთ ლაპარაკი გასაგზავნად";
+
+"Pause" = "შეჩერება";
+
+"Tap to dismiss" = "შეეხეთ დახურვისთვის";
+
+"Click to activate" = "დააწკაპუნეთ გააქტიურებისთვის";
+
+"Poor connection" = "უხარისხო კავშირი";
+
+"Flip camera to the rear" = "ძირითად კამერაზე გადართვა";
+
+"Connecting.." = "მიმდინარეობს დაკავშირება..";
+
+"Open camera" = "კამერის გახსნა";
+
+"Select %@" = "აირჩიეთ %@";
+
+"Grace Period for %@s" = "საშეღავათო პერიოდი %@ წმ";
+
+"Audio issues" = "აუდიოს პრობლემები";
+
+"Tap to cancel" = "შეეხეთ გაუქმებისთვის";
+
+"Failed to connect" = "დაკავშირება ვერ მოხერხდა";
+
+"Click to cancel" = "დააწკაპუნეთ გაუქმებისთვის";
+
+"Start speaking" = "ლაპარაკის დაწყება";
+
+"Connecting" = "მიმდინარეობს დაკავშირება";
+
+"Listening intently" = "ისმენს ყურადღებით";
+
+"Speak now" = "ილაპარაკეთ ახლა";
+
+"Unselect %@" = "გადაირჩიეთ %@";
+
+"Connection failed, tap to retry" = "დაკავშირება ვერ მოხერხდა, შეეხეთ ხელახლა საცდელად";
+
+"See more information about voice research" = "ვრცლად ხმოვანი ძებნის შესახებ";
+
+"Enable microphone access in Settings" = "გაააქტიურეთ მიკროფონზე წვდომა პარამეტრებიდან";
+
+"Halted" = "შეჩერებული";
+
+"Poor" = "უხარისხო";
+
+"Hold for manual control" = "დააჭირეთ ხელით კონტროლისთვის";
+
+"Click to connect" = "დააწკაპუნეთ დაკავშირებისთვის";
+
+"Play" = "ჩართვა";
+
+"Tap to activate" = "შეეხეთ გააქტიურებისთვის";
+
+"Close camera" = "კამერის დახურვა";
+
+"I didn’t like the responses" = "პასუხები არ მომეწონა";
+
+"Voice chat ended" = "ხმოვანი ჩატი დასრულდა";
+
+"Flip camera to the front" = "წინა კამერაზე გადართვა";
+
+"Learn more" = "ვრცლად";
+
+"On for training" = "ჩართულია სწავლებისთვის";
+
+"Good" = "კარგი";
+
+"Release to send" = "გაუშვით ხელი გასაგზავნად";
+
+"Voice mode" = "ხმოვანი რეჟიმი";
+
+"Unknown" = "უცნობი";
+
+"You can change this later." = "ამის შეცვლა მოგვიანებით შეგიძლიათ.";
+
+"Tap to send manually" = "შეეხეთ ხელით გასაგზავნად";
+
+"Error: '%@'" = "შეცდომა:  '%@'";
+
+"Save to Photos" = "ფოტოებში შენახვა";
+
+"Other" = "სხვა";
+
+"Idle" = "არააქტიური";
+
+"It interrupted me" = "შემაწყვეტინა";
+
+"Connected" = "დაკავშირებული";
+
+"Excellent" = "შესანიშნავი";
+
+"Voice feedback: give thumbs down" = "უკუკავშირი ხმის შესაფასებლად: მონიშნეთ ცერა თითები ქვემოთ";
+
+"Pick photo" = "აირჩიეთ ფოტო";
+
+"•" = "•";
+
+"Close" = "დახურვა";
+
+"Go backward 15 seconds" = "15 წამით უკან გადასვლა";
+
+"What went wrong?" = "რამ გამოიწვია შეფერხება?";
+
+"%lldms" = "%lld მილიწამი";
+
+"It misheard me" = "არასწორად გამიგო";
+
+"Choose a voice" = "ხმის არჩევა";
+
+"Go forward 15 seconds" = "15 წამით წინ გადასვლა";
+
+"Resume listening" = "მოსმენის გაგრძელება";
+
+"Connect" = "დაკავშირება";
+
+"Take picture" = "სურათის გადაღება";
+
+"Unable to send response. Please try again." = "პასუხის გაგზავნა შეუძლებელია. სცადეთ ხელახლა.";
+
+"Voice chat ended after " = "ხმოვანი ჩატი დასრულდა ";
+
+"Select all that apply" = "აირჩიეთ ყველა შესაფერისი ვარიანტი";
+

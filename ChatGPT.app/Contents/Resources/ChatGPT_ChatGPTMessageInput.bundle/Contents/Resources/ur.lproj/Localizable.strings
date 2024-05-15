@@ -1,0 +1,82 @@
+"Get Plus to Chat" = "چیٹ کرنے کے لیے Plus حاصل کریں";
+
+"Confirm" = "تصدیق کریں";
+
+"Edit selection" = "انتخاب میں ترمیم کریں";
+
+"Switch to Voice mode" = "آواز کے موڈ پر تبدیل کریں";
+
+"Scroll to bottom" = "نیچے تک سکرول کریں";
+
+"Shows the voice recording interface and begins recording" = "آواز کی ریکارڈنگ کا انٹرفیس دکھاتا ہے اور ریکارڈنگ شروع کردیتا ہے";
+
+"You need %@ to continue this chat because it has attachments." = "You need %@ to continue this chat because it has attachments.";
+
+"This chat uses an older version of your custom instructions" = "یہ چیٹ آپ کی حسب ضرورت ہدایات کا پرانا ورژن استعمال کرتی ہے۔";
+
+"Image attachment failed." = "تصویر منسلک نہیں ہوئی۔";
+
+"You need %@ to continue this chat because this GPT requires it." = "You need %@ to continue this chat because this GPT requires it.";
+
+"Continue Generating" = "بنانا جاری رکھیں";
+
+"Message" = "پیغام";
+
+"Attach files" = "فائلیں منسلک کریں";
+
+"You need %@ to continue this chat because it uses audio." = "You need %@ to continue this chat because it uses audio.";
+
+"Image upload failed." = "تصویر اپ لوڈ نہیں ہوئی۔";
+
+"You've reached your %@ limit." = "You've reached your %@ limit.";
+
+"Are you sure?" = "کیا آپ پُر یقین ہیں؟";
+
+"Dictation" = "ہدایت";
+
+"Upload File" = "فائل اپ لوڈ کریں";
+
+"You need %@ to continue this chat because it uses tools." = "You need %@ to continue this chat because it uses tools.";
+
+"Remove attachment" = "منسلک چیز ہٹائیں";
+
+"Replace" = "ہٹائیں";
+
+"Stop Generating" = "بنانا بند کریں";
+
+"This chat is currently unavailable" = "This chat is currently unavailable";
+
+"Fullscreen" = "مکمل سکرین";
+
+"New Message" = "نیا پیغام";
+
+"Microphone access required" = "Microphone access required";
+
+"Replace attachment?" = "کیا منسلک چیز ہٹائیں؟";
+
+"Attach photos" = "تصاویر منسلک کریں";
+
+"Failed, retry?" = "نہیں ہوا، کیا دوبارہ کوشش کریں؟";
+
+"File upload failed." = "فائل اپ لوڈ نہیں ہوئی۔";
+
+"If you cancel the text conversion you will lose the recording." = "اگر آپ متن کی تبدیلی کو منسوخ کرتے ہیں تو آپ ریکارڈنگ سے محروم ہو جائیں گے۔";
+
+"Message ChatGPT" = "ChatGPT کو پیغام لکھیں";
+
+"Edit image" = "تصویر ترمیم کریں";
+
+"Attached image" = "تصویر منسلک کریں";
+
+"Stop" = "رکیں";
+
+"Editing message" = "پیغام میں ترمیم کریں";
+
+"No connection" = "No connection";
+
+"You need %@ to continue this chat because it has images." = "You need %@ to continue this chat because it has images.";
+
+"Send" = "بھیجیں";
+
+"To continue, you’ll need to replace the current attachment." = " آپ کو جاری رکھنے کے لیے موجودہ منسلکہ کو ہٹانے کی ضرورت ہوگی۔";
+

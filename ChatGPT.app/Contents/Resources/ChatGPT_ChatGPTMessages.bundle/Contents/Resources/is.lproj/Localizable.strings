@@ -1,0 +1,74 @@
+"How would you rate this GPT?" = "Hvaða einkunn myndir þú gefa þessu GPT?";
+
+"Save File As…" = "Vista skrá sem …";
+
+"File unavailable" = "Skrá ekki tiltæk";
+
+"Stop Generating" = "Hætta að mynda";
+
+"You" = "Þú";
+
+"Continue Generating" = "Halda áfram að búa til";
+
+"#%lld row" = "#%lld lína";
+
+"Please try again later.%@" = "Reyndu aftur seinna.%@";
+
+"Quick Look" = "Forskoðun";
+
+"Response rating failed." = "Ekki tókst að gefa svari einkunn.";
+
+"Decline" = "Hafna";
+
+"Your most recent request failed. Please retry!" = "Nýjasta beiðni þín mistókst. Reyndu aftur!";
+
+"Always allow" = "Leyfa alltaf";
+
+"Memories updated" = "Minni uppfærð";
+
+"Selection" = "Val";
+
+"\"%@\" cell" = "Hólfið „%@“";
+
+"Bad" = "Slæmt";
+
+"Failed, retry?" = "Mistókst, reyna aftur?";
+
+"Manage memories" = "Stjórna minnum";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "Hleður upp ^[%lld viðhengjum](inflect: true) …";
+
+"Edit" = "Breyta";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT geymir skrár aðeins í takmarkaðan tíma. Byrjaðu nýtt samtal eða hladdu upp nýrri skrá til að halda samtalinu áfram.";
+
+"Loading…" = "Hleður ...";
+
+"Change Model" = "Breyta líkani";
+
+"Read Aloud" = "Lesa upphátt";
+
+"Memory updated" = "Minni uppfært";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Skrifað af okkar færasta líkani, GPT-4, sem er fáanlegt með ChatGPT Plus";
+
+"Select Text" = "Velja texta";
+
+"Regenerate" = "Endurmynda";
+
+"File expired" = "Útrunnin skrá";
+
+"\"%@\" column" = "Dálkurinn „%@“";
+
+"A GPT" = "GPT";
+
+"Deny" = "Hafna";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Þessi skrá er ekki lengur tiltæk. Byrjaðu nýtt samtal eða hladdu upp nýrri skrá til að halda samtalinu áfram.";
+
+"Sign in to %@" = "Skrá inn á %@";
+
+"Upgraded response" = "Uppfært svar";
+
+"Analysis" = "Greining";
+

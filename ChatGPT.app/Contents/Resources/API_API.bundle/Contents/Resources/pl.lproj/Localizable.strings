@@ -1,0 +1,18 @@
+"The server is overloaded. Please try again later." = "Serwer jest przeciążony. Spróbuj ponownie później.";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "Występują problemy z serwerem. Spróbuj ponownie później. (%lld, %@)";
+
+"This content may violate our content policy. Please try again with different content." = "Ta treść może naruszać nasze zasady dotyczące treści. Spróbuj ponownie, używając innej treści.";
+
+"You've made too many requests. Please try again later. (429, %@)" = "Wysłano zbyt wiele żądań. Spróbuj ponownie później. (429, %@)";
+
+"There is a problem with your request. (%lld, %@)" = "Wystąpił problem z Twoim żądaniem. (%lld, %@)";
+
+"There is a problem with your account info. Please try signing out then in." = "Wystąpił problem z informacjami o Twoim koncie. Spróbuj się wylogować, a potem zalogować.";
+
+"Unsupported content" = "Nieobsługiwana treść";
+
+"System error" = "Błąd systemu";
+
+"The response is invalid. Please try again." = "Odpowiedź jest niepoprawna. Spróbuj ponownie.";
+

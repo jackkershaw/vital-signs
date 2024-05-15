@@ -1,0 +1,82 @@
+"Send" = "傳送";
+
+"Edit selection" = "編輯選取範圍";
+
+"Continue Generating" = "繼續產生";
+
+"Shows the voice recording interface and begins recording" = "顯示錄音介面並開始錄製";
+
+"Replace" = "取代";
+
+"You need %@ to continue this chat because it has attachments." = "You need %@ to continue this chat because it has attachments.";
+
+"This chat uses an older version of your custom instructions" = "此聊天使用較舊版本的自訂提示";
+
+"Attach photos" = "附加照片";
+
+"Confirm" = "確認";
+
+"Attach files" = "附加檔案";
+
+"Are you sure?" = "是否確定？";
+
+"Message" = "訊息";
+
+"You need %@ to continue this chat because this GPT requires it." = "You need %@ to continue this chat because this GPT requires it.";
+
+"To continue, you’ll need to replace the current attachment." = "要繼續，您需要更換目前附件。";
+
+"Attached image" = "附加圖像";
+
+"Fullscreen" = "全屏";
+
+"Replace attachment?" = "更換附件？";
+
+"You need %@ to continue this chat because it uses audio." = "You need %@ to continue this chat because it uses audio.";
+
+"Upload File" = "上傳檔案";
+
+"You've reached your %@ limit." = "You've reached your %@ limit.";
+
+"Editing message" = "編輯訊息";
+
+"Failed, retry?" = "失敗了，要重試嗎？";
+
+"Image upload failed." = "圖像上傳失敗。";
+
+"Image attachment failed." = "附上圖像失敗。";
+
+"New Message" = "新訊息";
+
+"Scroll to bottom" = "捲動到底部";
+
+"You need %@ to continue this chat because it uses tools." = "You need %@ to continue this chat because it uses tools.";
+
+"This chat is currently unavailable" = "This chat is currently unavailable";
+
+"Stop Generating" = "停止產生";
+
+"Dictation" = "聽寫";
+
+"Microphone access required" = "Microphone access required";
+
+"Remove attachment" = "移除附件";
+
+"Edit image" = "編輯圖像";
+
+"Message ChatGPT" = "發訊息給 ChatGPT…";
+
+"If you cancel the text conversion you will lose the recording." = "如果取消文字轉換，則將遺失錄製內容。";
+
+"Stop" = "停止";
+
+"Switch to Voice mode" = "切換到語音模式";
+
+"No connection" = "No connection";
+
+"Get Plus to Chat" = "獲取 Plus 以開始聊天";
+
+"File upload failed." = "檔案上傳失敗。";
+
+"You need %@ to continue this chat because it has images." = "You need %@ to continue this chat because it has images.";
+

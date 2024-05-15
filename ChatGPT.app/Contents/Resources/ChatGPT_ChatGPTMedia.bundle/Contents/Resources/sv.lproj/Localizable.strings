@@ -1,0 +1,70 @@
+"Select an area to edit" = "Välj området du vill redigera";
+
+"Camera Access Denied" = "Åtkomst till kameran nekades";
+
+"The file was not found." = "Filen hittades inte.";
+
+"View prompt" = "Visa prompt";
+
+"Undo" = "Ångra";
+
+"More" = "Mer";
+
+"Prompt" = "Prompt";
+
+"Select" = "Välj";
+
+"Camera Access Restricted" = "Åtkomst till kameran begränsades";
+
+"Rear camera selected, tap to toggle to front" = "Bakre kamera vald, tryck för att växla till främre";
+
+"Flash off, tap to toggle to auto" = "Blixt av, tryck för att växla till auto";
+
+"Annotate by drawing on the image" = "Anteckna genom att rita på bilden";
+
+"Annotate" = "Anteckna";
+
+"Enable camera access in Settings to take photos." = "Aktivera kameraåtkomst i Inställningar för att ta foton.";
+
+"Next" = "Nästa";
+
+"The file download failed. Please try again later." = "Det gick inte att ladda ner filen. Försök igen senare.";
+
+"Learn more" = "Läs mer";
+
+"Dismiss" = "Stäng";
+
+"Front camera selected, tap to toggle to rear" = "Främre kamera vald, tryck för att växla till bakre";
+
+"Flash auto, tap to toggle on" = "Autoblixt, tryck för att sätta på";
+
+"Image saved" = "Bilden har sparats";
+
+"Flash on, tap to toggle off" = "Blixt på, tryck för att stänga av";
+
+"Select camera device" = "Välj kameraenhet";
+
+"Failed to load image" = "Det gick inte att ladda bilden";
+
+"Camera access is restricted on this device. Please check your parental control or system settings." = "Åtkomst till kameran är begränsad på den här enheten. Kontrollera dina föräldrainställningar eller systeminställningar.";
+
+"This file is not available." = "Filen är inte tillgänglig.";
+
+"This file has expired." = "Filen har löpt ut.";
+
+"Download complete" = "Nerladdningen är klar";
+
+"Good response" = "Bra svar";
+
+"Copied" = "Kopierad";
+
+"Back" = "Tillbaka";
+
+"Redo" = "Upprepa";
+
+"Thank you for your feedback!" = "Tack för din feedback!";
+
+"Bad response" = "Dåligt svar";
+
+"Pick photo" = "Välj foto";
+

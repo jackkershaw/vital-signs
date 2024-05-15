@@ -1,0 +1,52 @@
+"Privacy Policy" = "Personvernerklæring";
+
+"Description" = "Beskrivelse";
+
+"Error loading connected accounts.\n\n(%@)" = "Feil ved lasting av tilkoblede kontoer.\n\n(%@)";
+
+"No connected accounts are available for this GPT." = "Ingen tilkoblede kontoer er tilgjengelige for denne GPT-en.";
+
+"Failed to update setting, retry?" = "Kunne ikke oppdatere innstilling, vil du prøve igjen?";
+
+"None" = "Ingen";
+
+"This chat uses an older version of your custom instructions." = "Denne chatten bruker en eldre versjon av egendefinerte instruksjoner.";
+
+"Actions" = "Handlinger";
+
+"Model Info" = "Modellinfo";
+
+"Ask" = "Spør";
+
+"Report Conversation" = "Rapporter samtale";
+
+"Capabilities" = "Funksjoner";
+
+"Confirm Logout" = "Bekreft utlogging";
+
+"No actions are available for this GPT" = "Ingen handlinger er tilgjengelige for denne GPT-en";
+
+"Accounts" = "Kontoer";
+
+"Custom instructions" = "Egendefinerte instruksjoner";
+
+"Connected Accounts" = "Tilkoblede kontoer";
+
+"Report GPT" = "Rapporter GPT";
+
+"Please try again later.\n\n(%@)" = "Prøv igjen litt senere.\n\n(%@)";
+
+"Report" = "Rapporter";
+
+"Select which websites are allowed to see data from conversations with %@." = "Velg hvilke nettsteder som har lov til å se data fra samtaler med %@.";
+
+"Are you sure you want to log out of %@?" = "Er du sikker på at du vil logge deg ut av %@?";
+
+"Error loading action settings" = "Feil ved lasting av handlingsinnstillinger";
+
+"Privacy & Safety" = "Personvern og sikkerhet";
+
+"Always" = "Alltid";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "Administrer hvilke tredjepartskontoer %@ har tilgang til.";
+

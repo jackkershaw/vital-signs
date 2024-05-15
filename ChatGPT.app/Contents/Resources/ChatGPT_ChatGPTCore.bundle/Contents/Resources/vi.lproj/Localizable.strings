@@ -1,0 +1,82 @@
+"Browsing" = "Đang duyệt";
+
+"DALL•E Images" = "Ảnh DALL•E";
+
+"Invalid citation" = "Trích dẫn không hợp lệ";
+
+"Memory" = "Bộ nhớ";
+
+"Temporary Chat" = "Đoạn Chat Tạm Thời";
+
+"ChatGPT" = "ChatGPT";
+
+"Open Link" = "Mở Liên Kết";
+
+"Any data shared with a third party through GPT actions are subject to the third party's privacy policy. [Learn more](https://help.openai.com/en/articles/8914046-temporary-chat-faq)" = "Mọi dữ liệu được chia sẻ với bên thứ ba thông qua hành động GPT đều phải tuân theo chính sách riêng tư của bên thứ ba. [Tìm hiểu thêm](https://help.openai.com/en/articles/8914046-temporary-chat-faq)";
+
+"Info" = "Thông tin";
+
+"Retrieves or takes actions outside of ChatGPT" = "Truy xuất hoặc thực hiện hành động bên ngoài ChatGPT";
+
+"Copy Link" = "Sao Chép Liên Kết";
+
+"Learns from previous chats to improve future conversations" = "Học hỏi từ các đoạn chat trước đó để cải thiện cuộc trò chuyện trong tương lai";
+
+"Untitled" = "Không có tiêu đề";
+
+"GitHub" = "GitHub";
+
+"Unsupported content" = "Nội dung không được hỗ trợ";
+
+"Your limit resets in %lld minutes" = "Your limit resets in %lld minutes";
+
+"By %@" = "Bởi %@";
+
+"Your limit resets tomorrow at %@" = "Your limit resets tomorrow at %@";
+
+"Pinned" = "Đã ghim";
+
+"Actions" = "Hành động";
+
+"Twitter" = "Twitter";
+
+"The builder of this GPT can’t view your chats or memories" = "Builder của GPT này không thể xem các đoạn chat hoặc bộ nhớ của bạn";
+
+"By" = "Bởi";
+
+"Your limit resets at %@" = "Your limit resets at %@";
+
+"This chat won't appear in history or be used to train our models. For safety purposes, we may keep a copy of this chat for up to 30 days." = "Đoạn chat này sẽ không xuất hiện trong lịch sử hoặc không dùng để huấn luyện các mô hình của chúng tôi. Vì mục đích an toàn, chúng tôi có thể giữ một bản sao của đoạn chat này trong tối đa 30 ngày.";
+
+"The builder of this GPT can’t view your chats" = "Builder của GPT này không thể xem các đoạn chat của bạn";
+
+"community builder" = "builder cộng đồng";
+
+"Your limit resets in 1 minute" = "Your limit resets in 1 minute";
+
+"Data Analysis" = "Phân Tích Dữ Liệu";
+
+"Failed to load citation" = "Không thể tải trích dẫn";
+
+"Link unavailable" = "Liên kết không có sẵn";
+
+"Me" = "Tôi";
+
+"This chat won't appear in history, use or create memories, or be used to train our models. For safety purposes, we may keep a copy of this chat for up to 30 days." = "Đoạn chat này sẽ không xuất hiện trong lịch sử, không sử dụng hoặc không tạo bộ nhớ, hoặc không dùng để huấn luyện các mô hình của chúng tôi. Vì mục đích an toàn, chúng tôi có thể giữ một bản sao của đoạn chat này trong tối đa 30 ngày.";
+
+"This version of the app will be sunset soon!" = "Phiên bản ứng dụng này sẽ sớm ngừng hoạt động!";
+
+"Website" = "Trang web";
+
+"LinkedIn" = "LinkedIn";
+
+"Your limit resets %@" = "Your limit resets %@";
+
+"Citation" = "Trích dẫn";
+
+"Instagram" = "Instagram";
+
+"By community builder" = "Bởi builder trong cộng đồng";
+
+"Contents may violate our content policy" = "Nội dung có thể vi phạm chính sách nội dung của chúng tôi";
+

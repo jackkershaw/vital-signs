@@ -1,0 +1,86 @@
+"Confirm" = "확인";
+
+"Attached image" = "첨부된 이미지";
+
+"Shows the voice recording interface and begins recording" = "음성 녹음 인터페이스 표시 및 녹음 시작";
+
+"Replace" = "교체";
+
+"Get Plus to Chat" = "Plus를 구독하고 채팅하세요";
+
+"This chat uses an older version of your custom instructions" = "이 채팅에서는 맞춤형 지침의 이전 버전을 사용합니다";
+
+"Send" = "보내기";
+
+"No connection" = "연결 없음";
+
+"Attach photos" = "사진 첨부";
+
+"Image attachment failed." = "이미지를 첨부하지 못했습니다.";
+
+"This chat uses an older version of your custom instructions" = "이 채팅에서는 이전 버전 맞춤형 지침을 사용합니다";
+
+"Upload File" = "파일 업로드";
+
+"This chat is currently unavailable" = "이 채팅은 현재 사용할 수 없습니다";
+
+"Editing message" = "메시지 편집";
+
+"Stop" = "중지";
+
+"Failed, retry?" = "실패했습니다. 다시 시도할까요?";
+
+"Stop Generating" = "생성 중지";
+
+"Microphone access required" = "마이크 액세스 필요";
+
+"Image upload failed." = "이미지를 업로드하지 못했습니다.";
+
+"You need %@ to continue this chat because this GPT requires it." = "해당 GPT의 필수 조건이므로 계속하려면 %@이(가) 필요합니다.";
+
+"You need %@ to continue this chat because it has images." = "채팅에 이미지가 있으므로 계속하려면 %@이(가) 필요합니다.";
+
+"Message ChatGPT" = "ChatGPT에게 메시지 쓰기";
+
+"If you cancel the text conversion you will lose the recording." = "텍스트 변환을 취소하면 녹음이 사라집니다.";
+
+"You've reached your %@ limit." = "%@ 한도에 도달했습니다.";
+
+"Edit image" = "이미지 편집";
+
+"File upload failed." = "파일을 업로드하지 못했습니다.";
+
+"Dictation" = "음성 입력";
+
+"Attach files" = "파일 첨부";
+
+"Edit selection" = "선택 항목 편집";
+
+"Remove attachment" = "첨부 파일 제거";
+
+"You need %@ to continue this chat because it uses tools." = "채팅에서 도구를 사용하므로 계속하려면 %@이(가) 필요합니다.";
+
+"Continue Generating" = "계속 생성하기";
+
+"Attached image" = "이미지 첨부됨";
+
+"Fullscreen" = "전체 화면";
+
+"New Message" = "새 메시지";
+
+"Are you sure?" = "정말 계속하시겠습니까?";
+
+"Scroll to bottom" = "맨 아래로 스크롤";
+
+"You need %@ to continue this chat because it uses audio." = "채팅에서 오디오를 사용하므로 계속하려면 %@이(가) 필요합니다.";
+
+"You need %@ to continue this chat because it has attachments." = "채팅에 첨부 파일이 있으므로 계속하려면 %@이(가) 필요합니다.";
+
+"To continue, you’ll need to replace the current attachment." = "계속 진행하려면 기존 첨부 파일을 교체해야 합니다.";
+
+"Replace attachment?" = "첨부파일을 교체하시겠습니까?";
+
+"Message" = "메시지";
+
+"Switch to Voice mode" = "음성 모드로 전환";
+

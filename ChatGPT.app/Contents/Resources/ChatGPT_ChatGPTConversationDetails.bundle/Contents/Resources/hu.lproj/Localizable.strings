@@ -1,0 +1,52 @@
+"Confirm Logout" = "Kilépés megerősítése";
+
+"Custom instructions" = "Egyéni instrukciók";
+
+"Actions" = "Műveletek";
+
+"Connected Accounts" = "Összekapcsolt fiókok";
+
+"None" = "Nincs";
+
+"Privacy & Safety" = "Adatvédelem és biztonság";
+
+"Please try again later.\n\n(%@)" = "Próbáld újra később.\n\n(%@)";
+
+"Privacy Policy" = "Adatvédelmi irányelvek";
+
+"Report GPT" = "GPT bejelentése";
+
+"This chat uses an older version of your custom instructions." = "Ez a csevegés az egyéni instrukcióknak egy korábbi verzióját használja.";
+
+"No connected accounts are available for this GPT." = "Nincsenek rendelkezésre álló összekapcsolt fiókok ehhez a GPT-hez.";
+
+"Are you sure you want to log out of %@?" = "Biztosan ki szeretnél lépni a következőből: %@?";
+
+"Report" = "Bejelentés";
+
+"Always" = "Mindig";
+
+"Description" = "Leírás";
+
+"Error loading connected accounts.\n\n(%@)" = "Hiba történt az összekapcsolt fiókok betöltése közben.\n\n(%@)";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "Kezelheted, hogy mely harmadik féltől származó fiókokhoz férhet hozzá a következő: %@.";
+
+"Error loading action settings" = "Hiba történt a művelet beállításainak betöltése közben";
+
+"Select which websites are allowed to see data from conversations with %@." = "Kiválaszthatod, hogy mely webhelyek láthatják a következővel folytatott beszélgetéseid adatait: %@.";
+
+"Failed to update setting, retry?" = "Nem sikerült frissíteni a beállítást. Szeretnél újrapróbálkozni?";
+
+"No actions are available for this GPT" = "Nincsenek rendelkezésre álló műveletek ehhez a GPT-hez";
+
+"Capabilities" = "Funkciók";
+
+"Report Conversation" = "Beszélgetés bejelentése";
+
+"Model Info" = "Modellinformációk";
+
+"Ask" = "Kérdés";
+
+"Accounts" = "Fiókok";
+

@@ -1,0 +1,48 @@
+"Upgrade Plan" = "อัปเกรดบริการ";
+
+"Explore GPTs" = "สำรวจ GPT";
+
+"Memory Off" = "ปิดหน่วยความจำ";
+
+"Manage Chat" = "จัดการแชต";
+
+"ChatGPT" = "ChatGPT";
+
+"Menu" = "เมนู";
+
+"See less" = "ดูน้อยลง";
+
+"Remove From Sidebar" = "ลบออกจากไซด์บาร์";
+
+"Title" = "หัวข้อ";
+
+"Archive" = "เก็บถาวร";
+
+"ChatGPT %@" = "ChatGPT%@";
+
+"%lld more" = "อีก%lld";
+
+"Keep in Sidebar" = "เก็บไว้ในไซด์บาร์";
+
+"Unable to load GPT." = "ไม่สามารถโหลด GPT ได้";
+
+"Rename Chat" = "เปลี่ยนชื่อแชต";
+
+"Share GPT" = "แบ่งปัน GPT";
+
+"This GPT is no longer available." = "GPT นี้ไม่สามารถใช้งานได้อีกต่อไป";
+
+"Temporary Chat" = "แชตชั่วคราว";
+
+"Your workspace owner hasn't approved this GPT" = "เจ้าของพื้นที่ทำงานของคุณยังไม่อนุมัติให้ใช้ GPT นี้";
+
+"%@ requires memory to be on. Adjust in **settings**." = "%@ ต้องใช้หน่วยความจำจึงจะเปิดทำงานได้ ปรับเปลี่ยนได้ใน **การตั้งค่า**";
+
+"No results for **%@**" = "ไม่พบผลลัพธ์สำหรับ**%@**";
+
+"Review GPT" = "พิจารณา GPT";
+
+"Share" = "แบ่งปัน";
+
+"Rename" = "เปลี่ยนชื่อ";
+

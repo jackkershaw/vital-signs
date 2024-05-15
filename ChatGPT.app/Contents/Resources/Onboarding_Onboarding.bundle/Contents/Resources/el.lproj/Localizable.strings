@@ -1,0 +1,96 @@
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "Αδυναμία ανάκτησης δεδομένων χωρών. Έλεγξε τη σύνδεσή σου στο διαδίκτυο και επανεκκίνησε την εφαρμογή. (%@)";
+
+"There was a problem, please try again. (%@)" = "Προέκυψε πρόβλημα, προσπάθησε ξανά. (%@)";
+
+"Please check your internet connection and retry." = "Έλεγξε τη σύνδεσή σου στο διαδίκτυο και προσπάθησε ξανά.";
+
+"Please choose a valid date for your birthday." = "Διάλεξε μια έγκυρη ημερομηνία γέννησης.";
+
+"Something went wrong. Please try again." = "Κάτι πήγε στραβά. Προσπάθησε ξανά.";
+
+"I've verified my email" = "Επαλήθευσα το email μου";
+
+"Please provide a phone number for verification." = "Δώσε έναν τηλεφωνικό αριθμό για επαλήθευση.";
+
+"Phone number" = "Αριθμός τηλεφώνου";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Προέκυψε πρόβλημα με τη σύνδεσή σου στο διαδίκτυο. Προσπάθησε ξανά. (%lld)";
+
+"First name" = "Όνομα";
+
+"There was a problem verifying your phone number. %@" = "Προέκυψε πρόβλημα με την επαλήθευση του αριθμού τηλεφώνου σου. %@";
+
+"Tell us about you." = "Πες μας σχετικά με εσένα.";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "Δεν μπορούμε να δημιουργήσουμε τον λογαριασμό σου λόγω των [Όρων χρήσης](https://openai.com/policies/terms-of-use).";
+
+"Something went wrong. Sign out and try again." = "Κάτι πήγε στραβά. Αποσυνδέσου και προσπάθησε ξανά.";
+
+"Continue" = "Συνέχεια";
+
+"Last name" = "Επώνυμο";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Αν κάνεις κλικ στην επιλογή «Συνέχεια», αποδέχεσαι τους [Όρους](https://openai.com/policies/terms-of-use) και αναγνωρίζεις την [Πολιτική απορρήτου](https://openai.com/policies/privacy-policy) μαζί με το [προσάρτημά της για την Κορέα](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Area code" = "Κωδικός περιοχής";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Κάτι πήγε στραβά. Ο λογαριασμός σου έχει δημιουργηθεί ήδη αλλά δεν μπορεί να ανανεωθεί. Αποσυνδέσου και συνδέσου ξανά.";
+
+"You have made too many attempts. Please try again later." = "Έκανες πάρα πολλές προσπάθειες. Προσπάθησε ξανά αργότερα.";
+
+"Open Mail App" = "Άνοιγμα εφαρμογής ηλεκτρονικής αλληλογραφίας";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "Κάτι πήγε στραβά. Επανεκκίνησε την εφαρμογή ή αποσυνδέσου και προσπάθησε ξανά.";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Αν κάνεις κλικ στην επιλογή «Συνέχεια», αποδέχεσαι τους [Όρους](https://openai.com/policies/terms-of-use) και αναγνωρίζεις την [Πολιτική απορρήτου](https://openai.com/policies/privacy-policy).";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "Στείλαμε ένα email στο %@.\nΚάνε κλικ στον σύνδεσμο που περιέχει για να ξεκινήσεις.";
+
+"Your account could not be created. Please try again. %@" = "Δεν ήταν δυνατή η δημιουργία του λογαριασμού σου. Προσπάθησε ξανά. %@";
+
+"Birthday" = "Ημερομηνία γέννησης";
+
+"Finish creating your OpenAI account" = "Ολοκλήρωσε τη δημιουργία του λογαριασμού σου στην OpenAI";
+
+"Select your area code" = "Διάλεξε κωδικό περιοχής";
+
+"Verify you're human" = "Επαλήθευσε ότι είσαι άνθρωπος";
+
+"There was a problem verifying the code. %@" = "Προέκυψε πρόβλημα με την επαλήθευση του κωδικού. %@";
+
+"Verify phone number" = "Επαλήθευση αριθμού τηλεφώνου";
+
+"Email resent!" = "Το email στάλθηκε ξανά!";
+
+"error" = "σφάλμα";
+
+"Resend email" = "Επανάληψη αποστολής email";
+
+"Verify your email" = "Επαλήθευσε το email σου";
+
+"Your email is not yet verified. Please check your email inbox." = "Το email σου δεν έχει επαληθευτεί ακόμα. Έλεγξε τα εισερχόμενα του λογαριασμού email σου.";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Αν κάνεις κλικ στην επιλογή «Συνέχεια», επιβεβαιώνεις ότι έχεις τη συναίνεση γονέα ή κηδεμόνα προκειμένου να χρησιμοποιήσεις το ChatGPT, συμφωνείς με τους [Όρους](https://openai.com/policies/terms-of-use) και αναγνωρίζεις την [Πολιτική απορρήτου](https://openai.com/policies/privacy-policy).";
+
+"Please solve this puzzle so we know you're a person." = "Λύσε αυτό το παζλ για να μας αποδείξεις ότι είσαι άνθρωπος.";
+
+"Code" = "Κώδικας";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Αν κάνεις κλικ στην επιλογή «Συνέχεια», επιβεβαιώνεις ότι έχεις τη συναίνεση γονέα ή κηδεμόνα προκειμένου να χρησιμοποιήσεις το ChatGPT, συμφωνείς με τους [Όρους](https://openai.com/policies/terms-of-use) και αναγνωρίζεις την [Πολιτική απορρήτου](https://openai.com/policies/privacy-policy) μαζί με το [προσάρτημά της για την Κορέα](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Sorry, we aren't able to create your account" = "Λυπούμαστε, δεν καταφέραμε να δημιουργήσουμε τον λογαριασμό σου";
+
+"Select your Birthday" = "Διάλεξε ημερομηνία γέννησης";
+
+"There was a problem, please try again." = "Προέκυψε πρόβλημα, προσπάθησε ξανά.";
+
+"Failed to load required information." = "Αδυναμία φόρτωσης των απαιτούμενων πληροφοριών.";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "Για βοήθεια, συμβουλέψου τον [οδηγό επαλήθευσης τηλεφώνου](https://help.openai.com/articles/6613520-phone-verification).";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "Δεν ήταν δυνατή η λήψη των απαραίτητων στοιχείων. Έλεγξε τη σύνδεσή σου στο διαδίκτυο και επανεκκίνησε την εφαρμογή. (%@)";
+
+"Enter the code we just sent to your number ending in **%@" = "Πληκτρολόγησε τον κωδικό που στείλαμε στον αριθμό τηλεφώνου σου, που τελειώνει σε **%@";
+
+"Resend code" = "Επανάληψη αποστολής κώδικα";
+

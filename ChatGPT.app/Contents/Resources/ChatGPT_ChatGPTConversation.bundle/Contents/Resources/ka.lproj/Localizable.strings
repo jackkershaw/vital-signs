@@ -1,0 +1,48 @@
+"Upgrade Plan" = "გეგმის განახლება";
+
+"Manage Chat" = "ჩატის მართვა";
+
+"ChatGPT" = "ChatGPT";
+
+"Memory Off" = "მეხსიერება გამორთულია";
+
+"%lld more" = "კიდევ %lld";
+
+"Rename Chat" = "ჩატისთვის სახელის შეცვლა";
+
+"This GPT is no longer available." = "ეს GPT აღარ არის ხელმისაწვდომი.";
+
+"Your workspace owner hasn't approved this GPT" = "სამუშაო სივრცის მფლობელმა არ დაადასტურა ეს GPT";
+
+"Explore GPTs" = "GPT-ების დათვალიერება";
+
+"%@ requires memory to be on. Adjust in **settings**." = "%@ საჭიროებს მეხსიერების ჩართვას. დაარეგულირეთ **პარამეტრებიდან**.";
+
+"Temporary Chat" = "დროებითი ჩატი";
+
+"Menu" = "მენიუ";
+
+"Remove From Sidebar" = "გვერდითი ზოლიდან ამოღება";
+
+"Review GPT" = "GPT-ს მიმოხილვა";
+
+"Unable to load GPT." = "GPT ვერ იტვირთება.";
+
+"No results for **%@**" = "არ იძებნება **%@**";
+
+"See less" = "ნაკლების ჩვენება";
+
+"Title" = "სათაური";
+
+"Share GPT" = "GPT-ს გაზიარება";
+
+"Share" = "გაზიარება";
+
+"Rename" = "სახელის შეცვლა";
+
+"Archive" = "დაარქივება";
+
+"ChatGPT %@" = "ChatGPT %@";
+
+"Keep in Sidebar" = "გვერდით ზოლში შენახვა";
+

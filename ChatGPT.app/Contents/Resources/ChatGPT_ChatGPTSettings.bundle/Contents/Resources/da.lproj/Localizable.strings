@@ -1,0 +1,182 @@
+"Improve voice for everyone" = "Vær med til at forbedre stemmen for alle";
+
+"Voice" = "Stemme";
+
+"Manage workspace" = "Administrer arbejdsområde";
+
+"Speech" = "Tale";
+
+"Conversation not found" = "Samtalen blev ikke fundet";
+
+"Workspace" = "Arbejdsområde";
+
+"Help Center" = "Hjælpecenter";
+
+"All your chats will be cleared from history. This cannot be undone." = "Alle dine chats vil blive ryddet fra historikken. Dette kan ikke fortrydes.";
+
+"Data Controls" = "Datakontrol";
+
+"Subscription Cancellation" = "Opsigelse af abonnement";
+
+"Could not delete conversation. Please try again later." = "Kunne ikke slette samtalen. Prøv igen senere.";
+
+"Subscription" = "Abonnement";
+
+"App Language" = "Sprog i appen";
+
+"Confirm Export" = "Bekræft eksport";
+
+"Improve the model for everyone" = "Vær med til at forbedre modellen for alle";
+
+"Error updating setting. Please try again later" = "Fejl ved opdatering af indstillinger. Prøv igen senere.";
+
+"Chat History & Training" = "Chathistorik & træning";
+
+"Chat training" = "Træning af chat";
+
+"Terms of Use" = "Vilkår for brug";
+
+"Archive All Chats" = "Arkiver alle chats";
+
+"View" = "Vis";
+
+"Your account has been queued for deletion." = "Din konto er nu sat i kø til sletning.";
+
+"Error archiving all chats" = "Fejl ved arkivering af alle chats";
+
+"Off" = "Fra";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "ChatGPT bliver mere behjælpelig, mens du chatter, da den opfanger detaljer og præferencer og tilpasser sine svar specifikt til dig. [Se mere](%@)\n\nFor at forstå, hvad ChatGPT husker, eller for at lære den noget nyt, skal du bare chatte med den:\n\n\"Husk, at jeg gerne vil have præcise svar.\"\n\"Jeg har lige fået en hvalp!\"\n\"Hvad husker du om mig?\"\n\"Hvor kom vi fra med mit sidste projekt?\"";
+
+"ChatGPT Enterprise" = "ChatGPT Enterprise";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "Du kan kun slette din konto, hvis du har logget ind inden for de seneste 10 minutter. \n\nLog ind igen, og vend så tilbage hertil for at fortsætte.";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "Der opstod en fejl ved sletningen af din konto. Prøv venligst igen. Hvis problemet fortsætter, skal du gå til help.openai.com.";
+
+"We were unable to process your export at this time. Please try again later." = "Vi kunne ikke behandle din eksport på nuværende tidspunkt. Prøv venligst igen senere.";
+
+"Archived conversations will be available here" = "Arkiverede samtaler vil være tilgængelige her";
+
+"Keep ChatGPT on top" = "Behold ChatGPT øverst";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Lad dit indhold blive brugt til at træne vores AI-modeller, så ChatGPT forbedres for både dig og andre brugere. Vi sørger selvfølgelig for at beskytte dit privatliv. [Se mere](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"All your chats will be archived. This cannot be undone." = "Alle dine chats vil blive arkiveret. Dette kan ikke fortrydes.";
+
+"Could not update the memory setting. Please try again later." = "Kunne ikke opdatere hukommelsesindstillingen. Prøv igen senere.";
+
+"Dark" = "Mørk";
+
+"Customize ChatGPT" = "Tilpas ChatGPT";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "Hvis du sletter din konto, annulleres aktive app-abonnementer ikke. Disse abonnementer skal annulleres i dine Apple ID-indstillinger.";
+
+"Search Archive" = "Søg i arkiv";
+
+"Upgrade to ChatGPT Plus" = "Opgrader til ChatGPT Plus";
+
+"We couldn't load your archived chats" = "Vi kunne ikke indlæse dine arkiverede chats";
+
+"Today" = "I dag";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "Du kan ikke foretage ændringer i dit abonnement i denne app, da du har købt abonnementet på en anden platform.";
+
+"Delete Account" = "Slet konto";
+
+"Haptic Feedback" = "Haptisk feedback";
+
+"ChatGPT Team" = "ChatGPT Team";
+
+"No archived chats" = "Ingen arkiverede chats";
+
+"Keyboard Shortcut" = "Genveje på tastaturet";
+
+"Light" = "Lys";
+
+"Email" = "E-mail";
+
+"This workspace is private and opted out of training." = "Dette arbejdsområde er privat og udeladt fra træning";
+
+"Color Scheme" = "Farvevalg";
+
+"About" = "Om";
+
+"Desktop Launcher" = "Desktop Launcher";
+
+"Email missing!" = "E-mail mangler!";
+
+"Recent login required" = "Nyligt login påkrævet";
+
+"Are you sure?" = "Er du sikker?";
+
+"Unarchive" = "Reaktiver arkiveret samtale";
+
+"None" = "Ingen";
+
+"Archived Chats" = "Arkiverede chats";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "Sletning af din konto er permanent og kan ikke fortrydes. Alle dine data, herunder profil, samtaler og API-brug, vil blive fjernet.\n\nDu kan ikke bruge den samme e-mail eller det samme telefonnummer til at oprette en ny konto.\n\nHvis du har brugt ChatGPT med API, vil denne adgang også blive slettet.";
+
+"Main Language" = "Primære sprog";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Gem nye chats på denne enhed i din historik. Chats, der ikke gemmes, vil blive slettet fra vores system inden for 30 dage. Denne indstilling synkroniseres ikke på tværs af enheder. [Se mere](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Could not archive all chats" = "Kunne ikke arkivere alle chats";
+
+"System" = "System";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Gem nye chats på denne enhed i din historik og lad dem blive brugt til at forbedre vores AI-modeller. Chats, der ikke gemmes, vil blive slettet fra vores system inden for 30 dage. Denne indstilling synkroniseres ikke på tværs af enheder. [Se mere](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Lad lyd fra dine fremtidige stemmechats blive brugt til at forbedre og træne vores AI-modeller. Dette forbedrer kvaliteten af stemmechats for dig og andre brugere. [Se mere](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"We were unable to process your export at this time. Please try again later." = "Vi kunne ikke behandle din eksport på nuværende tidspunkt. Prøv igen senere.";
+
+"ChatGPT Plus" = "ChatGPT Plus";
+
+"New Features" = "Nye funktioner";
+
+"Export Data" = "Eksport af data";
+
+"Manage Memory" = "Administrer hukommelse";
+
+"Help" = "Hjælp";
+
+"Successfully exported data. You should receive an email shortly with your data." = "Dataen er nu eksporteret. Du vil snart modtage en e-mail med dine data.";
+
+"On" = "Til";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "Vælg det sprog, du primært taler, for at få de bedste resultater. Er det ikke på listen, er det stadig muligt, at det understøttes via automatisk genkendelse.";
+
+"Error deleting all chats" = "Fejl ved sletning af alle chats";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "Dine kontooplysninger og samtaler bliver inkluderet i eksporten. \n\nDataene vil blive sendt til din registrerede e-mail i en fil, der kan downloades. \n\nProcesseringen kan tage noget tid. Du vil få besked, når den er klar.";
+
+"Memory" = "Hukommelse";
+
+"Successfully exported data. You should receive an email shortly with your data." = "Dataene er nu eksporteret. Du vil snart modtage en e-mail med dine data.";
+
+"Always show ChatGPT in dock" = "Vis altid ChatGPT i docken";
+
+"Delete All Chats" = "Slet alle chats";
+
+"Could not unarchive conversation. Please try again later." = "Kunne ikke gendanne samtalen fra arkiv. Prøv igen senere.";
+
+"Free Plan" = "Gratis plan";
+
+"Privacy Policy" = "Privatlivspolitik";
+
+"ChatGPT for %@" = "ChatGPT til %@";
+
+"Chat history" = "Chathistorik";
+
+"Manage Subscriptions" = "Administrer abonnementer";
+
+"Restore purchases" = "Gendan køb";
+
+"App" = "App";
+
+"Yesterday" = "I går";
+
+"Could not delete all chats" = "Kunne ikke slette alle chats";
+

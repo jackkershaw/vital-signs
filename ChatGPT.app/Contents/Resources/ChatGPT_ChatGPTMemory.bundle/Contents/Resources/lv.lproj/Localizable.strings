@@ -1,0 +1,40 @@
+"Are you sure?" = "Vai esi pārliecināts?";
+
+"Clear Memory" = "Notīrīt atmiņu";
+
+"Open menu to select which GPT to show memories for" = "Atver izvēlni, lai atlasītu, kura GPT atmiņas rādīt";
+
+"Error loading memories" = "Ielādējot atmiņas, radās kļūda";
+
+"Error loading GPTs" = "Ielādējot GPT, radās kļūda";
+
+"Memory" = "Atmiņa";
+
+"Select a GPT" = "Atlasīt GPT";
+
+"Could not reset memory. Please try again later." = "Neizdevās atiestatīt atmiņu. Lūdzu, mēģini vēlreiz vēlāk.";
+
+"Memory is disabled" = "Atmiņa ir atspējota";
+
+"Search memories" = "Meklēt atmiņas";
+
+"Turn On" = "Ieslēgt";
+
+"Learn More" = "Uzzināt vairāk";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "Tērzējot ar %@, ielāgotā informācija un preferences tiks norādītas šeit.";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ aizmirsīs visu, kas tika ielāgots no tavām tērzētavām. To nevar atsaukt.";
+
+"Clear this GPT's memory" = "Notīrīt šī GPT atmiņu";
+
+"%@'s memories" = "%@ atmiņas";
+
+"%@ won't use or create memories" = "%@ neizmantos vai neizveidos atmiņas";
+
+"No memories" = "Nav atmiņu";
+
+"Clear ChatGPT’s memory" = "Notīrīt ChatGPT atmiņu";
+
+"Error deleting memory" = "Dzēšot atmiņu, radās kļūda";
+

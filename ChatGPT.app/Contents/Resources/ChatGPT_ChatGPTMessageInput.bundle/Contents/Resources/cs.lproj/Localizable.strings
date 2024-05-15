@@ -1,0 +1,82 @@
+"Stop Generating" = "Zastavit generování";
+
+"Message ChatGPT" = "Poslat zprávu ChatGPT";
+
+"This chat uses an older version of your custom instructions" = "Tento chat používá starší verzi tvých vlastních pokynů";
+
+"Failed, retry?" = "Nepodařilo se, zkusit znovu?";
+
+"Edit image" = "Upravit obrázek";
+
+"Image upload failed." = "Nahrávání obrázku se nezdařilo.";
+
+"Stop" = "Zastavit";
+
+"You need %@ to continue this chat because it has attachments." = "You need %@ to continue this chat because it has attachments.";
+
+"Attached image" = "Připojený obrázek";
+
+"You need %@ to continue this chat because this GPT requires it." = "You need %@ to continue this chat because this GPT requires it.";
+
+"Message" = "Zpráva";
+
+"Attach photos" = "Připojit fotky";
+
+"You need %@ to continue this chat because it uses audio." = "You need %@ to continue this chat because it uses audio.";
+
+"File upload failed." = "Nahrávání souboru se nezdařilo.";
+
+"Upload File" = "Nahrát soubor";
+
+"Get Plus to Chat" = "Pořiď si Plus, ať můžeš chatovat";
+
+"You've reached your %@ limit." = "You've reached your %@ limit.";
+
+"Editing message" = "Úprava zprávy";
+
+"If you cancel the text conversion you will lose the recording." = "Pokud převod textu zrušíš, přijdeš o nahrávku.";
+
+"You need %@ to continue this chat because it uses tools." = "You need %@ to continue this chat because it uses tools.";
+
+"New Message" = "Nová zpráva";
+
+"This chat is currently unavailable" = "This chat is currently unavailable";
+
+"Continue Generating" = "Pokračovat v generování";
+
+"Microphone access required" = "Microphone access required";
+
+"Image attachment failed." = "Připojení obrázku se nezdařilo.";
+
+"Confirm" = "Potvrdit";
+
+"Scroll to bottom" = "Posunout dolů";
+
+"Fullscreen" = "Celá obrazovka";
+
+"Edit selection" = "Upravit výběr";
+
+"No connection" = "No connection";
+
+"To continue, you’ll need to replace the current attachment." = "Pokud chceš pokračovat, musíš aktuální přílohu nahradit.";
+
+"Remove attachment" = "Odebrat přílohu";
+
+"Replace attachment?" = "Nahradit přílohu?";
+
+"Send" = "Odeslat";
+
+"Shows the voice recording interface and begins recording" = "Ukáže rozhraní hlasového nahrávání a zahájí nahrávání";
+
+"Replace" = "Nahradit";
+
+"Attach files" = "Připojit soubory";
+
+"Switch to Voice mode" = "Přepnout na hlasový režim";
+
+"Are you sure?" = "Opravdu?";
+
+"Dictation" = "Diktát";
+
+"You need %@ to continue this chat because it has images." = "You need %@ to continue this chat because it has images.";
+

@@ -1,0 +1,74 @@
+"Change Model" = "Ubah Model";
+
+"Memories updated" = "Memori dikemas kini";
+
+"Response rating failed." = "Penarafan tindak balas gagal.";
+
+"#%lld row" = "Baris #%lld";
+
+"Analysis" = "Analisis";
+
+"Stop Generating" = "Berhenti Menjana";
+
+"Upgraded response" = "Tindak balas dinaik taraf";
+
+"Always allow" = "Sentiasa benarkan";
+
+"Quick Look" = "Lihat Segera";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT hanya menyimpan fail untuk masa yang terhad. Mulakan perbualan baharu atau muat naik fail baharu untuk meneruskan perbualan anda.";
+
+"Bad" = "Buruk";
+
+"Regenerate" = "Jana semula";
+
+"Sign in to %@" = "Daftar masuk ke %@";
+
+"File expired" = "Fail tamat tempoh";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Fail ini tidak lagi tersedia. Mulakan perbualan baharu atau muat naik fail baharu untuk meneruskan perbualan anda.";
+
+"Memory updated" = "Memori dikemas kini";
+
+"Read Aloud" = "Baca dengan Lantang";
+
+"Please try again later.%@" = "Sila cuba sebentar lagi.%@";
+
+"Loading…" = "Memuatkan…";
+
+"Edit" = "Edit";
+
+"Selection" = "Pemilihan";
+
+"Manage memories" = "Urus memori";
+
+"How would you rate this GPT?" = "Apakah penilaian anda untuk GPT ini?";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "Memuat naik ^[%lld lampiran](inflect: true)…";
+
+"Select Text" = "Pilih Teks";
+
+"A GPT" = "GPT";
+
+"You" = "Anda";
+
+"Save File As…" = "Simpan Fail Sebagai...";
+
+"Continue Generating" = "Teruskan Menjana";
+
+"Failed, retry?" = "Telah gagal, cuba semula?";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Ditulis dengan model kami yang paling berkebolehan, GPT-4, tersedia di ChatGPT Plus.";
+
+"\"%@\" cell" = "Sel \"%@\"";
+
+"Decline" = "Ditolak";
+
+"\"%@\" column" = "Lajur \"%@\"";
+
+"Deny" = "Nafikan";
+
+"File unavailable" = "Fail tidak tersedia";
+
+"Your most recent request failed. Please retry!" = "Permintaan terbaharu anda gagal. Sila cuba semula!";
+

@@ -1,0 +1,26 @@
+"Report" = "檢舉";
+
+"Shared conversation is invalid." = "分享的對話無效。";
+
+"Shared Link Date" = "分享連結日期";
+
+"Help and FAQ" = "說明和常見問題";
+
+"Shared Link Title" = "分享連結標題";
+
+"Shared conversation" = "分享的對話";
+
+"Failed to determine model." = "無法決定模型。";
+
+"Shared Link Owner" = "分享連結擁有者";
+
+"This conversation may reflect the link creator’s custom instructions, which aren’t shared and can meaningfully change how the model responds." = "此對話可能會反映連結建立者的自訂指令，這些指令不會分享給他人，並且有助於變更模型的回應方式。";
+
+"Menu" = "選單";
+
+"The shared conversation does not exist." = "分享的對話並不存在。";
+
+"Failed to load shared conversation." = "無法載入分享的對話。";
+
+"Continue" = "繼續";
+

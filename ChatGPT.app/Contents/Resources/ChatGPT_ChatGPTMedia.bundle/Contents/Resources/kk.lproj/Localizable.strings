@@ -1,0 +1,70 @@
+"Back" = "Артқа";
+
+"More" = "Тағы";
+
+"Camera Access Restricted" = "Камераны пайдалану рұқсаты шектелді";
+
+"Copied" = "Көшірілді";
+
+"Select" = "Таңдау";
+
+"Next" = "Келесі";
+
+"Enable camera access in Settings to take photos." = "Суретке түсіру үшін Параметрлерде камераны пайдалануға рұқсат беріңіз.";
+
+"View prompt" = "Көмексөзді көру";
+
+"Bad response" = "Нашар жауап";
+
+"Thank you for your feedback!" = "Пікіріңізге рақмет!";
+
+"Redo" = "Қайталау";
+
+"Prompt" = "Көмексөз";
+
+"Annotate" = "Түсіндірме қосу";
+
+"Rear camera selected, tap to toggle to front" = "Артқы камера таңдалды, алдыңғыға ауыстыру үшін түртіңіз";
+
+"Flash auto, tap to toggle on" = "Автоматты жарқыл, қосу үшін түртіңіз";
+
+"Download complete" = "Жүктеп алу аяқталды";
+
+"This file is not available." = "Файл қолжетімді емес.";
+
+"This file has expired." = "Файл мерзімі өтті.";
+
+"Undo" = "Қайтару";
+
+"The file download failed. Please try again later." = "Файл жүктеп алынбады. Кейінірек қайталап көріңіз.";
+
+"The file was not found." = "Файл табылмады.";
+
+"Learn more" = "Көбірек білу";
+
+"Flash off, tap to toggle to auto" = "Жарқыл өшірулі, автоматтыға ауыстыру үшін түртіңіз";
+
+"Good response" = "Жақсы жауап";
+
+"Pick photo" = "Сурет таңдау";
+
+"Image saved" = "Сурет сақталды";
+
+"Camera access is restricted on this device. Please check your parental control or system settings." = "Бұл құрылғыда камераны пайдалану рұқсаты шектелген. Ата-ана бақылауын немесе жүйе параметрлерін тексеріңіз.";
+
+"Select camera device" = "Камера құрылғысын таңдау";
+
+"Flash on, tap to toggle off" = "Жарқыл қосулы, өшіру үшін түртіңіз";
+
+"Failed to load image" = "Сурет жүктелмеді";
+
+"Annotate by drawing on the image" = "Суретте сурет салу арқылы түсіндірме қосу";
+
+"Dismiss" = "Елемеу";
+
+"Select an area to edit" = "Өзгертілуі тиіс аймақты таңдаңыз";
+
+"Front camera selected, tap to toggle to rear" = "Алдыңғы камера таңдалды, артқыға ауыстыру үшін түртіңіз";
+
+"Camera Access Denied" = "Камераны пайдалануға рұқсат берілмеді";
+

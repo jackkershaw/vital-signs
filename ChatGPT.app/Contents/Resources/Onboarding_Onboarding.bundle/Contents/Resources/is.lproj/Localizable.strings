@@ -1,0 +1,96 @@
+"There was a problem verifying the code. %@" = "Vandamál kom upp við að staðfesta kóðann. %@";
+
+"Verify you're human" = "Staðfestu að þú sért manneskja";
+
+"Finish creating your OpenAI account" = "Ljúktu við að stofna OpenAI-reikninginn þinn";
+
+"Enter the code we just sent to your number ending in **%@" = "Færðu inn kóðann sem við sendum í númerið sem endar á **%@";
+
+"Please choose a valid date for your birthday." = "Veldu gilda dagsetningu fyrir fæðingardag þinn.";
+
+"error" = "villa";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "Eitthvað fór úrskeiðis. Endurræstu appið, skráðu þig út og reyndu aftur.";
+
+"Code" = "Kóði";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "Kynntu þér [leiðbeiningar um staðfestingu í síma](https://help.openai.com/articles/6613520-phone-verification) ef þú þarft aðstoð.";
+
+"Sorry, we aren't able to create your account" = "Því miður gátum við ekki stofnað reikning fyrir þig";
+
+"There was a problem, please try again. (%@)" = "Vandamál kom upp. Reyndu aftur. (%@)";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "Við sendum tölvupóst á %@.\nSmelltu á tengilinn í póstinum til að byrja.";
+
+"Continue" = "Halda áfram";
+
+"Verify phone number" = "Staðfesta símanúmer";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Með því að smella á „Halda áfram“ samþykkir þú [skilmála](https://openai.com/policies/terms-of-use) okkar og staðfestir [persónuverndarstefnu](https://openai.com/policies/privacy-policy) okkar.";
+
+"Tell us about you." = "Segðu okkur frá þér.";
+
+"Your account could not be created. Please try again. %@" = "Ekki tókst að búa til reikning. Reyndu aftur. %@";
+
+"Please provide a phone number for verification." = "Gefðu upp símanúmer til staðfestingar.";
+
+"You have made too many attempts. Please try again later." = "Þú hefur gert of margar tilraunir. Reyndu aftur síðar.";
+
+"Please solve this puzzle so we know you're a person." = "Vinsamlegast leystu þessa þraut til að við vitum að þú sért manneskja.";
+
+"Area code" = "Póstnúmer";
+
+"Resend code" = "Endursenda kóða";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Með því að smella á „Halda áfram“ samþykkir þú [skilmála](https://openai.com/policies/terms-of-use) okkar og staðfestir [persónuverndarstefnu](https://openai.com/policies/privacy-policy) okkar og [viðauka hennar fyrir Kóreu](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "Ekki tókst að sækja nauðsynlegar upplýsingar. Athugaðu nettenginguna og endurræstu appið. (%@)";
+
+"There was a problem verifying your phone number. %@" = "Vandamál kom upp við að staðfesta símanúmerið þitt. %@";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Vandamál kom upp í nettengingu. Reyndu aftur. (%lld)";
+
+"Phone number" = "Símanúmer";
+
+"Last name" = "Kenninafn";
+
+"Open Mail App" = "Opna tölvupóstsapp";
+
+"Select your Birthday" = "Veldu fæðingardag þinn";
+
+"Select your area code" = "Veldu póstnúmer";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Með því að smella á „Halda áfram“ staðfestir þú að þú hafir fengið samþykki foreldris eða forráðamanns til að nota ChatGPT, samþykkir [skilmála](https://openai.com/policies/terms-of-use) okkar og staðfestir [persónuverndarstefnu](https://openai.com/policies/privacy-policy) okkar og [viðauka hennar fyrir Kóreu](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Birthday" = "Fæðingardagur";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Eitthvað fór úrskeiðis. Reikningurinn hefur þegar verið búinn til en ekki var hægt að uppfæra hann. Skráðu þig út og svo aftur inn.";
+
+"Something went wrong. Sign out and try again." = "Eitthvað fór úrskeiðis. Skráðu þig út og reyndu aftur.";
+
+"Resend email" = "Endursenda tölvupóst";
+
+"Verify your email" = "Staðfestu netfangið þitt";
+
+"Your email is not yet verified. Please check your email inbox." = "Netfangið þitt hefur ekki verið staðfest. Athugaðu tölvupóstinn þinn.";
+
+"Failed to load required information." = "Ekki tókst að hlaða nauðsynlegar upplýsingar.";
+
+"First name" = "Eiginnafn";
+
+"Please check your internet connection and retry." = "Athugaðu nettenginguna og reyndu aftur.";
+
+"I've verified my email" = "Ég hef staðfest netfangið mitt";
+
+"Something went wrong. Please try again." = "Eitthvað fór úrskeiðis. Reyndu aftur.";
+
+"Email resent!" = "Tölvupóstur endursendur!";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "Við getum ekki búið til reikninginn þinn vegna [notkunarskilmála](https://openai.com/policies/terms-of-use) okkar.";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "Ekki tókst að sækja lönd. Athugaðu nettenginguna og endurræstu appið. %@";
+
+"There was a problem, please try again." = "Vandamál kom upp. Reyndu aftur.";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Með því að smella á „Halda áfram“ samþykkir þú að þú hafir fengið samþykki foreldris eða forráðamanns til að nota ChatGPT, samþykkir [skilmála](https://openai.com/policies/terms-of-use) okkar og staðfestir [persónuverndarstefnu](https://openai.com/policies/privacy-policy) okkar";
+

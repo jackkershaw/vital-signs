@@ -1,0 +1,50 @@
+"Share link to chat" = "채팅 링크 공유";
+
+"Share link" = "링크 공유";
+
+"Update title" = "제목 업데이트";
+
+"The share link is invalid. %@" = "유효하지 않은 공유 링크입니다. %@";
+
+"Recipients won't be able to view images." = "받는 사람이 이미지를 볼 수 없습니다.";
+
+"There was an error preparing the conversation. Please try again. %@" = "대화를 준비하는 동안 오류가 발생했습니다. 다시 시도해 주세요. %@";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "이미 이 채팅에 대한 링크를 공유했습니다. 새 메시지를 포함하려면 이 링크를 삭제하고 채팅을 다시 공유하세요.";
+
+"Share your name" = "이름 공유";
+
+"Title" = "제목";
+
+"Shared Link Owner" = "공유 링크 소유자";
+
+"Help and FAQ" = "도움말 및 FAQ";
+
+"Share anonymously" = "익명으로 공유";
+
+"Options" = "옵션";
+
+"There was an error sharing the conversation. Please try again. %@" = "대화를 공유하는 동안 오류가 발생했습니다. 다시 시도해 주세요. %@";
+
+"Your custom instructions won’t be shared with viewers." = "내 맞춤형 지침은 보는 사람에게 공유되지 않습니다.";
+
+"Delete link" = "링크 삭제";
+
+"Edit title" = "제목 편집";
+
+"Shared Link Date" = "공유 링크 날짜";
+
+"Shared link deleted." = "공유 링크가 삭제되었습니다.";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "\"%@\" 공유 링크를 삭제하시겠습니까? 언제든지 이 채팅을 다시 공유하여 새 링크를 만들 수 있습니다.";
+
+"There was an error deleting your shared link." = "공유 링크를 삭제하는 동안 오류가 발생했습니다.";
+
+"The conversation has no messages." = "대화에 메시지가 없습니다.";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "링크를 공유한 후 보내거나 받은 메시지는 공유되지 않습니다. URL이 있는 사람은 누구나 공유 채팅을 볼 수 있습니다.";
+
+"Missing Name" = "이름 없음";
+
+"Shared Link Title" = "공유 링크 제목";
+

@@ -1,0 +1,18 @@
+"Unsupported content" = "ਅਸਮਰਥਿਤ ਸਮੱਗਰੀ";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "ਸਰਵਰ ਵਿੱਚ ਸਮੱਸਿਆਵਾਂ ਆ ਰਹੀਆਂ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ। (%lld, %@)";
+
+"The response is invalid. Please try again." = "ਜਵਾਬ ਅਵੈਧ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ ਕਰੋ।";
+
+"You've made too many requests. Please try again later. (429, %@)" = "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਬੇਨਤੀਆਂ ਕੀਤੀਆਂ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ। (429, %@)";
+
+"The server is overloaded. Please try again later." = "ਸਰਵਰ ਓਵਰਲੋਡ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।";
+
+"There is a problem with your account info. Please try signing out then in." = "ਤੁਹਾਡੀ ਖਾਤਾ ਜਾਣਕਾਰੀ ਵਿੱਚ ਕੋਈ ਸਮੱਸਿਆ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਸਾਈਨ ਆਊਟ ਕਰਕੇ ਦੇਖੋ ਅਤੇ ਫਿਰ ਸਾਈਨ ਇਨ ਕਰੋ।";
+
+"There is a problem with your request. (%lld, %@)" = "ਤੁਹਾਡੀ ਬੇਨਤੀ ਵਿੱਚ ਕੋਈ ਸਮੱਸਿਆ ਹੈ। (%lld, %@)";
+
+"This content may violate our content policy. Please try again with different content." = "ਇਹ ਸਮੱਗਰੀ ਸਾਡੀ ਸਮੱਗਰੀ ਨੀਤੀ ਦੀ ਉਲੰਘਣਾ ਕਰ ਸਕਦੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਵੱਖਰੀ ਸਮੱਗਰੀ ਨਾਲ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।";
+
+"System error" = "ਸਿਸਟਮ ਤਰੁੱਟੀ";
+

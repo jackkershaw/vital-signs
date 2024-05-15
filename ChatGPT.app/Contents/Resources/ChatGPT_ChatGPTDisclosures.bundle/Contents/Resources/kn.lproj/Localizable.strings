@@ -1,0 +1,150 @@
+"Snap a picture to ask ChatGPT about the world around you." = "ಒಂದು ಫೋಟೋ ತೆಗೆದು, ನಿಮ್ಮ ಸುತ್ತಲಿನ ಜಗತ್ತಿನ ಬಗ್ಗೆ ವಿವರಿಸಲು ChatGPTಯನ್ನು ಕೇಳಿ.";
+
+"Chats are saved" = "ಚಾಟ್‌ಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "ನಿಮ್ಮ ಸೂಚನೆಗಳು ನಮ್ಮ ಮಾದರಿಯನ್ನು ಸುಧಾರಿಸುತ್ತವೆ. ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಯಾವ ರೀತಿ ಬಳಕೆ ಮಾಡಲಾಗುತ್ತದೆ ಎಂದು ಇನ್ನಷ್ಟು ತಿಳಿಯಲು, ನಮ್ಮ [ಸಹಾಯ ಕೇಂದ್ರಕ್ಕೆ](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) ಭೇಟಿ ನೀಡಿ.";
+
+"More helpful over time" = "ಕಾಲಾನಂತರದಲ್ಲಿ ಹೆಚ್ಚು ಸಹಾಯಕವಾಗುತ್ತದೆ";
+
+"Follows custom instructions" = "ಕಸ್ಟಮ್ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸುತ್ತದೆ";
+
+"Just start talking" = "ಮಾತನಾಡಲು ಶುರುಮಾಡಿ";
+
+"Edit the full image" = "ಪೂರ್ಣ ಚಿತ್ರವನ್ನು ಸಂಪಾದಿಸಿ";
+
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "ನಿಮ್ಮ ಚಾಟ್‌ಗಳಿಗೆ ನಿರ್ದಿಷ್ಟ ವಿವರಗಳು ಮತ್ತು ಮಾರ್ಗಸೂಚಿಗಳನ್ನು ಒದಗಿಸುವ ಮೂಲಕ ChatGPTಯೊಂದಿಗಿನ ನಿಮ್ಮ ಮಾತುಕತೆಯನ್ನು ನಿಮಗೆ ತಕ್ಕಂತೆ ರೂಪಿಸಿ.";
+
+"Keep the conversation going" = "ಸಂಭಾಷಣೆಯನ್ನು ಮುಂದುವರಿಸಿಕೊಂಡು ಹೋಗಿ";
+
+"Don't Share" = "ಹಂಚಿಕೊಳ್ಳಬೇಡಿ";
+
+"Made for use at work" = "ಕೆಲಸದಲ್ಲಿ ಬಳಕೆಗಾಗಿ ಇದನ್ನು ತಯಾರಿಸಲಾಗಿದೆ";
+
+"Refine DALL·E Images" = "DALL·E ಚಿತ್ರಗಳನ್ನು ಪರಿಷ್ಕರಿಸಿ";
+
+"Continue" = "ಮುಂದುವರೆಸಿ";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "ನಿಮ್ಮ ಇತಿಹಾಸದಲ್ಲಿ ಧ್ವನಿ ಪ್ರತಿಲೇಖನಗಳನ್ನು ವೀಕ್ಷಿಸಿ. ಆಡಿಯೋ ಕ್ಲಿಪ್‌ಗಳನ್ನು ಸಂಗ್ರಹಿಸಲಾಗಿಲ್ಲ.";
+
+"Share audio from future voice chats to improve and train our models." = "ನಮ್ಮ ಮಾದರಿಗಳನ್ನು ಸುಧಾರಿಸಲು ಮತ್ತು ಟ್ರೈನ್‌ ನೀಡಲು ಭವಿಷ್ಯದ ಧ್ವನಿ ಚಾಟ್‌ಗಳಿಂದ ಆಡಿಯೊವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ.";
+
+"Check your facts" = "ನಿಮ್ಮ ಫ್ಯಾಕ್ಟ್‌ಗಳನ್ನು ನೋಡಿ";
+
+"Welcome to the %@ workspace" = "%@ ಕಾರ್ಯಕ್ಷೇತ್ರಕ್ಕೆ ಸುಸ್ವಾಗತ";
+
+"Introducing\nCustom Instructions" = "ಕಸ್ಟಮ್ ಸೂಚನೆಗಳನ್ನು ಪರಿಚಯಿಸಲಾಗುತ್ತಿದೆ";
+
+"Memory off" = "ನೆನಪು ಆಫ್";
+
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "ನೀವು ಸಂದೇಶ ಕಳುಹಿಸುವಾಗ ChatGPT ಹೆಚ್ಚು ಸಹಾಯಕವಾಗುತ್ತದೆ, ವಿವರಗಳು ಮತ್ತು ಆದ್ಯತೆಗಳನ್ನು ನಿರಂತರವಾಗಿ ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ.";
+
+"Hands-free" = "ಹ್ಯಾಂಡ್ಸ್-ಫ್ರೀ";
+
+"No model training" = "ಮಾದರಿ ಟ್ರೈನಿಂಗ್‌ ಇಲ್ಲ";
+
+"Temporary Chats won’t be used to improve our models." = "ನಮ್ಮ ಮಾದರಿಗಳನ್ನು ಸುಧಾರಿಸಲು ತಾತ್ಕಾಲಿಕ ಚಾಟ್‌ಗಳನ್ನು ಬಳಸಲಾಗುವುದಿಲ್ಲ.";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "ನಿಮಗೆ ಅನುಗುಣವಾಗಿ ಉತ್ತಮ ಉತ್ತರಗಳನ್ನು ಪಡೆಯಲು ನಿಮ್ಮ ಉದ್ಯಮ, ನಿಮ್ಮ ಪಾತ್ರ ಅಥವಾ ನಿರ್ದಿಷ್ಟ ಯೋಜನೆಗಳ ಕುರಿತು ಸಂದರ್ಭವನ್ನು ಒದಗಿಸಿ.";
+
+"ChatGPT can be inaccurate" = "ChatGPTಯು ತಪ್ಪಾದ ಮಾಹಿತಿ ನೀಡಬಹುದು";
+
+"Tap Select, highlight the area, and describe changes in chat." = "ಸೆಲೆಕ್ಟ್ ಅನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ, ಏರಿಯಾವನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ ಮತ್ತು ಚಾಟ್‌ನಲ್ಲಿನ ಬದಲಾವಣೆಗಳನ್ನು ವಿವರಿಸಿ.";
+
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "ನೀವು ನಿಯಂತ್ರಣದಲ್ಲಿದ್ದೀರಿ. ನಿರ್ದಿಷ್ಟ ಮೆಮೊರಿಗಳನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಅಳಿಸಿ, ಮೊದಲಿನಿಂದ ಮರುಪ್ರಾರಂಭಿಸಿ ಅಥವಾ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಆಫ್ ಮಾಡಿ.";
+
+"Help improve voice" = "ಧ್ವನಿ ಸುಧಾರಿಸಲು ಸಹಾಯ ಮಾಡಿ";
+
+"Chat with voice" = "ಧ್ವನಿಯೊಂದಿಗೆ ಚಾಟ್ ಮಾಡಿ";
+
+"Learn more" = "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ";
+
+"Help improve our models" = "ನಮ್ಮ ಮಾದರಿಗಳನ್ನು ಸುಧಾರಿಸಲು ಸಹಕರಿಸಿ";
+
+"Tap Edit and describe changes in chat." = "ಸಂಪಾದಿಸು ಟ್ಯಾಪ್ ಮಾಡಿ ಮತ್ತು ಚಾಟ್‌ನಲ್ಲಿನ ಬದಲಾವಣೆಗಳನ್ನು ವಿವರಿಸಿ.";
+
+"You’re in control" = "ಎಲ್ಲವೂ ನಿಮ್ಮ ನಿಯಂತ್ರಣದಲ್ಲಿದೆ";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "ChatGPT ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಬಹುದು, ನಿಮಗೆ ಕಲಿಯಲು ಸಹಾಯ ಮಾಡಬಹುದು, ಕೋಡ್ ಬರೆಯಬಹುದು, ಒಟ್ಟಿಗೆ ಸೇರಿ ಪರಿಹಾರ ಹುಡುಕಬಹುದು, ಹಾಗು ಇನ್ನಷ್ಟು ಮಾಡಬಹುದು.";
+
+"Choose a voice" = "ಧ್ವನಿಯನ್ನು ಆರಿಸಿ";
+
+"Temporary Chat" = "ತಾತ್ಕಾಲಿಕ ಚಾಟ್‌";
+
+"Don’t share sensitive info" = "ಸೂಕ್ಷ್ಮ ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳಬೇಡಿ";
+
+"Taking steps to protect privacy" = "ಗೌಪ್ಯತೆಯನ್ನು ರಕ್ಷಿಸಲು ಕ್ರಮಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವುದು";
+
+"Chat with images" = "ಚಿತ್ರದೊಂದಿಗೆ ಸಂದೇಶ ಕಳುಹಿಸಿ";
+
+"ChatGPT now has memory across chats" = "ChatGPT ಈಗ ಚಾಟ್‌ಗಳಾದ್ಯಂತ ನೆನಪನ್ನು ಹೊಂದಿದೆ";
+
+"Built for business" = "ವ್ಯವಹಾರಕ್ಕಾಗಿ ನಿರ್ಮಿಸಲಾಗಿದೆ";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "ChatGPTಯು ಜನರ ಬಗ್ಗೆ, ಜಾಗಗಳ ಬಗ್ಗೆ, ಅಥವಾ ಸಂಗತಿಗಳ ಬಗ್ಗೆ ತಪ್ಪಾದ ಮಾಹಿತಿಯನ್ನು ಕೊಡುವ ಸಾಧ್ಯತೆ ಇರುತ್ತದೆ.";
+
+"Start with a photo" = "ಫೋಟೋದ ಮೂಲಕ ಶುರುಮಾಡಿ";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "ನಾವು ಸುರಕ್ಷತೆಗಳನ್ನು ಹೊಂದಿದ್ದೇವೆ, ಆದರೆ ChatGPT ನಿಮಗೆ ತಪ್ಪಾದ ಮಾಹಿತಿಯನ್ನು ನೀಡಬಹುದು. ಇದು ಸಲಹೆ ನೀಡಲು ಉದ್ದೇಶಿಸಿಲ್ಲ.";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "ಹೆಚ್ಚು ನಿಖರವಾದ ಪತ್ತೆಗಾಗಿ ನೀವು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಆದ್ಯತೆಯ ಭಾಷೆಯನ್ನು ನಿರ್ದಿಷ್ಟಪಡಿಸಬಹುದು.";
+
+"Select an area of the image to edit" = "ಸಂಪಾದಿಸಲು ಚಿತ್ರದ ಪ್ರದೇಶವನ್ನು ಆಯ್ಕೆಮಾಡಿ";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "ನಿಮ್ಮ ಇತಿಹಾಸದಲ್ಲಿ ತಾತ್ಕಾಲಿಕ ಚಾಟ್‌ಗಳು ಕಾಣಿಸುವುದಿಲ್ಲ. ಸುರಕ್ಷತೆಯ ಉದ್ದೇಶಗಳಿಗಾಗಿ, 30 ದಿನಗಳವರೆಗೆ ನಾವು ನಿಮ್ಮ ಚಾಟ್ ಅನ್ನು ಇರಿಸಿಕೊಳ್ಳಬಹುದು.";
+
+"Welcome to ChatGPT" = "ChatGPTಗೆ ಸುಸ್ವಾಗತ";
+
+"Welcome to your company's workspace" = "ನಿಮ್ಮ ಸಂಸ್ಥೆಯ ಕಾರ್ಯಕ್ಷೇತ್ರಕ್ಕೆ ಸುಸ್ವಾಗತ";
+
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "ನಿಮ್ಮ ಕಸ್ಟಮ್ ಸೂಚನೆಗಳನ್ನು ನೀವು ಸಂಪಾದಿಸಿದಾಗಲೆಲ್ಲಾ, ನೀವು ರಚಿಸುವ ಎಲ್ಲಾ ಹೊಸ ಚಾಟ್‌ಗಳಲ್ಲಿ ಅವು ಪರಿಣಾಮ ಬೀರುತ್ತವೆ. ಹಳೆಯ ಸಂಭಾಷಣೆಗಳನ್ನು ನವೀಕರಿಸಲಾಗುವುದಿಲ್ಲ.";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "ಈ ಸಾಧನದಲ್ಲಿ ಹೊಸ ಚಾಟ್‌ಗಳು ನಿಮ್ಮ ಇತಿಹಾಸದಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆಯೇ ಮತ್ತು ನಮ್ಮ ಸಿಸ್ಟಮ್‌ಗಳನ್ನು ಸುಧಾರಿಸಲು ಬಳಸಬೇಕೇ ಎಂಬುದನ್ನು ನಿರ್ಧರಿಸಿ.";
+
+"Custom Instructions will still be followed if you have them enabled." = "ನೀವು ಕಸ್ಟಮ್ ಸೂಚನೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿದ್ದರೆ ಅವುಗಳನ್ನು ಇನ್ನೂ ಅನುಸರಿಸಲಾಗುತ್ತದೆ.";
+
+"Chats may be reviewed by our AI trainers to improve our systems." = "ನಮ್ಮ ಸಿಸ್ಟಂಗಳನ್ನು ಸುಧಾರಿಸಲು ನಮ್ಮ AI ಟ್ರೈನರ್‌ಗಳು ಚಾಟ್‌ಗಳನ್ನು ಪರಿಶೀಲಿಸಬಹುದು.";
+
+"Language is auto-detected" = "ಭಾಷೆ ಸ್ವಯಂ-ಪತ್ತೆಯಾಗಿದೆ";
+
+"Ask away" = "ಪ್ರಶ್ನೆ ಕೇಳಿ";
+
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "Chat‌GPT ಚಾಟ್‌ಗಳ ನಡುವೆ ತಾನು ಕಲಿತಿದ್ದನ್ನು ಬಳಸಿಕೊಳ್ಳುತ್ತದೆ, ಇದರಿಂದ ಹೆಚ್ಚು ಸಂಬಂಧಿತ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಒದಗಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.";
+
+"Active for new chats" = "ಹೊಸ ಚಾಟ್‌ಗಳಿಗಾಗಿ ಸಕ್ರಿಯಗೊಂಡಿದೆ";
+
+"Chat without having to look at your screen." = "ನಿಮ್ಮ ಪರದೆಯನ್ನು ನೋಡದೆಯೇ ಚಾಟ್ ಮಾಡಿ.";
+
+"Control your chat history" = "ನಿಮ್ಮ ಚಾಟ್ ಇತಿಹಾಸವನ್ನು ನಿಯಂತ್ರಿಸಿ";
+
+"Get Started" = "ಪ್ರಾರಂಭಿಸಿ";
+
+"Manage what it remembers" = "ಏನು ನೆನಪಿಸುತ್ತದೆ ಎಂದು ನಿರ್ವಹಿಸಿ";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "ಧ್ವನಿ ಚಾಟ್‌ಗಳನ್ನು ಸುಧಾರಿಸಲು, ನಮ್ಮ ತಂಡವು ಆಡಿಯೊವನ್ನು ಪರಿಶೀಲಿಸಬಹುದು. ನಮ್ಮ ಮಾದರಿಗಳಿಗೆ ಟ್ರೈನ್‌ ನೀಡಲು ಆಡಿಯೊದಲ್ಲಿನ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯ ಪ್ರಮಾಣವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ನಾವು ಕ್ರಮಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೇವೆ.";
+
+"Improve voice chats for everyone" = "ಎಲ್ಲಾರಿಗೂ ಧ್ವನಿ ಚಾಟ್ ಸುಧಾರಿಸು";
+
+"Picture perfect" = "ಪಿಕ್ಚರ್ ಪರ್ಫೆಕ್ಟ್";
+
+"Now you can have spoken conversations with GPTs." = "ಈಗ ನೀವು GPTಗಳ ಜೊತೆಗೆ ಮಾತನಾಡುವ ಸಂಭಾಷಣೆಗಳನ್ನು ಮಾಡಬಹುದು.";
+
+"Share" = "ಹಂಚಿ";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "ನಿಮ್ಮ ಬೈಕ್ ಅನ್ನು ಸರಿಪಡಿಸಲು, ಪಾಕವಿಧಾನವನ್ನು ರಚಿಸಲು ಅಥವಾ ಜಟಿಲ ದಾಖಲೆಗಳನ್ನು ವಿಶ್ಲೇಷಿಸಲು ಫೋಟೋಗಳನ್ನು ಬಳಸಿ.";
+
+"By default, chats in this workspace are not used to train our AI models." = "ಪೂರ್ವನಿಯೋಜಿತವಾಗಿ, ನಮ್ಮ AI ಮಾದರಿಗಳಿಗೆ ಟ್ರೈನ್ ಮಾಡಲು ಈ ಕಾರ್ಯಕ್ಷೇತ್ರದಲ್ಲಿನ ಸಂದೇಶ‌ಗಳನ್ನು ಬಳಸಲಾಗುವುದಿಲ್ಲ.";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "ತಾತ್ಕಾಲಿಕ ಚಾಟ್‌ನಲ್ಲಿರುವಾಗ, ChatGPT ಮೆಮೊರಿಯನ್ನು ಬಳಸುವುದಿಲ್ಲ ಅಥವಾ ರಚಿಸುವುದಿಲ್ಲ. ನೀವು ಅವುಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿದ್ದರೆ ಕಸ್ಟಮ್ ಸೂಚನೆಗಳನ್ನು ಇನ್ನೂ ಅನುಸರಿಸಲಾಗುತ್ತದೆ.";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "ಇಲ್ಲಿ ನೀವು ನಮ್ಮ ಇತ್ತೀಚಿನ ಮಾದರಿಗಳನ್ನು ಹೆಚ್ಚು ಸಾಮರ್ಥ್ಯಗಳೊಂದಿಗೆ ಮತ್ತು ಕಡಿಮೆ ಮಿತಿಗಳೊಂದಿಗೆ ಬಳಸಬಹುದು.";
+
+"Welcome to\nChatGPT" = "ChatGPT ಗೆ \nಸುಸ್ವಾಗತ";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "ನೀವು ಮುಂದುವರಿಸಲು ಬಯಸದಿದ್ದರೆ, ನೀವು ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ಸೆಟ್ಟಿಂಗ್‌-ಗೆ ಹೋಗಿ ಹಂಚಿಕೊಳ್ಳುವುದನ್ನು ನಿಲ್ಲಿಸಬಹುದು.\n\n[ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Not in history" = "ಇತಿಹಾಸದಲ್ಲಿ ಇಲ್ಲ";
+
+"Now you can have spoken conversations with ChatGPT." = "ಈಗ ನೀವು ChatGPT ಜೊತೆಗೆ ಮಾತನಾಡುವ ಸಂಭಾಷಣೆಗಳನ್ನು ಮಾಡಬಹುದು.";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "ಈ ಅಧಿಕೃತ ಆ್ಯಪ್ ಉಚಿತವಾಗಿದೆ, ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳ ಇತಿಹಾಸವನ್ನೂ ಸಿಂಕ್ ಮಾಡುತ್ತದೆ, ಹಾಗು ಇತ್ತೀಚಿನ ಮಾದರಿಯನ್ನು OpenAIನಿಂದ ನಿಮಗೆ ಒದಗಿಸುತ್ತೆ.";
+

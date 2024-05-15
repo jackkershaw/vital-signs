@@ -1,0 +1,82 @@
+"No connection" = "Shabako majirto";
+
+"Attached image" = "Sawir ku lifaaqan";
+
+"Are you sure?" = "Ma hubtaa?";
+
+"Microphone access required" = "Marinka makarafoonka loo baahanyahay";
+
+"Get Plus to Chat" = "Hel Plus si aad u Sheekeysato";
+
+"New Message" = "Farriin cusub";
+
+"Switch to Voice mode" = "U bedelo qaabka Codka";
+
+"This chat is currently unavailable" = "Sheekeysigan haddeerta lama heli karo";
+
+"Edit image" = "Tifatir sawir";
+
+"Remove attachment" = "Saar lifaaqa";
+
+"Scroll to bottom" = "Hoos u dhaadhac";
+
+"Upload File" = "Soo rar Fayl";
+
+"Stop" = "Jooji";
+
+"Shows the voice recording interface and begins recording" = "Wuxuu muujiyaa adeegsiga duubista wuxuuna bilaabaa duubista";
+
+"Send" = "Dir";
+
+"Message" = "Fariin";
+
+"You need %@ to continue this chat because it has images." = "Waxaad u baahantahay %@ si aad u sii wado sheekeysigan sababtoo ah waxey leedahay sawiro.";
+
+"Edit selection" = "Tifatir xulashada";
+
+"Continue Generating" = "Sii wad Soo Saarida";
+
+"Attach photos" = "Sawiro ku-lifaaq";
+
+"Image upload failed." = "Soo-gelinta sawirka waa fashilantay.";
+
+"Replace attachment?" = "Bedel lifaaqa?";
+
+"Confirm" = "Xaqiiji";
+
+"You need %@ to continue this chat because it uses audio." = "Waxaad u baahantahay %@ si aad u sii wado sheekeysigan sababtoo ah waxey adeegsataa maqal.";
+
+"File upload failed." = "Soo-gelinta faylka waa fashilmay.";
+
+"You need %@ to continue this chat because this GPT requires it." = "Waxaad u baahantahay %@ si aad u sii wado sheekeysigan sababtoo ah GPT-gan ayaa u baahan.";
+
+"Fullscreen" = "Shaashada-buuxda";
+
+"You need %@ to continue this chat because it uses tools." = "Waxaad u baahantahay %@ si aad u sii wado sheekeysigan sababtoo ah waxey adeegsataa agabyo.";
+
+"Dictation" = "Yeeris";
+
+"Message ChatGPT" = "Fariin u dir ChatGPT";
+
+"Editing message" = "Tifatirida fariin";
+
+"If you cancel the text conversion you will lose the recording." = "Haddii aad kansashid qoraal bedelida waxaad lumin doontaa duubista.";
+
+"Replace" = "Bedel";
+
+"To continue, you’ll need to replace the current attachment." = "Si aad u sii wadid, waxaad u baahan doontaa inaad bedeshid lifaaqa haddeertan.";
+
+"You've reached your %@ limit." = "Waxaad gaadhay %@ xadigaaga.";
+
+"Failed, retry?" = "Fashilmay, dib isugu day?";
+
+"Stop Generating" = "Jooji Soo Saarida";
+
+"This chat uses an older version of your custom instructions" = "Sheekeysigan wuxuu isticmaalaa nooc hore ee tilmaamahaaga gaarka ah";
+
+"You need %@ to continue this chat because it has attachments." = "Waxaad u baahantahay %@ si aad u sii wado sheekeysigan sababtoo ah waxey leedahay lifaaqyo.";
+
+"Attach files" = "Ku dheji faylal";
+
+"Image attachment failed." = "Sawir ku-lifaaqida waa fashilantay.";
+

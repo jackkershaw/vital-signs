@@ -1,0 +1,26 @@
+"The shared conversation does not exist." = "Mazungumzo ya pamoja hayapo.";
+
+"Failed to load shared conversation." = "Imeshindwa kupakia mazungumzo yaliyoshirikiwa.";
+
+"Shared Link Title" = "Kichwa cha Kiungo Kilichoshirikiwa";
+
+"Shared conversation" = "Mazungumzo ya pamoja";
+
+"Shared conversation is invalid." = "Mazungumzo ya pamoja si halali.";
+
+"Menu" = "Menyu";
+
+"This conversation may reflect the link creator’s custom instructions, which aren’t shared and can meaningfully change how the model responds." = "Mazungumzo haya yanaweza kuonyesha maagizo maalum ya mwundaji ya kiungo, ambayo hayashirikiwi na yanaweza kwa sana kubadilisha jinsi muundo unajibu.";
+
+"Help and FAQ" = "Msaada na Maswali Yanayoulizwa Sana";
+
+"Report" = "Ripoti";
+
+"Shared Link Date" = "Tarehe ya Kiungo Kilichoshirikiwa";
+
+"Shared Link Owner" = "Mmiliki wa Kiungo Kilichoshirikiwa";
+
+"Failed to determine model." = "Imeshindwa kubainisha muundo.";
+
+"Continue" = "Endelea";
+

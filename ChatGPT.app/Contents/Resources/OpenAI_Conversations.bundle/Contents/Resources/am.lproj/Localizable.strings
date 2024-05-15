@@ -1,0 +1,124 @@
+"Unable to find citation ID" = "የማጣቀሻ መታወቂያ ማግኘት አልተቻለም";
+
+"Error creating image" = "ምስል መፍጠር ላይ ስህተት";
+
+"Analyzing" = "በመተንተን ላይ";
+
+"Talking to %@" = "ከ%@ ጋር መነጋገር";
+
+"Archive Chat" = "ውይይቱን መዝገብ ውስጥ አስገባ";
+
+"Visited the web" = "ድሩ ገጹን ጎብኝቷል";
+
+"Stopped browsing" = "ማሰስ ቆሟል";
+
+"Error reading documents" = "ሰነዶችን ማንበብ ላይ ስህተት";
+
+"Stopped talking to site" = "ከጣቢያው ጋር ማውራት ቆሟል";
+
+"Stopped reading documents" = "ሰነድ ማንበብ ቆሟል";
+
+"Error browsing" = "የአሰሳ ስህተት";
+
+"Invalid citation" = "ልክ ያልሆነ ማጣቀሻ";
+
+"Search stopped" = "Search stopped";
+
+"Finished analyzing" = "መተንተን ጨርሷል";
+
+"Making a research plan" = "የምርምር እቅድ ማዘጋጀት";
+
+"Error analyzing" = "የመተንተን ስህተት";
+
+"You declined this action" = "ይህን እርምጃ አልተቀበሉም።";
+
+"Read document" = "ሰነዱን አንብብ";
+
+"Searching" = "በመፈለግ ላይ";
+
+"System error" = "የስርዓት ስህተት";
+
+"site" = "ድረ ገጽ";
+
+"Stopped reading document" = "ሰነድ ማንበብ ቁሟል";
+
+"Stopped talking to %@" = "ከ%@ ጋር ማውራት ቆሟል";
+
+"Visited %@" = "%@ ጎብኝቷል ";
+
+"Any created memories will be retained." = "ማንኛውም የተፈጠሩ ትውስታዎች ይቆያሉ።";
+
+"Reading documents" = "ሰነዶችን ማንበብ ላይ";
+
+"Read documents" = "ሰነዶችን አንብብ";
+
+"Reading %@" = "ማንበብ %@";
+
+"Search failed" = "Search failed";
+
+"Stopped researching" = "ምርምር ቆሟል";
+
+"Doing research with Bing" = "ከBing ጋር ምርምር ማድረግ";
+
+"Starting action" = "ድርጊት መጀመር";
+
+"Searching “%@”" = "\"%@\" በመፈለግ ላይ";
+
+"Talked to %@" = "ከ%@ ጋር ተነጋግሯል";
+
+"Stopped" = "ቆሟል";
+
+"Error researching" = "በመመርመር ላይ ስህተት";
+
+"Unable to find metadata" = "ሜታዳታ ማግኘት አልተቻለም";
+
+"Browsing %@" = "ማሰስ %@";
+
+"an external site" = "ውጫዊ ድረ ገጽ";
+
+"Delete Chat" = "ውይይቱን ሰርዝ";
+
+"Visited %lld sites" = "%lld ድረ ገጾችን ጎብኝቷል";
+
+"Error creating images" = "ምስሎችን መፍጠር ላይ ስህተት";
+
+"Searched %lld sites" = "Searched %lld sites";
+
+"Creating %lld images…" = "%lld ምስሎችን በመፍጠር ላይ…";
+
+"Read %@" = "አንብብ %@";
+
+"Stopped analyzing" = "መተንተን ቆሟል";
+
+"Searched 1 site" = "Searched 1 site";
+
+"Error reading document" = "ሰነድ ማንበብ ላይ ስህተት";
+
+"Archive" = "መዝገብ";
+
+"Visiting %@" = "%@ን በመጎብኘት ላይ";
+
+"Creating image" = "ምስል በመፍጠር ላይ";
+
+"Error talking to %@" = "ከ%@ ጋር ማውራት ላይ ስህተት";
+
+"Reading document" = "ሰነድ ማንበብ ላይ";
+
+"This can't be undone." = "ይህ ሊቀለበስ አይችልም።";
+
+"Read %lld documents" = "%lld ሰነዶችን ያንብቡ";
+
+"Research complete" = "ጥናቱ ተጠናቋል";
+
+"Unsupported content" = "የማይደገፍ ይዘት";
+
+"Stopped creating image" = "ምስል መፍጠር ቁሟል";
+
+"Writing prompts…" = "ጥያቄዎችን በመጻፍ ላይ…";
+
+"Creating 1 image…" = "1 ምስል በመፍጠር ላይ…";
+
+"Unable to generate URL" = "URL ማመንጨት አልተቻለም";
+
+"Are you sure you want to archive this chat?\nYou can view archived chats in Settings" = "እርግጠኛ ነዎት ይህን ውይይት መዝገብ ውስጥ ማስቀመጥ ይፈልጋሉ?\nበቅንብሮች ውስጥ በመዝገብ የተቀመጡ ውይይቶችን ማየት ይችላሉ";
+

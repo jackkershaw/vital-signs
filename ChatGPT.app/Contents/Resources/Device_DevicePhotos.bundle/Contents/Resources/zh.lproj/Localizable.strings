@@ -1,0 +1,16 @@
+"Expected a non-file URL, but received a file URL" = "预期的是非文件 URL，但收到的是文件 URL";
+
+"Not authorized" = "未授权";
+
+"Failed to Save Image" = "无法保存图片";
+
+"Enable photo library access in Settings to save photos." = "在“设置”中启用照片库访问权限，以保存照片。";
+
+"Image conversion failed" = "图片转换失败";
+
+"Photos Access Denied" = "照片访问被拒绝";
+
+"Please try again later.\n\n(%@)" = "请稍后重试。\n\n(%@)";
+
+"Expected a file URL, but received a non-file URL" = "预期的是文件 URL，但收到的是非文件 URL";
+

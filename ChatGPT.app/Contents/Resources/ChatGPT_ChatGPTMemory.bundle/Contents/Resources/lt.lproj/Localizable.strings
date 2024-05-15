@@ -1,0 +1,40 @@
+"Memory" = "Atmintis";
+
+"Error loading GPTs" = "Klaida įkeliant GPT";
+
+"Learn More" = "Sužinokite daugiau";
+
+"Error deleting memory" = "Klaida šalinant atmintį";
+
+"No memories" = "Atminčių nėra";
+
+"Clear this GPT's memory" = "Išvalyti šio GPT atmintį";
+
+"Select a GPT" = "Pasirinkti GPT";
+
+"Open menu to select which GPT to show memories for" = "Atidarykite meniu, kad pasirinktumėte, kuriame GPT rodyti atmintis";
+
+"Could not reset memory. Please try again later." = "Atminties iš naujo nustatyti nepavyko. Bandykite dar kartą vėliau.";
+
+"Turn On" = "Įjungti";
+
+"Clear ChatGPT’s memory" = "Išvalyti „ChatGPT“ atmintį";
+
+"Are you sure?" = "Ar tikrai?";
+
+"Search memories" = "Ieškoti atminčių";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "Kai kalbėsitės su %@, čia bus rodomi duomenys ir parinktys, kuriuos jis įsimins.";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ pamirš viską, ką įsiminė iš jūsų pokalbių. To anuliuoti negalima.";
+
+"Clear Memory" = "Išvalyti atmintį";
+
+"Memory is disabled" = "Atmintis išjungta";
+
+"%@'s memories" = "%@ atmintys";
+
+"%@ won't use or create memories" = "%@ nenaudos ir nekurs atminčių";
+
+"Error loading memories" = "Klaida įkeliant atmintis";
+

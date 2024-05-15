@@ -1,0 +1,50 @@
+"Shared link deleted." = "Споделениот линк е избришан.";
+
+"Share link to chat" = "Сподели линк за разговор";
+
+"Options" = "Опции";
+
+"Recipients won't be able to view images." = "Примачите нема да може да гледаат слики.";
+
+"Share anonymously" = "Сподели анонимно";
+
+"Shared Link Owner" = "Сопственик на споделен линк";
+
+"Shared Link Title" = "Наслов на споделен линк";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "Пораките испратени или примени по споделувањето на твојот линк нема да се споделуваат. Секој со URL-референца ќе може да го види твојот споделен разговор.";
+
+"Your custom instructions won’t be shared with viewers." = "Твоите приспособени упатства нема да се споделуваат со прегледувачите.";
+
+"There was an error preparing the conversation. Please try again. %@" = "Настана грешка при подготовката на разговорот. Обиди се повторно. %@";
+
+"Share link" = "Сподели линк";
+
+"Title" = "Наслов";
+
+"Share your name" = "Сподели го твоето име";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "Сигурно сакаш да го избришеш споделениот линк „%@“? Секогаш може да креираш нов линк со повторно споделување на овој разговор.";
+
+"Missing Name" = "Недостасува име";
+
+"The conversation has no messages." = "Разговорот нема пораки.";
+
+"Help and FAQ" = "Помош и ЧПП";
+
+"Update title" = "Ажурирај го насловот";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "Веќе сподели линк за овој разговор. Ако сакаш да вклучиш нови пораки, избриши го овој линк и сподели го твојот разговор повторно.";
+
+"There was an error deleting your shared link." = "Настана грешка при бришењето на твојот споделен линк.";
+
+"Edit title" = "Уреди наслов";
+
+"There was an error sharing the conversation. Please try again. %@" = "Настана грешка при споделувањето на разговорот. Обиди се повторно. %@";
+
+"The share link is invalid. %@" = "Линкот за споделување е неважечки. %@";
+
+"Delete link" = "Избриши го линкот";
+
+"Shared Link Date" = "Датум на споделен линк";
+

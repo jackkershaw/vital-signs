@@ -1,0 +1,34 @@
+"Memory off" = "Atmintis išjungta";
+
+"Close menu" = "Uždaryti meniu";
+
+"Please make sure this feature is enabled for your account." = "Įsitikinkite, kad jūsų paskyroje ši funkcija įjungta.";
+
+"Turn history on" = "Įjungti istoriją";
+
+"There is a problem with your internet connection." = "Kilo interneto ryšio problema.";
+
+"Error reading message out loud" = "Klaida skaitant pranešimą garsiai";
+
+"Toggle Sidebar" = "Perjungti šoninę juostą";
+
+"Deleted chat" = "Pašalintas pokalbis";
+
+"Thank you for your feedback!" = "Dėkojame už atsiliepimą!";
+
+"Voice capabilities aren’t currently available when history is turned off." = "Išjungus istoriją balso funkcijos nepasiekiamos.";
+
+"History off" = "Istorija išjungta";
+
+"Open Memory Settings" = "Atidaryti atminties nuostatas";
+
+"Deleting chat failed" = "Pokalbio pašalinti nepavyko";
+
+"Deleting chat…" = "Pokalbis šalinamas…";
+
+"Open Settings" = "Atidaryti nuostatas";
+
+"Voice capabilities aren’t currently available with this GPT because it requires memory to be on." = "Balso funkcijos su šiuo GPT dabar nepasiekiamos, nes tam reikalinga įjungta atmintis.";
+
+"Voice unavailable" = "Balso funkcijos nepasiekiamos";
+

@@ -1,0 +1,114 @@
+"Good" = "Bon";
+
+"Anyone with a link" = "Toute personne disposant d’un lien";
+
+"Okay" = "Passable";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "^[%lld étoiles](inflect: true), %@ des évaluations";
+
+"Recently Used" = "Utilisés récemment";
+
+"Failed to remove recent GPT, retry?" = "Échec de retrait du GPT récent. Réessayer?";
+
+"How would you rate this GPT?" = "Comment évaluez-vous ce GPT?";
+
+"Visibility" = "Visibilité";
+
+"Options" = "Options";
+
+"Edit" = "Modifier";
+
+"%@ rating" = "%@ évaluations";
+
+"By %@" = "Par %@";
+
+"Feedback" = "Feedback";
+
+"Get Plus to Chat" = "Obtenir le plan Plus pour clavarder";
+
+"Star rating" = "Évaluation";
+
+"Top Suggestions" = "Meilleures suggestions";
+
+"Capabilities" = "Fonctionnalités";
+
+"Optional private note for creator…" = "Note privée facultative pour le créateur…";
+
+"Unable to load, retry?" = "Impossible de charger. Réessayer?";
+
+"Search Public GPTs" = "Rechercher des GPT publics";
+
+"Conversation starters" = "Amorces de conversation";
+
+"Report" = "Signaler";
+
+"Loading more" = "Chargement d’autres éléments";
+
+"Thank you for your feedback!" = "Merci pour vos commentaires!";
+
+"Editing Not Available" = "Modification non disponible";
+
+"Exceptional!" = "Exceptionnel!";
+
+"Start Chat" = "Démarrer le clavardage";
+
+"Include my email" = "Inclure mon adresse courriel";
+
+"%@ chats" = "%@ clavardages";
+
+"Great" = "Très bon";
+
+"Editing and creating a GPT is only available on web for now." = "La modification et la création de GPT est uniquement possible sur le web pour l’instant.";
+
+"By community builder" = "Par un développeur de la communauté";
+
+"Add a note" = "Ajouter une remarque";
+
+"Tap a star" = "Touchez sur une étoile";
+
+"How would you rate **%@**?" = "Comment évaluez-vous **%@**?";
+
+"My GPTs" = "Mes GPT";
+
+"Remove GPT" = "Retirer le GPT";
+
+"Failed to delete GPT, retry?" = "Échec de suppression du GPT. Réessayer?";
+
+"Searching…" = "Recherche en cours…";
+
+"Bad" = "Mauvais";
+
+"Chats: %@" = "Clavardages : %@";
+
+"Top Picks" = "Meilleurs choix";
+
+"No Recents" = "Aucun élément récent";
+
+"Share" = "Partager";
+
+"Untitled" = "Sans titre";
+
+"No Results Found" = "Aucun résultat trouvé";
+
+"Are you sure you want to delete this GPT?" = "Voulez-vous vraiment supprimer ce GPT?";
+
+"See more" = "Afficher plus d’éléments";
+
+"Start chat" = "Démarrer le clavardage";
+
+"Include my email **%@**" = "Inclure mon adresse courriel **%@**";
+
+"Remove" = "Retirer";
+
+"in **%@**" = "dans **%@**";
+
+"Are you sure you want to remove this GPT from your recents?" = "Voulez-vous vraiment retirer ce GPT de vos éléments récents?";
+
+"Anyone at %@" = "Tout utilisateur de %@";
+
+"Only me" = "Seulement moi";
+
+"Public" = "Public";
+
+"Explore" = "Explorer";
+

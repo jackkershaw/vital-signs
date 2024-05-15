@@ -1,0 +1,170 @@
+"Click to activate" = "Нажмите, чтобы активировать";
+
+"Tap to dismiss" = "Нажмите, чтобы отклонить";
+
+"Play" = "Воспроизвести";
+
+"Connected" = "Подключено";
+
+"%lld." = "%lld.";
+
+"Open camera" = "Открыть камеру";
+
+"Idle" = "Неактивен";
+
+"Click to interrupt" = "Нажмите, чтобы прервать";
+
+"Connection failed, click to retry" = "Не удалось подключиться. Нажмите, чтобы повторить попытку";
+
+"Save to Photos" = "Сохранить в фотографиях";
+
+"Flip camera to the front" = "Переключите камеру на фронтальную";
+
+"Speak now" = "Говорите сейчас";
+
+"Enable microphone access in Settings" = "Включите доступ к микрофону в настройках";
+
+"It misheard me" = "Он меня неправильно услышал";
+
+"On for training" = "Включено для обучения";
+
+"Unknown error" = "Неизвестная ошибка";
+
+"Connect" = "Подключиться";
+
+"Tap to connect" = "Нажмите, чтобы подключиться";
+
+"Take picture" = "Сделать фотографию";
+
+"Poor" = "Плохо";
+
+"Audio issues" = "Проблемы со звуком";
+
+"Submit feedback" = "Отправить отзыв";
+
+"Click to send manually" = "Нажмите, чтобы отправить вручную";
+
+"Hold for manual control" = "Удерживайте для ручного управления";
+
+"Voice feedback: give thumbs down" = "Отзыв о голосе: поставить знак неодобрения (палец вниз)";
+
+"Go forward 15 seconds" = "На 15 секунд вперед";
+
+"Select all that apply" = "Выберите все подходящие варианты ответа";
+
+"Connection failed, tap to retry" = "Не удалось подключиться. Нажмите, чтобы повторить попытку.";
+
+"Tap to send manually" = "Нажмите, чтобы отправить вручную";
+
+"Poor connection" = "Плохое соединение";
+
+"Good" = "Хорошо";
+
+"Halted" = "Остановлено";
+
+"Unknown" = "Неизвестный";
+
+"Helping improve voice" = "Помощь в улучшении голоса";
+
+"Unable to review action" = "Невозможно проверить действие";
+
+"Go backward 15 seconds" = "На 15 секунд назад";
+
+"Listening intently" = "Внимательно слушаю";
+
+"Voice chat ended" = "Голосовой чат окончен";
+
+"Voice mode" = "Голосовой режим";
+
+"Restart" = "Перезапустить";
+
+"Resume listening" = "Продолжить слушать";
+
+"What went wrong?" = "Что пошло не так?";
+
+"Pick photo" = "Выберите фото";
+
+"Paused" = "Приостановлено";
+
+"Tap to interrupt" = "Нажмите, чтобы прервать";
+
+"Lost" = "Потеряно";
+
+"Click to cancel" = "Нажмите, чтобы отменить";
+
+"Choose a voice" = "Выбрать голос";
+
+"Close camera" = "Закрыть камеру";
+
+"Speaking" = "Разговор";
+
+"Voice feedback: give thumbs up" = "Отзыв о голосе: поставить знак одобрения (палец вверх)";
+
+"See more information about voice research" = "Смотрите больше информации об исследованиях голоса";
+
+"Other" = "Другое";
+
+"Speak to keep active" = "Говорите, чтобы оставаться активными";
+
+"Grace Period for %@s" = "Льготный период %@ с";
+
+"Unselect %@" = "Отменить выбор %@";
+
+"Learn more" = "Узнать больше";
+
+"Flip camera to the rear" = "Переключите камеру на основную";
+
+"Connecting.." = "Подключение..";
+
+"You can change this later." = "Вы можете изменить это позже.";
+
+"Tap to cancel" = "Нажмите, чтобы отменить";
+
+"Close" = "Закрыть";
+
+"I didn’t like the responses" = "Мне не нравятся ответы";
+
+"Unable to send response. Please try again." = "Невозможно отправить ответ. Попробуйте еще раз.";
+
+"Tap to activate" = "Нажмите, чтобы активировать";
+
+"Thinking" = "Думаю";
+
+"Stop listening" = "Прекратить слушать";
+
+"•" = "•";
+
+"Listening" = "Прослушивание";
+
+"Start speaking" = "Начать говорить";
+
+"It interrupted me" = "Он перебил меня";
+
+"Select %@" = "Выберите %@";
+
+"Failed to connect" = "Не удалось подключиться";
+
+"Finish speaking to send" = "Закончите говорить, чтобы отправить";
+
+"Connecting" = "Подключение";
+
+"Error: '%@'" = "Ошибка: «%@»";
+
+"Pause" = "Пауза";
+
+"Thank you!" = "Спасибо!";
+
+"Release to send" = "Отпустите, чтобы отправить";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "Вы решили поделиться своими аудиозаписями из голосовых чатов, чтобы улучшить и обучить наши модели. Сюда входит аудио с вашего микрофона, когда модель думает или говорит. Вы можете прекратить делиться в настройках.";
+
+"%lldms" = "%lld мс";
+
+"Click to connect" = "Нажмите, чтобы подключиться";
+
+"Excellent" = "Превосходно";
+
+"Connecting." = "Подключение.";
+
+"Voice chat ended after " = "Голосовой чат окончен после ";
+

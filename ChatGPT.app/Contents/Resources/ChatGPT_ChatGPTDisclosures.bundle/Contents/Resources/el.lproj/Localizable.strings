@@ -1,0 +1,150 @@
+"Custom Instructions will still be followed if you have them enabled." = "Οι προσαρμοσμένες οδηγίες θα εξακολουθήσουν να τηρούνται εφόσον τις έχεις ενεργοποιήσει.";
+
+"Improve voice chats for everyone" = "Βελτίωση συνομιλιών φωνής για όλους";
+
+"Ask away" = "Ρώτησέ με";
+
+"Picture perfect" = "Μία εικόνα, χίλιες λέξεις";
+
+"By default, chats in this workspace are not used to train our AI models." = "Από προεπιλογή, οι συνομιλίες σε αυτόν τον χώρο εργασίας δεν χρησιμοποιούνται για την εκπαίδευση των μοντέλων ΤΝ μας.";
+
+"Chat with voice" = "Συνομιλία με φωνή";
+
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "Το ChatGPT θα κρατήσει ό,τι μαθαίνει μεταξύ των συνομιλιών, προκειμένου να παρέχει πιο σχετικές απαντήσεις.";
+
+"Check your facts" = "Να ελέγχεις τα στοιχεία που σου παρέχονται";
+
+"Edit the full image" = "Επεξεργάσου ολόκληρη την εικόνα";
+
+"Keep the conversation going" = "Συνέχισε τη συζήτηση";
+
+"No model training" = "Δεν γίνεται εκπαίδευση του μοντέλου";
+
+"Don't Share" = "Να μην κοινοποιείται";
+
+"Refine DALL·E Images" = "Βελτίωση εικόνων DALL·E";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "Οι οδηγίες σου θα κάνουν το μοντέλο μας καλύτερο. Επισκέψου το [Κέντρο βοήθειας](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) για να μάθεις περισσότερα σχετικά με τον τρόπο που θα χρησιμοποιούνται τα δεδομένα σου.";
+
+"Tap Edit and describe changes in chat." = "Πάτα Επεξεργασία και περίγραψε αλλαγές στη συνομιλία.";
+
+"Welcome to ChatGPT" = "Καλώς ήρθες στο ChatGPT";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "Προσπάθησε να χρησιμοποιήσεις φωτογραφίες για να φτιάξεις το ποδήλατό σου, να δημιουργήσεις μια συνταγή ή να αναλύσεις πολύπλοκα γραφήματα.";
+
+"Continue" = "Συνέχεια";
+
+"Share" = "Κοινοποίηση";
+
+"Language is auto-detected" = "Η γλώσσα εντοπίζεται αυτόματα";
+
+"Hands-free" = "Hands-free";
+
+"Get Started" = "Ξεκίνα";
+
+"Not in history" = "Δεν παραμένει στο ιστορικό";
+
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "Το ChatGPT θα γίνεται πιο χρήσιμο καθώς συνομιλείτε, συνεχίζοντας να θυμάται λεπτομέρειες και προτιμήσεις.";
+
+"Introducing\nCustom Instructions" = "Παρουσίαση των\nπροσαρμοσμένων οδηγιών";
+
+"Tap Select, highlight the area, and describe changes in chat." = "Πάτα Επιλογή, επισήμανε την περιοχή και περίγραψε αλλαγές στη συνομιλία.";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "Μπορείς να καθορίσεις τη γλώσσα που προτιμάς στις Ρυθμίσεις για εντοπισμό μεγαλύτερης ακρίβειας.";
+
+"Don’t share sensitive info" = "Μην μοιράζεσαι ευαίσθητες πληροφορίες";
+
+"Snap a picture to ask ChatGPT about the world around you." = "Βγάλε μια εικόνα για να ρωτήσεις το ChatGPT σχετικά με τον κόσμο που σε περιβάλλει.";
+
+"Chats may be reviewed by our AI trainers to improve our systems." = "Οι συνομιλίες ενδέχεται να εξεταστούν από τους εκπαιδευτές ΤΝ μας, για να βελτιώνονται τα συστήματά μας.";
+
+"Taking steps to protect privacy" = "Παίρνουμε μέτρα για την προστασία του προσωπικού απορρήτου";
+
+"Learn more" = "Μάθε περισσότερα";
+
+"Share audio from future voice chats to improve and train our models." = "Θα κοινοποιεί τον ήχο από μελλοντικές συνομιλίες φωνής, προκειμένου να βελτιώνονται και να εκπαιδεύονται τα μοντέλα μας.";
+
+"Manage what it remembers" = "Διαχειρίσου το τι θυμάται";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "Για να βελτιώνει τις φωνητικές συνομιλίες, η ομάδα μας μπορεί να εξετάζει τον ήχο που καταγράφεται. Παίρνουμε μέτρα για να μειώσουμε την ποσότητα προσωπικών πληροφοριών στον ήχο που χρησιμοποιείται για την εκπαίδευση των μοντέλων μας.";
+
+"Start with a photo" = "Ξεκίνα με μια φωτογραφία";
+
+"You’re in control" = "Εσύ έχεις τον έλεγχο";
+
+"Now you can have spoken conversations with ChatGPT." = "Τώρα πια, μπορείς να κάνεις φωνητικές συζητήσεις με το ChatGPT.";
+
+"Welcome to the %@ workspace" = "Καλώς ήρθες στον χώρο εργασίας %@";
+
+"Memory off" = "Μνήμη απενεργοποιημένη";
+
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "Κάθε φορά που επεξεργάζεσαι τις προσαρμοσμένες οδηγίες σου, αυτές ενεργοποιούνται σε όλες τις νέες συνομιλίες που δημιουργείς. Οι παλαιότερες συνομιλίες δεν ενημερώνονται.";
+
+"Just start talking" = "Ξεκίνα απλά να μιλάς";
+
+"Select an area of the image to edit" = "Διάλεξε μια περιοχή της εικόνας για επεξεργασία";
+
+"Choose a voice" = "Διάλεξε φωνή";
+
+"Active for new chats" = "Ενεργό για νέες συνομιλίες";
+
+"Temporary Chats won’t be used to improve our models." = "Οι προσωρινές συνομιλίες δεν χρησιμοποιούνται για τη βελτίωση των μοντέλων μας.";
+
+"Built for business" = "Φτιαγμένο για επιχειρήσεις";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "Το ChatGPT ενδέχεται να παρέχει ανακριβείς πληροφορίες για ανθρώπους, μέρη ή στοιχεία.";
+
+"ChatGPT now has memory across chats" = "Το ChatGPT διατηρεί πλέον μνήμη σε όλες τις συνομιλίες";
+
+"Chats are saved" = "Οι συνομιλίες αποθηκεύονται";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "Οι προσωρινές συνομιλίες δεν θα εμφανίζονται στο ιστορικό σου. Για λόγους ασφαλείας, ενδέχεται να κρατήσουμε ένα αντίγραφο της συνομιλίας σου για έως και 30 ημέρες.";
+
+"Welcome to your company's workspace" = "Καλώς ήρθες στον χώρο εργασίας της εταιρείας σου";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "Εδώ μπορείς να χρησιμοποιήσεις τα τελευταία μας μοντέλα, με περισσότερες δυνατότητες και λιγότερους περιορισμούς.";
+
+"Help improve our models" = "Βοήθησέ μας να βελτιώσουμε τα μοντέλα μας";
+
+"Chat with images" = "Συνομιλία με εικόνες";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "Σε προσωρινές συνομιλίες, το ChatGPT δεν θα χρησιμοποιήσει ούτε θα δημιουργήσει μνήμες. Οι προσαρμοσμένες οδηγίες θα εξακολουθήσουν να τηρούνται εφόσον τις έχετε ενεργοποιήσει.";
+
+"ChatGPT can be inaccurate" = "Το ChatGPT ενδέχεται να είναι ανακριβές";
+
+"More helpful over time" = "Γίνεται πιο χρήσιμο με την πάροδο του χρόνου";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "Προβάλλει μεταγραφές φωνής στο ιστορικό σου. Δεν αποθηκεύονται εγγραφές ήχου.";
+
+"Temporary Chat" = "Προσωρινή συνομιλία";
+
+"Chat without having to look at your screen." = "Συνομίλησε χωρίς να χρειάζεται να κοιτάς στην οθόνη σου.";
+
+"Control your chat history" = "Έλεγξε το ιστορικό συνομιλιών σου";
+
+"Follows custom instructions" = "Ακολουθούνται οι προσαρμοσμένες οδηγίες";
+
+"Help improve voice" = "Βοήθησέ μας να βελτιώσουμε τη λειτουργία αναγνώρισης φωνής";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Αν δεν θέλεις να συνεχίσεις, μπορείς να σταματήσεις την κοινή χρήση ανά πάσα στιγμή στις ρυθμίσεις.\n\n[Μάθε περισσότερα](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Made for use at work" = "Σχεδιασμένο για να χρησιμοποιείται στη δουλειά";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "Δώσε πληροφορίες σχετικά με τον κλάδο σου, το πόστο σου ή συγκεκριμένα έργα για να λαμβάνεις καλύτερες απαντήσεις, προσαρμοσμένες σε εσένα.";
+
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "Προσάρμοσε τις αλληλεπιδράσεις σου με το ChatGPT παρέχοντας συγκεκριμένες λεπτομέρειες και οδηγίες για τις συνομιλίες σου.";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "Το ChatGPT μπορεί να απαντήσει σε ερωτήσεις, να σε βοηθήσει να μάθεις, να γράψει κώδικα, να αναζητήσει λύσεις μαζί σου και πολλά ακόμη.";
+
+"Now you can have spoken conversations with GPTs." = "Τώρα πια, μπορείς να κάνεις φωνητικές συζητήσεις με τα GPT.";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "Αυτή η επίσημη εφαρμογή είναι δωρεάν, συγχρονίζει το ιστορικό σου από τη μία συσκευή στην άλλη και σου παρέχει τις τελευταίες βελτιώσεις μοντέλων από την OpenAI.";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "Αποφάσισε αν οι νέες συνομιλίες σε αυτή τη συσκευή θα εμφανίζονται στο ιστορικό σου και θα χρησιμοποιούνται για τη βελτίωση των συστημάτων μας.";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "Παρόλο που διαθέτουμε μηχανισμούς προστασίας, το ChatGPT ενδέχεται να σου δώσει ανακριβείς πληροφορίες. Δεν προορίζεται για να σου δίνει συμβουλές.";
+
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "Εσύ έχεις τον έλεγχο. Έλεγξε και διάγραψε συγκεκριμένες μνήμες, ξεκίνα από την αρχή ή απενεργοποίησε τη λειτουργία στις ρυθμίσεις.";
+
+"Welcome to\nChatGPT" = "Καλώς ήρθες στο\nChatGPT";
+

@@ -1,0 +1,52 @@
+"Error loading customizations. Please try again later." = "कस्टम निर्देश लोड करने में एरर आया। कृपया बाद में दोबारा कोशिश करें।";
+
+"Discard changes" = "बदलाव नामंज़ूर करें";
+
+"Show tips" = "सुझाव दिखाएँ";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "आपके हिसाब से ChatGPT आपके बारे में कौन सी बात जाने ताकि वो बेहतर जवाब दे सके?";
+
+"Saving Custom Instructions" = "कस्टम निर्देश सेव किए जा रहे हैं";
+
+"An unknown error occurred. Please try again later" = "एक अनजान एरर आया। कृपया बाद में दोबारा कोशिश करें";
+
+"DALL•E" = "DALL·E";
+
+"Enable for new chats" = "नई चैट्स के लिए इनेबल करें";
+
+"Choose which tools can be used with GPT-4." = "चुनें कि GPT-4 के साथ कौन से टूल्स का उपयोग किया जा सकता है";
+
+"Browse the internet to find answers" = "जवाब खोजने के लिए इंटरनेट ब्राउज़ करें";
+
+"Code" = "कोड";
+
+"Keep editing" = "एडिट करना जारी रखें";
+
+"Generate images using DALL•E" = "DALL·E का इस्तेमाल करके इमेज जनरेट करें";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "सभी नई चैट्स पर कस्टम निर्देश लागू होंगे। [और ज़्यादा जानें](chat-preferences-disclosures)";
+
+"Customize ChatGPT" = "ChatGPT कस्टमाइज़ करें";
+
+"Thought starters" = "विचारों की शुरुआत";
+
+"GPT-4 Capabilities" = "GPT-4 क्षमताएँ";
+
+"Error updating state for customizations. Please try again later." = "कस्टमाइज़ेशन अपडेट करने में एरर आया। कृपया बाद में दोबारा कोशिश करें।";
+
+"How would you like ChatGPT to respond?" = "आप क्या चाहते हैं कि ChatGPT इसके लिए कैसे जवाब दे?";
+
+"Unsaved changes" = "सेव नहीं किए गए बदलाव";
+
+"Error saving custom instructions" = "कस्टम निर्देश सेव करते समय एरर आया";
+
+"Browsing" = "ब्राउज़िंग";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "क्या आप वाकई बदलावों को खारिज करना चाहते हैं?\nआपके द्वारा किए गए कोई भी बदलाव सेव नहीं होंगे।";
+
+"Custom Instructions Enabled or Disabled" = "कस्टम निर्देश इनेबल हैं या डिसेबल हैं";
+
+"Save" = "सेव करें";
+
+"Execute code using Code Interpreter" = "Code Interpreter का इस्तेमाल करके कोड को एक्सीक्यूट करें";
+

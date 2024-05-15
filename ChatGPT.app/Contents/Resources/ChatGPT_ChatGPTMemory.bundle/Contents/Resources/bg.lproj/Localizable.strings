@@ -1,0 +1,42 @@
+"Are you sure?" = "Сигурен(на) ли сте?";
+
+"%@'s memories" = "Паметта на %@";
+
+"Clear this GPT's memory" = "Изчистете паметта на този GPT";
+
+"Clear ChatGPT’s memory" = "Изчистете паметта на ChatGPT";
+
+"Error loading memories" = "Грешка при зареждането на памет";
+
+"Memory is disabled" = "Паметта е деактивирана";
+
+"Clear Memory" = "Изчистване на паметта";
+
+"Turn On" = "Включете";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ ще забрави всичко, което е запомнил от вашите чатове. Това не може да бъде отменено.";
+
+"Select a GPT" = "Изберете някакъв GPT";
+
+"No memories" = "Няма памети";
+
+"Memory" = "Памет";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "Докато разговаряте в чата с %@, подробностите и предпочитанията, които той помни, ще се показват тук.";
+
+"Error deleting memory" = "Грешка при изтриване на паметта";
+
+"Open menu to select which GPT to show memories for" = "Отворете менюто, за да изберете за какъв GPT да се показва памет";
+
+"Search memories" = "Търсете в паметта";
+
+"Error loading GPTs" = "Грешка при зареждането на GPT";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "Докато разговаряте с %@, подробностите и предпочитанията, които той помни, ще се показват тук.";
+
+"Learn More" = "Научете повече";
+
+"%@ won't use or create memories" = "%@ няма да използва или създава памет";
+
+"Could not reset memory. Please try again later." = "Неуспешно нулиране на паметта. Моля, опитайте отново по-късно.";
+

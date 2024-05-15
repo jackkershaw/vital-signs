@@ -1,0 +1,18 @@
+"There is a problem with your request. (%lld, %@)" = "በጥያቄዎ ላይ ችግር አለ። (%lld፣ %@)";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "ሰርቨሩ ችግሮች እያጋጠሙት ነው። እባክዎ ቆየት ብለው ይሞክቱ (%lld፣ %@)";
+
+"System error" = "የስርዓት ስህተት";
+
+"The response is invalid. Please try again." = "ምላሹ ልክ ያልሆነ ነው። እባክዎ እንደገና ይሞክሩ።";
+
+"The server is overloaded. Please try again later." = "ሰርቨሩ ከመጠን በላይ ተጨናንቋል። እባክዎ ቆየት ብለው ይሞክሩ።";
+
+"There is a problem with your account info. Please try signing out then in." = "የመለያዎ መረጃ ላይ ችግር አለ። እባክዎ ከመለያዎ ወጥተው ከዛ ለመግባት ይሞክሩ።";
+
+"Unsupported content" = "የማይደገፍ ይዘት";
+
+"This content may violate our content policy. Please try again with different content." = "ይህ ይዘት የይዘት ፖሊሲያችንን ሊጥስ ይችላል። እባክዎ በተለየ ይዘት እንደገና ይሞክሩ።";
+
+"You've made too many requests. Please try again later. (429, %@)" = "በጣም ብዙ ጥያቄዎችን አቅርበዋል። እባክዎ ቆየት ብለው ይሞክሩ። (429፣ %@)";
+

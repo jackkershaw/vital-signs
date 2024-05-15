@@ -1,0 +1,52 @@
+"Customize ChatGPT" = "Настроить ChatGPT";
+
+"Save" = "Сохранить";
+
+"Choose which tools can be used with GPT-4." = "Выберите, какие инструменты можно использовать с GPT-4.";
+
+"Enable for new chats" = "Включить для новых чатов";
+
+"Execute code using Code Interpreter" = "Выполнить код с помощью интерпретатора кода";
+
+"Browse the internet to find answers" = "Искать ответы в интернете";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Пользовательские инструкции будут применяться ко всем новым чатам. [Узнать больше](chat-preferences-disclosures)";
+
+"Thought starters" = "Отправные мысли";
+
+"Code" = "Код";
+
+"Saving Custom Instructions" = "Сохранение пользовательских инструкций";
+
+"Generate images using DALL•E" = "Создать изображения с помощью DALL•E";
+
+"Unsaved changes" = "Несохраненные изменения";
+
+"DALL•E" = "DALL•E";
+
+"Keep editing" = "Продолжить редактировать";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Вы уверены, что хотите отменить изменения?\nЛюбые внесенные вами изменения будут потеряны.";
+
+"Error updating state for customizations. Please try again later." = "Ошибка обновления состояния для настроек. Повторите попытку позже.";
+
+"Custom Instructions Enabled or Disabled" = "Пользовательские инструкции включены или отключены";
+
+"Error loading customizations. Please try again later." = "Ошибка загрузки настроек. Повторите попытку позже.";
+
+"How would you like ChatGPT to respond?" = "Какой ответ вы хотели бы получить от ChatGPT?";
+
+"GPT-4 Capabilities" = "Возможности GPT-4";
+
+"Error saving custom instructions" = "Ошибка при сохранении пользовательских инструкций";
+
+"Browsing" = "Просмотр";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Какими сведениями о себе вы хотите поделиться с ChatGPT, чтобы он предоставлял более качественные ответы?";
+
+"Discard changes" = "Отменить изменения";
+
+"Show tips" = "Показать подсказки";
+
+"An unknown error occurred. Please try again later" = "Произошла неизвестная ошибка. Повторите попытку позже.";
+

@@ -1,0 +1,74 @@
+"Memories updated" = "Atmiņas atjauninātas";
+
+"Bad" = "Slikti";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT patur failus tikai ierobežotu laiku. Sāc jaunu sarunu vai augšupielādē jaunu failu, lai turpinātu sarunu.";
+
+"Upgraded response" = "Uzlabota atbilde";
+
+"#%lld row" = "Rinda Nr. %lld";
+
+"Manage memories" = "Pārvaldīt atmiņas";
+
+"Continue Generating" = "Turpināt ģenerēšanu";
+
+"Quick Look" = "Īss apskats";
+
+"Always allow" = "Atļaut vienmēr";
+
+"Select Text" = "Atlasīt tekstu";
+
+"Deny" = "Noliegt";
+
+"Decline" = "Noraidīt";
+
+"Response rating failed." = "Atbildes novērtēšana neizdevās.";
+
+"Edit" = "Rediģēt";
+
+"File unavailable" = "Fails nav pieejams";
+
+"\"%@\" column" = "Kolonna „%@”";
+
+"Please try again later.%@" = "Lūdzu, mēģini vēlreiz vēlāk.%@";
+
+"Change Model" = "Mainīt modeli";
+
+"You" = "Tu";
+
+"Selection" = "Atlase";
+
+"Analysis" = "Analīze";
+
+"Loading…" = "Ielādē…";
+
+"Stop Generating" = "Pārtraukt ģenerēšanu";
+
+"Your most recent request failed. Please retry!" = "Tavs pēdējais pieprasījums neizdevās. Lūdzu, mēģini vēlreiz!";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "Augšupielādē ^[%lld pielikumus](inflect: true)…";
+
+"Sign in to %@" = "Pierakstīties %@";
+
+"Save File As…" = "Saglabāt failu kā…";
+
+"\"%@\" cell" = "Šūna „%@”";
+
+"File expired" = "Failam beidzies derīguma termiņš";
+
+"How would you rate this GPT?" = "Kā tu novērtētu šo GPT?";
+
+"A GPT" = "GPT";
+
+"Failed, retry?" = "Neizdevās, mēģināt vēlreiz?";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Uzrakstīts ar mūsu spējīgāko modeli GPT-4, kas ir pieejams ChatGPT Plus";
+
+"Memory updated" = "Atmiņa atjaunināta";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Šis fails vairs nav pieejams. Sāc jaunu sarunu vai augšupielādē jaunu failu, lai turpinātu sarunu.";
+
+"Read Aloud" = "Lasīt skaļi";
+
+"Regenerate" = "Atkārtoti ģenerēt";
+

@@ -1,0 +1,124 @@
+"Error creating images" = "Error al crear las imágenes";
+
+"Unable to find metadata" = "No se han encontrado los metadatos";
+
+"Stopped reading document" = "Lectura de documento detenida";
+
+"Starting action" = "Comenzando la acción";
+
+"Unsupported content" = "Contenido no compatible";
+
+"Read %lld documents" = "%lld documentos leídos";
+
+"Analyzing" = "Analizando";
+
+"Error creating image" = "Error al crear la imagen";
+
+"Visited %@" = "Se ha visitado %@";
+
+"Error talking to %@" = "Error al hablar con %@";
+
+"Unable to generate URL" = "No se ha podido generar la URL";
+
+"Reading document" = "Leyendo documento";
+
+"Error reading documents" = "Error al leer los documentos";
+
+"Archive Chat" = "Archivar chat";
+
+"Browsing %@" = "Navegando %@";
+
+"Read %@" = "Leer %@";
+
+"Reading %@" = "Leyendo %@";
+
+"Searching" = "Buscando";
+
+"Invalid citation" = "Cita no válida";
+
+"Finished analyzing" = "El análisis ha finalizado";
+
+"Stopped browsing" = "Navegación detenida";
+
+"Stopped analyzing" = "Análisis detenido";
+
+"Creating image" = "Creando imagen";
+
+"Stopped" = "Detenido";
+
+"Any created memories will be retained." = "Las memorias creadas se conservarán.";
+
+"Stopped reading documents" = "Lectura de documentos detenida";
+
+"Creating %lld images…" = "Creando %lld imágenes…";
+
+"Stopped talking to site" = "Se ha dejado de hablar con el sitio";
+
+"Stopped talking to %@" = "Se ha dejado de hablar con %@";
+
+"Search failed" = "Error en la búsqueda";
+
+"Reading documents" = "Leyendo documentos";
+
+"Error reading document" = "Error al leer el documento";
+
+"Research complete" = "Investigación finalizada";
+
+"Visiting %@" = "Visitando %@";
+
+"Creating 1 image…" = "Creando 1 imagen…";
+
+"Error analyzing" = "Error de análisis";
+
+"Stopped researching" = "Investigación detenida";
+
+"Unable to find citation ID" = "No se ha encontrado el ID de la cita";
+
+"an external site" = "un sitio externo";
+
+"Read document" = "Leer documento";
+
+"Searched 1 site" = "1 sitio buscado";
+
+"Talked to %@" = "Se ha hablado con %@";
+
+"You declined this action" = "Has rechazado esta acción";
+
+"Stopped creating image" = "Creación de imagen detenida";
+
+"Error researching" = "Error de investigación";
+
+"Delete Chat" = "Eliminar chat";
+
+"System error" = "Error del sistema";
+
+"Search stopped" = "Se ha detenido la búsqueda";
+
+"Error browsing" = "Error de navegación";
+
+"Searched %lld sites" = "%lld sitios buscados";
+
+"Visited the web" = "Se ha visitado la web";
+
+"Writing prompts…" = "Escribiendo indicaciones…";
+
+"This can't be undone." = "Esto no se podrá deshacer.";
+
+"Read documents" = "Leer documentos";
+
+"Archive" = "Archivar";
+
+"Talking to %@" = "Hablando con %@";
+
+"Making a research plan" = "Elaborando un plan de investigación";
+
+"Visited %lld sites" = "Se han visitado %lld sitios";
+
+"Searching “%@”" = "Buscando «%@»";
+
+"site" = "sitio";
+
+"Doing research with Bing" = "Investigando con Bing";
+
+"Are you sure you want to archive this chat?\nYou can view archived chats in Settings" = "¿Seguro que quieres archivar este chat?\nPuedes ver los chats archivados en la configuración.";
+

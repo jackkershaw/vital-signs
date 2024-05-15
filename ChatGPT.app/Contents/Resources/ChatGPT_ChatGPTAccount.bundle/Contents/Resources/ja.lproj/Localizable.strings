@@ -1,0 +1,24 @@
+"Personal account" = "個人アカウント";
+
+"Your workspace is deactivated" = "ワークスペースが無効になっています";
+
+"Workspaces" = "ワークスペース";
+
+"Deactivated" = "無効になっています";
+
+"Your chat history and settings will not be available." = "チャット履歴と設定が使用できなくなります。";
+
+"Your team owner has deactivated the workspace." = "チーム所有者がこのワークスペースを無効にしました。";
+
+"Continue" = "続ける";
+
+"You will still be able to use ChatGPT with the other workspaces associated with this email address." = "このメール アドレスに紐づいている他のワークスペースで引き続き ChatGPT をご利用いただけます。";
+
+"%@ workspace is deactivated" = "%@ ワークスペースが無効になっています";
+
+"An error occurred. Please try again." = "エラーが発生しました。もう一度お試しください。";
+
+"This will create your personal workspace automatically, using the Free plan." = "これにより、無料プランを使用して個人ワークスペースが自動的に作成されます。";
+
+"Start using ChatGPT for free" = "ChatGPT を無料で使用する";
+

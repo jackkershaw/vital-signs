@@ -1,0 +1,18 @@
+"There is a problem with your account info. Please try signing out then in." = "તમારી એકાઉન્ટ માહિતીમાં સમસ્યા છે. કૃપા કરીને પહેલાં સાઈન આઉટ અને પછી સાઈન ઈન કરવાનો પ્રયાસ કરો.";
+
+"The response is invalid. Please try again." = "ફીડબેક અમાન્ય છે. કૃપા કરીને ફરીથી પ્રયતન કરો.";
+
+"The server is overloaded. Please try again later." = "સર્વર ઓવરલોડ છે. પછીથી ફરી પ્રયત્ન કરો.";
+
+"This content may violate our content policy. Please try again with different content." = "આ કન્ટેન્ટ અમારી કન્ટેન્ટ પોલિસીનું ઉલ્લંઘન કરી શકે છે. કૃપા કરીને અલગ કન્ટેન્ટ સાથે ફરી પ્રયાસ કરો.";
+
+"Unsupported content" = "અસમર્થિત કન્ટેન્ટ";
+
+"System error" = "સિસ્ટમમાં એરર";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "સર્વરમાં સમસ્યા આવી રહી છે. પછીથી ફરી પ્રયત્ન કરો. (%lld, %@)";
+
+"You've made too many requests. Please try again later. (429, %@)" = "તમે ઘણી બધી વિનંતીઓ કરી છે. પછીથી ફરી પ્રયત્ન કરો. (429, %@)";
+
+"There is a problem with your request. (%lld, %@)" = "તમારી વિનંતીમાં સમસ્યા છે. (%lld, %@)";
+

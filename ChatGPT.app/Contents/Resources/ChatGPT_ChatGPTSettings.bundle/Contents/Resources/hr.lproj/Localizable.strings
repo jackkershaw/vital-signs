@@ -1,0 +1,182 @@
+"This workspace is private and opted out of training." = "Ovaj je radni prostor privatan i nije pristao na obuku.";
+
+"Data Controls" = "Kontrole podataka";
+
+"Archive All Chats" = "Arhiviraj sva čavrljanja";
+
+"Confirm Export" = "Potvrdi izvoz";
+
+"Keep ChatGPT on top" = "Zadrži ChatGPT na vrhu";
+
+"Manage workspace" = "Upravljaj radnim prostorom";
+
+"Search Archive" = "Pretraži arhivu";
+
+"Email" = "Adresa e-pošte";
+
+"ChatGPT for %@" = "ChatGPT za %@";
+
+"Speech" = "Govor";
+
+"Delete All Chats" = "Izbriši sva čavrljanja";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Spremite nova čavrljanja na ovom uređaju u svoju povijest i dopustite da se upotrebljavaju za poboljšanje naših modela. Čavrljanja koja nisu spremljena izbrisat će se iz naših sustava u roku od 30 dana. Ta se postavka ne sinkronizira na različitim uređajima. [Saznaj više](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Email missing!" = "Nedostaje adresa e-pošte!";
+
+"Archived conversations will be available here" = "Arhivirani razgovori bit će dostupni ovdje";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "ChatGPT postat će korisniji kada čavrljate jer će pamtiti pojedinosti i osobne postavke kako bi vam prilagodio svoje odgovore. [Saznaj više](%@) \n\nKako biste razumjeli što ChatGPT pamti ili kako biste ga naučili nešto novo, jednostavno čavrljajte s njim:\n\n• „Sjeti se da volim sažete odgovore.”\n• „Upravo mi je stiglo štene!”\n• „Što si zapamtio o meni?”\n• „Gdje smo stali na mojem zadnjem projektu?”";
+
+"Yesterday" = "Jučer";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Spremite nova čavrljanja na ovom uređaju u svoju povijest i dopustite da se koriste za poboljšanje naših modela. Čavrljanja koja nisu spremljena izbrisat će se iz naših sustava u roku od 30 dana. Ta se postavka ne sinkronizira na različitim uređajima. [Saznaj više](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Dozvolite uporabu vašeg sadržaja za obuku naših modela, čime ChatGPT postaje bolji za vas i sve koji ga upotrebljavaju. Poduzimamo korake za zaštitu vaše privatnosti. [Saznajte više](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Could not archive all chats" = "Arhiviranje svih čavrljanja nije uspjelo";
+
+"Successfully exported data. You should receive an email shortly with your data." = "Podaci su uspješno izvezeni. Uskoro ćete dobiti poruku e-pošte sa svojim podacima.";
+
+"Improve voice for everyone" = "Poboljšajte glasovne razgovore za sve korisnike";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Podijelite zvuk iz budućih glasovnih čavrljanja za poboljšanje i obuku naših modela. Time se poboljšava kvaliteta glasovnih čavrljanja za sve korisnike. [Saznaj više](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Successfully exported data. You should receive an email shortly with your data." = "Podatci su uspješno izvezeni. Uskoro ćete dobiti poruku e-pošte sa svojim podatcima.";
+
+"Color Scheme" = "Shema boja";
+
+"ChatGPT Enterprise" = "ChatGPT Enterprise";
+
+"Always show ChatGPT in dock" = "Uvijek prikazuj ChatGPT na programskoj traci";
+
+"Archived Chats" = "Arhivirana čavrljanja";
+
+"System" = "Sustav";
+
+"On" = "Uključeno";
+
+"Haptic Feedback" = "Haptičke povratne informacije";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "Brisanje je računa trajno i ne može se poništiti. Svi vaši podaci, uključujući profil, razgovore i upotrebu API-ja, bit će uklonjeni.\n\nZa novi račun ne možete ponovno koristiti istu adresu e-pošte ili telefonski broj. \n\nAko ste koristili ChatGPT s API-jem, taj će se pristup također izbrisati.";
+
+"None" = "Nema";
+
+"Dark" = "Tamno";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "Ne možete promijeniti pretplatu u ovoj aplikaciji jer ste tu pretplatu kupili na drugoj platformi.";
+
+"Chat history" = "Povijest razgovora";
+
+"Unarchive" = "Poništi arhiviranje";
+
+"Help Center" = "Centar za pomoć";
+
+"Export Data" = "Izvezi podatke";
+
+"Light" = "Svijetlo";
+
+"Manage Memory" = "Upravljaj memorijom";
+
+"App" = "Aplikacija";
+
+"View" = "Prikaz";
+
+"Customize ChatGPT" = "Prilagodi ChatGPT";
+
+"Memory" = "Memorija";
+
+"Free Plan" = "Free Plan";
+
+"Improve the model for everyone" = "Poboljšajte model za sve korisnike";
+
+"Manage Subscriptions" = "Upravljaj pretplatama";
+
+"Could not unarchive conversation. Please try again later." = "Poništavanje arhiviranja razgovora nije uspjelo. Pokušajte ponovno kasnije.";
+
+"Conversation not found" = "Razgovor nije pronađen";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "Za najbolje rezultate odaberite jezik koji najčešće govorite. Ako nije na popisu, automatsko otkrivanje i dalje ga može podržavati.";
+
+"We couldn't load your archived chats" = "Nismo mogli učitati vaše arhivirane razgovore";
+
+"Delete Account" = "Izbriši račun";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "Račun možete izbrisati samo ako ste se prijavili unutar zadnjih 10 minuta.\n\nPonovno se prijavite pa se vratite ovdje da biste nastavili.";
+
+"Desktop Launcher" = "Pokretač radne površine";
+
+"Error updating setting. Please try again later" = "Pogreška pri ažuriranju postavke. Pokušajte ponovno kasnije";
+
+"Subscription" = "Pretplata";
+
+"No archived chats" = "Nema arhiviranih čavrljanja";
+
+"About" = "Podaci";
+
+"Workspace" = "Radni prostor";
+
+"ChatGPT Plus" = "ChatGPT Plus";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Spremite nova čavrljanja na ovom uređaju u svoju povijest. Čavrljanja koja nisu spremljena izbrisat će se iz naših sustava u roku od 30 dana. Ta se postavka ne sinkronizira na različitim uređajima. [Saznaj više](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Off" = "Isključeno";
+
+"Subscription Cancellation" = "Otkazivanje pretplate";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "Brisanjem vašeg računa neće se otkazati aktivne pretplate u aplikaciji. Ove pretplate možete otkazati u postavkama Apple ID.";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "Došlo je do pogreške pri brisanju vašeg računa. Pokušajte ponovno. Ako se problem ne riješi, posjetite help.openai.com.";
+
+"New Features" = "Nove značajke";
+
+"Your account has been queued for deletion." = "Vaš je račun u redu čekanja na brisanje.";
+
+"All your chats will be archived. This cannot be undone." = "Sva će vaša čavrljanja biti arhivirana. Ta se radnja ne može poništiti.";
+
+"Privacy Policy" = "Pravilnik o zaštiti privatnosti";
+
+"Could not delete all chats" = "Brisanje svih čavrljanja nije uspjelo";
+
+"Help" = "Pomoć";
+
+"Upgrade to ChatGPT Plus" = "Nadogradi na ChatGPT Plus";
+
+"All your chats will be cleared from history. This cannot be undone." = "Sva će se vaša čavrljanja očistiti iz povijesti. Ta se radnja ne može poništiti.";
+
+"Main Language" = "Glavni jezik";
+
+"Chat History & Training" = "Povijest razgovora i obuka";
+
+"App Language" = "Jezik aplikacije";
+
+"Terms of Use" = "Uvjeti uporabe";
+
+"Error archiving all chats" = "Pojavila se pogreška pri arhiviranju svih čavrljanja";
+
+"Could not update the memory setting. Please try again later." = "Ažuriranje postavki memorije nije uspjelo. Pokušajte ponovno kasnije.";
+
+"Restore purchases" = "Vrati kupnje";
+
+"Voice" = "Glas";
+
+"Today" = "Danas";
+
+"Keyboard Shortcut" = "Tipkovni prečac";
+
+"ChatGPT Team" = "Tim ChatGPT";
+
+"Are you sure?" = "Jeste li sigurni?";
+
+"We were unable to process your export at this time. Please try again later." = "Nismo uspjeli obraditi vaš izvoz. Pokušajte ponovno kasnije.";
+
+"Error deleting all chats" = "Pojavila se pogreška pri brisanju svih čavrljanja";
+
+"Could not delete conversation. Please try again later." = "Brisanje razgovora nije uspjelo. Pokušajte ponovno kasnije.";
+
+"Chat training" = "Obuka čavrljanja";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "Izvoz će sadržavati pojedinosti o vašem računu i razgovore.\n\nPodaci će se poslati na vašu registriranu adresu e-pošte u obliku datoteke koja se može preuzeti.\n\nObrada može potrajati. Kada sve bude spremno, dobit ćete obavijest.";
+
+"Recent login required" = "Potrebna je nedavna prijava";
+

@@ -1,0 +1,52 @@
+"Error saving custom instructions" = "Klaida įrašant pasirinktines instrukcijas";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Pasirinktinės instrukcijos bus taikomos visiems naujiems pokalbiams. [Sužinokite daugiau](chat-preferences-disclosures)";
+
+"Error updating state for customizations. Please try again later." = "Klaida atnaujinant pasirinktinių nuostatų būseną. Bandykite dar kartą vėliau.";
+
+"Enable for new chats" = "Įjungti naujiems pokalbiams";
+
+"An unknown error occurred. Please try again later" = "Įvyko nežinoma klaida. Bandykite dar kartą vėliau";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Ką norėtumėte, kad „ChatGPT“ apie jus žinotų, kad pateiktų geresnius atsakymus?";
+
+"Code" = "Kodas";
+
+"Customize ChatGPT" = "Pritaikyti „ChatGPT“";
+
+"Keep editing" = "Redaguoti toliau";
+
+"DALL•E" = "DALL•E";
+
+"Save" = "Įrašyti";
+
+"Execute code using Code Interpreter" = "Vykdykite kodą naudodami kodo interpretatorių";
+
+"Discard changes" = "Atsisakyti pakeitimų";
+
+"Choose which tools can be used with GPT-4." = "Pasirinkite, kurie įrankiai gali būti naudojami su GPT-4.";
+
+"How would you like ChatGPT to respond?" = "Kaip norėtumėte, kad „ChatGPT“ atsakytų?";
+
+"Unsaved changes" = "Neįrašyti pakeitimai";
+
+"Saving Custom Instructions" = "Įrašomos pasirinktinės instrukcijos";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Ar tikrai norite atsisakyti savo pakeitimų?\nVisi jūsų atlikti pakeitimai bus prarasti.";
+
+"Thought starters" = "Frazės norint pareikšti nuomonę";
+
+"Error loading customizations. Please try again later." = "Klaida įkeliant pasirinktines nuostatas. Bandykite dar kartą vėliau.";
+
+"Browse the internet to find answers" = "Naršykite internete ir raskite atsakymus";
+
+"Generate images using DALL•E" = "Generuokite vaizdus naudodami DALL•E";
+
+"Custom Instructions Enabled or Disabled" = "Pasirinktinės instrukcijos įjungtos arba išjungtos";
+
+"Show tips" = "Rodyti patarimus";
+
+"GPT-4 Capabilities" = "GPT-4 galimybės";
+
+"Browsing" = "Naršymas";
+

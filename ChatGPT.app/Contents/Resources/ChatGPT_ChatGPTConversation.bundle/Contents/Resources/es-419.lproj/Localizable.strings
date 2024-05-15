@@ -1,0 +1,48 @@
+"Explore GPTs" = "Explorar GPT";
+
+"Remove From Sidebar" = "Quitar de la barra lateral";
+
+"ChatGPT" = "ChatGPT";
+
+"Menu" = "Menú";
+
+"Memory Off" = "Memoria desactivada";
+
+"Review GPT" = "Revisar GPT";
+
+"Manage Chat" = "Administrar chat";
+
+"Keep in Sidebar" = "Mantener en la barra lateral";
+
+"%@ requires memory to be on. Adjust in **settings**." = "%@ requiere que la memoria esté activada. Hazlo en **Configuración**.";
+
+"See less" = "Ver menos";
+
+"%lld more" = "%lld más";
+
+"Rename" = "Cambiar el nombre";
+
+"Title" = "Título";
+
+"This GPT is no longer available." = "Este GPT ya no está disponible.";
+
+"Upgrade Plan" = "Mejorar el plan";
+
+"Share GPT" = "Compartir GPT";
+
+"Unable to load GPT." = "No es posible cargar el GPT.";
+
+"Rename Chat" = "Cambiar el nombre del chat";
+
+"Share" = "Compartir";
+
+"Archive" = "Archivar";
+
+"Your workspace owner hasn't approved this GPT" = "El propietario del espacio de trabajo no aprobó este GPT";
+
+"Temporary Chat" = "Chat temporal";
+
+"ChatGPT %@" = "ChatGPT %@";
+
+"No results for **%@**" = "No se encontraron resultados para **%@**";
+

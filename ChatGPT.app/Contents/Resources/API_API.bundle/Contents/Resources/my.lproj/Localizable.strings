@@ -1,0 +1,18 @@
+"There is a problem with your account info. Please try signing out then in." = "သင့်အကောင့် အချက်အလက်တွင် ပြဿနာရှိနေပါသည်။ ကျေးဇူးပြု၍ ထွက်ပြီးနောက် ဝင်ရောက်ကြည့်ပါ။";
+
+"The server is overloaded. Please try again later." = "ဆာဗာသည် ဝန်ပိနေပါသည်။ နောက်မှ ပြန်လုပ်ဆောင်ပါ။";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "ဆာဗာတွင် ပြဿနာရှိနေပါသည်။ နောက်မှ ပြန်လုပ်ဆောင်ပါ။ (%lld၊ %@)";
+
+"There is a problem with your request. (%lld, %@)" = "သင့်တောင်းဆိုချက်တွင် ပြဿနာရှိနေသည်။ (%lld၊ %@)";
+
+"This content may violate our content policy. Please try again with different content." = "ဤအကြောင်းအရာသည် ကျွန်ုပ်တို့၏ အကြောင်းအရာ မူဝါဒကို ချိုးဖောက်နိုင်သည်။ ကျေးဇူးပြု၍ အခြား အကြောင်းအရာဖြင့် ပြန်လုပ်ဆောင်ပါ။";
+
+"You've made too many requests. Please try again later. (429, %@)" = "သင်သည် တောင်းဆိုမှုများစွာ ပြုလုပ်ခဲ့သည်။ နောက်မှ ပြန်လုပ်ဆောင်ပါ။ (429၊ %@)";
+
+"System error" = "စနစ်မှားယွင်းမှု";
+
+"The response is invalid. Please try again." = "တုံ့ပြန်မှုသည် မမှန်ကန်ပါ။ ပြန်လုပ်ဆောင်ပါ။";
+
+"Unsupported content" = "ပံ့ပိုးမှု မရှိသော အကြောင်းအရာ";
+

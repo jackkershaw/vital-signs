@@ -1,0 +1,18 @@
+"You've made too many requests. Please try again later. (429, %@)" = "Çok fazla talepte bulundun. Lütfen daha sonra tekrar dene (429, %@)";
+
+"There is a problem with your account info. Please try signing out then in." = "Hesap bilgilerinde bir sorun var. Lütfen oturumu kapatıp sonra yeniden oturum açmayı dene.";
+
+"This content may violate our content policy. Please try again with different content." = "Bu içerik, içerik politikamızı ihlal edebilir. Lütfen farklı içerikle tekrar dene.";
+
+"The response is invalid. Please try again." = "Yanıt geçersiz. Lütfen tekrar dene.";
+
+"The server is overloaded. Please try again later." = "Sunucu aşırı yüklü. Lütfen daha sonra tekrar dene.";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "Sunucuda sorun var. Lütfen daha sonra tekrar dene. (%lld, %@)";
+
+"Unsupported content" = "Desteklenmeyen içerik";
+
+"There is a problem with your request. (%lld, %@)" = "Talebinle ilgili bir sorun var. (%lld, %@)";
+
+"System error" = "Sistem hatası";
+

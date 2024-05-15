@@ -1,0 +1,27 @@
+/* No comment provided by engineer. */
+"System error" = "System error";
+
+/* No comment provided by engineer. */
+"The response is invalid. Please try again." = "The response is invalid. Please try again.";
+
+/* No comment provided by engineer. */
+"The server is having problems. Please try again later. (%lld, %@)" = "The server is having problems. Please try again later. (%lld, %@)";
+
+/* No comment provided by engineer. */
+"The server is overloaded. Please try again later." = "The server is overloaded. Please try again later.";
+
+/* No comment provided by engineer. */
+"There is a problem with your account info. Please try signing out then in." = "There is a problem with your account info. Please try signing out then in.";
+
+/* No comment provided by engineer. */
+"There is a problem with your request. (%lld, %@)" = "There is a problem with your request. (%lld, %@)";
+
+/* No comment provided by engineer. */
+"This content may violate our content policy. Please try again with different content." = "This content may violate our content policy. Please try again with different content.";
+
+/* No comment provided by engineer. */
+"Unsupported content" = "Unsupported content";
+
+/* No comment provided by engineer. */
+"You've made too many requests. Please try again later. (429, %@)" = "You've made too many requests. Please try again later. (429, %@)";
+

@@ -1,0 +1,96 @@
+"First name" = "Vārds";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "Kaut kas nogāja greizi. Lūdzu, restartē lietotni vai izraksties un mēģini vēlreiz.";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "Nevarēja iegūt nepieciešamo informāciju. Lūdzu, pārbaudi interneta savienojumu un restartē lietotni. (%@)";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Ar tavu interneta savienojumu radās kļūda. Lūdzu, mēģini vēlreiz. (%lld)";
+
+"Verify phone number" = "Verificē tālruņa numuru";
+
+"You have made too many attempts. Please try again later." = "Tu esi veicis pārāk daudz mēģinājumu. Lūdzu, mēģini vēlreiz vēlāk.";
+
+"Failed to load required information." = "Neizdevās ielādēt nepieciešamo informāciju.";
+
+"Something went wrong. Please try again." = "Kaut kas nogāja greizi. Lūdzu, mēģini vēlreiz.";
+
+"Something went wrong. Sign out and try again." = "Kaut kas nogāja greizi. Izraksties un mēģini vēlreiz.";
+
+"Phone number" = "Tālruņa numurs";
+
+"There was a problem, please try again." = "Radās problēma, lūdzu, mēģini vēlreiz.";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Noklikšķinot uz „Turpināt”, tu piekrītu mūsu [Noteikumiem](https://openai.com/policies/terms-of-use) un apstiprini mūsu [Konfidencialitātes politiku](https://openai.com/policies/privacy-policy) un tās [Korejas pielikumu](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "Mēs nosūtījām e-pastu uz %@.\nNoklikšķini uz saites tajā, lai sāktu.";
+
+"Select your area code" = "Atlasi savu apgabala kodu";
+
+"There was a problem verifying your phone number. %@" = "Verificējot tavu tālruņa numuru, radās problēma. %@";
+
+"Continue" = "Turpināt";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "Lai saņemtu palīdzību, skati [tālruņa verifikācijas vadlīnijas](https://help.openai.com/articles/6613520-phone-verification).";
+
+"Resend email" = "Nosūtīt e-pastu atkārtoti";
+
+"Please check your internet connection and retry." = "Lūdzu, pārbaudi savu interneta savienojumu un mēģini vēlreiz.";
+
+"Enter the code we just sent to your number ending in **%@" = "Ievadi kodu, kuru nupat nosūtījām uz numuru, kas beidzas ar **%@";
+
+"Select your Birthday" = "Atlasi savu dzimšanas dienu";
+
+"Sorry, we aren't able to create your account" = "Atvaino, mēs nevarējām izveidot tavu kontu";
+
+"Code" = "Kods";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Noklikšķinot uz „Turpināt”, tu apstiprini, ka tev ir vecāku vai aizbildņa piekrišana izmantot ChatGPT, ka piekrīti mūsu [Noteikumiem](https://openai.com/policies/terms-of-use) un apstiprini mūsu [Konfidencialitātes politiku](https://openai.com/policies/privacy-policy) un tās [Korejas pielikumu](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Verify your email" = "Verificē savu e-pastu";
+
+"There was a problem, please try again. (%@)" = "Radās problēma, lūdzu, mēģini vēlreiz. (%@)";
+
+"Finish creating your OpenAI account" = "Pabeidz OpenAI konta izveidi";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "Nevarēja iegūt nepieciešamās valstis. Lūdzu, pārbaudi interneta savienojumu un restartē lietotni. %@";
+
+"Tell us about you." = "Pastāsti mums par sevi.";
+
+"Your account could not be created. Please try again. %@" = "Tavu kontu nevarēja izveidot. Lūdzu, mēģini vēlreiz. %@";
+
+"I've verified my email" = "Esmu verificējis savu e-pastu";
+
+"Email resent!" = "E-pasts nosūtīts vēlreiz!";
+
+"Last name" = "Uzvārds";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Kaut kas nogāja greizi. Konts jau ir izveidots, bet to nevarēja atsvaidzināt. Lūdzu, izraksties un pieraksties vēlreiz.";
+
+"Please choose a valid date for your birthday." = "Lūdzu, izvēlies derīgu dzimšanas dienas datumu.";
+
+"Verify you're human" = "Verificē, ka esi cilvēks";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "Mēs nevaram izveidot tavu kontu [Lietošanas noteikumu](https://openai.com/policies/terms-of-use) dēļ.";
+
+"Please provide a phone number for verification." = "Lūdzu, norādi tālruņa numuru verifikācijai.";
+
+"Please solve this puzzle so we know you're a person." = "Lūdzu, atrisini šo puzli, lai mēs zinātu, ka esi cilvēks.";
+
+"Open Mail App" = "Atvērt e-pasta lietotni";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Noklikšķinot uz „Turpināt”, tu apstiprini, ka tev ir vecāku vai aizbildņa piekrišana izmantot ChatGPT, ka piekrīti mūsu [Noteikumiem](https://openai.com/policies/terms-of-use) un apstiprini mūsu [Konfidencialitātes politiku](https://openai.com/policies/privacy-policy).";
+
+"There was a problem verifying the code. %@" = "Verificējot kodu, radās problēma. %@";
+
+"Resend code" = "Nosūtīt kodu atkārtoti";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Noklikšķinot uz „Turpināt”, tu piekrītu mūsu [Noteikumiem](https://openai.com/policies/terms-of-use) un apstiprini mūsu [Konfidencialitātes politiku](https://openai.com/policies/privacy-policy).";
+
+"Your email is not yet verified. Please check your email inbox." = "Tavs e-pasts vēl nav verificēts. Lūdzu, pārbaudi savu e-pasta iesūtni.";
+
+"Birthday" = "Dzimšanas diena";
+
+"error" = "kļūda";
+
+"Area code" = "Apgabala kods";
+

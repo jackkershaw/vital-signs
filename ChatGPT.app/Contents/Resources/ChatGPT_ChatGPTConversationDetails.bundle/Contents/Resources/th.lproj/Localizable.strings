@@ -1,0 +1,52 @@
+"Select which websites are allowed to see data from conversations with %@." = "เลือกเว็บไซต์ที่อนุญาตให้เห็นข้อมูลจากบทสนทนากับ %@";
+
+"Report Conversation" = "รายงานบทสนทนา";
+
+"Custom instructions" = "คำสั่งแบบกำหนดเอง";
+
+"Actions" = "การกระทำ";
+
+"Connected Accounts" = "บัญชีที่เชื่อมต่อ";
+
+"Are you sure you want to log out of %@?" = "แน่ใจหรือไม่ว่าคุณต้องการลงชื่อออกจาก %@";
+
+"Ask" = "ถาม";
+
+"Report GPT" = "รายงาน GPT";
+
+"Model Info" = "ข้อมูลโมเดล";
+
+"Report" = "รายงาน";
+
+"Confirm Logout" = "ยืนยันการลงชื่อออก";
+
+"Error loading action settings" = "เกิดข้อผิดพลาดในการโหลดข้อมูลการตั้งค่าการกระทำ";
+
+"No actions are available for this GPT" = "ไม่มีการกระทำสำหรับ GPT นี้";
+
+"Capabilities" = "คุณสมบัติ";
+
+"Error loading connected accounts.\n\n(%@)" = "เกิดข้อผิดพลาดในการโหลดข้อมูลบัญชีที่เชื่อมต่อ\n\n(%@)";
+
+"Privacy & Safety" = "ความเป็นส่วนตัวและความปลอดภัย";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "จัดการว่าจะให้ %@ เข้าถึงบัญชีบุคคลที่สามบัญชีใดบ้าง";
+
+"None" = "ไม่มี";
+
+"Always" = "ตลอด";
+
+"This chat uses an older version of your custom instructions." = "แชตนี้ใช้คำสั่งแบบกำหนดเองเวอร์ชันเก่าของคุณ";
+
+"Failed to update setting, retry?" = "อัปเดตการตั้งค่าไม่สำเร็จ จะลองอีกครั้งไหม";
+
+"Privacy Policy" = "นโยบายความเป็นส่วนตัว";
+
+"No connected accounts are available for this GPT." = "ไม่มีบัญชีที่เชื่อมต่อกับ GPT นี้";
+
+"Please try again later.\n\n(%@)" = "โปรดลองอีกครั้งในภายหลัง\n\n(%@)";
+
+"Accounts" = "บัญชี";
+
+"Description" = "คำอธิบาย";
+

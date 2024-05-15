@@ -1,0 +1,178 @@
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "ನಿಮ್ಮ ಇತಿಹಾಸದಲ್ಲಿ ಈ ಸಾಧನದಲ್ಲಿ ಹೊಸ ಚಾಟ್‌ಗಳನ್ನು ಉಳಿಸಿ. ಉಳಿಸದ ಚಾಟ್‌ಗಳನ್ನು ನಮ್ಮ ಸಿಸ್ಟಂಗಳಿಂದ 30 ದಿನಗಳಲ್ಲಿ ಅಳಿಸಲಾಗುತ್ತದೆ. ಈ ಸೆಟ್ಟಿಂಗ್ ಸಾಧನಗಳಾದ್ಯಂತ ಸಿಂಕ್ ಆಗುವುದಿಲ್ಲ. [ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Manage Subscriptions" = "ಚಂದಾದಾರಿಕೆಯನ್ನು ನಿರ್ವಹಿಸಿ";
+
+"Keep ChatGPT on top" = "ChatGPTಯನ್ನು ಮೇಲ್ಭಾಗದಲ್ಲಿ ಇರಿಸಿ";
+
+"Subscription Cancellation" = "ಚಂದಾದಾರಿಕೆ ರದ್ದತಿ";
+
+"Free Plan" = "ಉಚಿತ ಯೋಜನೆ";
+
+"Improve the model for everyone" = "ಎಲ್ಲರಿಗೂ ಮಾದರಿಯನ್ನು ಸುಧಾರಿಸಿ";
+
+"Archived Chats" = "ಆರ್ಕೈವ್ ಮಾಡಿದ ಚಾಟ್‍ಗಳು";
+
+"ChatGPT Enterprise" = "ChatGPT ಎಂಟರ್‌ಪ್ರೈಸ್";
+
+"On" = "ಆನ್";
+
+"Delete Account" = "ಖಾತೆಯನ್ನು ಅಳಿಸಿ";
+
+"App" = "ಆ್ಯಪ್‌";
+
+"ChatGPT for %@" = "%@ ಗಾಗಿ ChatGPT";
+
+"Export Data" = "ಡೇಟಾವನ್ನು ರಫ್ತು ಮಾಡಿ";
+
+"Customize ChatGPT" = "ChatGPTಯನ್ನು ಕಸ್ಟಮೈಸ್ ಮಾಡಿ";
+
+"Confirm Export" = "ರಫ್ತು ದೃಢೀಕರಿಸಿ";
+
+"Today" = "ಇಂದು";
+
+"Workspace" = "ಕಾರ್ಯಕ್ಷೇತ್ರ";
+
+"This workspace is private and opted out of training." = "ಈ ಕಾರ್ಯಕ್ಷೇತ್ರವು ಖಾಸಗಿಯಾಗಿದೆ ಮತ್ತು ಟ್ರೈನ್‌‌ಯಿಂದ ಹೊರಗುಳಿದಿದೆ";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "ನೀವು ಈ \ಆ್ಯಪ್‌‌ನಲ್ಲಿ ನಿಮ್ಮ ಚಂದಾದಾರಿಕೆಗೆ ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ, ಏಕೆಂದರೆ ನೀವು ಈ ಚಂದಾದಾರಿಕೆಯನ್ನು ಮತ್ತೊಂದು ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ನಲ್ಲಿ ಖರೀದಿಸಿದ್ದೀರಿ";
+
+"App Language" = "ಆಪ್‌ ಭಾಷೆ";
+
+"Email" = "ಇಮೇಲ್";
+
+"Terms of Use" = "ಬಳಕೆಯ ನಿಯಮಗಳು";
+
+"Delete All Chats" = "ಎಲ್ಲ ಸಂದೇಶಗಳನ್ನು ಅಳಿಸಿ";
+
+"Data Controls" = "ಡೇಟಾ ನಿಯಂತ್ರಣಗಳು";
+
+"Subscription" = "ಚಂದಾದಾರಿಕೆ";
+
+"Email missing!" = "ಇಮೇಲ್ ಕಾಣೆಯಾಗಿದೆ!";
+
+"Main Language" = "ಮುಖ್ಯ ಭಾಷೆ";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಅಳಿಸುವುದರಿಂದ ಯಾವುದೇ ಸಕ್ರಿಯ ಆ್ಯಪ್‌ ಚಂದಾದಾರಿಕೆಗಳನ್ನು ರದ್ದುಗೊಳಿಸುವುದಿಲ್ಲ. ನಿಮ್ಮ ಆ್ಯಪಲ್ ID ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ನೀವು ಈ ಚಂದಾದಾರಿಕೆಗಳನ್ನು ರದ್ದುಗೊಳಿಸಬಹುದು.";
+
+"Yesterday" = "ನೆನ್ನೆ";
+
+"Unarchive" = "ಆರ್ಕೈವ್ ರದ್ದುಪಡಿಸಿ";
+
+"Upgrade to ChatGPT Plus" = "ChatGPT ಪ್ಲಸ್‌ಗೆ ಅಪ್‌ಗ್ರೇಡ್‌ ಮಾಡಿ";
+
+"Could not delete all chats" = "ಎಲ್ಲ ಸಂದೇಶಗಳನ್ನು ಅಳಿಸಲು ಆಗಲಿಲ್ಲ";
+
+"All your chats will be archived. This cannot be undone." = "ನಿಮ್ಮ ಎಲ್ಲಾ ಚಾಟ್‌ಗಳನ್ನು ಆರ್ಕೈವ್ ಮಾಡಲಾಗುತ್ತದೆ. ಇದನ್ನು ಮತ್ತೆ ಪಡೆಯಲು ಆಗುವುದಿಲ್ಲ.";
+
+"Error archiving all chats" = "ಎಲ್ಲಾ ಚಾಟ್‌ಗಳನ್ನು ಆರ್ಕೈವ್ ಮಾಡುವಲ್ಲಿ ದೋಷ";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "ಖಾತೆ ನಿರ್ವಹಣೆ ಪುಟದಲ್ಲಿ ಏನೋ ತಪ್ಪಾಗಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ. ತೊಂದರೆ ಮುಂದುವರಿದರೆ, ದಯವಿಟ್ಟು help.openai.comಗೆ ಭೇಟಿ ನೀಡಿ.";
+
+"Successfully exported data. You should receive an email shortly with your data." = "ಡೇಟಾ ಅನ್ನು ಯಶಸ್ವಿಯಾಗಿ ರಫ್ತು ಮಾಡಲಾಗಿದೆ. ನಿಮ್ಮ ಮಾಹಿತಿಯೊಂದಿಗೆ ನೀವು ಶೀಘ್ರದಲ್ಲೇ ಇಮೇಲ್ ಅನ್ನು ಸ್ವೀಕರಿಸುತ್ತೀರಿ.";
+
+"Chat training" = "ಚಾಟ್ ಟ್ರೈನಿಂಗ್";
+
+"ChatGPT Team" = "ChatGPT ತಂಡ";
+
+"Archived conversations will be available here" = "ಆರ್ಕೈವ್ ಮಾಡಿದ ಸಂಭಾಷಣೆಗಳು ಇಲ್ಲಿ ಲಭ್ಯವಿರುತ್ತವೆ";
+
+"Could not unarchive conversation. Please try again later." = "ಸಂಭಾಷಣೆಯನ್ನು ಆರ್ಕೈವ್ ರದ್ದುಪಡಿಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.";
+
+"We were unable to process your export at this time. Please try again later." = "ಈ ಸಮಯದಲ್ಲಿ ನಿಮ್ಮ ರಫ್ತು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲು ನಮಗೆ ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.";
+
+"Conversation not found" = "ಸಂಭಾಷಣೆ ಕಂಡುಬಂದಿಲ್ಲ";
+
+"ChatGPT Plus" = "ChatGPT ಪ್ಲಸ್";
+
+"Error updating setting. Please try again later" = "ಸೆಟ್ಟಿಂಗ್ ಅನ್ನು ನವೀಕರಿಸುವಲ್ಲಿ ದೋಷ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ";
+
+"Memory" = "ನೆನಪು";
+
+"Dark" = "ಕಪ್ಪು";
+
+"Error deleting all chats" = "ಎಲ್ಲಾ ಚಾಟ್‌ಗಳನ್ನು ಅಳಿಸುವಲ್ಲಿ ದೋಷ";
+
+"Restore purchases" = "ಖರೀದಿಗಳನ್ನು ಮತ್ತೆ ತೋರಿಸಿ";
+
+"Keyboard Shortcut" = "ಕೀಬೋರ್ಡ್ ಶಾರ್ಟ್‌ಕಟ್";
+
+"Your account has been queued for deletion." = "ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಅಳಿಸಲು ಸರದಿಯಲ್ಲಿ ಸೇರಿಸಲಾಗಿದೆ.";
+
+"Could not delete conversation. Please try again later." = "ಸಂಭಾಷಣೆಯನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.";
+
+"Always show ChatGPT in dock" = "ಡಾಕ್‌ನಲ್ಲಿ ಯಾವಾಗಲೂ ChatGPT ತೋರಿಸಿ";
+
+"Chat history" = "ಚಾಟ್ ಇತಿಹಾಸ";
+
+"Help Center" = "ಸಹಾಯ ಕೇಂದ್ರ";
+
+"Off" = "ಆಫ್";
+
+"Light" = "ತಿಳಿಯಾದ";
+
+"No archived chats" = "ಆರ್ಕೈವ್ ಮಾಡಿದ ಚಾಟ್‍ಗಳು ಇಲ್ಲ";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "ChatGPT ನೀವು ಚಾಟ್ ಮಾಡುವಾಗ ಹೆಚ್ಚು ಸಹಾಯಕವಾಗುತ್ತದೆ, ಅದರ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ನಿಮಗೆ ತಕ್ಕಂತೆ ಮಾಡಲು ವಿವರಗಳು ಮತ್ತು ಆದ್ಯತೆಗಳನ್ನು ಪಡೆದುಕೊಳ್ಳಿ. [ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ](%@)\n\nChatGPT ಏನನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತದೆ ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಅಥವಾ ಅದಕ್ಕೆ ಹೊಸದನ್ನು ಕಲಿಸಲು, ಅದರೊಂದಿಗೆ ಚಾಟ್ ಮಾಡಿ:\n\n• \"ನಾನು ಸಂಕ್ಷಿಪ್ತ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಇಷ್ಟಪಡುತ್ತೇನೆ ಎಂಬುದನ್ನು ನೆನಪಿಡಿ.\"\n• \"ನನಗೆ ಈಗಷ್ಟೇ ನಾಯಿಮರಿ ಪಡೆದೆ!\"\n• \"ನನ್ನ ಬಗ್ಗೆ ನಿಮಗೆ ಏನು ನೆನಪಿದೆ?\"\n• \"ನನ್ನ ಕೊನೆಯ ಪ್ರಾಜೆಕ್ಟ್ ಅನ್ನು ನಾವು ಎಲ್ಲಿ ಬಿಟ್ಟಿದ್ದೇವೆ?\"";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಅಳಿಸುವುದು ಶಾಶ್ವತವಾಗಿರುತ್ತದೆ ಅದನ್ನು ಮತ್ತೆ ಪಡೆಯಲು ಆಗುವುದಿಲ್ಲ. ನಿಮ್ಮ ಎಲ್ಲಾ ಇತರ ಡೇಟಾಗಳು, ಪ್ರೊಫೈಲ್, ಸಂಭಾಷಣೆಗಳು, API ಬಳಕೆಗಳು, ಒಳಗೊಂಡಂತೆ ಎಲ್ಲವನ್ನೂ ತೆಗೆದುಹಾಕಲಾಗುತ್ತದೆ.\n\nನೀವು ಹೊಸ ಖಾತೆಗಾಗಿ ಇದೇ ಇಮೇಲ್ ಮತ್ತು ಫೋನ್ ನಂಬರನ್ನು ಬಳಸಲು ಆಗುವುದಿಲ್ಲ.\n\nನೀವು APIನೊಂದಿಗೆ ChatGPTಯನ್ನು ಬಳಸುತ್ತಿದ್ದರೆ, ಅದರ ಪ್ರವೇಶವನ್ನು ಕೂಡಾ ಅಳಿಸಲಾಗುವುದು.";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "ನಿಮ್ಮ ಖಾತೆಯ ವಿವರಗಳು ಮತ್ತು ಸಂಭಾಷಣೆಗಳನ್ನು ಹೊರಕಳಿಸುವಿಕೆಯಲ್ಲಿ ಸೇರಿಸಲಾಗುತ್ತದೆ.\n\nಡೌನ್‌ಲೋಡ್ ಮಾಡಬಹುದಾದ ಕಡತದಲ್ಲಿ ನಿಮ್ಮ ನೋಂದಾಯಿತ ಇಮೇಲ್‌ಗೆ ಡೇಟಾವನ್ನು ಕಳುಹಿಸಲಾಗುತ್ತದೆ.\n\nಪ್ರಕ್ರಿಯೆಗೆ ಸ್ವಲ್ಪ ಸಮಯ ತೆಗೆದುಕೊಳ್ಳಬಹುದು. ಅದು ಸಿದ್ಧವಾದಾಗ ನಿಮಗೆ ಸೂಚಿಸಲಾಗುವುದು.";
+
+"View" = "ನೋಡಿ";
+
+"Improve voice for everyone" = "ಎಲ್ಲಾರಿಗೂ ಧ್ವನಿ ಸುಧಾರಿಸು";
+
+"None" = "ಯಾವುದೂ ಇಲ್ಲ";
+
+"All your chats will be cleared from history. This cannot be undone." = "ನಿಮ್ಮೆಲ್ಲಾ ಚಾಟ್‌ಗಳನ್ನು ಇತಿಹಾಸದಿಂದ ಅಳಿಸಲಾಗುತ್ತದೆ. ಇದನ್ನು ರದ್ದುಗೊಳಿಸಲು ಆಗುವುದಿಲ್ಲ.";
+
+"Could not archive all chats" = "ಎಲ್ಲಾ ಚಾಟ್‌ಗಳನ್ನು ಆರ್ಕೈವ್ ಮಾಡಲಾಗಲಿಲ್ಲ";
+
+"System" = "ಸಿಸ್ಟಮ್";
+
+"About" = "ಬಗ್ಗೆ";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "ಉತ್ತಮ ಫಲಿತಾಂಶಗಳಿಗಾಗಿ, ನೀವು ಮುಖ್ಯವಾಗಿ ಮಾತನಾಡುವ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ. ಅದನ್ನು ಪಟ್ಟಿ ಮಾಡದಿದ್ದರೆ, ಸ್ವಯಂ-ಪತ್ತೆಮಾಡುವಿಕೆ ಮೂಲಕ ಅದಕ್ಕೆ ಬೆಂಬಲ ಸಿಗಬಹುದು.";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "ನಮ್ಮ ಮಾದರಿಗಳಿಗೆ ಟ್ರೈನ್‌ ನೀಡಲು ನಿಮ್ಮ ವಿಷಯವನ್ನು ಬಳಸಲು ಅನುಮತಿಸಿ, ಇದು ನಿಮಗೆ ಮತ್ತು ಅದನ್ನು ಬಳಸುವ ಪ್ರತಿಯೊಬ್ಬರಿಗೂ ChatGPTಯನ್ನು ಉತ್ತಮಗೊಳಿಸುತ್ತದೆ. ನಿಮ್ಮ ಗೌಪ್ಯತೆಯನ್ನು ರಕ್ಷಿಸಲು ನಾವು ಕ್ರಮಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೇವೆ. [ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ](https://help.openai.com/en/articles/7730893-data-controls-faq).";
+
+"Manage Memory" = "ನೆನಪು ನಿರ್ವಹಿಸಿ";
+
+"Archive All Chats" = "ಎಲ್ಲಾ ಚಾಟ್‌ಗಳನ್ನು ಆರ್ಕೈವ್ ಮಾಡಿ";
+
+"Manage workspace" = "ಕಾರ್ಯಕ್ಷೇತ್ರ ನಿರ್ವಹಿಸಿ";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "ಈ ಸಾಧನದಲ್ಲಿ ಹೊಸ ಚಾಟ್‌ಗಳನ್ನು ನಿಮ್ಮ ಇತಿಹಾಸದಿಂದ ಉಳಿಸಿ ಮತ್ತು ನಮ್ಮ ಮಾದರಿಗಳನ್ನು ಸುಧಾರಿಸಲು ಅವುಗಳನ್ನು ಬಳಸಲು ಅನುಮತಿಸಿ. ಉಳಿಸದ ಚಾಟ್‌ಗಳನ್ನು ನಮ್ಮ ಸಿಸ್ಟಂಗಳಿಂದ 30 ದಿನಗಳಲ್ಲಿ ಅಳಿಸಲಾಗುತ್ತದೆ. ಈ ಸೆಟ್ಟಿಂಗ್ ಸಾಧನಗಳಾದ್ಯಂತ ಸಿಂಕ್ ಆಗುವುದಿಲ್ಲ. [ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Color Scheme" = "ಕಲರ್ ಯೋಜನೆ";
+
+"Help" = "ಸಹಾಯ";
+
+"New Features" = "ಹೊಸ ವೈಶಿಷ್ಟ್ಯಗಳು";
+
+"Voice" = "ಧ್ವನಿ";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "ನಮ್ಮ ಮಾದರಿಗಳನ್ನು ಸುಧಾರಿಸಲು ಮತ್ತು ಟ್ರೈನ್‌ ನೀಡಲು ನಿಮ್ಮ ಧ್ವನಿ ಚಾಟ್‌ಗಳಿಂದ ಆಡಿಯೊವನ್ನು ಬಳಸಲು ಅನುಮತಿಸಿ. ಇದು ಎಲ್ಲರಿಗೂ ಧ್ವನಿ ಚಾಟ್‌ಗಳ ಗುಣಮಟ್ಟವನ್ನು ಸುಧಾರಿಸುತ್ತದೆ. [ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Haptic Feedback" = "ಹ್ಯಾಪ್ಟಿಕ್ ಪ್ರತಿಕ್ರಿಯೆ";
+
+"Chat History & Training" = "ಚಾಟ್ ಇತಿಹಾಸ ಮತ್ತು ಟ್ರೈನ್‌";
+
+"Search Archive" = "ಆರ್ಕೈವ್ ಹುಡುಕಿ";
+
+"Desktop Launcher" = "ಡೆಸ್ಕ್‌ಟಾಪ್‌ ಲಾಂಚರ್‌";
+
+"Privacy Policy" = "ಗೌಪ್ಯತಾ ನೀತಿ";
+
+"Could not update the memory setting. Please try again later." = "ನೆನಪು ಸೆಟ್ಟಿಂಗ್ ಅನ್ನು ನವೀಕರಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.";
+
+"Are you sure?" = "ನೀವು ಖಚಿತವಾಗಿರುವಿರಾ?";
+
+"Speech" = "ಮಾತು";
+
+"We couldn't load your archived chats" = "ನಿಮ್ಮ ಆರ್ಕೈವ್ ಮಾಡಿದ ಚಾಟ್‌ಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ನಮಗೆ ಸಾಧ್ಯವಾಗಲಿಲ್ಲ";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "ನೀವು ಕಳೆದ 10 ನಿಮಿಷಗಳಲ್ಲಿ ಲಾಗ್ ಇನ್ ಆಗಿದ್ದರೆ ಮಾತ್ರ ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಅಳಿಸಬಹುದು.\n\nದಯವಿಟ್ಟು ಮತ್ತೆ ಲಾಗ್ ಇನ್ ಮಾಡಿ, ಬಳಿಕ ಮುಂದುವರಿಸಲು ಇಲ್ಲಿಗೆ ಹಿಂತಿರುಗಿ.";
+
+"Recent login required" = "ಇತ್ತೀಚಿನ ಲಾಗಿನ್ ಅಗತ್ಯವಿದೆ";
+

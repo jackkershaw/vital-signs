@@ -1,0 +1,50 @@
+"Delete link" = "Șterge linkul";
+
+"Update title" = "Actualizează titlul";
+
+"Shared Link Title" = "Titlul linkului de partajare";
+
+"Share link" = "Partajează linkul";
+
+"Options" = "Opțiuni";
+
+"There was an error preparing the conversation. Please try again. %@" = "A apărut o eroare la pregătirea conversației. Încearcă din nou. %@";
+
+"Share your name" = "Partajează-ți numele";
+
+"Shared Link Owner" = "Proprietarul linkului de partajare";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "Mesajele trimise sau primite după partajarea linkului tău nu vor fi partajate. Oricine are acest URL va putea să vizualizeze discuția ta partajată.";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "Ai partajat deja un link către această discuție. Dacă dorești să incluzi mesaje noi, șterge acest link și partajează din nou discuția.";
+
+"There was an error sharing the conversation. Please try again. %@" = "A apărut o eroare la partajarea conversației. Încearcă din nou. %@";
+
+"Recipients won't be able to view images." = "Destinatarii nu vor putea să vizualizeze imaginile.";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "Sigur dorești să ștergi linkul de partajare „%@”? Poți să creezi întotdeauna un link nou, partajând din nou această discuție.";
+
+"Shared Link Date" = "Data linkului de partajare";
+
+"Share link to chat" = "Partajează linkul în discuție";
+
+"The conversation has no messages." = "Conversația nu conține mesaje.";
+
+"Your custom instructions won’t be shared with viewers." = "Instrucțiunile tale particularizate nu vor fi partajate cu privitorii.";
+
+"Share anonymously" = "Partajează în mod anonim";
+
+"Edit title" = "Editează titlul";
+
+"Shared link deleted." = "Linkul de partajare a fost șters.";
+
+"Missing Name" = "Nume lipsă";
+
+"The share link is invalid. %@" = "Linkul de partajare este nevalid. %@";
+
+"There was an error deleting your shared link." = "A apărut o eroare la ștergerea linkului tău de partajare.";
+
+"Title" = "Titlu";
+
+"Help and FAQ" = "Ajutor și Întrebări frecvente";
+

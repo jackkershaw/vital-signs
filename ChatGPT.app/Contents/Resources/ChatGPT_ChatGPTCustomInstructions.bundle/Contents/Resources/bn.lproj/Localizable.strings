@@ -1,0 +1,50 @@
+"Browse the internet to find answers" = "উত্তর খুঁজতে ইন্টারনেট ব্রাউজ করুন";
+
+"Save" = "সংরক্ষণ করুন";
+
+"An unknown error occurred. Please try again later" = "একটি অজানা ত্রুটি ঘটেছে। অনুগ্রহ করে পরে আবার চেষ্টা করুন";
+
+"Error saving custom instructions" = "কাস্টমের নির্দেশাবলী সংরক্ষণ করতে ত্রুটি হয়েছে";
+
+"DALL•E" = "DALL·E";
+
+"Generate images using DALL•E" = "DALL·E ব্যবহার করে ছবি তৈরি করুন";
+
+"Execute code using Code Interpreter" = "কোড ইন্টারপ্রেটার ব্যবহার করে কোড এক্সিকিউট করুন";
+
+"Discard changes" = "সব পরিবর্তন বাতিল করুন";
+
+"Custom Instructions Enabled or Disabled" = "কাস্টমের নির্দেশাবলী সক্ষম বা অক্ষম রয়েছে";
+
+"Customize ChatGPT" = "ChatGPT কাস্টমাইজ করুন";
+
+"Choose which tools can be used with GPT-4." = "GPT-4 এর সাথে কোন টুল ব্যবহার করা যেতে পারে তা বেছে নেন";
+
+"How would you like ChatGPT to respond?" = "ChatGPT-র আপনাকে প্রতিক্রিয়া জানানোর ব্যাপারটা কীভাবে হোক, যেটা আপনি চান?";
+
+"GPT-4 Capabilities" = "GPT-4 এর ক্ষমতা";
+
+"Thought starters" = "চিন্তা শুরু করেন যিনি";
+
+"Keep editing" = "সম্পাদনা চালিয়ে যান";
+
+"Saving Custom Instructions" = "কাস্টমের নির্দেশাবলী সংরক্ষণ করা হচ্ছে";
+
+"Error updating state for customizations. Please try again later." = "কাস্টমাইজেশন করার কারণে অবস্থা আপডেট করার সময় ত্রুটি ঘটেছে। অনুগ্রহ করে একটু পরে আবার চেষ্টা করুন";
+
+"Show tips" = "ইঙ্গিত দাও";
+
+"Error loading customizations. Please try again later." = "কাস্টমাইজেশন লোড করার সময় ত্রুটি ঘটেছে। অনুগ্রহ করে একটু পরে আবার চেষ্টা করুন।";
+
+"Unsaved changes" = "অসংরক্ষিত পরিবর্তন";
+
+"Code" = "কোড";
+
+"Enable for new chats" = "নতুন চ্যাটের জন্য চালু করুন";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "আরও ভালো প্রতিক্রিয়া দেওয়ার জন্য আপনি ChatGPT কে আপনার সম্পর্কে কী জানাতে চান?";
+
+"Browsing" = "ব্রাউজ করা";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "আপনি কি নিশ্চিত যে আপনি আপনার পরিবর্তন বাতিল করতে চান?\nআপনার করা যে কোনও পরিবর্তন হারিয়ে যাবে।";
+

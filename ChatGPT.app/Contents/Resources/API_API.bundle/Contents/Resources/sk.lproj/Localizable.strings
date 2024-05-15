@@ -1,0 +1,18 @@
+"There is a problem with your request. (%lld, %@)" = "Vyskytol sa problém so žiadosťou. (%lld, %@)";
+
+"This content may violate our content policy. Please try again with different content." = "Tento obsah môže porušovať naše pravidlá pre obsah. Skús to znova s iným obsahom.";
+
+"The response is invalid. Please try again." = "Odpoveď je neplatná. Skús to znova.";
+
+"The server is overloaded. Please try again later." = "Server je preťažený. Skús to znova neskôr.";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "Vyskytli sa problémy so serverom. Skús to znova neskôr. (%lld, %@)";
+
+"There is a problem with your account info. Please try signing out then in." = "Vyskytol sa problém s informáciami o účte. Skús sa odhlásiť a potom prihlásiť.";
+
+"You've made too many requests. Please try again later. (429, %@)" = "Máš zadaných príliš veľa žiadostí. Skús to znova neskôr. (429, %@)";
+
+"System error" = "Systémová chyba";
+
+"Unsupported content" = "Nepodporovaný obsah";
+

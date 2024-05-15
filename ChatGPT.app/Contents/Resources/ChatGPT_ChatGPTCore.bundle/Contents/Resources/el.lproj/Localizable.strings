@@ -1,0 +1,82 @@
+"Your limit resets at %@" = "Θα γίνει επαναφορά του ορίου σου στις %@";
+
+"Browsing" = "Περιήγηση";
+
+"Retrieves or takes actions outside of ChatGPT" = "Ανακτά δεδομένα ή εκτελεί ενέργειες εκτός του ChatGPT";
+
+"Memory" = "Μνήμη";
+
+"Pinned" = "Καρφιτσωμένα";
+
+"ChatGPT" = "ChatGPT";
+
+"Link unavailable" = "Μη διαθέσιμος σύνδεσμος";
+
+"The builder of this GPT can’t view your chats" = "Ο κατασκευαστής αυτού του GPT δεν μπορεί να δει τις συνομιλίες σου";
+
+"Untitled" = "Χωρίς τίτλο";
+
+"Your limit resets in %lld minutes" = "Θα γίνει επαναφορά του ορίου σου σε %lld λεπτά";
+
+"GitHub" = "GitHub";
+
+"Failed to load citation" = "Αποτυχία φόρτωσης παραπομπής";
+
+"Copy Link" = "Αντιγραφή συνδέσμου";
+
+"DALL•E Images" = "Εικόνες DALL•E";
+
+"Your limit resets tomorrow at %@" = "Θα γίνει επαναφορά του ορίου σου αύριο στις %@";
+
+"Citation" = "Παραπομπή";
+
+"This version of the app will be sunset soon!" = "Αυτή η έκδοση της εφαρμογής θα λήξει σύντομα!";
+
+"Data Analysis" = "Ανάλυση δεδομένων";
+
+"Invalid citation" = "Μη έγκυρη παραπομπή";
+
+"The builder of this GPT can’t view your chats or memories" = "Ο κατασκευαστής αυτού του GPT δεν μπορεί να δει τις συνομιλίες ή τις μνήμες σου";
+
+"Twitter" = "Twitter";
+
+"Info" = "Πληροφορίες";
+
+"Any data shared with a third party through GPT actions are subject to the third party's privacy policy. [Learn more](https://help.openai.com/en/articles/8914046-temporary-chat-faq)" = "Όσα δεδομένα κοινοποιούνται σε τρίτο μέρος μέσω των ενεργειών του GPT υπόκεινται στην πολιτική απορρήτου του τρίτου μέρους. [Μάθε περισσότερα](https://help.openai.com/en/articles/8914046-temporary-chat-faq)";
+
+"This chat won't appear in history, use or create memories, or be used to train our models. For safety purposes, we may keep a copy of this chat for up to 30 days." = "Αυτή η συνομιλία δεν θα εμφανίζεται στο ιστορικό, δεν θα χρησιμοποιεί ούτε θα δημιουργεί μνήμες και δεν θα χρησιμοποιείται για την εκπαίδευση των μοντέλων μας. Για λόγους ασφάλειας ενδέχεται να κρατήσουμε ένα αντίγραφο αυτής της συνομιλίας για έως και 30 ημέρες.";
+
+"Website" = "Ιστότοπος";
+
+"Me" = "Εγώ";
+
+"By community builder" = "Από τον κατασκευαστή κοινότητας";
+
+"Unsupported content" = "Μη υποστηριζόμενο περιεχόμενο";
+
+"Your limit resets %@" = "Θα γίνει επαναφορά του ορίου σου σε %@";
+
+"Contents may violate our content policy" = "Περιεχόμενα που ενδέχεται να παραβιάζουν την πολιτική περιεχομένου μας";
+
+"Learns from previous chats to improve future conversations" = "Μαθαίνει από προηγούμενες συνομιλίες για να βελτιώσει μελλοντικές συζητήσεις";
+
+"community builder" = "κατασκευαστής κοινότητας";
+
+"This chat won't appear in history or be used to train our models. For safety purposes, we may keep a copy of this chat for up to 30 days." = "Αυτή η συνομιλία δεν θα εμφανίζεται στο ιστορικό ούτε θα χρησιμοποιείται για την εκπαίδευση των μοντέλων μας. Για λόγους ασφάλειας ενδέχεται να κρατήσουμε ένα αντίγραφο αυτής της συνομιλίας για έως και 30 ημέρες.";
+
+"Open Link" = "Άνοιγμα συνδέσμου";
+
+"LinkedIn" = "LinkedIn";
+
+"Your limit resets in 1 minute" = "Θα γίνει επαναφορά του ορίου σου σε 1 λεπτό";
+
+"By %@" = "Δημιουργός: %@";
+
+"Temporary Chat" = "Προσωρινή συνομιλία";
+
+"By" = "Δημιουργός:";
+
+"Instagram" = "Instagram";
+
+"Actions" = "Ενέργειες";
+

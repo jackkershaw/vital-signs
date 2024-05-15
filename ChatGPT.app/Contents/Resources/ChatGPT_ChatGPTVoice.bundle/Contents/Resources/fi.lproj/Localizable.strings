@@ -1,0 +1,170 @@
+"See more information about voice research" = "Näytä lisätietoja äänitutkimisesta";
+
+"Good" = "Hyvä";
+
+"Pause" = "Pysäytä";
+
+"Excellent" = "Erinomainen";
+
+"%lld." = "%lld.";
+
+"Unable to review action" = "Toimintoa ei voitu tarkastaa";
+
+"Click to send manually" = "Lähetä manuaalisesti napsauttamalla";
+
+"Finish speaking to send" = "Lähetä lopettamalla puhuminen";
+
+"Unable to send response. Please try again." = "Vastausta ei voitu lähettää. Yritä uudelleen.";
+
+"Voice mode" = "Äänitila";
+
+"Grace Period for %@s" = "%@ s jatkoaikaa";
+
+"Start speaking" = "Aloita puhuminen";
+
+"Take picture" = "Ota kuva";
+
+"Voice feedback: give thumbs up" = "Äänipalaute: anna yläpeukku";
+
+"Unselect %@" = "Poista valinta %@";
+
+"Select all that apply" = "Valitse kaikki sopivat vaihtoehdot";
+
+"Thinking" = "Miettii";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "Valitsit äänikeskusteluiden äänisisällön jakamisen malliemme parantamiseksi ja kouluttamiseksi. Siihen sisältyy myös mikrofonistasi kuuluva ääni, kun malli miettii tai puhuu. Voit lopettaa jakamisen asetuksissa.";
+
+"Close camera" = "Sulje kamera";
+
+"Helping improve voice" = "Autetaan parantamaan ääntä";
+
+"Tap to cancel" = "Peruuta napauttamalla";
+
+"Click to interrupt" = "Keskeytä napsauttamalla";
+
+"Unknown error" = "Tuntematon virhe";
+
+"Poor connection" = "Huono yhteys";
+
+"Lost" = "Kadotettu";
+
+"Tap to send manually" = "Lähetä manuaalisesti napauttamalla";
+
+"Click to activate" = "Aktivoi napsauttamalla";
+
+"Speaking" = "Puhuu";
+
+"Flip camera to the front" = "Käännä kamera eteen";
+
+"Open camera" = "Avaa kamera";
+
+"Voice chat ended" = "Äänikeskustelu päättyi";
+
+"Learn more" = "Lue lisää";
+
+"Go forward 15 seconds" = "Siirry 15 sekuntia eteenpäin";
+
+"Paused" = "Pysäytetty";
+
+"Choose a voice" = "Valitse ääni";
+
+"Connecting." = "Yhdistetään.";
+
+"Tap to dismiss" = "Hylkää napauttamalla";
+
+"You can change this later." = "Voit muuttaa tätä myöhemmin.";
+
+"Go backward 15 seconds" = "Siirry 15 sekuntia taaksepäin";
+
+"Tap to interrupt" = "Keskeytä napauttamalla";
+
+"Select %@" = "Valitse %@";
+
+"Thank you!" = "Kiitos!";
+
+"Speak now" = "Puhu nyt";
+
+"Submit feedback" = "Lähetä palaute";
+
+"Connected" = "Yhdistetty";
+
+"Stop listening" = "Lopeta kuuntelu";
+
+"On for training" = "Koulutuskäyttö päällä";
+
+"Unknown" = "Tuntematon";
+
+"Release to send" = "Lähetä vapauttamalla";
+
+"Connect" = "Yhdistä";
+
+"Other" = "Muu";
+
+"Click to connect" = "Yhdistä napsauttamalla";
+
+"Error: '%@'" = "Virhe: '%@'";
+
+"Voice feedback: give thumbs down" = "Äänipalaute: anna alapeukku";
+
+"%lldms" = "%lld ms";
+
+"Tap to activate" = "Aktivoi napauttamalla";
+
+"I didn’t like the responses" = "En pitänyt vastauksista";
+
+"It interrupted me" = "Minut keskeytettiin";
+
+"Tap to connect" = "Yhdistä napauttamalla";
+
+"Listening intently" = "Kuuntelee tarkasti";
+
+"It misheard me" = "Minut kuultiin väärin";
+
+"Halted" = "Pysäytetty";
+
+"Connection failed, tap to retry" = "Yhteyden muodostaminen epäonnistui. Yritä uudelleen napauttamalla.";
+
+"Voice chat ended after " = "Äänikeskustelu päättyi seuraavan ajan jälkeen: ";
+
+"Listening" = "Kuuntelee";
+
+"Connecting.." = "Yhdistetään...";
+
+"Idle" = "Joutilas";
+
+"Speak to keep active" = "Puhu pitääksesi aktiivisena";
+
+"Failed to connect" = "Yhteyden muodostaminen epäonnistui";
+
+"Save to Photos" = "Tallenna valokuviin";
+
+"Connection failed, click to retry" = "Yhteyden muodostaminen epäonnistui. Yritä uudelleen napsauttamalla.";
+
+"•" = "•";
+
+"Close" = "Sulje";
+
+"Audio issues" = "Ääniongelmat";
+
+"Flip camera to the rear" = "Käännä kamera taakse";
+
+"Restart" = "Käynnistä uudelleen";
+
+"Play" = "Toista";
+
+"Poor" = "Huono";
+
+"Enable microphone access in Settings" = "Salli mikrofonin käyttö asetuksissa";
+
+"Hold for manual control" = "Pidä painettuna manuaalista hallintaa varten";
+
+"Resume listening" = "Jatka kuuntelua";
+
+"Pick photo" = "Valitse valokuva";
+
+"Click to cancel" = "Peruuta napsauttamalla";
+
+"What went wrong?" = "Mikä meni pieleen?";
+
+"Connecting" = "Yhdistetään";
+

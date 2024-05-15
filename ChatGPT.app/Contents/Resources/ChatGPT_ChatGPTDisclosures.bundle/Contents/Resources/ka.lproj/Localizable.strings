@@ -1,0 +1,150 @@
+"Follows custom instructions" = "მიჰყვება პერსონალიზებულ ინტრუქციებს";
+
+"Chat with images" = "ჩატი სურათებით";
+
+"By default, chats in this workspace are not used to train our AI models." = "ამ სამუშაო სივრცის ჩატები არ გამოიყენება ჩვენი AI მოდელების გასაწვრთნელად.";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "მართალია, სიფრთხილის ზომებს ვიცავთ, მაგრამ ChatGPT, შესაძლოა, არაზუსტი ინფორმაციის წყარო გახდეს. ის შექმნილი არაა რჩევების გასაცემად.";
+
+"Language is auto-detected" = "ენის ამოცნობა ხდება ავტომატურად";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "თქვენ შეგიძლიათ სასურველი ენის მითითება პარამეტრებიდან უფრო ზუსტად ამოცნობისთვის.";
+
+"Temporary Chats won’t be used to improve our models." = "დროებით ჩატებს არ ვიყენებთ ჩვენი მოდელების გასაუმჯობესებლად.";
+
+"You’re in control" = "თქვენ აკონტროლებთ ყველაფერს";
+
+"Built for business" = "შექმნილია ბიზნესებისთვის";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "ChatGPT-მ შეიძლება მოგაწოდოთ არასწორი ინფორმაცია ადამიანების, ადგილებისა თუ ფაქტების შესახებ.";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "დროებითი ჩატები არ გამოჩნდება თქვენს ისტორიაში. უსაფრთხოების მიზნით, შესაძლოა, თქვენი ჩატის ასლი შევინახოთ 30 დღემდე ვადით.";
+
+"Taking steps to protect privacy" = "ზომების მიღება კონფიდენციალურობის დასაცავად";
+
+"Chats may be reviewed by our AI trainers to improve our systems." = "ჩატები, შესაძლოა, შემოწმდეს AI ინსტრუქტორების მიერ, რათა გავაუმჯობესოთ ჩვენი სისტემები.";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "გამოიყენეთ ფოტოები ველოსიპედის შეკეთებისთვის, რეცეპტის შემუშავებისთვის ან რთული გრაფიკების ანალიზისთვის.";
+
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "თქვენ აკონტროლებთ ყველაფერს. გადახედეთ მეხსიერებაში შენახულ კონკრეტულ დეტალებს, წაშალეთ ისინი, დაიწყეთ სუფთა ფურცლიდან ან გამორთეთ ეს ფუნქცია პარამეტრებიდან.";
+
+"Improve voice chats for everyone" = "გააუმჯობესეთ ხმოვანი ჩატები ყველასთვის";
+
+"Check your facts" = "შეამოწმეთ თქვენი ფაქტები";
+
+"Manage what it remembers" = "მართეთ, რასაც ის იმახსოვრებს";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "თუ აღარ მოისურვებთ გაგრძელებას, ნებისმიერ დროს შეძლებთ, შეწყვიტოთ გაზიარება პარამეტრებიდან.\n\n[ვრცლად](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Snap a picture to ask ChatGPT about the world around you." = "გადაიღეთ სურათი, რომ ChatGPT დაგეხმაროთ, უკეთ გაერკვეთ თქვენ გარშემო არსებულ სამყაროში.";
+
+"Chat without having to look at your screen." = "ჩატი ეკრანზე დახედვის გარეშე.";
+
+"Continue" = "გაგრძელება";
+
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "ChatGPT გაუმჯობესდება ჩატის მიმდინარეობასთან ერთად, რადგან უწყვეტად დაიმახსოვრებს დეტალებსა თუ უპირატეს პარამეტრებს.";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "ChatGPT პასუხს გაგცემთ შეკითხვებზე, დაგეხმარებათ სწავლასა და კოდის დაწერაში, მონაწილეობას მიიღებს გონებრივ იერიშში და მრავალ სხვა აქტივობაში.";
+
+"Edit the full image" = "სრული სურათის რედაქტირება";
+
+"Share audio from future voice chats to improve and train our models." = "გაგვიზიარეთ აუდიომასალა მომავალი ხმოვანი ჩატებიდან, რომ მოვამზადოთ და გავაუმჯობესოთ ჩვენი მოდელები.";
+
+"ChatGPT now has memory across chats" = "ChatGPT-ს ახლა უკვე მეხსიერებაც აქვს ჩატებში";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "ხმოვანი ჩატების გასაუმჯობესებლად, შესაძლოა, ჩვენმა გუნდმა შეამოწმოს აუდიომასალა. ჩვენ ვიღებთ შესაბამის ზომებს, რომ შევამციროთ პერსონალური ინფორმაციის რაოდენობა იმ აუდიომასალაში, რომელსაც ჩვენი მოდელების მოსამზადებლად ვიყენებთ.";
+
+"Made for use at work" = "შექმნილია სამსახურში გამოსაყენებლად";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "დროებით ჩეთში ყოფნისას ChatGPT არ გამოიყენებს და არ შექმნის მეხსიერებას. პერსონალიზებული ინსტრუქციები კვლავ შესრულდება, თუ ისინი ჩართული გაქვთ.";
+
+"ChatGPT can be inaccurate" = "ChatGPT შეიძლება იყოს არაზუსტი";
+
+"Get Started" = "დაწყება";
+
+"Picture perfect" = "უნაკლო სურათი";
+
+"Help improve voice" = "დაგვეხმარეთ ხმის გაუმჯობესებაში";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "გადაწყვიტეთ, გსურთ თუ არა, რომ ამ მოწყობილობაზე წამოწყებული ახალი ჩატები გამოჩნდეს თქვენს ისტორიაში და გამოყენებულ იქნას ჩვენი სისტემების გასაუმჯობესებლად.";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "გაეცანით ხმოვან ტრანსკრიპტებს თქვენს ისტორიაში. აუდიო კლიპები არ ინახება.";
+
+"Welcome to\nChatGPT" = "მოგესალმებათ\nChatGPT";
+
+"Temporary Chat" = "დროებითი ჩატი";
+
+"Learn more" = "ვრცლად";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "აქ შეგიძლიათ გამოიყენოთ ჩვენი უახლესი მოდელები, რომლებსაც მეტი შესაძლებლობა და ნაკლები შეზღუდვა აქვს.";
+
+"Chats are saved" = "ჩატები ინახება";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "ეს ოფიციალური აპი უფასოა, ახდენს ისტორიის სინქრონიზაციას მოწყობილობებს შორის და გთავაზობთ OpenAI-ს მოდელის უახლეს ვერსიებს.";
+
+"Chat with voice" = "ჩატი ხმით";
+
+"Control your chat history" = "თქვენი ჩატის ისტორიის მართვა";
+
+"Don’t share sensitive info" = "ნუ გააზიარებთ დელიკატურ ინფორმაციას";
+
+"Not in history" = "ისტორიაში არ არის";
+
+"Tap Select, highlight the area, and describe changes in chat." = "შეხებით მონიშნეთ არჩევა, მონიშნეთ ტერიტორია და აღწერეთ ცვლილებები ჩატში.";
+
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "რედაქტირებული პერსონალიზებული ინსტრუქციები გავრცელდება თქვენ მიერ შექმნილ ყოველ ახალ ჩატზე. ძველი საუბრები არ განახლდება.";
+
+"Welcome to ChatGPT" = "მოგესალმებათ ChatGPT";
+
+"Welcome to the %@ workspace" = "მოგესალმებით %@ სამუშაო სივრცეში";
+
+"Just start talking" = "უბრალოდ დაიწყეთ ლაპარაკი";
+
+"Active for new chats" = "მოქმედია ახალი ჩატებისთვის";
+
+"Start with a photo" = "დაიწყეთ ფოტოთი";
+
+"Choose a voice" = "ხმის არჩევა";
+
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "ChatGPT-სთან თქვენი ურთიერთქმედების პერსონალიზაციისთვის წარმოადგინეთ კონკრეტული დეტალები და მითითებები თქვენი ჩატებისთვის.";
+
+"Hands-free" = "უკონტაქტო";
+
+"Keep the conversation going" = "განაგრძეთ ლაპარაკი";
+
+"Memory off" = "მეხსიერება გამორთულია";
+
+"Now you can have spoken conversations with GPTs." = "უკვე შეგიძლიათ GPT-ებთან ლაპარაკით საუბარი.";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "წარმოადგინეთ ინფორმაცია თქვენი ინდუსტრიის, ფუნქციის ან კონკრეტული პროექტების შესახებ, რათა მიიღოთ თქვენზე მორგებული პასუხები.";
+
+"Custom Instructions will still be followed if you have them enabled." = "პერსონალიზებულ ინსტრუქციებს მაინც გაითვალისწინებენ თუ გააქტიურებული გაქვთ.";
+
+"Share" = "გაზიარება";
+
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "ChatGPT თქვენი ჩატებიდან მიღებულ ცოდნაზე დაყრდნობით მოგაწვდით შესაბამის პასუხებს.";
+
+"Help improve our models" = "დაგვეხმარეთ ჩვენი მოდელების გაუმჯობესებაში";
+
+"No model training" = "მოდელის სწავლება არ არის";
+
+"Welcome to your company's workspace" = "მოგესალმებით თქვენი კომპანიის სამუშაო სივრცეში";
+
+"Ask away" = "შეკითხვის დასმა";
+
+"Introducing\nCustom Instructions" = "წარმოგიდგენთ\nპერსონალიზებულ ინსტრუქციებს";
+
+"Refine DALL·E Images" = "DALL-E-ს სურათების დახვეწა";
+
+"Tap Edit and describe changes in chat." = "შეხებით აირჩიეთ „რედაქტირება“ და აღწერეთ ცვლილებები ჩატში.";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "თქვენი ინსტრუქციები გააუმჯობესებს ჩვენს მოდელებს. დაათვალიერეთ ჩვენი [დახმარების ცენტრი](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt), რათა შეიტყოთ, როგორ მოხდება თქვენი მონაცემების გამოყენება.";
+
+"More helpful over time" = "უფრო სასარგებლო ხდება დროთა განმავლობაში";
+
+"Don't Share" = "არ გააზიაროთ";
+
+"Now you can have spoken conversations with ChatGPT." = "უკვე შეგიძლიათ ChatGPT-თან ლაპარაკით საუბარი.";
+
+"Select an area of the image to edit" = "მონიშნეთ სურათის ნაწილი რედაქტირებისთვის";
+

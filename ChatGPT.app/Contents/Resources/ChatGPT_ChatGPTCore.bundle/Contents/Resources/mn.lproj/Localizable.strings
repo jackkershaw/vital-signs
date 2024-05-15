@@ -1,0 +1,82 @@
+"This version of the app will be sunset soon!" = "Аппын энэ хувилбар удахгүй хуучирна!";
+
+"Contents may violate our content policy" = "Контентууд манай контентын бодлогыг зөрчиж болзошгүй";
+
+"Website" = "Вэбсайт";
+
+"The builder of this GPT can’t view your chats or memories" = "Энэ GPT-г бүтээгч таны чатыг эсвэл санах ойг харах боломжгүй";
+
+"ChatGPT" = "ChatGPT";
+
+"Info" = "Мэдээлэл";
+
+"Link unavailable" = "Холбоос ашиглах боломжгүй";
+
+"Browsing" = "Вэб үзэх";
+
+"Copy Link" = "Холбоосыг хуулах";
+
+"DALL•E Images" = "DALL•E зураг";
+
+"GitHub" = "GitHub";
+
+"Invalid citation" = "Эшлэл буруу байна";
+
+"Citation" = "Эшлэл";
+
+"Your limit resets in %lld minutes" = "Your limit resets in %lld minutes";
+
+"Your limit resets tomorrow at %@" = "Your limit resets tomorrow at %@";
+
+"Retrieves or takes actions outside of ChatGPT" = "ChatGPT-ээс гадуур мэдээлэл олно эсвэл арга хэмжээ авна";
+
+"Pinned" = "Залгасан";
+
+"By %@" = "%@-ээр";
+
+"Twitter" = "Twitter";
+
+"community builder" = "хамт олон бүтээгч";
+
+"Temporary Chat" = "Түр чат";
+
+"Your limit resets at %@" = "Your limit resets at %@";
+
+"Any data shared with a third party through GPT actions are subject to the third party's privacy policy. [Learn more](https://help.openai.com/en/articles/8914046-temporary-chat-faq)" = "GPT үйлдлээр дамжуулан гуравдагч этгээдтэй хуваалцсан аливаа өгөгдөл нь гуравдагч этгээдийн нууцлалын бодлогод хамаарна.[Нэмэлт мэдээлэл авах](https://help.openai.com/en/articles/8914046-temporary-chat-faq)";
+
+"Failed to load citation" = "Эшлэл ачаалалт амжилтгүй";
+
+"The builder of this GPT can’t view your chats" = "Энэ GPT-г бүтээгч таны чатыг харах боломжгүй";
+
+"This chat won't appear in history, use or create memories, or be used to train our models. For safety purposes, we may keep a copy of this chat for up to 30 days." = "Энэ чат түүх дотор харагдахгүй, санах ойг ашиглаж эсвэл үүсгэхгүй, аль эсвэл манай загваруудыг сургахад ашиглагдахгүй. Аюулгүй байдлын үүднээс бид энэ чатын хуулбарыг 30 хүртэл хоног хадгалж болно.";
+
+"Your limit resets in 1 minute" = "Your limit resets in 1 minute";
+
+"Untitled" = "Нэргүй";
+
+"Actions" = "Үйлдэл";
+
+"Data Analysis" = "Өгөгдлийн шинжилгээ";
+
+"This chat won't appear in history or be used to train our models. For safety purposes, we may keep a copy of this chat for up to 30 days." = "Энэ чат түүх дотор харагдахгүй эсвэл манай загваруудыг сургахад ашиглагдахгүй. Аюулгүй байдлын үүднээс бид энэ чатын хуулбарыг 30 хүртэл хоног хадгалж болно.";
+
+"Memory" = "Санах ой";
+
+"By community builder" = "Хамт олон бүтээгчээр";
+
+"LinkedIn" = "LinkedIn";
+
+"By" = "Үүгээр";
+
+"Open Link" = "Холбоосыг нээх";
+
+"Your limit resets %@" = "Your limit resets %@";
+
+"Me" = "Надад";
+
+"Instagram" = "Instagram";
+
+"Unsupported content" = "Дэмжигдэхгүй контент";
+
+"Learns from previous chats to improve future conversations" = "Цаашдын яриаг сайжруулахын тулд өмнөх чатуудаас суралцдаг";
+

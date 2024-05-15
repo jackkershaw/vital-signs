@@ -1,0 +1,74 @@
+"Regenerate" = "Regenerieren";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "^[%lld Anhänge](inflect: true) werden hochgeladen ...";
+
+"Loading…" = "Laden...";
+
+"Select Text" = "Text auswählen";
+
+"Quick Look" = "Kurz nachsehen";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Diese Datei ist nicht mehr verfügbar. Beginne ein neues Gespräch oder lade eine andere Datei hoch, um dein Gespräch fortzusetzen.";
+
+"Save File As…" = "Datei speichern unter...";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT bewahrt Dateien nur für einen gewissen Zeitraum auf. Beginne ein neues Gespräch oder lade eine andere Datei hoch, um das Gespräch fortzusetzen.";
+
+"Sign in to %@" = "Bei %@ anmelden";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Verfasst mit GPT-4, unserem leistungsstärksten Modell, erhältlich in ChatGPT Plus";
+
+"Deny" = "Verweigern";
+
+"Always allow" = "Immer zulassen";
+
+"Upgraded response" = "Upgegradete Reaktion";
+
+"Continue Generating" = "Erstellung fortsetzen";
+
+"Manage memories" = "Erinnerungen verwalten";
+
+"Edit" = "Bearbeiten";
+
+"#%lld row" = "Zeilennr. %lld";
+
+"Change Model" = "Modell ändern";
+
+"Please try again later.%@" = "Versuche es später erneut.%@";
+
+"File expired" = "Datei abgelaufen";
+
+"Memory updated" = "Erinnerung aktualisiert";
+
+"\"%@\" column" = "Spalte „%@“";
+
+"You" = "Du";
+
+"Failed, retry?" = "Fehlgeschlagen. Erneut versuchen?";
+
+"Analysis" = "Analyse";
+
+"\"%@\" cell" = "Zelle „%@“";
+
+"Selection" = "Auswahl";
+
+"Bad" = "Schlecht";
+
+"How would you rate this GPT?" = "Wie würdest du dieses GPT bewerten?";
+
+"Stop Generating" = "Erstellung anhalten";
+
+"Memories updated" = "Erinnerungen aktualisiert";
+
+"Response rating failed." = "Bewertung der Reaktion fehlgeschlagen.";
+
+"A GPT" = "Ein GPT";
+
+"Read Aloud" = "Vorlesen";
+
+"Your most recent request failed. Please retry!" = "Deine jüngste Anfrage ist fehlgeschlagen. Bitte versuche es erneut.";
+
+"File unavailable" = "Datei nicht verfügbar";
+
+"Decline" = "Ablehnen";
+

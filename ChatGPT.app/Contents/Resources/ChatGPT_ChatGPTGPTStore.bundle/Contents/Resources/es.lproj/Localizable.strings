@@ -1,0 +1,114 @@
+"Add a note" = "Añadir una nota";
+
+"Anyone with a link" = "Cualquier persona con un enlace";
+
+"Unable to load, retry?" = "Error al cargar, ¿reintentar?";
+
+"By community builder" = "Por constructor de comunidades";
+
+"How would you rate **%@**?" = "¿Cómo valorarías **%@**?";
+
+"%@ rating" = "Valoración de %@";
+
+"Only me" = "Solo yo";
+
+"Good" = "Bueno";
+
+"%@ chats" = "%@ chats";
+
+"By %@" = "Por %@";
+
+"Include my email **%@**" = "Incluir mi correo electrónico **%@**";
+
+"Untitled" = "Sin título";
+
+"Feedback" = "Opinión";
+
+"Loading more" = "Cargando más";
+
+"Thank you for your feedback!" = "¡Gracias por darnos tu opinión!";
+
+"Tap a star" = "Pulsa una estrella";
+
+"Include my email" = "Incluir mi correo electrónico";
+
+"Failed to remove recent GPT, retry?" = "Error al quitar el GPT reciente, ¿reintentar?";
+
+"Start Chat" = "Empezar el chat";
+
+"Star rating" = "Valoración por estrellas";
+
+"How would you rate this GPT?" = "¿Cómo valorarías este GPT?";
+
+"Exceptional!" = "¡Excepcional!";
+
+"Chats: %@" = "Chats: %@";
+
+"Anyone at %@" = "Cualquier persona en %@";
+
+"Editing and creating a GPT is only available on web for now." = "De momento, editar y crear un GPT solo está disponible en la web.";
+
+"in **%@**" = "en **%@**";
+
+"Search Public GPTs" = "Buscar GPT públicos";
+
+"Conversation starters" = "Iniciadores de conversación";
+
+"Remove GPT" = "Quitar GPT";
+
+"Top Picks" = "La mejor selección";
+
+"Capabilities" = "Funciones";
+
+"My GPTs" = "Mis GPT";
+
+"Public" = "Público";
+
+"See more" = "Ver más";
+
+"Failed to delete GPT, retry?" = "Error al eliminar el GPT, ¿reintentar?";
+
+"Options" = "Opciones";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "^[%lld estrellas](inflect: true), %@ de valoraciones";
+
+"Bad" = "Malo";
+
+"Remove" = "Quitar";
+
+"Get Plus to Chat" = "Obtén Plus para chatear";
+
+"Editing Not Available" = "Edición no disponible";
+
+"Optional private note for creator…" = "Nota privada opcional para el creador…";
+
+"No Recents" = "No hay recientes";
+
+"Report" = "Denunciar";
+
+"No Results Found" = "No se han encontrado resultados";
+
+"Okay" = "Correcto";
+
+"Recently Used" = "Usados recientemente";
+
+"Explore" = "Explorar";
+
+"Start chat" = "Empezar el chat";
+
+"Edit" = "Editar";
+
+"Share" = "Compartir";
+
+"Searching…" = "Buscando…";
+
+"Top Suggestions" = "Sugerencias principales";
+
+"Visibility" = "Visibilidad";
+
+"Are you sure you want to delete this GPT?" = "¿Seguro que quieres eliminar este GPT?";
+
+"Are you sure you want to remove this GPT from your recents?" = "¿Seguro que quieres quitar este GPT de tus archivos recientes?";
+
+"Great" = "Genial";
+

@@ -1,0 +1,74 @@
+"\"%@\" cell" = "Cel \"%@\"";
+
+"Save File As…" = "Bestand opslaan als…";
+
+"Loading…" = "Laden...";
+
+"Upgraded response" = "Verbeterde reactie";
+
+"Deny" = "Weigeren";
+
+"Memory updated" = "Geheugen bijgewerkt";
+
+"You" = "Jij";
+
+"Regenerate" = "Opnieuw genereren";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT bewaart bestanden slechts gedurende een beperkte tijd. Begin een nieuw gesprek of upload een nieuw bestand om je gesprek voort te zetten.";
+
+"Stop Generating" = "Stoppen met genereren";
+
+"File unavailable" = "Bestand is niet beschikbaar";
+
+"\"%@\" column" = "Kolom \"%@\"";
+
+"Continue Generating" = "Doorgaan met genereren";
+
+"Edit" = "Bewerken";
+
+"A GPT" = "Een GPT";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "^[%lldBijlagen](inflect: true) uploaden…";
+
+"Sign in to %@" = "Aanmelden bij %@";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Dit is geschreven door ons meest bekwame model, GPT-4, beschikbaar met ChatGPT Plus.";
+
+"Bad" = "Slecht";
+
+"Failed, retry?" = "Mislukt. Opnieuw proberen?";
+
+"Always allow" = "Altijd toestaan";
+
+"Selection" = "Selectie";
+
+"Manage memories" = "Geheugens beheren";
+
+"Please try again later.%@" = "Probeer het later opnieuw.%@";
+
+"Change Model" = "Model wijzigen";
+
+"File expired" = "Bestand is verlopen";
+
+"Read Aloud" = "Voorlezen";
+
+"Decline" = "Afwijzen";
+
+"Select Text" = "Tekst selecteren";
+
+"Analysis" = "Analyse";
+
+"Quick Look" = "Snelle blik";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Dit bestand is niet meer beschikbaar. Begin een nieuw gesprek of upload een nieuw bestand om je gesprek voort te zetten.";
+
+"Your most recent request failed. Please retry!" = "Je meest recente verzoek is mislukt. Probeer het opnieuw.";
+
+"Response rating failed." = "Beoordelen van reactie is mislukt.";
+
+"Memories updated" = "Geheugens bijgewerkt";
+
+"How would you rate this GPT?" = "Welke beoordeling geef je deze GPT?";
+
+"#%lld row" = "Rij %lld";
+

@@ -1,0 +1,42 @@
+"Memory" = "Memorija";
+
+"Select a GPT" = "Odaberi GPT";
+
+"Clear this GPT's memory" = "Obriši memoriju GPT-a";
+
+"Error deleting memory" = "Greška pri brisanju memorije";
+
+"Learn More" = "Saznaj više";
+
+"Clear ChatGPT’s memory" = "Obriši ChatGPT memoriju";
+
+"Error loading memories" = "Greška pri učitavanju memorija";
+
+"Turn On" = "Uključi";
+
+"Open menu to select which GPT to show memories for" = "Otvori meni da odabereš za koji GPT želiš prikazati uspomene";
+
+"Memory is disabled" = "Memorija je onemogućena";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "Dok razgovarate koristeći %@, detalji i postavke koje pamti će biti prikazane ovdje.";
+
+"Error loading GPTs" = "Greška prilikom učitavanja GPT-a";
+
+"Clear Memory" = "Očisti memoriju";
+
+"Learn More" = "Saznajte više";
+
+"Search memories" = "Pretraži memoriju";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ će zaboraviti sve što je zapamtio u okviru razgovora. Ovo se ne može poništiti.";
+
+"Are you sure?" = "Jeste li sigurni?";
+
+"%@ won't use or create memories" = "%@ neće koristiti ili kreirati memorije";
+
+"Could not reset memory. Please try again later." = "Nije moguće podesiti ponovo memoriju. Pokušajte ponovo kasnije.";
+
+"%@'s memories" = "Memorije %@";
+
+"No memories" = "Nema memorija";
+

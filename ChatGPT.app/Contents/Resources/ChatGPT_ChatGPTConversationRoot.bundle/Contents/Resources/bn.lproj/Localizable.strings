@@ -1,0 +1,34 @@
+"Error reading message out loud" = "জোরে বার্তা পড়তে গিয়ে ত্রুটি হয়েছে";
+
+"There is a problem with your internet connection." = "আপনার ইন্টারনেট সংযোগে একটি সমস্যা আছে।";
+
+"Deleting chat failed" = "চ্যাট মুছতে ব্যর্থ হয়েছে";
+
+"Please make sure this feature is enabled for your account." = "অনুগ্রহ করে নিশ্চিত করুন যে এই বৈশিষ্ট্যটি আপনার অ্যাকাউন্টের জন্য সক্ষম করা আছে ।";
+
+"Thank you for your feedback!" = "আপনার মতামতের জন্য ধন্যবাদ!";
+
+"Voice unavailable" = "কণ্ঠস্বর অনুপলব্ধ";
+
+"History off" = "ইতিহাস বন্ধ আছে";
+
+"Close menu" = "মেনু বন্ধ করুন";
+
+"Open Settings" = "সেটিংস খুলুন";
+
+"Voice capabilities aren’t currently available with this GPT because it requires memory to be on." = "ভয়েস ক্ষমতা বর্তমানে এই GPTতে উপলভ্য নয় কারণ এতে স্মৃতি চালু থাকা প্রয়োজন ।";
+
+"Deleting chat…" = "চ্যাট মুছে ফেলা হচ্ছে...";
+
+"Toggle Sidebar" = "সাইডবার টগল করুন";
+
+"Turn history on" = "ইতিহাস চালু করুন";
+
+"Deleted chat" = "মুছে ফেলা চ্যাট";
+
+"Voice capabilities aren’t currently available when history is turned off." = "ইতিহাস বন্ধ হয়ে গেলে বর্তমানে ভয়েস ক্ষমতা পাওয়া যায় না।";
+
+"Memory off" = "স্মৃতি বন্ধ করা আছে";
+
+"Open Memory Settings" = "স্মৃতি সংক্রান্ত সেটিংস খুলুন";
+

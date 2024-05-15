@@ -1,0 +1,70 @@
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "Apple சேவையகங்களைத் தொடர்பு கொள்வதில் சிக்கல். மீண்டும் முயற்சி செய்யவும். (%lld)";
+
+"Let’s explore" = "ஆராயலாம்";
+
+"Let’s discover" = "கண்டுபிடிப்போம்";
+
+"Let’s design" = "வடிவமைப்போம்";
+
+"Missing bundle id." = "தொகுப்பு ID கிடைக்கவில்லை.";
+
+"Let’s go" = "போகலாம்";
+
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "ஏதோ தவறு நடந்துவிட்டது. உங்கள் சாதனத்தின் தேதி மற்றும் நேரம் சரியாக இருக்கிறதா என்பதை உறுதிசெய்து, 'அமைப்புகள் → பொது → தேதி மற்றும் நேரம்' என்பதன் கீழ் 'தானாக அமைக்கவும்' இருநிலை மாற்றி செயல்பாட்டில் உள்ளதா என்பதை உறுதி செய்யவும்.";
+
+"Sign in request was cancelled." = "உள்நுழையும் கோரிக்கை இரத்துசெய்யப்பட்டது.";
+
+"Sign up with email" = "மின்னஞ்சல் மூலம் பதிவு செய்யவும்";
+
+"PKCE not allowed." = "PKCE அனுமதியில்லை";
+
+"Something went wrong." = "ஏதோ தவறு நடந்துவிட்டது.";
+
+"No refresh token found." = "புதுப்பிக்கும் அடையாள வில்லை காணவில்லை.";
+
+"Let’s chit-chat" = "சிறிய அரட்டைகள் அடிப்போம்";
+
+"Privacy Policy" = "தனியுரிமைக் கொள்கை";
+
+"Request cancelled." = "கோரிக்கை இரத்து செய்யப்பட்டது.";
+
+"Terms of Use" = "பயன்பாட்டு விதிமுறைகள்";
+
+"Let’s collaborate" = "ஒத்துழைப்போம்";
+
+"Revoke failed." = "மீட்டல் தோல்வியடைந்தது.";
+
+"Let’s invent" = "கண்டுபிடிப்போம்";
+
+"There is a problem with the server. Please try again later." = "சேவையகத்தில் சிக்கல் உள்ளது. தயவுசெய்து பிறகு முயற்சிக்கவும்.";
+
+"Unknown error." = "அறியப்படாத பிழை.";
+
+"Unknown other error." = "அறியப்படாத மற்றொரு பிழை.";
+
+"There was a problem clearing sign in info. Please try again." = "உள்நுழைவு தகவலை நீக்குவதில் சிக்கல். தயவுசெய்து மீண்டும் முயற்சிக்கவும்.";
+
+"No authorization code found." = "அதிகாரமளிக்கும் குறியீடு காணவில்லை.";
+
+"No sign in info found. Please sign in." = "உள்நுழைவுத் தகவல் கிடைக்கவில்லை. தயவுசெய்து உள்நுழையவும்.";
+
+"There was a problem saving sign in info. Please try again." = "உள்நுழைவு தகவலைச் சேமிப்பதில் சிக்கல். தயவுசெய்து மீண்டும் முயற்சிக்கவும்.";
+
+"Renew failed." = "புதுப்பித்தல் தோல்வியடைந்தது.";
+
+"Sign in failed" = "உள்நுழைதல் தோல்வியடைந்தது";
+
+"Invalid invite url." = "செல்லுபடியாகாத URL அழைப்பு.";
+
+"Let’s create" = "உருவாக்குவோம்";
+
+"Failed to validate id token." = "ID டோக்கனை செயல்படுத்துதல் தோல்வியடைந்தது.";
+
+"Continue with Google" = "Google -உடன் தொடரவும்";
+
+"Store failed." = "சேமித்தல் தோல்வியடைந்தது.";
+
+"There was a problem. Please restart the app." = "ஒரு சிக்கல் உள்ளது. செயலியை மீண்டும் தொடங்கவும்.";
+
+"Let’s brainstorm" = "இணைந்து ஆலோசிப்போம்";
+

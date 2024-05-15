@@ -1,0 +1,124 @@
+"Stopped reading documents" = "डॉक्यूमेंट्स को पढ़ना बंद कर दिया गया";
+
+"Creating %lld images…" = "%lld इमेज बनाई जा रही हैं...";
+
+"Creating 1 image…" = "1 इमेज बनाई जा रही है…";
+
+"Unable to find citation ID" = "साइटेशन ID नहीं मिल पाई";
+
+"Research complete" = "रीसर्च पूरी हुई";
+
+"Read %lld documents" = "%lld डॉक्यूमेंट्स पढ़ें";
+
+"Stopped researching" = "रीसर्च करना बंद कर दिया गया";
+
+"Visited the web" = "वेब पर विज़िट किया";
+
+"Visited %@" = "%@ पर विज़िट किया";
+
+"Archive Chat" = "चैट को आर्काइव करें";
+
+"Search stopped" = "Search stopped";
+
+"This can't be undone." = "इसे पहले जैसा नहीं किया जा सकता।";
+
+"You declined this action" = "आपने इस एक्शन को नामंज़ूर कर दिया";
+
+"Are you sure you want to archive this chat?\nYou can view archived chats in Settings" = "क्या आप वाकई इस चैट को आर्काइव करना चाहते हैं?\nआप सेटिंग्स में आर्काइव की हुई चैट्स देख सकते हैं";
+
+"Read %@" = "%@ को पढ़ें";
+
+"Stopped reading document" = "डॉक्यूमेंट को पढ़ना बंद कर दिया गया";
+
+"Error reading document" = "डॉक्यूमेंट को पढ़ते समय एरर";
+
+"Read documents" = "डॉक्यूमेंट्स पढ़ें";
+
+"Stopped talking to %@" = "%@ से बात करना बंद कर दिया गया";
+
+"Doing research with Bing" = "Bing के साथ रिसर्च की जा रही है";
+
+"Delete Chat" = "चैट डीलीट करें";
+
+"Finished analyzing" = "एनालाइज़ करना पूरा हुआ";
+
+"Stopped" = "रुक गया";
+
+"Talking to %@" = "%@ से बात की जा रही है";
+
+"Stopped analyzing" = "एनालाइज़ करना बंद कर दिया गया";
+
+"Browsing %@" = "%@ ब्राउज़िंग";
+
+"Writing prompts…" = "प्रॉम्प्ट लिखे जा रहे हैं...";
+
+"Search failed" = "Search failed";
+
+"Stopped creating image" = "इमेज बनाना बंद कर दिया गया";
+
+"Unsupported content" = "ये कंटेंट सपोर्टेड नहीं है";
+
+"an external site" = "एक बाहरी साइट";
+
+"Searching" = "को सर्च किया जा रहा है";
+
+"Starting action" = "शुरुआती एक्शन";
+
+"Invalid citation" = "गलत साइटेशन";
+
+"Stopped browsing" = "ब्राउज़ करना बंद कर दिया गया";
+
+"Analyzing" = "एनालाइज़ किया जा रहा है";
+
+"Any created memories will be retained." = "कोई भी बनाई गई मेमोरीज़ बरकरार रखी जाएंगी।";
+
+"Read document" = "डॉक्यूमेंट पढ़ें";
+
+"Reading documents" = "डॉक्यूमेंट्स पढ़े जा रहे हैं";
+
+"Error browsing" = "ब्राउज़ करने के दौरान एरर";
+
+"Talked to %@" = "%@ से बात की गई";
+
+"Making a research plan" = "एक रीसर्च प्लान बनाया जा रहा है";
+
+"Error talking to %@" = "%@ से बात करने में एरर";
+
+"Visiting %@" = "%@ पर विज़िट किया जा रहा है";
+
+"Error reading documents" = "डॉक्यूमेंट्स को पढ़ते समय एरर";
+
+"Searched %lld sites" = "Searched %lld sites";
+
+"Error analyzing" = "एनालाइज़ करने के दौरान एरर";
+
+"site" = "साइट";
+
+"Error creating image" = "इमेज बनाने के दौरान एरर";
+
+"Reading %@" = "%@ को पढ़ा जा रहा है";
+
+"Searched 1 site" = "Searched 1 site";
+
+"Reading document" = "डॉक्यूमेंट पढ़ा जा रहा है";
+
+"Archive" = "आर्काइव करें";
+
+"Unable to find metadata" = "मेटाडेटा नहीं मिल पाया";
+
+"Error creating images" = "इमेजेस बनाने के दौरान एरर";
+
+"Creating image" = "इमेज बनाई जा रही है";
+
+"System error" = "सिस्टम एरर";
+
+"Unable to generate URL" = "URL जनरेट नहीं किया जा सका";
+
+"Searching “%@”" = "“%@” को सर्च किया जा रहा है";
+
+"Visited %lld sites" = "%lld साइट्स पर विज़िट किया";
+
+"Stopped talking to site" = "साइट से बात करना बंद कर दिया";
+
+"Error researching" = "रीसर्च करते समय एरर";
+

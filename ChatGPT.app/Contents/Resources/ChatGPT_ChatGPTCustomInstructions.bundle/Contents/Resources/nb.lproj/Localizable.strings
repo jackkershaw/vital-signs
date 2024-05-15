@@ -1,0 +1,52 @@
+"Customize ChatGPT" = "Tilpass ChatGPT";
+
+"Show tips" = "Vis tips";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Er du sikker på at du vil forkaste endringene?\nEventuelle endringer du har gjort vil gå tapt.";
+
+"Code" = "Kode";
+
+"Execute code using Code Interpreter" = "Kjør kode med kodetolker";
+
+"Unsaved changes" = "Ulagrede endringer";
+
+"Error saving custom instructions" = "Feil ved lagring av egendefinerte instruksjoner";
+
+"GPT-4 Capabilities" = "GPT-4-funksjoner";
+
+"How would you like ChatGPT to respond?" = "Hvordan vil du at ChatGPT skal svare?";
+
+"Browse the internet to find answers" = "Søk på nettet for å finne svar";
+
+"Save" = "Lagre";
+
+"Error updating state for customizations. Please try again later." = "Feil under oppdatering av status for egendefinerte instruksjoner. Prøv igjen senere.";
+
+"Discard changes" = "Forkast endringer";
+
+"DALL•E" = "DALL•E";
+
+"Keep editing" = "Fortsett redigering";
+
+"An unknown error occurred. Please try again later" = "Det har oppstått en ukjent feil. Prøv igjen litt senere";
+
+"Saving Custom Instructions" = "Lagrer egendefinerte instruksjoner";
+
+"Enable for new chats" = "Aktiver for nye chatter";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Egendefinerte instruksjoner vil bli anvendt på alle nye chatter.[Finn ut mer](chat-preferences-disclosures)";
+
+"Generate images using DALL•E" = "Generer bilder med DALL•E";
+
+"Choose which tools can be used with GPT-4." = "Velg hvilke verktøy som kan brukes med GPT-4.";
+
+"Browsing" = "Søker";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Hva ønsker du at ChatGPT skal få vite om deg for å kunne komme med bedre svar?";
+
+"Thought starters" = "Tankevekkere";
+
+"Custom Instructions Enabled or Disabled" = "Egendefinerte instruksjoner aktivert eller deaktivert";
+
+"Error loading customizations. Please try again later." = "Feil under lasting av egendefinerte instruksjoner. Prøv igjen senere.";
+

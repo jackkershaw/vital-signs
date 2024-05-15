@@ -1,0 +1,82 @@
+"To continue, you’ll need to replace the current attachment." = "Можеш да наставиш тако што ћеш заменити тренутни прилог.";
+
+"This chat uses an older version of your custom instructions" = "Ово ћаскање користи старију верзију прилагођених упутстава";
+
+"Attach files" = "Приложи датотеке";
+
+"Message ChatGPT" = "Пошаљи поруку ChatGPT-у…";
+
+"File upload failed." = "Отпремање датотеке није успело.";
+
+"You need %@ to continue this chat because it has attachments." = "You need %@ to continue this chat because it has attachments.";
+
+"Get Plus to Chat" = "Набави Plus и ћаскај";
+
+"You need %@ to continue this chat because this GPT requires it." = "You need %@ to continue this chat because this GPT requires it.";
+
+"Attach photos" = "Приложи фотографије";
+
+"Image attachment failed." = "Прилагање слике није успело.";
+
+"Scroll to bottom" = "Скролуј на дно";
+
+"Upload File" = "Отпреми датотеку";
+
+"You need %@ to continue this chat because it uses audio." = "You need %@ to continue this chat because it uses audio.";
+
+"Stop Generating" = "Престани са генерисањем";
+
+"You've reached your %@ limit." = "You've reached your %@ limit.";
+
+"Send" = "Пошаљи";
+
+"Confirm" = "Потврди";
+
+"Message" = "Порука";
+
+"You need %@ to continue this chat because it uses tools." = "You need %@ to continue this chat because it uses tools.";
+
+"Remove attachment" = "Уклони прилог";
+
+"Failed, retry?" = "Није успело. Желиш ли да покушаш поново?";
+
+"New Message" = "Нова порука";
+
+"Replace" = "Замени";
+
+"This chat is currently unavailable" = "This chat is currently unavailable";
+
+"Image upload failed." = "Отпремање слике није успело.";
+
+"Microphone access required" = "Microphone access required";
+
+"Replace attachment?" = "Заменити прилог?";
+
+"Switch to Voice mode" = "Пређи на гласовни режим";
+
+"Editing message" = "Измена поруке";
+
+"If you cancel the text conversion you will lose the recording." = "Ако откажеш конверзију текста, изгубићеш снимак.";
+
+"Are you sure?" = "Јеси ли сигуран/на?";
+
+"Continue Generating" = "Настави са генерисањем";
+
+"Fullscreen" = "Цео екран";
+
+"Shows the voice recording interface and begins recording" = "Приказује интерфејс за снимање гласа и започиње снимање";
+
+"No connection" = "No connection";
+
+"Stop" = "Заустави";
+
+"Edit selection" = "Измени избор";
+
+"Attached image" = "Приложена слика";
+
+"Edit image" = "Измени слику";
+
+"You need %@ to continue this chat because it has images." = "You need %@ to continue this chat because it has images.";
+
+"Dictation" = "Диктирање";
+

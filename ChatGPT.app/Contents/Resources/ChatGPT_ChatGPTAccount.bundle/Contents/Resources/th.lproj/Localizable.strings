@@ -1,0 +1,24 @@
+"Workspaces" = "พื้นที่ทำงาน";
+
+"Continue" = "ดำเนินการต่อ";
+
+"This will create your personal workspace automatically, using the Free plan." = "นี่จะเป็นการสร้างพื้นที่ทำงานส่วนตัวของคุณโดยอัตโนมัติโดยใช้บริการฟรี";
+
+"Your workspace is deactivated" = "พื้นที่ทำงานของคุณได้ปิดการใช้งานแล้ว";
+
+"%@ workspace is deactivated" = "พื้นที่ทำงาน %@ ได้ปิดการใช้งานแล้ว";
+
+"An error occurred. Please try again." = "เกิดข้อผิดพลาดขึ้น โปรดลองอีกครั้ง";
+
+"You will still be able to use ChatGPT with the other workspaces associated with this email address." = "คุณจะยังคงสามารถใช้ ChatGPT ได้กับพื้นที่ทำงานอื่นที่เกี่ยวข้องกับที่อยู่อีเมลนี้";
+
+"Start using ChatGPT for free" = "เริ่มใช้งาน ChatGPT ฟรี";
+
+"Your chat history and settings will not be available." = "ประวัติการแชตและการตั้งค่าของคุณจะไม่มีอีกต่อไป";
+
+"Personal account" = "บัญชีส่วนบุคคล";
+
+"Deactivated" = "ปิดการใช้งานแล้ว";
+
+"Your team owner has deactivated the workspace." = "เจ้าของทีมของคุณได้ปิดการใช้งานพื้นที่ทำงานแล้ว";
+

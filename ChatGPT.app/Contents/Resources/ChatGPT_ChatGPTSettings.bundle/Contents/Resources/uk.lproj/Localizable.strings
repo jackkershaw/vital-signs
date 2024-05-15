@@ -1,0 +1,178 @@
+"Free Plan" = "Безплатний план";
+
+"Archive All Chats" = "Архівувати всі чати";
+
+"Subscription Cancellation" = "Скасування передплати";
+
+"Email" = "Адреса електронної пошти";
+
+"Error archiving all chats" = "Помилка архівування всіх чатів";
+
+"Manage workspace" = "Керувати робочою областю";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Дозвольте використовувати ваш вміст для навчання наших моделей, щоб поліпшувати ChatGPT для вас і всіх, хто користується ним. Ми вживаємо заходів для захисту вашої конфіденційності. [Докладніше](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"App Language" = "Мова програми";
+
+"Privacy Policy" = "Політика конфіденційності";
+
+"Could not delete all chats" = "Не вдалося видалити всі чати";
+
+"View" = "Переглянути";
+
+"About" = "Інформація";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "Програма ChatGPT ставатиме кориснішою під час спілкування в чаті, оскільки аналізуватиме відомості й параметри, щоб адаптувати свої відповіді з урахуванням ваших потреб. [Докладніше](%@)\n\nЩоб зрозуміти, що пам’ятає ChatGPT, або навчити програму чогось нового, просто поспілкуйтеся з нею.\n\n• «Пам’ятай, що я люблю стислі відповіді.»\n• «У мене щойно з’явилося цуценя!»\n• «Що ти пам’ятаєш про мене?»\n• «На чому ми зупинилися в моєму останньому проєкті?»";
+
+"Conversation not found" = "Розмову не знайдено";
+
+"Main Language" = "Основна мова";
+
+"We couldn't load your archived chats" = "Не вдалося завантажити заархівовані чати";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Зберігайте нові чати на цьому пристрої у свою історію. Незбережені чати буде видалено з наших систем протягом 30 днів. Це налаштування не синхронізується між пристроями. [Докладніше](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "Щоб отримати найкращі результати, виберіть мову, якою ви переважно розмовляєте. Якщо її немає в списку, вона все одно може підтримуватися за допомогою автоматичного визначення.";
+
+"Email missing!" = "Немає адреси електронної пошти!";
+
+"Color Scheme" = "Колірна схема";
+
+"Unarchive" = "Розархівувати";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "Ви не можете вносити зміни у свою передплату в цій програмі, оскільки ви оформили цю передплату на іншій платформі.";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Поширюйте аудіо з майбутніх голосових чатів для поліпшення й навчання наших моделей. Це дасть змогу поліпшити якість голосових чатів для всіх користувачів. [Докладніше](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"ChatGPT Enterprise" = "ChatGPT Enterprise";
+
+"All your chats will be archived. This cannot be undone." = "Усі ваші чати буде заархівовано. Цю дію неможливо скасувати.";
+
+"ChatGPT for %@" = "ChatGPT для %@";
+
+"Improve the model for everyone" = "Поліпшіть модель для кожного користувача";
+
+"Export Data" = "Експортувати дані";
+
+"Keyboard Shortcut" = "Сполучення клавіш клавіатури";
+
+"Could not update the memory setting. Please try again later." = "Не вдалось оновити налаштування пам’яті. Повторіть спробу пізніше.";
+
+"We were unable to process your export at this time. Please try again later." = "Поки що не вдалось обробити ваш експорт. Повторіть спробу пізніше.";
+
+"App" = "Програма";
+
+"This workspace is private and opted out of training." = "Ця робоча область є приватною, тому виключена з навчання.";
+
+"Delete Account" = "Видалити обліковий запис";
+
+"Voice" = "Голосові функції";
+
+"Workspace" = "Робоча область";
+
+"Could not archive all chats" = "Не вдалося заархівувати всі чати";
+
+"ChatGPT Team" = "ChatGPT Team";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "Видалення облікового запису остаточне, і цю дію неможливо скасувати. Усі ваші дані, зокрема профіль, розмови та дані про використання API, буде вилучено.\n\nВи не зможете повторно використати ту саму адресу електронної пошти чи номер телефону для нового облікового запису.\n\nЯкщо ви використовували ChatGPT разом з API, цей доступ також буде видалено.";
+
+"Manage Memory" = "Керувати пам’яттю";
+
+"Chat training" = "Навчання в чаті";
+
+"Keep ChatGPT on top" = "Показувати ChatGPT вгорі";
+
+"Help" = "Довідка";
+
+"Chat History & Training" = "Історія чатів і навчання";
+
+"Dark" = "Темна";
+
+"Desktop Launcher" = "Засіб запуску для ПК";
+
+"Yesterday" = "Учора";
+
+"Delete All Chats" = "Видалити всі чати";
+
+"Manage Subscriptions" = "Керування передплатами";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "Дані про ваш обліковий запис та розмови будуть включені до експорту.\n\nДані буде надіслано на вашу зареєстровану адресу електронної пошти у файлі, який можна завантажити.\n\nОбробка може зайняти певний час. Ви отримаєте сповіщення, коли процес буде завершено.";
+
+"Help Center" = "Центр довідки";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "Видалення облікового запису не скасує активні передплати в програмі. Ці передплати можна скасувати в налаштуваннях Apple ID.";
+
+"Confirm Export" = "Підтвердити експорт";
+
+"Error deleting all chats" = "Помилка видалення всіх чатів";
+
+"Archived Chats" = "Заархівовані чати";
+
+"Error updating setting. Please try again later" = "Помилка оновлення налаштувань. Повторіть спробу пізніше";
+
+"On" = "Увімкнено";
+
+"Are you sure?" = "Ви впевнені?";
+
+"Your account has been queued for deletion." = "Ваш обліковий запис поставлено в чергу на видалення.";
+
+"Light" = "Світла";
+
+"System" = "Системна";
+
+"Archived conversations will be available here" = "Заархівовані розмови будуть доступні тут";
+
+"Upgrade to ChatGPT Plus" = "Підвищити рівень до ChatGPT Plus";
+
+"ChatGPT Plus" = "ChatGPT Plus";
+
+"Memory" = "Пам’ять";
+
+"Successfully exported data. You should receive an email shortly with your data." = "Дані успішно експортовано. Невдовзі ви отримаєте електронний лист із вашими даними.";
+
+"Search Archive" = "Пошук в архіві";
+
+"Today" = "Сьогодні";
+
+"Could not unarchive conversation. Please try again later." = "Не вдалося розархівувати розмову. Повторіть спробу пізніше.";
+
+"Data Controls" = "Керування даними";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Зберігайте нові чати на цьому пристрої у свою історію та дозвольте використовувати їх для поліпшення наших моделей. Незбережені чати буде видалено з наших систем протягом 30 днів. Це налаштування не синхронізується між пристроями. [Докладніше](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "Під час видалення облікового запису сталася помилка. Повторіть спробу. Якщо проблема не зникне, перейдіть за адресою help.openai.com.";
+
+"Recent login required" = "Потрібен нещодавній вхід";
+
+"Could not delete conversation. Please try again later." = "Не вдалося видалити розмову. Повторіть спробу пізніше.";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "Ви можете видалити свій обліковий запис, лише якщо ви ввійшли в нього протягом останніх 10 хвилин.\n\nУвійдіть знову, а потім поверніться сюди, щоб продовжити.";
+
+"None" = "Немає";
+
+"Speech" = "Мовлення";
+
+"Chat history" = "Історія чатів";
+
+"Subscription" = "Передплата";
+
+"No archived chats" = "Заархівованих чатів немає";
+
+"Restore purchases" = "Відновити покупки";
+
+"Always show ChatGPT in dock" = "Завжди показувати ChatGPT на панелі Dock";
+
+"New Features" = "Нові функції";
+
+"Customize ChatGPT" = "Налаштуйте ChatGPT";
+
+"Haptic Feedback" = "Тактильний відгук";
+
+"Improve voice for everyone" = "Поліпшіть функцію розпізнавання голосу для кожного користувача";
+
+"Terms of Use" = "Умови використання";
+
+"All your chats will be cleared from history. This cannot be undone." = "Усі ваші чати буде очищено з історії. Цю дію неможливо скасувати.";
+
+"Off" = "Вимкнено";
+

@@ -1,0 +1,52 @@
+"Error updating state for customizations. Please try again later." = "Greška pri ažuriranju prilagođavanjai. Molimo pokušajte ponovo kasnije.";
+
+"How would you like ChatGPT to respond?" = "Kako biste željeli da ChatGPT odgovori?";
+
+"Customize ChatGPT" = "Prilagodi ChatGPT";
+
+"Browse the internet to find answers" = "Pretražite internet da pronađete odgovore";
+
+"Error saving custom instructions" = "Greška pri snimanju prilagođenih instrukcija";
+
+"Unsaved changes" = "Nesačuvane promjene";
+
+"Keep editing" = "Nastavi uređivati";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Šta biste željeli da ChatGPT zna o vama kako bi davao najbolje odgovore?";
+
+"Execute code using Code Interpreter" = "Izvršite kod koristeći Code Interpreter";
+
+"DALL•E" = "DALL·E";
+
+"GPT-4 Capabilities" = "Mogućnosti GPT-4";
+
+"Show tips" = "Prikaži savjete";
+
+"Thought starters" = "Stvari za početak razmišljanja";
+
+"Code" = "Kod";
+
+"Error loading customizations. Please try again later." = "Greška pri učitavanju prilagođavanjai. Molimo pokušajte ponovo kasnije.";
+
+"An unknown error occurred. Please try again later" = "Došlo je do greške. Pokušajte kasnije.";
+
+"Enable for new chats" = "Omogući za nove razgovore";
+
+"Saving Custom Instructions" = "Snimanje prilagođenih instrukcija";
+
+"Custom Instructions Enabled or Disabled" = "Prilagođene instrukcije omogućene ili onemogućene";
+
+"Generate images using DALL•E" = "Generišite slike koristeći DALL·E";
+
+"Choose which tools can be used with GPT-4." = "Odaberite koji se alati mogu koristiti uz GPT-4";
+
+"Browsing" = "Pretraživanje";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Da li ste sigurni da želite otkazati sve promjene? \nSve promjene koje ste napravili će biti izgubljene.";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Prilagođena uputstva će se primijeniti na sve nove razgovore. [Saznaj više](chat-preferences-disclosures)";
+
+"Save" = "Sačuvaj";
+
+"Discard changes" = "Odbaci izmjene";
+

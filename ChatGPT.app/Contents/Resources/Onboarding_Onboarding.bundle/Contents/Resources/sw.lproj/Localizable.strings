@@ -1,0 +1,90 @@
+"There was a problem, please try again. (%@)" = "Kulikuwa na tatizo, tafadhali jaribu tena. (%@)";
+
+"Phone number" = "Nambari ya simu";
+
+"Your email is not yet verified. Please check your email inbox." = "Baruapepe yako bado haijathibitishwa. Tafadhali angalia kisanduku pokezi chako cha baruapepe.";
+
+"Please solve this puzzle so we know you're a person." = "Tafadhali tatua fumbo hili ili tujue kuwa wewe ni mtu halisi.";
+
+"Email resent!" = "Baruapepe imetumwa tena!";
+
+"Your account could not be created. Please try again. %@" = "Akaunti yako haikuweza kufunguliwa. Tafadhali jaribu tena. %@";
+
+"Code" = "Msimbo";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Kuna tatizo na muunganisho wako wa intaneti. Tafadhali jaribu tena baadaye. (%lld)";
+
+"Please provide a phone number for verification." = "Tafadhali toa nambari ya simu ya uthibitishaji.";
+
+"Please choose a valid date for your birthday." = "Tafadhali chagua tarehe sahihi ya siku yako ya kuzaliwa.";
+
+"Continue" = "Endelea";
+
+"Verify your email" = "Thibitisha baruapepe yako";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "Nchi hazikuweza kupatikana. Tafadhali angalia muunganisho wako wa intaneti na ufungue programu upya. %@";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "Hitilafu fulani imetokea. Tafadhali anzisha programu upya au uondoke kisha ujaribu tena.";
+
+"Enter the code we just sent to your number ending in **%@" = "Weka nambari ya uthibitisho ambayo tumetuma kwa nambari yako inayoisha na **%@";
+
+"Area code" = "Msimbo wa eneo";
+
+"Open Mail App" = "Fungua Programu ya Barua Pepe";
+
+"Something went wrong. Please try again." = "Hitilafu fulani imetokea. Tafadhali jaribu tena baadaye.";
+
+"Verify you're human" = "Thibitisha kuwa wewe ni mtu halisi";
+
+"There was a problem verifying your phone number. %@" = "Kumekuwa na tatizo katika kuthibitisha nambari yako ya simu. %@";
+
+"Please check your internet connection and retry." = "Tafadhali angalia muunganisho wako wa intaneti kisha ujaribu tena.";
+
+"error" = "hitilafu";
+
+"Resend code" = "Tuma msimbo tena";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "Ili kupata usaidizi, tafadhali angalia [mwongozo wa uthibitishaji wa simu](https://help.openai.com/articles/6613520-phone-verification).";
+
+"First name" = "Jina la kwanza";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Kwa kubofya \"Endelea,\" unathibitisha kwamba una idhini ya mzazi au mlezi kutumia ChatGPT, unakubali [Masharti](https://openai.com/policies/terms-of-use) yetu na unakiri [Sera yetu ya Faragha](https://openai.com/policies/privacy-policy).";
+
+"Something went wrong. Sign out and try again." = "Hitilafu fulani imetokea. Ondoka kisha uingie tena.";
+
+"Last name" = "Jina la mwisho";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "Tumetuma baruapepe kwa %@. \nBofya kiungo kilicho ndani yake ili kuanza.";
+
+"Verify phone number" = "Thibitisha nambari ya simu";
+
+"There was a problem, please try again." = "Kulikuwa na tatizo, tafadhali jaribu tena.";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Hitilafu fulani imetokea. Akaunti imefunguliwa tayari lakini haikuweza kuonyeshwa upya. Tafadhali ondoka na uingie tena.";
+
+"Tell us about you." = "Tuambie zaidi kukuhusu.";
+
+"Birthday" = "Siku ya kuzaliwa";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "Taarifa inayohitajika haikuweza kupatikana. Tafadhali angalia muunganisho wako wa intaneti na ufungue programu upya. (%@)";
+
+"You have made too many attempts. Please try again later." = "Umejaribu mara nyingi sana. Tafadhali jaribu tena baadaye.";
+
+"There was a problem verifying the code. %@" = "Kumekuwa na tatizo katika kuthibitisha msimbo. %@";
+
+"Sorry, we aren't able to create your account" = "Samahani, hatuwezi kufungua akaunti yako";
+
+"Select your area code" = "Chagua msimbo wa eneo lako";
+
+"Select your Birthday" = "Chagua Siku yako ya Kuzaliwa";
+
+"Failed to load required information." = "Imeshindwa kupakia maelezo yanayohitajika.";
+
+"Finish creating your OpenAI account" = "Maliza kuunda akaunti yako ya OpenAI";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "Hatuwezi kufungua akaunti yako kutokana na [Sheria na Masharti yetu](https://openai.com/policies/terms-of-use).";
+
+"I've verified my email" = "Nimethibitisha baruapepe yangu";
+
+"Resend email" = "Tuma baruapepe tena";
+

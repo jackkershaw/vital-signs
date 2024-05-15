@@ -1,0 +1,40 @@
+"An internet connection is required" = "Nõutud on internetiühendus";
+
+"Converting to text…" = "Teksti kujule konvertimine ...";
+
+"Retry transcription" = "Proovi transkribeerimist uuesti";
+
+"Start new recording" = "Alusta uut salvestust";
+
+"Tap to record" = "Puudutage, et salvestada";
+
+"The recording could not be processed. Please check your internet connection. (%lld)" = "Salvestust ei olnud võimalik töödelda. Palun kontrollige oma internetiühendust. (%lld)";
+
+"Open Settings" = "Ava sätted";
+
+"Click to record" = "Klõpsake salvestamiseks";
+
+"Tap to stop recording" = "Puudutage salvestamise peatamiseks";
+
+"An internet connection is required" = "Nõutav Interneti-ühendus";
+
+"There was a problem with the recording." = "Salvestuse juures ilmnes probleem.";
+
+"Click to stop recording" = "Klõpsake salvestamise peatamiseks";
+
+"There was an unexpected error. %@" = "Ilmnes ootamatu viga. %@";
+
+"Auto-Detect" = "Tuvasta automaatselt";
+
+"There was a problem starting the recording." = "Salvestuse alustamisel ilmnes probleem.";
+
+"Recordings must be longer than 1s." = "Salvestised peavad olema pikemad kui 1 sek.";
+
+"Click to stop recording" = "Klõpsake salvestamise lõpetamiseks";
+
+"To use Whisper, you need to allow ChatGPT to use your microphone." = "Whisperi kasutamiseks peate lubama ChatGPT-l kasutada oma mikrofoni.";
+
+"The recording was cancelled." = "Salvestus tühistati";
+
+"Converting to text…" = "Tekstiks konverteerimine ...";
+

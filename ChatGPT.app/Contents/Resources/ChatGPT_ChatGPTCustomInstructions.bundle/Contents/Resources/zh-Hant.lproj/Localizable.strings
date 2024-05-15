@@ -1,0 +1,52 @@
+"Customize ChatGPT" = "自訂 ChatGPT";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "你希望 ChatGPT 了解哪些關於你的資訊，以便提供較好的回應？";
+
+"Custom Instructions Enabled or Disabled" = "自訂指令已啟用或停用";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "你確定要捨棄變更嗎？\n這將遺失你所做的任何變更。";
+
+"Browse the internet to find answers" = "瀏覽網路以尋找答案";
+
+"Browsing" = "瀏覽";
+
+"Keep editing" = "繼續編輯";
+
+"Unsaved changes" = "未儲存的變更";
+
+"DALL•E" = "DALL•E";
+
+"Save" = "儲存";
+
+"Saving Custom Instructions" = "儲存自訂指令";
+
+"GPT-4 Capabilities" = "GPT-4 功能";
+
+"Enable for new chats" = "對新交談啟用";
+
+"Execute code using Code Interpreter" = "使用程式碼執行器執行程式碼";
+
+"Thought starters" = "展開思考";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "自訂指令將套用至所有新交談。[了解更多](chat-preferences-disclosures)";
+
+"Show tips" = "顯示提示";
+
+"Discard changes" = "捨棄變更";
+
+"Choose which tools can be used with GPT-4." = "選擇可與 GPT-4 一起使用的工具。";
+
+"How would you like ChatGPT to respond?" = "你希望 ChatGPT 如何回應？";
+
+"Generate images using DALL•E" = "使用 DALL•E 生成圖像";
+
+"Error loading customizations. Please try again later." = "載入自訂內容時發生錯誤，請稍後再試。";
+
+"Code" = "程式碼";
+
+"Error updating state for customizations. Please try again later." = "更新自訂內容狀態時發生錯誤，請稍後再試。";
+
+"Error saving custom instructions" = "儲存自訂指令時發生錯誤";
+
+"An unknown error occurred. Please try again later" = "發生未知錯誤，請稍後再試";
+

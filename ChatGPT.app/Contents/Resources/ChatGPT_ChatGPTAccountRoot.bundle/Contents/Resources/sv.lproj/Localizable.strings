@@ -1,0 +1,12 @@
+"Download the beta build or contact [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W) if you're having issues." = "Ladda ner betaversionen eller kontakta [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W) om det uppstår några problem.";
+
+"Checking system health…" = "Kontrollerar systemstatus …";
+
+"Loading account…" = "Laddar konto …";
+
+"Error loading account information. Please try again later." = "Ett fel uppstod när kontoinformationen skulle laddas. Försök igen senare.";
+
+"  %@\n\n  OpenAI employees are required to use internal builds to access ChatGPT.\n" = "  %@\n\n  Anställda på OpenAI måste använda interna byggen för att komma åt ChatGPT.\n";
+
+"Check your OpenAI e-mail for an invite titled \"OpenAI has invited you to test ChatGPT\" or contact [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A) to be added." = "Sök i din OpenAI-inkorg efter en inbjudan med titeln ”OpenAI har bjudit in dig att prova ChatGPT” eller kontakta [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A) för att bli tillagd.";
+

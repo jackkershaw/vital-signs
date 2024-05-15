@@ -1,0 +1,18 @@
+"There is a problem with your account info. Please try signing out then in." = "Probléma merült fel a fiókadataiddal kapcsolatban. Jelentkezz ki, majd újra be.";
+
+"The server is overloaded. Please try again later." = "A szerver túl van terhelve. Próbáld újra később.";
+
+"This content may violate our content policy. Please try again with different content." = "A tartalom megsértheti a tartalmi irányelveinket. Próbálkozz újra más tartalommal.";
+
+"You've made too many requests. Please try again later. (429, %@)" = "Túl sok kérelmet küldtél be. Próbáld újra később. (429, %@)";
+
+"System error" = "Rendszerhiba";
+
+"The response is invalid. Please try again." = "A válasz érvénytelen. Próbáld újra.";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "Problémák adódtak a szerverrel. Próbáld újra később. (%lld, %@)";
+
+"There is a problem with your request. (%lld, %@)" = "Probléma merült fel a kérelmeddel kapcsolatban. (%lld, %@)";
+
+"Unsupported content" = "Nem támogatott tartalom";
+

@@ -1,0 +1,164 @@
+"View voice transcriptions in your history. Audio clips aren’t stored." = "Vaadake oma ajaloos häälte transkriptsioone. Heliklippe ei salvestata.";
+
+"Edit the full image" = "Redigeeri täispilti";
+
+"Made for use at work" = "Valmistatud kasutamiseks tööl";
+
+"Active for new chats" = "Aktiivne uutes vestlustes";
+
+"Chat with voice" = "Vestlus koos häälega";
+
+"You’re in control" = "Kontroll on teie käes";
+
+"Now you can have spoken conversations with ChatGPT." = "Nüüd saate ChatGPT-ga häälvestlusi pidada.";
+
+"Don't Share" = "Ära jaga";
+
+"Follows custom instructions" = "Järgib kohandatud juhiseid";
+
+"Check your facts" = "Kontrollige oma fakte";
+
+"Taking steps to protect privacy" = "Võtame samme privaatsuse kaitsmiseks";
+
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "ChatGPT kannab õpitut üle vestluste vahel, võimaldades pakkuda asjakohasemaid vastuseid.";
+
+"Language is auto-detected" = "Keel on automaatselt tuvastatud";
+
+"Help improve voice" = "Aidake häält parandada";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Kui te ei soovi jätkata, saate seadetes jagamise igal ajal peatada.\n\n[Uuri lähemalt](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Temporary Chat" = "Ajutine vestlus";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "Täpsemaks tuvastamiseks saate määrata eelistatud keele sätetes.";
+
+"Control your chat history" = "Kontrollige oma vestlusajalugu";
+
+"Start with a photo" = "Alustage fotoga";
+
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "Kontroll on teie käes. Vaadake üle ja kustutage konkreetsed mälud, taaskäivitage nullist või lülitage funktsioon seadetes välja.";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled.";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "ChatGPT võib anda inimeste, kohtade või faktide kohta ebatäpset teavet.";
+
+"Share" = "Jaga";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "Kaitsemeetmetest hoolimata võib ChatGPT anda teile ebatäpset teavet. See ei ole mõeldud nõu andmiseks.";
+
+"Help improve our models" = "Aidake meil meie mudeleid parandada";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "Täpsema tuvastamise jaoks saate määrata eelistatud keele seadetes.";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "Paremate vastuste saamiseks jagage konteksti oma valdkonna, rolli või konkreetsete projektide kohta.";
+
+"Learn more" = "Uuri lähemalt";
+
+"Welcome to\nChatGPT" = "Tere tulemast ChatGPT-sse";
+
+"Custom Instructions will still be followed if you have them enabled." = "Kohandatud juhiseid järgitakse ikkagi, kui need on lubatud.";
+
+"Chats may be reviewed by our AI trainers to improve our systems." = "Meie AI koolitajad võivad vestlused meie süsteemide täiustamiseks üle vaadata.";
+
+"Now you can have spoken conversations with GPTs." = "Nüüd saate GPT-dega häälvestlusi pidada.";
+
+"Welcome to the %@ workspace" = "Tere tulemast tööjaama %@";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "See ametlik rakendus on tasuta, sünkroonib teie ajaloo kõigis seadmetes ja toob teieni OpenAI uusimad mudelitäiustused.";
+
+"Chats are saved" = "Vestlused salvestatakse";
+
+"Built for business" = "Loodud ettevõtetele";
+
+"Select an area of the image to edit" = "Vali redigeerimiseks pildi ala";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "Ajutise vestluse ajal ei kasuta ega loo ChatGPT mälusid. Kohandatud juhiseid järgitakse ikkagi, kui need on lubatud.";
+
+"Snap a picture to ask ChatGPT about the world around you." = "Tehke pilt, et küsida ChatGPT-lt teid ümbritseva maailma kohta.";
+
+"Welcome to the %@ workspace" = "Tere tulemast %@ tööjaama";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "Kuigi meil on kaitsemeetmed, võib ChatGPT anda teile ebatäpset teavet. See ei ole mõeldud nõu andmiseks.";
+
+"ChatGPT now has memory across chats" = "ChatGPT-l on nüüd vestluste ülene mälu";
+
+"Chat without having to look at your screen." = "Vestelge ilma ekraanile vaatamata.";
+
+"Continue" = "Jätka";
+
+"Share audio from future voice chats to improve and train our models." = "Jagage tulevaste häälvestluste heli, et meie mudeleid täiustada ja koolitada.";
+
+"Ask away" = "Küsi aga";
+
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "Kohandage oma suhtlust ChatGPT-ga, esitades oma vestluste jaoks konkreetseid üksikasju ja juhiseid.";
+
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "Iga kord, kui redigeerite oma kohandatud juhiseid, jõustuvad need kõigis teie loodud uutes vestlustes. Vanemaid vestlusi ei värskendata.";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "Teie juhised muudavad meie mudelid paremaks. Külastage meie [abikeskus](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt), et uurida lähemalt selle kohta, kuidas teie andmeid kasutatakse.";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "Häälvestluste parandamiseks võib meie meeskond heli üle vaadata. Võtame samme, et vähendada meie mudelite koolitamiseks kasutatava helis sisalduva isikliku teabe hulka.";
+
+"Tap Select, highlight the area, and describe changes in chat." = "Vajutage Vali, tõstke ala esile ja kirjeldage muudatusi vestluses.";
+
+"Memory off" = "Mälu on välja lülitatud";
+
+"By default, chats in this workspace are not used to train our AI models." = "Vaikimisi ei kasutata selles tööjaamas vestlusi meie tehisintellekti mudelite koolitamiseks.";
+
+"No model training" = "Mudeli koolitus puudub";
+
+"Hands-free" = "Käed vabad";
+
+"Not in history" = "Ei ole ajaloos";
+
+"Welcome to ChatGPT" = "Tere tulemast ChatGPT-sse";
+
+"Manage what it remembers" = "Hallake seda, mida see mäletab";
+
+"Temporary Chats won’t be used to improve our models." = "Ajutisi vestlusi ei kasutata meie mudelite täiustamiseks.";
+
+"Just start talking" = "Lihtsalt alustage rääkimist";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "Teie juhised muudavad meie mudelid paremaks. Külastage meie [abikeskust](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt), et uurida lähemalt selle kohta, kuidas teie andmeid kasutatakse.";
+
+"Don’t share sensitive info" = "Ärge jagage tundlikku teavet";
+
+"More helpful over time" = "Muutub aja jooksul kasulikumaks";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "Kõne transkriptsioone saate vaadata oma ajaloos. Heliklippe ei salvestata.";
+
+"Get Started" = "Alustamine";
+
+"Welcome to your company's workspace" = "Tere tulemast oma ettevõtte tööjaama";
+
+"Refine DALL·E Images" = "Täiustage DALL·E pilte";
+
+"Keep the conversation going" = "Hoidke vestlus käimas";
+
+"Picture perfect" = "Täiuslik pildi abil";
+
+"Choose a voice" = "Valige hääl";
+
+"Manage what it remembers" = "Hallake, mida see mäletab";
+
+"Introducing\nCustom Instructions" = "Kohandatud juhiste tutvustus";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "ChatGPT saab vastata küsimustele, aidata teil õppida, kirjutada koodi, korraldada koos ajurünnakuid ja palju muud.";
+
+"ChatGPT can be inaccurate" = "ChatGPT võib olla ebatäpne";
+
+"Chat with images" = "Vestlus koos piltidega";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "Siin saate kasutada meie uusimaid mudeleid, millel on rohkem võimalusi ja vähem piiranguid.";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "Ajutisi vestlusi teie ajaloos ei kuvata. Ohutuse huvides võime teie vestluse koopiat säilitada kuni 30 päeva.";
+
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "ChatGPT muutub vestluse ajal kasulikumaks, mäletades pidevalt üksikasju ja eelistusi.";
+
+"Improve voice chats for everyone" = "Parandage häälvestluseid kõigi jaoks";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "Otsustage, kas selles seadmes olevad uued vestlused ilmuvad teie ajalukku ja neid kasutatakse meie süsteemide täiustamiseks.";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "Kasutage fotosid ratta parandamiseks, retsepti loomiseks või keeruliste graafikute analüüsimiseks.";
+
+"Tap Edit and describe changes in chat." = "Puudutage Redigeeri ja kirjeldage muudatusi vestluses.";
+

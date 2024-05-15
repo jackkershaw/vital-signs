@@ -1,0 +1,16 @@
+"Failed to Save Image" = "Nepavyko įrašyti vaizdo";
+
+"Expected a non-file URL, but received a file URL" = "Tikėtasi ne failo URL, bet gautas failo URL";
+
+"Please try again later.\n\n(%@)" = "Bandykite dar kartą vėliau.\n\n(%@)";
+
+"Image conversion failed" = "Vaizdo konvertuoti nepavyko";
+
+"Not authorized" = "Neįgaliota";
+
+"Enable photo library access in Settings to save photos." = "Norėdami įrašyti nuotraukas nuostatose įjunkite prieigą prie nuotraukų bibliotekos.";
+
+"Photos Access Denied" = "Prieiga prie nuotraukų uždrausta";
+
+"Expected a file URL, but received a non-file URL" = "Tikėtasi failo URL, bet gautas ne failo URL";
+

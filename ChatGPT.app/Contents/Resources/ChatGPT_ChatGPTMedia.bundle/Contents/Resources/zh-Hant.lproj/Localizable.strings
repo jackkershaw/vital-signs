@@ -1,0 +1,70 @@
+"View prompt" = "檢視提示";
+
+"Bad response" = "回應不佳";
+
+"Good response" = "回應良好";
+
+"Camera Access Denied" = "相機存取權遭拒";
+
+"Enable camera access in Settings to take photos." = "在設定中啟用相機存取權，即可拍照。";
+
+"Image saved" = "圖像已儲存";
+
+"Next" = "下一步";
+
+"Flash auto, tap to toggle on" = "自動閃光燈，輕點以切換至開啟模式";
+
+"Copied" = "已複製";
+
+"Select" = "選取";
+
+"The file download failed. Please try again later." = "無法下載檔案，請稍後再試。";
+
+"This file is not available." = "此檔案無法使用。";
+
+"Camera Access Restricted" = "相機存取權受限";
+
+"Front camera selected, tap to toggle to rear" = "已選取前置鏡頭，輕點以切換至後置鏡頭";
+
+"This file has expired." = "此檔案已過期。";
+
+"Flash on, tap to toggle off" = "閃光燈開啟，輕點以切換至關閉模式";
+
+"Learn more" = "了解更多";
+
+"Download complete" = "下載完成";
+
+"Failed to load image" = "無法載入圖像";
+
+"Dismiss" = "關閉";
+
+"Undo" = "復原";
+
+"Select camera device" = "選取相機裝置";
+
+"Annotate" = "標註";
+
+"Annotate by drawing on the image" = "透過在圖像上繪圖來標註";
+
+"Back" = "返回";
+
+"More" = "更多";
+
+"Rear camera selected, tap to toggle to front" = "已選取後置鏡頭，輕點以切換至前置鏡頭";
+
+"Thank you for your feedback!" = "感謝你的回饋！";
+
+"Select an area to edit" = "選取要編輯的區域";
+
+"Pick photo" = "挑選照片";
+
+"Prompt" = "提示";
+
+"The file was not found." = "找不到檔案。";
+
+"Flash off, tap to toggle to auto" = "閃光燈關閉，輕點以切換至自動模式";
+
+"Redo" = "取消復原";
+
+"Camera access is restricted on this device. Please check your parental control or system settings." = "此裝置的相機存取權受限。請查看你的家長監控功能或系統設定。";
+

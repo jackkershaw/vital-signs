@@ -1,0 +1,114 @@
+"Thank you for your feedback!" = "Merci pour vos commentaires !";
+
+"Exceptional!" = "Exceptionnel !";
+
+"Top Picks" = "Les plus populaires";
+
+"Visibility" = "Visibilité";
+
+"Include my email" = "Inclure mon adresse e-mail";
+
+"Options" = "Options";
+
+"Edit" = "Modifier";
+
+"Anyone with a link" = "Quiconque avec un lien";
+
+"By %@" = "Par %@";
+
+"Failed to delete GPT, retry?" = "La suppression du GPT a échoué. Voulez-vous réessayer ?";
+
+"Feedback" = "Feedback";
+
+"Include my email **%@**" = "Inclure mon adresse e-mail **%@**";
+
+"Top Suggestions" = "Meilleures suggestions";
+
+"Capabilities" = "Fonctionnalités";
+
+"%@ rating" = "%@ évaluation";
+
+"%@ chats" = "%@ chats";
+
+"Search Public GPTs" = "Rechercher dans les GPT publics";
+
+"Loading more" = "Chargement de plus d’éléments";
+
+"How would you rate **%@**?" = "Que pensez-vous de **%@** ?";
+
+"Conversation starters" = "Amorces de conversation";
+
+"Report" = "Signaler";
+
+"Editing Not Available" = "Modification non disponible";
+
+"Chats: %@" = "Chats : %@";
+
+"Get Plus to Chat" = "Obtenir ChatGPT Plus pour discuter";
+
+"Recently Used" = "Récemment utilisés";
+
+"Start Chat" = "Démarrer le chat";
+
+"By community builder" = "Par le créateur de la communauté";
+
+"My GPTs" = "Mes GPT";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "^[%lld étoiles](inflect: true), %@ des avis";
+
+"Remove" = "Supprimer";
+
+"Bad" = "Mauvais";
+
+"Okay" = "OK";
+
+"Unable to load, retry?" = "Chargement impossible. Souhaitez-vous réessayer ?";
+
+"Remove GPT" = "Supprimer le GPT";
+
+"See more" = "Voir plus";
+
+"Explore" = "Explorer";
+
+"No Recents" = "Aucun élément récent";
+
+"Share" = "Partager";
+
+"Good" = "Bien";
+
+"Failed to remove recent GPT, retry?" = "La suppression du GPT récent a échoué. Voulez-vous réessayer ?";
+
+"How would you rate this GPT?" = "Que pensez-vous de ce GPT ?";
+
+"No Results Found" = "Aucun résultat trouvé";
+
+"Add a note" = "Ajouter une note";
+
+"Editing and creating a GPT is only available on web for now." = "Pour l’instant, la modification et la création d’un GPT sont uniquement disponibles sur le Web.";
+
+"Untitled" = "Sans titre";
+
+"Start chat" = "Démarrer la conversation";
+
+"Tap a star" = "Donner votre avis";
+
+"Optional private note for creator…" = "Note privée facultative pour le créateur...";
+
+"Are you sure you want to delete this GPT?" = "Voulez-vous vraiment supprimer ce GPT ?";
+
+"Great" = "Très bien";
+
+"Star rating" = "Évaluation (étoiles)";
+
+"in **%@**" = "dans **%@**";
+
+"Public" = "Public";
+
+"Only me" = "Seulement moi";
+
+"Anyone at %@" = "Tous les utilisateurs de %@";
+
+"Searching…" = "Recherche en cours...";
+
+"Are you sure you want to remove this GPT from your recents?" = "Voulez-vous vraiment supprimer ce GPT de vos éléments récents ?";
+

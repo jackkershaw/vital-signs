@@ -1,0 +1,16 @@
+"Enable photo library access in Settings to save photos." = "Aktiviere in den Einstellungen den Zugriff auf die Fotobibliothek, um Fotos zu speichern.";
+
+"Photos Access Denied" = "Zugriff auf Fotos verweigert";
+
+"Image conversion failed" = "Bildumwandlung fehlgeschlagen";
+
+"Failed to Save Image" = "Bild konnte nicht gespeichert werden";
+
+"Expected a non-file URL, but received a file URL" = "Statt der erwarteten Nicht-Datei-URL wurde eine Datei-URL empfangen";
+
+"Not authorized" = "Nicht zugelassen";
+
+"Please try again later.\n\n(%@)" = "Versuche es später erneut. \n\n(%@)";
+
+"Expected a file URL, but received a non-file URL" = "Statt der erwarteten Datei-URL wurde eine Nicht-Datei-URL empfangen";
+

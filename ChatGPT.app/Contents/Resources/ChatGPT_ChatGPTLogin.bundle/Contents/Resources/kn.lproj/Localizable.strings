@@ -1,0 +1,70 @@
+"Let’s go" = "ಹೋಗೋಣ";
+
+"Let’s collaborate" = "ಸಹಕರಿಸೋಣ";
+
+"Let’s discover" = "ಹುಡುಕೋಣ";
+
+"There is a problem with the server. Please try again later." = "ಸರ್ವರ್‌ನಲ್ಲಿ ಯಾವುದೋ ಸಮಸ್ಯೆಯಾಗಿದೆ. ದಯವಿಟ್ಟು ನಂತರ ಪ್ರಯತ್ನಿಸಿ.";
+
+"Let’s invent" = "ಹೂಡಿಕೆ ಮಾಡೋಣ";
+
+"Store failed." = "ಅಂಗಡಿ ವಿಫಲವಾಗಿದೆ.";
+
+"Invalid invite url." = "ಅಮಾನ್ಯ ಆಹ್ವಾನ URL.";
+
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "ಏನೋ ತಪ್ಪಾಗಿದೆ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಸಾಧನದ ದಿನಾಂಕ ಮತ್ತು ಸಮಯ ಸರಿಯಾಗಿದೆಯೇ ಎಂದು ಟಾಗಲ್ ಮಾಡಲಾಗಿದೆ. ಹಾಗೇ 'ಸೆಟ್ಟಿಂಗ್‌ಗಳು → ಸಾಮಾನ್ಯ → ದಿನಾಂಕ ಮತ್ತು ಸಮಯ' ಅಡಿಯಲ್ಲಿರುವ 'ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಹೊಂದಿಸಿ' ಸೌಲಭ್ಯವು ಆನ್ ಆಗಿದೆಯೇ ಎಂದು ನೋಡಿ.";
+
+"Let’s explore" = "ಅನ್ವೇಷಿಸೋಣ";
+
+"There was a problem saving sign in info. Please try again." = "ಸೈನ್ ಇನ್ ಮಾಹಿತಿ ಉಳಿಸುವಾಗ ಸಮಸ್ಯೆ ಉಂಟಾಗಿದೆ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.";
+
+"Something went wrong." = "ಏನೋ ತಪ್ಪಾಗಿದೆ";
+
+"Unknown other error." = "ತಿಳಿದಿರದ ಇತರ ದೋಷ";
+
+"Let’s chit-chat" = "ಮಾತನಾಡೋಣ";
+
+"No authorization code found." = "ಯಾವುದೇ ಅಧಿಕಾರ ಕೋಡ್ ಕಂಡುಬಂದಿಲ್ಲ.";
+
+"Failed to validate id token." = "ಐಡಿ ಟೋಕನ್ ಅನ್ನು ಮೌಲ್ಯೀಕರಿಸಲು ವಿಫಲವಾಗಿದೆ.";
+
+"Privacy Policy" = "ಗೌಪ್ಯತಾ ನೀತಿ";
+
+"There was a problem clearing sign in info. Please try again." = "ಸೈನ್ ಇನ್ ಮಾಹಿತಿ ಅಳಿಸುವಾಗ ತೊಂದರೆ ಉಂಟಾಗಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.";
+
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "ಆ್ಯಪಲ್ ಸರ್ವರ್‌ಗಳನ್ನು ಸಂಪರ್ಕಿಸುವಲ್ಲಿ ಸಮಸ್ಯೆ ಕಂಡುಬಂದಿದೆ. ದಯವಿಟ್ಟು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ. (%lld)";
+
+"Revoke failed." = "ಹಿಂತೆಗೆದುಕೊಳ್ಳುವಿಕೆ ವಿಫಲವಾಗಿದೆ.";
+
+"PKCE not allowed." = "PKCE ಅನುಮತಿಸಲಾಗಿಲ್ಲ.";
+
+"Sign in request was cancelled." = "ಸೈನ್ ಇನ್ ವಿನಂತಿಯನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ.";
+
+"Renew failed." = "ನವೀಕರಣ ವಿಫಲವಾಗಿದೆ.";
+
+"No refresh token found." = "ಯಾವುದೇ ರಿಫ್ರೆಶ್ ಟೋಕನ್ ಕಂಡುಬಂದಿಲ್ಲ.";
+
+"Sign in failed" = "ಸೈನ್ ಇನ್ ವಿಫಲವಾಗಿದೆ";
+
+"Unknown error." = "ತಿಳಿದಿರದ ದೋಷ";
+
+"Continue with Google" = "ಗೂಗಲ್‌‌ನೊಂದಿಗೆ ಮುಂದುವರಿಯಿರಿ";
+
+"There was a problem. Please restart the app." = "ಏನೋ ತಪ್ಪಾಗಿದೆ, ದಯವಿಟ್ಟು ಆ್ಯಪ್‌ ಅನ್ನು ರೀಸ್ಟಾರ್ಟ್ ಮಾಡಿ";
+
+"No sign in info found. Please sign in." = "ಸೈನ್ ಇನ್ ಮಾಹಿತಿ ಸಿಕ್ಕಿಲ್ಲ. ದಯವಿಟ್ಟು ಸೈನ್ ಇನ್ ಆಗಿ.";
+
+"Let’s brainstorm" = "ಪರಿಹಾರ ಹುಡುಕೋಣ";
+
+"Request cancelled." = "ವಿನಂತಿಯನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ.";
+
+"Let’s create" = "ರಚಿಸೋಣ";
+
+"Sign up with email" = "ಇಮೇಲ್ ಮೂಲಕ ಸೈನ್ ಅಪ್ ಆಗಿ";
+
+"Let’s design" = "ವಿನ್ಯಾಸ ಮಾಡೋಣ";
+
+"Missing bundle id." = "ಬಂಡಲ್ id ಕಾಣೆಯಾಗಿದೆ.";
+
+"Terms of Use" = "ಬಳಕೆಯ ನಿಯಮಗಳು";
+

@@ -1,0 +1,50 @@
+"Shared Link Owner" = "शेयर किए हुए लिंक का ओनर";
+
+"Share anonymously" = "गुमनाम रूप से शेयर करें";
+
+"Shared Link Title" = "शेयर किए हुए लिंक का टाइटल";
+
+"There was an error sharing the conversation. Please try again. %@" = "बातचीत शेयर करते समय एक एरर आया। कृपया दोबारा कोशिश करें। %@";
+
+"There was an error preparing the conversation. Please try again. %@" = "बातचीत तैयार करते समय एक एरर आया। कृपया दोबारा कोशिश करें। %@";
+
+"The share link is invalid. %@" = "शेयर किया हुआ लिंक गलत है। %@";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "आपका लिंक शेयर करने के बाद भेजे गए या मिले मैसेज शेयर नहीं किए जाएंगे। URL वाला कोई भी व्यक्ति आपकी शेयर की हुई चैट देख सकेगा।";
+
+"Delete link" = "लिंक डिलीट करें";
+
+"Help and FAQ" = "सहायता और अक्सर पूछे जाने वाले सवाल";
+
+"Recipients won't be able to view images." = "प्राप्तकर्ता इमेज नहीं देख पाएँगे।";
+
+"Update title" = "शीर्षक अपडेट करें";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "क्या आप वाकई में शेयर किया हुए लिंक \"%@\" को डिलीट करना चाहते हैं? आप इस चैट को दोबारा शेयर करके कभी भी एक नया लिंक बना सकते हैं।";
+
+"Options" = "विकल्प";
+
+"Share your name" = "अपना नाम शेयर करें";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "आप इस चैट का लिंक पहले ही शेयर कर चुके हैं। अगर आप नए मैसेज शामिल करना चाहते हैं, तो इस लिंक को डिलीट कर दें और अपनी चैट दोबारा शेयर करें।";
+
+"Share link" = "लिंक शेयर करें";
+
+"Edit title" = "टाइटल एडिट करें";
+
+"Shared Link Date" = "शेयर किए हुए लिंक की तारीख";
+
+"Title" = "शीर्षक";
+
+"Your custom instructions won’t be shared with viewers." = "आपके कस्टम निर्देश दर्शकों के साथ शेयर नहीं किए जाएँगे।";
+
+"Missing Name" = "नाम मौजूद नहीं है";
+
+"There was an error deleting your shared link." = "आपके शेयर किए गए लिंक को डिलीट करते समय एक एरर आया।";
+
+"Share link to chat" = "चैट के लिए लिंक शेयर करें";
+
+"Shared link deleted." = "शेयर किया हुआ लिंक डिलीट कर दिया गया है।";
+
+"The conversation has no messages." = "इस बातचीत में कोई मैसेज नही हैं।";
+

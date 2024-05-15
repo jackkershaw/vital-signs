@@ -1,0 +1,26 @@
+"Shared conversation is invalid." = "Sdílená konverzace je neplatná.";
+
+"Failed to load shared conversation." = "Nepodařilo se načíst sdílené konverzace.";
+
+"This conversation may reflect the link creator’s custom instructions, which aren’t shared and can meaningfully change how the model responds." = "Tato konverzace může vycházet z vlastních pokynů tvůrce odkazu, které nejsou sdíleny a mohou významně změnit způsob reakce modelu.";
+
+"Shared Link Owner" = "Vlastník sdíleného odkazu";
+
+"Shared Link Title" = "Nadpis sdíleného odkazu";
+
+"Continue" = "Pokračovat";
+
+"Help and FAQ" = "Nápověda a časté dotazy";
+
+"Shared conversation" = "Sdílená konverzace";
+
+"Shared Link Date" = "Datum sdíleného odkazu";
+
+"The shared conversation does not exist." = "Sdílená konverzace neexistuje.";
+
+"Menu" = "Nabídka";
+
+"Failed to determine model." = "Nepodařilo se určit model.";
+
+"Report" = "Nahlásit";
+

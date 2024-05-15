@@ -1,0 +1,82 @@
+"Shows the voice recording interface and begins recording" = "音声録音インターフェイスを表示して録音を開始します";
+
+"Are you sure?" = "よろしいですか？";
+
+"Replace attachment?" = "添付を置き換えますか？";
+
+"Edit image" = "画像を編集する";
+
+"This chat uses an older version of your custom instructions" = "このチャットでは、古いバージョンのカスタム指示を使用しています";
+
+"Dictation" = "音声入力";
+
+"Replace" = "置き換える";
+
+"Send" = "送信";
+
+"If you cancel the text conversion you will lose the recording." = "テキスト変換をキャンセルすると、録音内容が失われます。";
+
+"To continue, you’ll need to replace the current attachment." = "続行するには、現在の添付ファイルを置き換える必要があります。";
+
+"Upload File" = "ファイルをアップロードする";
+
+"You need %@ to continue this chat because this GPT requires it." = "この GPT が要求しているため、このチャットを続行するには %@ が必要です。";
+
+"You need %@ to continue this chat because it uses audio." = "このチャットはオーディオを使用するため、続行するには %@ が必要です。";
+
+"Microphone access required" = "マイクへのアクセスが必要です";
+
+"New Message" = "新規メッセージ";
+
+"Remove attachment" = "添付を削除する";
+
+"Failed, retry?" = "失敗しました。もう一度実行しますか？";
+
+"Edit selection" = "選択した画像を編集する";
+
+"No connection" = "接続がありません";
+
+"Continue Generating" = "生成を続ける";
+
+"Message" = "メッセージ";
+
+"Message ChatGPT" = "ChatGPT にメッセージを送る";
+
+"You need %@ to continue this chat because it has attachments." = "このチャットには添付があるため、続行するには%@ が必要です。";
+
+"You need %@ to continue this chat because it has images." = "このチャットには画像があるため、続行するには %@ が必要です。";
+
+"Get Plus to Chat" = "Plus を入手してチャットする";
+
+"Stop Generating" = "生成を中止する";
+
+"Scroll to bottom" = "一番下までスクロールする";
+
+"You need %@ to continue this chat because it uses tools." = "このチャットはツールを使用するため、続行するには%@ が必要です。";
+
+"Switch to Voice mode" = "音声モードに切り替える";
+
+"Editing message" = "メッセージを編集しています";
+
+"Stop" = "停止";
+
+"This chat is currently unavailable" = "このチャットは現在利用できません";
+
+"You've reached your %@ limit." = "%@ の制限に達しました。";
+
+"Attach files" = "ファイルを添付します";
+
+"Confirm" = "確認する";
+
+"Attached image" = "添付画像";
+
+"Image attachment failed." = "画像を添付できませんでした。";
+
+"Image upload failed." = "画像をアップロードできませんでした。";
+
+"Fullscreen" = "フルスクリーン";
+
+"File upload failed." = "ファイルをアップロードできませんでした。";
+
+"Attach photos" = "写真を添付する";
+

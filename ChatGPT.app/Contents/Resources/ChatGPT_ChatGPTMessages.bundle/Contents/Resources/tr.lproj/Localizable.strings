@@ -1,0 +1,74 @@
+"File expired" = "Dosya süresi doldu";
+
+"Sign in to %@" = "%@ üzerinde oturum aç";
+
+"A GPT" = "Bir GPT";
+
+"Analysis" = "Analiz";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Bu dosya artık kullanılamıyor. Yeni bir konuşma başlat veya konuşmana devam etmek için karşıya yeni bir dosya yükle.";
+
+"Quick Look" = "Hızlı Bak";
+
+"Selection" = "Seçim";
+
+"Select Text" = "Metin Seç";
+
+"Read Aloud" = "Sesli Oku";
+
+"Change Model" = "Modeli Değiştir";
+
+"Stop Generating" = "Oluşturmayı Durdur";
+
+"Memories updated" = "Bellekler güncellendi";
+
+"Continue Generating" = "Oluşturmaya Devam Et";
+
+"File unavailable" = "Dosya kullanılamıyor";
+
+"Memory updated" = "Bellek güncellendi";
+
+"How would you rate this GPT?" = "Bu GPT’yi nasıl değerlendirirsin?";
+
+"Edit" = "Düzenle";
+
+"Manage memories" = "Bellekleri yönet";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "En yetenekli modelimiz GPT-4 ile yazıldı ve ChatGPT Plus’ta mevcut";
+
+"Bad" = "Kötü";
+
+"Upgraded response" = "Geliştirilmiş yanıt";
+
+"Regenerate" = "Tekrar Oluştur";
+
+"Your most recent request failed. Please retry!" = "En son talebin başarısız oldu. Lütfen tekrar dene!";
+
+"Loading…" = "Yükleniyor...";
+
+"Failed, retry?" = "Başarısız. Tekrar denensin mi?";
+
+"Decline" = "Reddet";
+
+"Deny" = "Engelle";
+
+"Please try again later.%@" = "Lütfen daha sonra tekrar dene.%@";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT dosyaları yalnızca sınırlı bir süre için saklar. Yeni bir konuşma başlat veya konuşmana devam etmek için karşıya yeni bir dosya yükle.";
+
+"Response rating failed." = "Yanıt derecelendirmesi yapılamadı.";
+
+"\"%@\" column" = "“%@” sütunu";
+
+"You" = "Sen";
+
+"\"%@\" cell" = "“%@” hücresi";
+
+"Save File As…" = "Dosyayı Farklı Kaydet...";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "^[%lld ek karşıya yükleniyor](inflect: true)…";
+
+"Always allow" = "Her zaman izin ver";
+
+"#%lld row" = "%lld numaralı satır";
+

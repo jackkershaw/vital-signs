@@ -1,0 +1,82 @@
+"Failed, retry?" = "Помилка. Повторити спробу?";
+
+"Switch to Voice mode" = "Перемкнутися на голосовий режим";
+
+"Upload File" = "Передати файл";
+
+"Stop" = "Зупинити";
+
+"Message" = "Повідомлення";
+
+"Edit selection" = "Редагувати вибране";
+
+"You need %@ to continue this chat because it has attachments." = "You need %@ to continue this chat because it has attachments.";
+
+"Editing message" = "Редагування повідомлення";
+
+"To continue, you’ll need to replace the current attachment." = "Щоб продовжити, потрібно замінити поточне вкладення.";
+
+"Image upload failed." = "Помилка передавання зображення.";
+
+"Scroll to bottom" = "Прокрутити донизу";
+
+"You need %@ to continue this chat because this GPT requires it." = "You need %@ to continue this chat because this GPT requires it.";
+
+"Get Plus to Chat" = "Отримайте Plus, щоб використовувати чат";
+
+"Dictation" = "Диктування";
+
+"You need %@ to continue this chat because it uses audio." = "You need %@ to continue this chat because it uses audio.";
+
+"Are you sure?" = "Ви впевнені?";
+
+"Image attachment failed." = "Помилка вкладення зображення.";
+
+"You've reached your %@ limit." = "You've reached your %@ limit.";
+
+"Shows the voice recording interface and begins recording" = "Показує інтерфейс записування голосу й починає записування";
+
+"Continue Generating" = "Продовжити створення";
+
+"Attach files" = "Вкласти файли";
+
+"Confirm" = "Підтвердити";
+
+"File upload failed." = "Помилка передавання файлу.";
+
+"You need %@ to continue this chat because it uses tools." = "You need %@ to continue this chat because it uses tools.";
+
+"Edit image" = "Редагувати зображення";
+
+"Send" = "Надіслати";
+
+"If you cancel the text conversion you will lose the recording." = "Скасування перетворення тексту призведе до втрати запису.";
+
+"This chat is currently unavailable" = "This chat is currently unavailable";
+
+"Attached image" = "Вкладене зображення";
+
+"This chat uses an older version of your custom instructions" = "У цьому чаті використовується старіша версія ваших спеціальних інструкцій";
+
+"Microphone access required" = "Microphone access required";
+
+"Message ChatGPT" = "Повідомлення в ChatGPT";
+
+"Remove attachment" = "Вилучити вкладення";
+
+"Replace attachment?" = "Замінити вкладення?";
+
+"Attach photos" = "Вкласти фотографії";
+
+"New Message" = "Нове повідомлення";
+
+"Replace" = "Замінити";
+
+"Fullscreen" = "Повний екран";
+
+"Stop Generating" = "Припинити створення";
+
+"No connection" = "No connection";
+
+"You need %@ to continue this chat because it has images." = "You need %@ to continue this chat because it has images.";
+

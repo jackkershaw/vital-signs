@@ -1,0 +1,114 @@
+"Okay" = "ตกลง";
+
+"Only me" = "เฉพาะฉัน";
+
+"Good" = "ดี";
+
+"No Recents" = "ไม่มีรายการเร็วๆ นี้";
+
+"Public" = "สาธารณะ";
+
+"Searching…" = "กำลังค้นหา...";
+
+"Options" = "ตัวเลือก";
+
+"See more" = "ดูเพิ่ม";
+
+"Conversation starters" = "ข้อความเริ่มบทสนทนา";
+
+"in **%@**" = "ใน **%@**";
+
+"How would you rate this GPT?" = "คุณจะให้คะแนน GPT นี้เท่าไหร่";
+
+"%@ rating" = "%@ การให้คะแนน";
+
+"%@ chats" = "%@ แชต";
+
+"Include my email" = "เพิ่มที่อยู่อีเมลของฉัน";
+
+"Top Suggestions" = "คำแนะนำยอดนิยม";
+
+"Unable to load, retry?" = "ไม่สามารถโหลด GPT ได้ จะลองอีกครั้งไหม";
+
+"By %@" = "โดย %@";
+
+"Editing Not Available" = "ไม่สามารถแก้ไขได้";
+
+"Are you sure you want to remove this GPT from your recents?" = "แน่ใจหรือไม่ว่าคุณต้องการลบ GPT นี้จากรายการที่ใช้เร็วๆ นี้";
+
+"Start chat" = "เริ่มแชต";
+
+"Top Picks" = "ตัวเลือกยอดนิยม";
+
+"Failed to delete GPT, retry?" = "ลบ GPT ไม่สำเร็จ จะลองอีกครั้งไหม";
+
+"Edit" = "แก้ไข";
+
+"Exceptional!" = "ยอดเยี่ยม";
+
+"Editing and creating a GPT is only available on web for now." = "ปัจจุบันการแก้ไขและสร้าง GPT ทำได้บนเว็บเท่านั้น";
+
+"Explore" = "สำรวจ";
+
+"Optional private note for creator…" = "เลือกเพิ่มข้อความส่วนตัวถึงผู้สร้าง...";
+
+"How would you rate **%@**?" = "คุณจะให้คะแนน **%@** เท่าไหร่";
+
+"Feedback" = "ข้อเสนอแนะ";
+
+"Get Plus to Chat" = "รับ Plus เพื่อแชต";
+
+"Are you sure you want to delete this GPT?" = "แน่ใจหรือไม่ว่าคุณต้องการลบ GPT นี้";
+
+"Add a note" = "เพิ่มข้อความ";
+
+"Remove GPT" = "ลบ GPT";
+
+"By community builder" = "โดยผู้สร้างชุมชน";
+
+"Report" = "รายงาน";
+
+"Include my email **%@**" = "เพิ่มที่อยู่อีเมลของฉัน **%@**";
+
+"Tap a star" = "แตะที่ดาว";
+
+"Capabilities" = "คุณสมบัติ";
+
+"Visibility" = "การมองเห็น";
+
+"Untitled" = "ไม่มีชื่อ";
+
+"Recently Used" = "ที่ใช้เมื่อเร็วๆ นี้";
+
+"Search Public GPTs" = "ค้นหา GPT สาธารณะ";
+
+"Thank you for your feedback!" = "ขอบคุณสำหรับข้อเสนอแนะ";
+
+"Anyone with a link" = "ใครก็ตามที่มีลิงก์";
+
+"Anyone at %@" = "ใครก็ได้ที่ %@";
+
+"Failed to remove recent GPT, retry?" = "ลบ GPT ที่ใช้เร็วๆ นี้ไม่สำเร็จ จะลองอีกครั้งไหม";
+
+"Loading more" = "กำลังโหลดเพิ่ม";
+
+"Remove" = "ลบ";
+
+"Star rating" = "คะแนนดาว";
+
+"Great" = "ดีมาก";
+
+"Bad" = "แย่";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "^[%lld ดาว](inflect: true) %@ ของคะแนน";
+
+"Start Chat" = "เริ่มแชต";
+
+"My GPTs" = "GPT ของฉัน";
+
+"Chats: %@" = "แชต: %@";
+
+"No Results Found" = "ไม่พบผลลัพธ์";
+
+"Share" = "แบ่งปัน";
+

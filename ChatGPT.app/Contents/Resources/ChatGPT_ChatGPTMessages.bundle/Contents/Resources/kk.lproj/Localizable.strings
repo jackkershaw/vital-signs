@@ -1,0 +1,74 @@
+"File expired" = "Файл мерзімі өтті";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Бұл файл бұдан былай қолжетімсіз. Жаңа әңгіме бастаңыз немесе әңгімеңізді жалғастыру үшін жаңа файл жүктеп салыңыз.";
+
+"#%lld row" = "№%lld қатар";
+
+"Stop Generating" = "Жасауды тоқтату";
+
+"Decline" = "Қабылдамау";
+
+"Memories updated" = "Жадтар жаңартылды";
+
+"Change Model" = "Үлгіні өзгерту";
+
+"\"%@\" column" = "«%@» бағаны";
+
+"You" = "Сіз";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Біздің GPT-4 деп аталатын ең функционалдық үлгі арқылы жазылды, ChatGPT Plus-те бар";
+
+"Bad" = "Нашар";
+
+"Deny" = "Бас тарту";
+
+"Analysis" = "Талдау";
+
+"Read Aloud" = "Дауыстап оқу";
+
+"\"%@\" cell" = "«%@» ұяшығы";
+
+"Please try again later.%@" = "Кейінірек қайталап көріңіз.%@";
+
+"Select Text" = "Мәтін таңдау";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT файлдарды шектеулі уақыт бойы ғана сақтайды. Жаңа әңгіме бастаңыз немесе әңгімеңізді жалғастыру үшін жаңа файл жүктеп салыңыз.";
+
+"Selection" = "Таңдалғаны";
+
+"Failed, retry?" = "Орындалмады, қайталау керек пе?";
+
+"Continue Generating" = "Жасауды жалғастыру";
+
+"File unavailable" = "Файл қолжетімді емес";
+
+"Quick Look" = "Жылдам қарау";
+
+"Always allow" = "Әрқашан рұқсат беру";
+
+"Regenerate" = "Қайта құру";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "^[%lld тіркеме](inflect: true) жүктеп салынуда…";
+
+"A GPT" = "GPT";
+
+"Sign in to %@" = "%@ жүйесіне кіру";
+
+"Response rating failed." = "Жауапқа баға берілмеді.";
+
+"Save File As…" = "Файлды сақтау…";
+
+"Edit" = "Өзгерту";
+
+"Manage memories" = "Жадтарды басқару";
+
+"Your most recent request failed. Please retry!" = "Соңғы сұрауыңыз орындалмады. Қайталап көріңіз.";
+
+"Memory updated" = "Жад жаңартылды";
+
+"Upgraded response" = "Жақсартылған жауап";
+
+"How would you rate this GPT?" = "Бұл GPT-ді қалай бағалар едіңіз?";
+
+"Loading…" = "Жүктелуде…";
+

@@ -1,0 +1,82 @@
+"New Message" = "Nowa wiadomość";
+
+"Upload File" = "Prześlij plik";
+
+"Editing message" = "Edytowanie wiadomości";
+
+"You need %@ to continue this chat because this GPT requires it." = "Potrzebujesz %@, aby kontynuować ten czat, ponieważ wymaga tego ten model GPT.";
+
+"You need %@ to continue this chat because it uses tools." = "Potrzebujesz %@, aby kontynuować ten czat, ponieważ używa się w nim narzędzi.";
+
+"Replace attachment?" = "Zastąpić załącznik?";
+
+"To continue, you’ll need to replace the current attachment." = "Aby kontynuować, musisz zastąpić bieżący załącznik.";
+
+"Replace" = "Zastąp";
+
+"Shows the voice recording interface and begins recording" = "Powoduje wyświetlenie interfejsu nagrywania głosu i rozpoczyna nagrywanie";
+
+"Dictation" = "Dyktowanie";
+
+"Failed, retry?" = "Niepowodzenie. Ponowić próbę?";
+
+"Are you sure?" = "Czy na pewno?";
+
+"Continue Generating" = "Kontynuuj generowanie";
+
+"Message ChatGPT" = "Wyślij wiadomość do czatbota ChatGPT";
+
+"Scroll to bottom" = "Przewiń do dołu";
+
+"Attach photos" = "Dołącz zdjęcia";
+
+"Attached image" = "Dołączony obraz";
+
+"Microphone access required" = "Wymagany dostęp do mikrofonu";
+
+"You need %@ to continue this chat because it has attachments." = "Potrzebujesz %@, aby kontynuować ten czat, ponieważ zawiera on załączniki.";
+
+"You've reached your %@ limit." = "Osiągnięto limit %@.";
+
+"Remove attachment" = "Usuń załącznik";
+
+"Switch to Voice mode" = "Przełącz na tryb głosowy";
+
+"Get Plus to Chat" = "Uzyskaj subskrypcję Plus, aby czatować";
+
+"Send" = "Wyślij";
+
+"Confirm" = "Potwierdź";
+
+"Edit selection" = "Edytuj zaznaczenie";
+
+"You need %@ to continue this chat because it uses audio." = "Potrzebujesz %@, aby kontynuować ten czat, ponieważ używa się w nim dźwięku.";
+
+"Edit image" = "Edytuj obraz";
+
+"No connection" = "Brak połączenia";
+
+"Message" = "Wiadomość";
+
+"Attach files" = "Dołącz pliki";
+
+"File upload failed." = "Przesyłanie pliku nie powiodło się.";
+
+"Fullscreen" = "Pełny ekran";
+
+"Image attachment failed." = "Załączanie obrazu nie powiodło się.";
+
+"If you cancel the text conversion you will lose the recording." = "Jeśli anulujesz konwersję tekstu, nagranie zostanie utracone.";
+
+"You need %@ to continue this chat because it has images." = "Potrzebujesz %@, aby kontynuować ten czat, ponieważ zawiera on obrazy.";
+
+"Stop Generating" = "Zatrzymaj generowanie";
+
+"This chat uses an older version of your custom instructions" = "W tym czacie jest używana starsza wersja Twoich instrukcji niestandardowych";
+
+"Stop" = "Zatrzymaj";
+
+"This chat is currently unavailable" = "Ten czat jest obecnie niedostępny.";
+
+"Image upload failed." = "Przesyłanie obrazu nie powiodło się.";
+

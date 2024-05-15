@@ -1,0 +1,54 @@
+"There was an error preparing the conversation. Please try again. %@" = "Vestluse ettevalmistamisel ilmnes viga. Palun proovige uuesti. %@";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "Kas olete kindel, et soovite jagatud lingi „%@“ kustutada? Võite luua alati uue lingi, jagades seda vestlust uuesti.";
+
+"Share anonymously" = "Jaga anonüümselt";
+
+"There was an error deleting your shared link." = "Teie jagatud lingi kustutamisel tekkis viga.";
+
+"Delete link" = "Kustuta link";
+
+"There was an error sharing the conversation. Please try again. %@" = "Vestluse jagamisel ilmnes viga. Palun proovige uuesti. %@";
+
+"Shared Link Owner" = "Jagatud lingi omanik";
+
+"Shared link deleted." = "Jagatud link on kustutatud.";
+
+"Help and FAQ" = "Spikker ja KKK";
+
+"The share link is invalid. %@" = "Jagamislink on kehtetu. %@";
+
+"The conversation has no messages." = "Vestluses ei ole sõnumeid.";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "Olete selle vestluse linki juba jaganud. Kui soovite lisada uusi sõnumeid, kustutage see link ja jagage oma vestlust uuesti.";
+
+"Options" = "Suvandid";
+
+"Title" = "Pealkiri";
+
+"Recipients won't be able to view images." = "Saajad ei saa pilte vaadata.";
+
+"Your custom instructions won’t be shared with viewers." = "Teie kohandatud juhiseid ei jagata vaatajatega.";
+
+"Update title" = "Värskenda pealkirja";
+
+"Shared Link Title" = "Jagatud lingi pealkiri";
+
+"Share your name" = "Jaga oma nime";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "Pärast lingi jagamist saadetud või vastuvõetud sõnumeid ei jagata. Kõik, kellel on URL, saavad teie jagatud vestlust vaadata.";
+
+"Share link" = "Jaga linki";
+
+"Share link to chat" = "Jaga linki vestlusesse";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "Kas olete kindel, et soovite jagatud lingi \"%@\" kustutada? Te võite alati luua uue lingi, jagades seda vestlust uuesti.";
+
+"Options" = "Valikud";
+
+"Missing Name" = "Nimi puudub";
+
+"Shared Link Date" = "Jagatud lingi kuupäev";
+
+"Edit title" = "Redigeeri pealkirja";
+

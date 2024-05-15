@@ -1,0 +1,170 @@
+"See more information about voice research" = "Arag macaluumaad dheeri ah ee ku saabsan raadin cod";
+
+"You can change this later." = "Mardambe ayaad tani bedeli kartaa.";
+
+"Connecting." = "Lagu-xiriirinayo.";
+
+"Tap to connect" = "Taabo si aad ugu xiriirisid";
+
+"Click to send manually" = "ku-dhufo si aad si toos ahayn ugu dirto";
+
+"Idle" = "Aan-shaqeyn";
+
+"Poor connection" = "Is-gaarsiin liidata";
+
+"Lost" = "Lumey";
+
+"Audio issues" = "Arrimo maqalka ah";
+
+"Hold for manual control" = "U qabo xakameyn gacan ku qabasho ah";
+
+"%lld." = "%lld.";
+
+"Tap to dismiss" = "Taabo si aad u qariso";
+
+"Failed to connect" = "Ku fashilmay in lagu xiro";
+
+"Tap to interrupt" = "Taabo si aad u dhex-gashid";
+
+"%lldms" = "%lldms";
+
+"Pick photo" = "Xulo sawiro";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "Waxaad doorataa si aad u wadaagtid maqalkaaga laga helo sheekeysiyada codka si loo horumariyo oo loo tababaro moodeeladeena. Waxaa tani ku jira maqalka laga helo makarafoonkaaga marka moodeelku uu fakarayo ama hadlayo. Waxaad ku joojin kartaa wadaagid habeynada dhexdooda.";
+
+"Unselect %@" = "Ka-noqo doorasho %@";
+
+"Choose a voice" = "Dooro cod";
+
+"I didn’t like the responses" = "Maan jeclaan jawaabaha";
+
+"Connecting.." = "Lagu-xiriirinayo..";
+
+"Connection failed, tap to retry" = "Xiriirinta waa guul daraysatay, taabo si aad dib iskugu day-did";
+
+"Grace Period for %@s" = "Wadarta mudada ee %@i";
+
+"Save to Photos" = "Ku-kaydi Sawirada";
+
+"Connecting" = "Lagu-xiriirinayo";
+
+"Pause" = "Joojin";
+
+"Click to interrupt" = "ku-dhufo si aad u carqaladeyso";
+
+"Tap to cancel" = "Taabo si aad u kansashid";
+
+"Go backward 15 seconds" = "Gadaal u bax 15 ilbiriqsiyo";
+
+"Error: '%@'" = "Cillad: '%@'";
+
+"Paused" = "La-joojiyey";
+
+"Connection failed, click to retry" = "Xiriirinta waa guul daraysatay, ku-dhufo si aad dib iskugu day did";
+
+"It misheard me" = "Si-qaldan bey ii maqashay";
+
+"Connect" = "Ku-xir";
+
+"Take picture" = "Qaad sawir";
+
+"Finish speaking to send" = "Dhamestir hadlida si aad u dirtid";
+
+"Unable to send response. Please try again." = "Aan awoodin inuu jawaab diro. Fadlan markale isku day.";
+
+"Unknown" = "La garaneyn";
+
+"Enable microphone access in Settings" = "Ku fur marinka makarafoonka Habeynada";
+
+"Unknown error" = "Cillad aan la garaneyn";
+
+"Voice chat ended after " = "Sheekeysiga codka wuxuu dhamaaday kadib ";
+
+"Other" = "Kale";
+
+"Resume listening" = "Dib-u-bilaw dhageysiga";
+
+"Thinking" = "Ka-fakaraya";
+
+"Speak now" = "Hadda hadal";
+
+"Good" = "Fiican";
+
+"Flip camera to the front" = "U gedi kaamirada horey";
+
+"Close" = "Xidh";
+
+"On for training" = "U daaran tababar";
+
+"Stop listening" = "Jooji hadlid";
+
+"Flip camera to the rear" = "ku-dhufo gedi kaamirada gadaal";
+
+"Poor" = "Liita";
+
+"Click to activate" = "ku-dhufo si aad u daarto";
+
+"Open camera" = "Fur kaamirada";
+
+"Restart" = "Dib-u-bilaw";
+
+"Unable to review action" = "Aan awoodin inuu dib u eego ficil";
+
+"Thank you!" = "Waad mahadsantahay!";
+
+"Halted" = "La-joojiyey";
+
+"Speaking" = "Hadlaya";
+
+"Voice feedback: give thumbs down" = "Warcelin cod: suulasha hoos sii";
+
+"Click to connect" = "ku-dhufo si aad ugu xiriirisid";
+
+"Voice feedback: give thumbs up" = "Warcelin cod: suulasha kor sii";
+
+"It interrupted me" = "Way i dhexgashay";
+
+"Tap to activate" = "Taabo si aad u daarto";
+
+"Click to cancel" = "ku-dhufo si aad u kansashid";
+
+"What went wrong?" = "Maxaa qaldamay?";
+
+"Submit feedback" = "Gudbi warcelin";
+
+"Go forward 15 seconds" = "Horey u bax 15 ilbiriqsiyo";
+
+"Speak to keep active" = "Hadal si aad ugu haysid firfircoonaan";
+
+"•" = "•";
+
+"Close camera" = "Xidh kaamirada";
+
+"Helping improve voice" = "Caawinaya horumarinta codka";
+
+"Start speaking" = "Bilaw hadlid";
+
+"Excellent" = "Heersare";
+
+"Tap to send manually" = "Taabo si aad si gacan ku qabsho ah ugu dirtid";
+
+"Voice mode" = "Nooca codka";
+
+"Select all that apply" = "Dooro dhammaan ku dabaqma";
+
+"Listening" = "Dhageysanaya";
+
+"Play" = "Daar";
+
+"Connected" = "Lagu-xiriiriyey";
+
+"Learn more" = "Wax badan ka baro";
+
+"Select %@" = "Dooro %@";
+
+"Listening intently" = "Si-niyad u-dhageysanaya";
+
+"Release to send" = "Sii daa si aad u dirtid";
+
+"Voice chat ended" = "Sheekeysiga codka waa dhamaaday";
+

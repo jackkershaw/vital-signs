@@ -1,0 +1,52 @@
+"No connected accounts are available for this GPT." = "Nenhuma conta conectada está disponível para esse GPT.";
+
+"Confirm Logout" = "Confirmar saída";
+
+"Privacy Policy" = "Política de privacidade";
+
+"Actions" = "Ações";
+
+"Custom instructions" = "Instruções personalizadas";
+
+"Model Info" = "Informações do modelo";
+
+"Please try again later.\n\n(%@)" = "Tente novamente mais tarde.\n\n(%@)";
+
+"Report Conversation" = "Denunciar conversa";
+
+"Error loading connected accounts.\n\n(%@)" = "Erro ao carregar contas conectadas.\n\n(%@)";
+
+"Privacy & Safety" = "Privacidade e segurança";
+
+"Capabilities" = "Capacidades";
+
+"Select which websites are allowed to see data from conversations with %@." = "Selecione quais sites têm permissão para ver os dados das conversas com %@.";
+
+"Ask" = "Perguntar";
+
+"This chat uses an older version of your custom instructions." = "Este chat usa uma versão mais antiga das suas instruções personalizadas.";
+
+"Connected Accounts" = "Contas conectadas";
+
+"None" = "Nenhum";
+
+"Report GPT" = "Denunciar GPT";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "Gerenciar quais contas de terceiros podem ser acessadas por %@.";
+
+"Failed to update setting, retry?" = "Falha ao atualizar a configuração. Tentar novamente?";
+
+"Are you sure you want to log out of %@?" = "Tem certeza de que deseja sair de %@?";
+
+"Report" = "Denunciar";
+
+"Error loading action settings" = "Erro ao carregar as configurações da ação";
+
+"Accounts" = "Contas";
+
+"Description" = "Descrição";
+
+"No actions are available for this GPT" = "Não há ações disponíveis para esse GPT";
+
+"Always" = "Sempre";
+

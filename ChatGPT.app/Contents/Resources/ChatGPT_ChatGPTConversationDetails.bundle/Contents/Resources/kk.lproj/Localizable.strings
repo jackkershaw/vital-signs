@@ -1,0 +1,52 @@
+"Connected Accounts" = "Байланысты аккаунттар";
+
+"Actions" = "Әрекеттер";
+
+"None" = "Ешқайсысы";
+
+"No connected accounts are available for this GPT." = "Бұл GPT үшін байланысты аккаунттар қолжетімді емес.";
+
+"Privacy Policy" = "Құпиялылық саясаты";
+
+"Custom instructions" = "Арнаулы нұсқаулар";
+
+"Model Info" = "Үлгі туралы ақпарат";
+
+"Select which websites are allowed to see data from conversations with %@." = "%@ қызметімен жасалған әңгімелердің деректерін қай веб-сайттар көре алатынын таңдаңыз.";
+
+"Error loading connected accounts.\n\n(%@)" = "Байланысты аккаунттарды жүктеу кезінде қате шықты.\n\n(%@)";
+
+"Always" = "Әрқашан";
+
+"Report GPT" = "GPT туралы хабарлау";
+
+"Confirm Logout" = "Шығуды растау";
+
+"Description" = "Сипаттама";
+
+"Please try again later.\n\n(%@)" = "Кейінірек қайталап көріңіз.\n\n(%@)";
+
+"Privacy & Safety" = "Құпиялылық және қауіпсіздік";
+
+"Capabilities" = "Мүмкіндіктер";
+
+"Are you sure you want to log out of %@?" = "%@ жүйесінен шығу қажеттігін растайсыз ба?";
+
+"This chat uses an older version of your custom instructions." = "Бұл чатта арнаулы нұсқауларыңыздың ескі нұсқасы пайдаланылады.";
+
+"Report Conversation" = "Әңгіме туралы хабарлау";
+
+"Error loading action settings" = "Әрекет параметрлерін жүктеу кезінде қате шықты";
+
+"Report" = "Хабарлау";
+
+"Accounts" = "Аккаунттар";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "%@ 3-тараптың қай аккаунттарын пайдалана алатынын басқарыңыз.";
+
+"No actions are available for this GPT" = "Бұл GPT үшін қолжетімді әрекеттер жоқ";
+
+"Failed to update setting, retry?" = "Параметр жаңартылмады, қайталау керек пе?";
+
+"Ask" = "Сұрау";
+

@@ -1,0 +1,52 @@
+"Browsing" = "Περιήγηση";
+
+"Enable for new chats" = "Ενεργοποίηση για νέες συνομιλίες";
+
+"Customize ChatGPT" = "Προσαρμογή του ChatGPT";
+
+"Error saving custom instructions" = "Σφάλμα αποθήκευσης προσαρμοσμένων οδηγιών";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Οι προσαρμοσμένες οδηγίες θα εφαρμοστούν σε όλες τις νέες συνομιλίες. [Μάθε περισσότερα](chat-preferences-disclosures)";
+
+"Browse the internet to find answers" = "Περιηγήσου στο διαδίκτυο για να βρεις απαντήσεις";
+
+"Error loading customizations. Please try again later." = "Σφάλμα φόρτωσης προσαρμoγών. Προσπάθησε ξανά αργότερα.";
+
+"Save" = "Αποθήκευση";
+
+"Unsaved changes" = "Μη αποθηκευμένες αλλαγές";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Θέλεις σίγουρα να απορρίψεις τις αλλαγές σου; Όσες αλλαγές πραγματοποίησες θα χαθούν οριστικά.";
+
+"DALL•E" = "DALL•E";
+
+"Custom Instructions Enabled or Disabled" = "Προσαρμοσμένες οδηγίες ενεργοποιημένες ή απενεργοποιημένες";
+
+"An unknown error occurred. Please try again later" = "Προέκυψε άγνωστο σφάλμα. Προσπάθησε ξανά αργότερα";
+
+"Show tips" = "Εμφάνιση συμβουλών";
+
+"How would you like ChatGPT to respond?" = "Πώς θέλεις να απαντά το ChatGPT;";
+
+"Thought starters" = "Εκκινητές σκέψεων";
+
+"Generate images using DALL•E" = "Δημιουργία εικόνων με χρήση του DALL•E";
+
+"Keep editing" = "Συνέχεια επεξεργασίας";
+
+"Choose which tools can be used with GPT-4." = "Διάλεξε ποια εργαλεία μπορούν να χρησιμοποιηθούν με το GPT-4.";
+
+"Code" = "Κώδικας";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Τι θα ήθελες να γνωρίζει το ChatGPT για σένα ώστε να σου παρέχει καλύτερες απαντήσεις;";
+
+"GPT-4 Capabilities" = "Δυνατότητες του GPT-4";
+
+"Discard changes" = "Απόρριψη αλλαγών";
+
+"Error updating state for customizations. Please try again later." = "Σφάλμα ενημέρωσης κατάστασης προσαρμογών. Προσπάθησε ξανά αργότερα.";
+
+"Execute code using Code Interpreter" = "Εκτέλεση κώδικα χρησιμοποιώντας το Code Interpreter";
+
+"Saving Custom Instructions" = "Αποθήκευση προσαρμοσμένων οδηγιών";
+

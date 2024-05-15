@@ -1,0 +1,52 @@
+"Model Info" = "Informação sobre o Modelo";
+
+"This chat uses an older version of your custom instructions." = "Este chat utiliza uma versão mais antiga das suas instruções personalizadas";
+
+"Failed to update setting, retry?" = "Falha ao atualizar definição, tentar novamente?";
+
+"Are you sure you want to log out of %@?" = "Tem a certeza de que pretende sair de %@?";
+
+"Actions" = "Ações";
+
+"Confirm Logout" = "Confirmar encerramento de sessão";
+
+"Custom instructions" = "Instruções personalizadas";
+
+"No connected accounts are available for this GPT." = "Sem contas ligadas disponíveis para este GPT.";
+
+"Please try again later.\n\n(%@)" = "Tente novamente mais tarde.\n\n(%@)";
+
+"Report" = "Reportar";
+
+"No actions are available for this GPT" = "Sem ações disponíveis para este GPT";
+
+"Capabilities" = "Capacidades";
+
+"Ask" = "Perguntar";
+
+"Report GPT" = "Reportar GPT";
+
+"None" = "Nenhum";
+
+"Error loading connected accounts.\n\n(%@)" = "Erro ao carregar contas ligadas.\n\n(%@)";
+
+"Select which websites are allowed to see data from conversations with %@." = "Selecione quais os websites que podem ver dados de conversas com %@.";
+
+"Connected Accounts" = "Contas ligadas";
+
+"Report Conversation" = "Reportar conversa";
+
+"Privacy & Safety" = "Privacidade e Segurança";
+
+"Accounts" = "Contas";
+
+"Description" = "Descrição";
+
+"Error loading action settings" = "Erro ao carregar as definições de ação";
+
+"Privacy Policy" = "Política de Privacidade";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "Gerir que contas de terceiros podem ser acedidas por %@.";
+
+"Always" = "Sempre";
+

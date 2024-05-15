@@ -1,0 +1,82 @@
+"Attached image" = "Image jointe";
+
+"Image attachment failed." = "Échec lié à l’ajout de l’image jointe.";
+
+"Failed, retry?" = "Échec. Réessayer?";
+
+"Continue Generating" = "Continuer à générer";
+
+"This chat uses an older version of your custom instructions" = "Ce clavardage utilise une version précédente de vos instructions personnalisées";
+
+"Get Plus to Chat" = "Obtenir le plan Plus pour clavarder";
+
+"Stop" = "Arrêter";
+
+"You need %@ to continue this chat because it has attachments." = "You need %@ to continue this chat because it has attachments.";
+
+"Message" = "Message";
+
+"Editing message" = "Modification du message";
+
+"Attach photos" = "Joindre des photos";
+
+"You need %@ to continue this chat because this GPT requires it." = "You need %@ to continue this chat because this GPT requires it.";
+
+"Send" = "Envoyer";
+
+"To continue, you’ll need to replace the current attachment." = "Pour continuer, vous devez remplacer la pièce jointe actuelle.";
+
+"You need %@ to continue this chat because it uses audio." = "You need %@ to continue this chat because it uses audio.";
+
+"Confirm" = "Confirmer";
+
+"You've reached your %@ limit." = "You've reached your %@ limit.";
+
+"Are you sure?" = "Voulez-vous vraiment faire cela?";
+
+"Edit selection" = "Modifier la sélection";
+
+"Edit image" = "Modifier l’image...";
+
+"You need %@ to continue this chat because it uses tools." = "You need %@ to continue this chat because it uses tools.";
+
+"Replace attachment?" = "Remplacer la pièce jointe?";
+
+"Message ChatGPT" = "Envoyer un message à ChatGPT";
+
+"Switch to Voice mode" = "Passer au mode vocal";
+
+"This chat is currently unavailable" = "This chat is currently unavailable";
+
+"Dictation" = "Dictée";
+
+"New Message" = "Nouveau message";
+
+"Microphone access required" = "Microphone access required";
+
+"Image upload failed." = "Échec de téléversement d’image.";
+
+"Fullscreen" = "Plein écran";
+
+"Remove attachment" = "Retirer la pièce jointe";
+
+"Attach files" = "Joindre des fichiers";
+
+"If you cancel the text conversion you will lose the recording." = "Si vous annulez la conversion de texte, vous perdrez l’enregistrement.";
+
+"File upload failed." = "Échec de téléversement de fichier.";
+
+"Scroll to bottom" = "Faire défiler jusqu’en bas";
+
+"Stop Generating" = "Arrêter la génération";
+
+"Upload File" = "Téléverser un fichier";
+
+"Shows the voice recording interface and begins recording" = "Affiche l’interface d’enregistrement vocal et démarre l’enregistrement";
+
+"Replace" = "Remplacer";
+
+"No connection" = "No connection";
+
+"You need %@ to continue this chat because it has images." = "You need %@ to continue this chat because it has images.";
+

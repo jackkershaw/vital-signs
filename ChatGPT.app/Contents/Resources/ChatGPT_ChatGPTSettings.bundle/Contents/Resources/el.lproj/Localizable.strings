@@ -1,0 +1,180 @@
+"View" = "Προβολή";
+
+"Confirm Export" = "Επιβεβαίωση εξαγωγής";
+
+"App" = "Εφαρμογή";
+
+"Color Scheme" = "Χρωματικό σχήμα";
+
+"Improve voice for everyone" = "Βελτίωσε τη λειτουργία αναγνώρισης φωνής για όλους";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "Δεν μπορείς να κάνεις αλλαγές στη συνδρομή σου μέσα από αυτήν την εφαρμογή, επειδή αγόρασες αυτήν τη συνδρομή σε άλλη πλατφόρμα.";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "Η διαγραφή του λογαριασμού δεν θα καταργήσει τυχόν ενεργές συνδρομές εντός της εφαρμογής. Μπορείς να ακυρώσεις αυτές τις συνδρομές στις ρυθμίσεις του Apple ID σου.";
+
+"Restore purchases" = "Επαναφορά αγορών";
+
+"Help" = "Βοήθεια";
+
+"Manage Memory" = "Διαχείριση μνήμης";
+
+"Recent login required" = "Απαιτείται πρόσφατη σύνδεση";
+
+"Error updating setting. Please try again later" = "Σφάλμα κατά την ενημέρωση της ρύθμισης. Προσπάθησε ξανά αργότερα";
+
+"App Language" = "Γλώσσα εφαρμογής";
+
+"Improve the model for everyone" = "Βελτίωσε το μοντέλο για όλους";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "Το ChatGPT θα γίνεται πιο χρήσιμο όσο συνομιλείς, συλλέγοντας λεπτομέρειες και προτιμήσεις προκειμένου να προσαρμόζει τις απαντήσεις του σε εσένα. [Μάθε περισσότερα](%@)\n\nΓια να κατανοήσεις τι θυμάται το ChatGPT ή για να του διδάξεις κάτι νέο, απλώς συνομίλησε μαζί του:\n\n• «Μην ξεχνάς ότι μου αρέσουν οι συνοπτικές απαντήσεις.»\n• «Μόλις απέκτησα ένα κουταβάκι!»\n• «Τι θυμάσαι σχετικά με εμένα;»\n• «Πού είχαμε μείνει στο τελευταίο μου έργο;»";
+
+"Subscription" = "Συνδρομή";
+
+"Archived conversations will be available here" = "Οι αρχειοθετημένες συζητήσεις θα είναι διαθέσιμες εδώ";
+
+"Keep ChatGPT on top" = "Διατήρηση του ChatGPT σε πρώτο πλάνο";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "Για καλύτερα αποτελέσματα, διάλεξε τη γλώσσα που μιλάς κατά κύριο λόγο. Εάν δεν εμφανίζεται στη λίστα, ενδεχομένως να υποστηρίζεται μέσω του αυτόματου εντοπισμού.";
+
+"ChatGPT Enterprise" = "ChatGPT Enterprise";
+
+"Keyboard Shortcut" = "Συντόμευση πληκτρολογίου";
+
+"Memory" = "Μνήμη";
+
+"Customize ChatGPT" = "Προσαρμογή του ChatGPT";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Επίτρεψε τη χρήση του περιεχομένου σου για την εκπαίδευση των μοντέλων μας, η οποία βελτιώνει το ChatGPT για σένα και για όλους τους χρήστες του. Λαμβάνουμε μέτρα για την προστασία του προσωπικού απορρήτου σου. [Μάθε περισσότερα](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Chat training" = "Εκπαίδευση μέσω συνομιλίας";
+
+"None" = "Κανένας";
+
+"Free Plan" = "Δωρεάν πρόγραμμα";
+
+"Chat history" = "Ιστορικό συνομιλιών";
+
+"Always show ChatGPT in dock" = "Να εμφανίζεται πάντα το ChatGPT στο Dock";
+
+"Email missing!" = "Το email λείπει!";
+
+"ChatGPT for %@" = "ChatGPT για %@";
+
+"Could not unarchive conversation. Please try again later." = "Αδυναμία αναίρεσης αρχειοθέτησης. Προσπάθησε ξανά αργότερα.";
+
+"Could not archive all chats" = "Αδυναμία αρχειοθέτησης όλων των συνομιλιών";
+
+"ChatGPT Team" = "ChatGPT Team";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "Προέκυψε σφάλμα με τη διαγραφή του λογαριασμού σου. Εάν το πρόβλημα εξακολουθεί να υφίσταται, επισκέψου την ηλεκτρονική διεύθυνση help.openai.com.";
+
+"Error archiving all chats" = "Σφάλμα κατά την αρχειοθέτηση όλων των συνομιλιών";
+
+"Light" = "Ανοιχτόχρωμο";
+
+"Search Archive" = "Αναζήτηση στο αρχείο";
+
+"Subscription Cancellation" = "Ακύρωση συνδρομής";
+
+"Are you sure?" = "Σίγουρα;";
+
+"Delete All Chats" = "Διαγραφή όλων των συνομιλιών";
+
+"About" = "Σχετικά με";
+
+"Archived Chats" = "Αρχειοθετημένες συνομιλίες";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Επιτρέπει τη χρήση του περιεχομένου σου για την εκπαίδευση των μοντέλων μας, η οποία βελτιώνει το ChatGPT για σένα και για όλους τους χρήστες του. Λαμβάνουμε μέτρα για την προστασία του προσωπικού απορρήτου σου. [Μάθε περισσότερα](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Could not delete conversation. Please try again later." = "Αδυναμία διαγραφής συζήτησης. Προσπάθησε ξανά αργότερα.";
+
+"Workspace" = "Χώρος εργασίας";
+
+"Help Center" = "Κέντρο βοήθειας";
+
+"This workspace is private and opted out of training." = "Αυτός ο χώρος εργασίας είναι ιδιωτικός και δεν χρησιμοποιείται για την εκπαίδευση του μοντέλου.";
+
+"Export Data" = "Εξαγωγή δεδομένων";
+
+"Dark" = "Σκουρόχρωμο";
+
+"Desktop Launcher" = "Εκκινητής για υπολογιστές";
+
+"Upgrade to ChatGPT Plus" = "Αναβάθμιση σε ChatGPT Plus";
+
+"ChatGPT Plus" = "ChatGPT Plus";
+
+"Successfully exported data. You should receive an email shortly with your data." = "Επιτυχής εξαγωγή δεδομένων. Σύντομα θα πρέπει να λάβεις ένα email με τα δεδομένα σου.";
+
+"All your chats will be archived. This cannot be undone." = "Όλες σου οι συνομιλίες θα αρχειοθετηθούν. Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.";
+
+"Unarchive" = "Αναίρεση αρχειοθέτησης";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "Η διαγραφή του λογαριασμού σου είναι οριστική και δεν θα μπορεί να αναιρεθεί. Όλα τα δεδομένα σου, συμπεριλαμβανομένου του προφίλ, των συζητήσεων και της χρήσης του API, θα καταργηθούν.\n\nΔεν μπορείς να επαναχρησιμοποιήσεις το ίδιο email ή τον ίδιο αριθμό τηλεφώνου για έναν νέο λογαριασμό.\n\nΕάν έχεις χρησιμοποιήσει το ChatGPT με το API, θα διαγραφεί και αυτή η πρόσβαση.";
+
+"New Features" = "Νέες λειτουργίες";
+
+"Yesterday" = "Χτες";
+
+"Archive All Chats" = "Αρχειοθέτηση όλων των συνομιλιών";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "Τα στοιχεία του λογαριασμού σου και οι συζητήσεις θα περιλαμβάνονται στην εξαγωγή.\n\nΤα δεδομένα θα σταλθούν στο email που έχεις καταχωρίσει σε ένα αρχείο που μπορείς να κατεβάσεις.\n\nΗ επεξεργασία μπορεί να πάρει αρκετό χρόνο. Θα σε ειδοποιήσουμε όταν ολοκληρωθεί.";
+
+"Could not delete all chats" = "Αδυναμία διαγραφής όλων των συνομιλιών";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "Μπορείς να διαγράψεις τον λογαριασμό σου μόνο εφόσον η σύνδεσή σου πραγματοποιήθηκε μέσα στα 10 τελευταία λεπτά.\n\nΣυνδέσου ξανά και στη συνέχεια έλα ξανά εδώ για να συνεχίσεις.";
+
+"Off" = "Ανενεργή";
+
+"We couldn't load your archived chats" = "Δεν καταφέραμε να φορτώσουμε τις αρχειοθετημένες συνομιλίες σου";
+
+"Error deleting all chats" = "Σφάλμα κατά τη διαγραφή όλων των συνομιλιών";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Οι νέες συνομιλίες σε αυτή τη συσκευή θα αποθηκεύονται στο ιστορικό σου και θα επιτρέπεται η χρήση τους για τη βελτίωση των μοντέλων μας. Οι μη αποθηκευμένες συνομιλίες θα διαγράφονται από τα συστήματά μας εντός 30 ημερών. Αυτή η ρύθμιση δεν συγχρονίζεται σε άλλες συσκευές. [Μάθε περισσότερα](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"We were unable to process your export at this time. Please try again later." = "Δεν καταφέραμε να επεξεργαστούμε την εξαγωγή σου αυτή τη φορά. Προσπάθησε ξανά αργότερα.";
+
+"Today" = "Σήμερα";
+
+"All your chats will be cleared from history. This cannot be undone." = "Όλες σου οι συνομιλίες θα διαγραφούν από το ιστορικό. Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Οι νέες συνομιλίες σε αυτό το πρόγραμμα περιήγησης θα αποθηκεύονται στο ιστορικό σου. Οι μη αποθηκευμένες συνομιλίες θα διαγράφονται από τα συστήματά μας εντός 30 ημερών. Αυτή η ρύθμιση δεν συγχρονίζεται σε άλλα προγράμματα περιήγησης ή συσκευές. [Μάθε περισσότερα](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Delete Account" = "Διαγραφή λογαριασμού";
+
+"Chat History & Training" = "Ιστορικό συνομιλιών και εκπαίδευση";
+
+"Manage workspace" = "Διαχείριση χώρου εργασίας";
+
+"Speech" = "Ομιλία";
+
+"Conversation not found" = "Η συζήτηση δεν βρέθηκε";
+
+"On" = "Ενεργή";
+
+"Your account has been queued for deletion." = "Ο λογαριασμός σου έχει μπει σε ουρά αναμονής για διαγραφή.";
+
+"Could not update the memory setting. Please try again later." = "Αδυναμία ενημέρωσης ρύθμισης μνήμης. Προσπάθησε ξανά αργότερα.";
+
+"Manage Subscriptions" = "Διαχείριση συνδρομών";
+
+"Privacy Policy" = "Πολιτική απορρήτου";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Κοινοποίηση του ήχου από μελλοντικές φωνητικές συνομιλίες για να βελτιώνονται και να εκπαιδεύονται τα μοντέλα μας. Αυτή η επιλογή βελτιώνει την ποιότητα των φωνητικών συνομιλιών για όλους. [Μάθε περισσότερα](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Email" = "Email";
+
+"Main Language" = "Κύρια γλώσσα";
+
+"Haptic Feedback" = "Απτική ανάδραση";
+
+"System" = "Σύστημα";
+
+"No archived chats" = "Δεν υπάρχουν αρχειοθετημένες συνομιλίες";
+
+"Terms of Use" = "Όροι χρήσης";
+
+"Voice" = "Φωνή";
+
+"Data Controls" = "Στοιχεία ελέγχου δεδομένων";
+

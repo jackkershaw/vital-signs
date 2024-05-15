@@ -1,0 +1,170 @@
+"Start speaking" = "เริ่มพูด";
+
+"Unable to send response. Please try again." = "ไม่สามารถส่งคำตอบได้ โปรดลองอีกครั้ง";
+
+"Poor" = "ไม่ดี";
+
+"Good" = "ดี";
+
+"Click to connect" = "คลิกเพื่อเชื่อมต่อ";
+
+"Idle" = "พักชั่วคราว";
+
+"Finish speaking to send" = "หยุดพูดเพื่อส่ง";
+
+"Grace Period for %@s" = "ระยะเวลาผ่อนผัน %@";
+
+"Connected" = "เชื่อมต่อแล้ว";
+
+"Tap to connect" = "แตะเพื่อเชื่อมต่อ";
+
+"%lld." = "%lld.";
+
+"I didn’t like the responses" = "ฉันไม่ชอบคำตอบ";
+
+"Restart" = "รีสตาร์ท";
+
+"Resume listening" = "กลับมาฟังต่อ";
+
+"Go forward 15 seconds" = "ไปข้างหน้า 15 วินาที";
+
+"%lldms" = "%lldms";
+
+"You can change this later." = "คุณสามารถเปลี่ยนแปลงได้ภายหลัง";
+
+"Connecting" = "กำลังเชื่อมต่อ";
+
+"Failed to connect" = "เชื่อมต่อไม่สำเร็จ";
+
+"Thinking" = "กำลังคิด";
+
+"Tap to cancel" = "แตะเพื่อยกเลิก";
+
+"Unknown" = "ไม่รู้จัก";
+
+"Click to cancel" = "คลิกเพื่อยกเลิก";
+
+"Select %@" = "เลือก %@";
+
+"Tap to activate" = "แตะเพื่อเปิดใช้งาน";
+
+"It interrupted me" = "มันขัดจังหวะฉัน";
+
+"Click to activate" = "คลิกเพื่อเปิดใช้งาน";
+
+"Close" = "ปิด";
+
+"Save to Photos" = "บันทึกรูป";
+
+"Audio issues" = "ปัญหาเกี่ยวกับเสียง";
+
+"Connecting." = "กำลังเชื่อมต่อ.";
+
+"Halted" = "หยุด";
+
+"Excellent" = "ยอดเยี่ยม";
+
+"Listening" = "กำลังฟัง";
+
+"Listening intently" = "กำลังฟังอย่างตั้งใจ";
+
+"Voice mode" = "โหมดเสียง";
+
+"Enable microphone access in Settings" = "เปิดการอนุญาตใช้ไมโครโฟนในการตั้งค่า";
+
+"Submit feedback" = "ส่งข้อเสนอแนะ";
+
+"See more information about voice research" = "ดูข้อมูลเพิ่มเติมเกี่ยวกับการศึกษาเรื่องเสียง";
+
+"Tap to dismiss" = "แตะเพื่อเลิก";
+
+"Unable to review action" = "ไม่สามารถพิจารณาการกระทำได้";
+
+"Pause" = "พักชั่วคราว";
+
+"Speak now" = "พูดเลย";
+
+"Voice feedback: give thumbs up" = "ข้อเสนอแนะเกี่ยวกับเสียง: ชอบ";
+
+"Lost" = "หาย";
+
+"Thank you!" = "ขอบคุณ";
+
+"On for training" = "เปิดเพื่อใช้สอน";
+
+"Paused" = "พักแล้ว";
+
+"It misheard me" = "มันฟังฉันผิด";
+
+"Take picture" = "ถ่ายรูป";
+
+"Stop listening" = "หยุดฟัง";
+
+"Flip camera to the rear" = "กลับกล้องไปด้านหลัง";
+
+"Release to send" = "ปล่อยเพื่อส่ง";
+
+"Poor connection" = "การเชื่อมต่อไม่ดี";
+
+"Voice chat ended" = "สิ้นสุดการแชตด้วยเสียงแล้ว";
+
+"Hold for manual control" = "พักเพื่อรอการควบคุมแบบทำเอง";
+
+"Speak to keep active" = "พูดเพื่อให้เกิดความเคลื่อนไหว";
+
+"Flip camera to the front" = "กลับกล้องไปด้านหน้า";
+
+"Speaking" = "กำลังพูด";
+
+"Tap to interrupt" = "แตะเพื่อขัดจังหวะ";
+
+"Open camera" = "เปิดกล้อง";
+
+"Unselect %@" = "ยกเลิกการเลือก %@";
+
+"Connection failed, tap to retry" = "เชื่อมต่อไม่สำเร็จ แตะเพื่อลองอีกครั้ง";
+
+"Play" = "เล่น";
+
+"Voice chat ended after " = "สิ้นสุดการแชตด้วยเสียงหลังจาก";
+
+"•" = "•";
+
+"Select all that apply" = "เลือกทุกข้อที่เกี่ยวข้อง";
+
+"Voice feedback: give thumbs down" = "ข้อเสนอแนะเกี่ยวกับเสียง: ไม่ชอบ";
+
+"Tap to send manually" = "แตะเพื่อส่งด้วยตัวเอง";
+
+"Other" = "อื่นๆ";
+
+"Go backward 15 seconds" = "ย้อนหลังไป 15 วินาที";
+
+"Pick photo" = "เลือกรูป";
+
+"Connecting.." = "กำลังเชื่อมต่อ..";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "คุณเลือกแบ่งปันเสียงจากการแชตด้วยเสียงเพื่อปรับปรุงและสอนโมเดลของเรา ซึ่งรวมถึงเสียงจากไมโครโฟนของคุณขณะที่โมเดลกำลังคิดหรือพูด คุณสามารถหยุดแบ่งปันได้ที่การตั้งค่า";
+
+"Click to interrupt" = "คลิกเพื่อขัดจังหวะ";
+
+"Error: '%@'" = "ข้อผิดพลาด: '%@'";
+
+"Click to send manually" = "คลิกเพื่อส่งด้วยตัวเอง";
+
+"Helping improve voice" = "การช่วยปรับปรุงเสียง";
+
+"What went wrong?" = "เกิดอะไรขึ้น";
+
+"Connect" = "เชื่อมต่อ";
+
+"Unknown error" = "ข้อผิดพลาดที่ไม่รู้จัก";
+
+"Choose a voice" = "เลือกเสียง";
+
+"Connection failed, click to retry" = "เชื่อมต่อไม่สำเร็จ คลิกเพื่อลองอีกครั้ง";
+
+"Learn more" = "เรียนรู้เพิ่มเติม";
+
+"Close camera" = "ปิดกล้อง";
+

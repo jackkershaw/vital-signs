@@ -1,0 +1,114 @@
+"Capabilities" = "기능";
+
+"Remove" = "제거";
+
+"Searching…" = "검색 중...";
+
+"Visibility" = "표시 상태";
+
+"See more" = "더 보기";
+
+"Report" = "신고";
+
+"%@ rating" = "%@ 리뷰";
+
+"Feedback" = "피드백";
+
+"Get Plus to Chat" = "Plus를 이용하고 채팅하세요";
+
+"Thank you for your feedback!" = "피드백을 보내 주셔서 감사합니다!";
+
+"Only me" = "나만";
+
+"By %@" = "작성자: %@";
+
+"Star rating" = "별점 평가";
+
+"Recently Used" = "최근 사용됨";
+
+"Editing Not Available" = "편집할 수 없음";
+
+"Optional private note for creator…" = "작성자용 개인 메모(선택 사항)...";
+
+"Remove GPT" = "GPT 제거";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "별 ^[%lld개 ](inflect: true), 리뷰 %@";
+
+"Tap a star" = "별점을 매겨주세요";
+
+"Are you sure you want to remove this GPT from your recents?" = "최근 기록에서 이 GPT를 제거하시겠습니까?";
+
+"Great" = "아주 좋음";
+
+"Start chat" = "채팅 시작";
+
+"Exceptional!" = "훌륭해요!";
+
+"Loading more" = "더 불러오기";
+
+"Chats: %@" = "채팅: %@";
+
+"Anyone with a link" = "링크가 있는 모든 사람";
+
+"Failed to delete GPT, retry?" = "GPT를 삭제하지 못했습니다. 다시 시도할까요?";
+
+"Conversation starters" = "대화 스타터";
+
+"Include my email" = "내 이메일 포함";
+
+"Failed to remove recent GPT, retry?" = "최근 GPT를 제거하지 못했습니다. 다시 시도할까요?";
+
+"No Recents" = "최근 기록 없음";
+
+"Untitled" = "제목 없음";
+
+"Options" = "옵션";
+
+"Edit" = "편집";
+
+"Explore" = "탐색하기";
+
+"Public" = "공개";
+
+"in **%@**" = "카테고리: **%@**";
+
+"Top Picks" = "인기";
+
+"%@ chats" = "채팅 %@개";
+
+"Add a note" = "메모 달기";
+
+"Include my email **%@**" = "내 이메일 **%@** 포함";
+
+"My GPTs" = "내 GPT";
+
+"Unable to load, retry?" = "로딩할 수 없습니다. 다시 시도하시겠습니까?";
+
+"Are you sure you want to delete this GPT?" = "이 GPT를 삭제하시겠습니까?";
+
+"How would you rate **%@**?" = "**%@**을(를) 어떻게 평가하시나요?";
+
+"Search Public GPTs" = "공개 GPT 검색";
+
+"Good" = "좋음";
+
+"Editing and creating a GPT is only available on web for now." = "현재 편집과 GPT 만들기는 웹에서만 가능합니다.";
+
+"How would you rate this GPT?" = "이 GPT를 어떻게 평가하시나요?";
+
+"No Results Found" = "검색 결과 없음";
+
+"Top Suggestions" = "상위 추천";
+
+"Share" = "공유";
+
+"Okay" = "확인";
+
+"By community builder" = "작성자: 커뮤니티 빌더";
+
+"Start Chat" = "채팅 시작";
+
+"Anyone at %@" = "%@의 모든 사람";
+
+"Bad" = "별로임";
+

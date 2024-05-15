@@ -1,0 +1,96 @@
+"Your email is not yet verified. Please check your email inbox." = "Твоја е-адреса још није верификована. Погледај у пријемном сандучету е-поште.";
+
+"Verify your email" = "Верификуј своју е-адресу";
+
+"There was a problem verifying the code. %@" = "Дошло је до проблема при верификацији кода. %@";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Дошло је до проблема са твојом интернет везом. Покушај поново. (%lld)";
+
+"Continue" = "Настави";
+
+"Please provide a phone number for verification." = "Унеси број телефона за верификацију.";
+
+"Enter the code we just sent to your number ending in **%@" = "Унеси кȏд који смо управо послали на твој број који се завршава са **%@";
+
+"Something went wrong. Sign out and try again." = "Нешто није у реду. Одјави се па покушај поново";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "Не можемо да ти направимо налог због наших [Услова коришћења](https://openai.com/policies/terms-of-use).";
+
+"Tell us about you." = "Реци нам нешто о себи.";
+
+"Verify phone number" = "Верификуј број телефона";
+
+"Verify you're human" = "Верификуј да си људско биће";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "Послали смо е-поруку на %@.\nКликни на линк у њој за прве кораке.";
+
+"error" = "грешка";
+
+"Area code" = "Кȏд области";
+
+"Select your area code" = "Изабери кȏд области";
+
+"Open Mail App" = "Отвори апликацију за пошту";
+
+"Resend email" = "Поново пошаљи е-поруку";
+
+"Select your Birthday" = "Изабери свој датум рођења";
+
+"Sorry, we aren't able to create your account" = "Нажалост, нисмо успели да ти направимо налог";
+
+"There was a problem, please try again. (%@)" = "Дошло је до проблема, покушај поново. (%@)";
+
+"You have made too many attempts. Please try again later." = "Поставио/ла си превелики број захтева. Покушај поново касније.";
+
+"Code" = "Кȏд";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "Преузимање потребних информација није успело. Провери интернет везу и поново покрени апликацију. (%@)";
+
+"Please check your internet connection and retry." = "Провери интернет везу и покушај поново.";
+
+"There was a problem verifying your phone number. %@" = "Дошло је до проблема при верификацији твог броја телефона. %@";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Кликом на „Настави“ потврђујеш да имаш дозволу родитеља или старатеља за коришћење ChatGPT-ја, прихваташ наше [услове](https://openai.com/policies/terms-of-use) и нашу [Политику приватности](https://openai.com/policies/privacy-policy).";
+
+"Birthday" = "Дан рођења";
+
+"Finish creating your OpenAI account" = "Доврши отварање OpenAI налога";
+
+"Please solve this puzzle so we know you're a person." = "Реши ову загонетку да бисмо знали да си особа.";
+
+"Failed to load required information." = "Учитавање потребних информација није успело.";
+
+"There was a problem, please try again." = "Дошло је до проблема, покушај поново.";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Кликом на „Настави“ прихваташ наше [услове](https://openai.com/policies/terms-of-use) и нашу [Политику приватности](https://openai.com/policies/privacy-policy).";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "Нешто није у реду. Поново покрени апликацију или се одјави па покушај поново.";
+
+"First name" = "Име";
+
+"Please choose a valid date for your birthday." = "Одабери важећи датум за свој датум рођења.";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Кликом на „Настави“ потврђујеш да имаш дозволу родитеља или старатеља за коришћење ChatGPT-ја, прихваташ наше [услове](https://openai.com/policies/terms-of-use) и нашу [Политику приватности](https://openai.com/policies/privacy-policy) и њен [додатак за Кореју](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "Помоћ потражи у [водичу за верификацију путем телефона](https://help.openai.com/articles/6613520-phone-verification).";
+
+"Last name" = "Презиме";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Кликом на „Настави“ прихваташ на наше [услове](https://openai.com/policies/terms-of-use) и нашу [Политику приватности](https://openai.com/policies/privacy-policy) и њен [додатак за Кореју](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Email resent!" = "Е-порука је поново послата!";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "Преузимање земаља није било могуће. Провери интернет везу и поново покрени апликацију. %@";
+
+"Resend code" = "Поново пошаљи кȏд";
+
+"Phone number" = "Број телефона";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Нешто није у реду. Налог је већ отворен, али освежавање није успело. Одјави се па се поново пријави.";
+
+"Something went wrong. Please try again." = "Нешто није у реду. Покушај поново.";
+
+"I've verified my email" = "Верификовао/ла сам е-адресу";
+
+"Your account could not be created. Please try again. %@" = "Прављење твог налога није успело. Покушај поново. %@";
+

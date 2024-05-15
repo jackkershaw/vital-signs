@@ -1,0 +1,150 @@
+"Temporary Chat" = "Pansamantalang Chat";
+
+"Ask away" = "Magtanong lang";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "Magdesisyon kung lalabas ang mga bagong chat sa device na ito sa history mo at gagamitin para ma-improve ang mga system namin.";
+
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "Dadalhin ng ChatGPT ang mga natututunan nito sa mga chat, para makapagbigay ito ng mga mas makabuluhang sagot.";
+
+"Introducing\nCustom Instructions" = "Ipinapakilala ang\nmga Custom na Instruksyon";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "Tingnan ang mga voice transcription sa iyong history. Hindi naka-store ang mga audio clip.";
+
+"Keep the conversation going" = "Ipagpatuloy ang pag-uusap";
+
+"Welcome to\nChatGPT" = "Welcome sa\nChatGPT";
+
+"Now you can have spoken conversations with GPTs." = "Ngayon, puwede ka nang magkaroon ng mga pasalitang pag-uusap sa mga GPT.";
+
+"Manage what it remembers" = "I-manage kung ano ang naaalala nito";
+
+"Not in history" = "Wala sa history";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "Magbigay ng konteksto tungkol sa iyong industriya, tungkulin, o mga partikular na proyekto para makakuha ng mga sagot na mas akma sa iyo.";
+
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "Magiging mas kapaki-pakinabang ang ChatGPT habang nakikipag-chat ka, dahil patuloy nitong inaalala ang mga detalye at kagustuhan.";
+
+"Just start talking" = "Magsimulang magsalita lamang";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "Pinapahusay ng mga instruksyon mo ang mga modelo namin. Bisitahin ang aming [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) para alamin ang higit pa kung paano gagamitin ang data mo.";
+
+"Active for new chats" = "Aktibo para sa mga bagong chat";
+
+"Custom Instructions will still be followed if you have them enabled." = "Susundin pa rin ang mga Custom na Instruksyon kung ini-enable mo ang mga ito.";
+
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "I-customize ang mga interaksyon mo sa ChatGPT sa pamamagitan ng pagbibigay ng mga partikular na detalye at alituntunin para sa mga chat mo.";
+
+"Hands-free" = "Hands-free";
+
+"Help improve our models" = "Tumulong na ma-improve ang mga modelo namin";
+
+"Language is auto-detected" = "Awtomatikong nade-detect ang wika";
+
+"Made for use at work" = "Ginawa para gamitin sa trabaho";
+
+"More helpful over time" = "Mas nagiging kapaki-pakinabang sa kalaunan";
+
+"Share" = "Ibahagi";
+
+"No model training" = "Walang pagsasanay ng modelo";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "Puwede kang tumukoy ng gustong wika sa Mga Setting para sa mas tumpak na pag-detect.";
+
+"Now you can have spoken conversations with ChatGPT." = "Ngayon, puwede ka nang magkaroon ng mga pasalitang pag-uusap sa ChatGPT.";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "Ang official app na ito ay libre, isi-sync ang history mo sa mga device, at ihahatid sa iyo ang mga pinakabagong pag-improve sa modelo mula sa OpenAI.";
+
+"Taking steps to protect privacy" = "Gumagawa ng mga hakbang para protektahan ang privacy";
+
+"Chats are saved" = "Naka-save ang mga chat";
+
+"Edit the full image" = "I-edit ang buong larawan";
+
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "Sa tuwing ie-edit mo ang iyong mga custom na instruksyon, magkakabisa ang mga ito sa lahat ng bagong chat na gagawin mo. Hindi maa-update ang mga mas lumang pag-uusap.";
+
+"Don't Share" = "‘Wag Ibahagi";
+
+"By default, chats in this workspace are not used to train our AI models." = "Bilang default, ang mga chat sa workspace na ito ay hindi ginagamit para sanayin ang aming mga modelo ng AI.";
+
+"Refine DALL·E Images" = "I-refine ang mga Larawan ng DALL·E";
+
+"Snap a picture to ask ChatGPT about the world around you." = "Mag-picture para tanungin ang ChatGPT tungkol sa kapaligiran mo.";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "Hindi lalabas sa history mo ang mga pansamantalang chat. Para sa mga layuning pangkaligtasan, maaari kaming magtago ng kopya ng iyong chat nang hanggang 30 araw.";
+
+"You’re in control" = "Ikaw ang may kontrol";
+
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "Ikaw ang may kontrol. Suriin at i-delete ang mga partikular na memory, i-restart mula sa simula, o i-off ang feature sa mga setting.";
+
+"ChatGPT now has memory across chats" = "May memory na ang ChatGPT sa lahat ng chat";
+
+"Tap Select, highlight the area, and describe changes in chat." = "I-tap ang Pumili, i-highlight ang area, at ilarawan ang mga pagbabago sa chat.";
+
+"Help improve voice" = "Tumulong na ma-improve ang boses";
+
+"Welcome to ChatGPT" = "Welcome sa ChatGPT";
+
+"Start with a photo" = "Magsimula gamit ang litrato";
+
+"Picture perfect" = "Picture perfect";
+
+"Select an area of the image to edit" = "Pumili ng area sa larawan na ie-edit";
+
+"Improve voice chats for everyone" = "Ma-improve ang mga voice chat para sa lahat";
+
+"Chat with images" = "Mag-chat na may mga larawan";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "Bagama't may mga safeguard kami, ang ChatGPT ay maaaring magbigay sa iyo ng hindi tumpak na impormasyon. Hindi ito ginawa para magbigay ng payo.";
+
+"Chat without having to look at your screen." = "Makipag-chat nang hindi kinakailangang tumingin sa screen.";
+
+"Check your facts" = "I-check ang iyong mga katotohanan";
+
+"Temporary Chats won’t be used to improve our models." = "Hindi gagamitin ang mga Pansamantalang Chat para ma-improve ang aming mga modelo.";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "Maaaring magbigay ang ChatGPT ng hindi tumpak na impormasyon tungkol sa mga tao, lugar, o katotohanan.";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "Ang ChatGPT ay nakakasagot ng mga tanong, makakatulong sa iyo na matuto, magsulat ng code, makakasama mong mag-brainstorm, at marami pang iba.";
+
+"Follows custom instructions" = "Sinusunod ang mga custom na instruksyon";
+
+"Welcome to the %@ workspace" = "Welcome sa %@ workspace";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "Habang nasa Pansamantalang Chat, ang ChatGPT ay hindi gagamit o gagawa ng mga memory. Susundin pa rin ang mga Custom na Instruksyon kung ini-enable mo ang mga ito.";
+
+"Memory off" = "Naka-off ang memory";
+
+"Learn more" = "Alamin ang higit pa";
+
+"Chats may be reviewed by our AI trainers to improve our systems." = "Maaaring suriin ng mga AI trainer namin ang mga chat para ma-improve ang aming mga system.";
+
+"Tap Edit and describe changes in chat." = "I-tap ang Edit at ilarawan ang mga pagbabago sa chat";
+
+"Don’t share sensitive info" = "‘Wag magbahagi ng sensitibong impormasyon";
+
+"ChatGPT can be inaccurate" = "Puwedeng magkamali ang ChatGPT";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "Para ma-improve ang mga voice chat, maaaring suriin ng team namin ang audio. Gumagawa kami ng mga hakbang para bawasan ang dami ng personal na impormasyon sa audio na ginagamit para sanayin ang aming mga modelo.";
+
+"Continue" = "Magpatuloy";
+
+"Welcome to your company's workspace" = "Welcome sa workspace ng iyong kumpanya";
+
+"Get Started" = "Simulan";
+
+"Chat with voice" = "Mag-chat gamit ang boses";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "Dito magagamit mo ang aming mga pinakabagong modelo, na may mas maraming kakayahan at mas kaunting limitasyon.";
+
+"Choose a voice" = "Pumili ng boses";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Kung ayaw mong magpatuloy, puwede mong ihinto ang pagbabahagi anumang oras sa mga setting.\n\n[Alamin ang Higit Pa](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Control your chat history" = "Kontrolin ang iyong history ng chat";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "Subukang gumamit ng mga larawan para ayusin ang bisikleta mo, gumawa ng recipe, o sumuri ng mga komplikadong graph.";
+
+"Share audio from future voice chats to improve and train our models." = "Magbahagi ng audio mula sa mga voice chat sa hinaharap para ma-improve at sanayin ang mga modelo namin.";
+
+"Built for business" = "Binuo para sa negosyo";
+

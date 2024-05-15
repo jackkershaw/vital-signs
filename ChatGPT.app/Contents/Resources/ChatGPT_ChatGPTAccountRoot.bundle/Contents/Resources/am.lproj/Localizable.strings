@@ -1,0 +1,12 @@
+"Loading account…" = "መለያ በመጫን ላይ...";
+
+"Download the beta build or contact [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W) if you're having issues." = "Download the beta build or contact [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W) if you're having issues.";
+
+"Check your OpenAI e-mail for an invite titled \"OpenAI has invited you to test ChatGPT\" or contact [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A) to be added." = "“OpenAI፣ ChatGPTን እንዲሞክሩ ጋብዞዎታል” የሚል አርእስት ያለው ግብዣ የያዘ የOpenAI ኢሜልዎን ይፈትሹ ወይም ለመታከል [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A)ን ያግኙ።";
+
+"Checking system health…" = "የስርዓቱን ጤንነት በመፈተሽ ላይ...";
+
+"Error loading account information. Please try again later." = "የመለያ መረጃን መጫን ላይ ስህተት። እባክዎ ቆየት ብለው ይሞክሩ።";
+
+"  %@\n\n  OpenAI employees are required to use internal builds to access ChatGPT.\n" = "  %@\n\n  የOpenAI ሰራተኞች ChatGPTን መዳረሻ ለማግኘት ውስጣዊ አሰራሮችን መጠቀም ይጠበቅባቸዋል።\n";
+

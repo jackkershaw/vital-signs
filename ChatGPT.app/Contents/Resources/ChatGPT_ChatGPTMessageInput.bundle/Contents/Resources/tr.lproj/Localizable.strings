@@ -1,0 +1,82 @@
+"You need %@ to continue this chat because this GPT requires it." = "Bu sohbete devam etmek için %@ gerekiyor çünkü bu GPT bunu gerektiriyor.";
+
+"Image upload failed." = "Görüntü karşıya yüklenemedi.";
+
+"Image attachment failed." = "Görüntü eklenemedi.";
+
+"You need %@ to continue this chat because it has images." = "Bu sohbete devam etmek için %@ gerekiyor çünkü sohbette görüntüler var.";
+
+"If you cancel the text conversion you will lose the recording." = "Metin dönüştürmeyi iptal edersen kayıt kaybolacak.";
+
+"Get Plus to Chat" = "Sohbet Etmek için Plus Abonesi Ol";
+
+"Stop Generating" = "Oluşturmayı Durdur";
+
+"This chat uses an older version of your custom instructions" = "Bu sohbet, özel talimatlarının eski bir sürümünü kullanıyor";
+
+"You need %@ to continue this chat because it uses tools." = "Bu sohbete devam etmek için %@ gerekiyor çünkü sohbet araçlar kullanıyor.";
+
+"You've reached your %@ limit." = "%@ limitini doldurdun.";
+
+"Continue Generating" = "Oluşturmaya Devam Et";
+
+"Are you sure?" = "Emin misin?";
+
+"Attach files" = "Dosya ekle";
+
+"Microphone access required" = "Mikrofon erişimi gerekli";
+
+"You need %@ to continue this chat because it has attachments." = "Bu sohbete devam etmek için %@ gerekiyor çünkü sohbette ekler var.";
+
+"Message" = "İleti";
+
+"Remove attachment" = "Eki kaldır";
+
+"Edit selection" = "Seçimi düzenle";
+
+"Attached image" = "Ekli görüntü";
+
+"This chat is currently unavailable" = "Bu sohbet şu anda kullanılamıyor";
+
+"Stop" = "Durdur";
+
+"Failed, retry?" = "Başarısız. Tekrar denensin mi?";
+
+"File upload failed." = "Dosya karşıya yüklenemedi.";
+
+"You need %@ to continue this chat because it uses audio." = "Bu sohbete devam etmek için %@ gerekiyor çünkü sohbet ses kullanıyor.";
+
+"Editing message" = "İleti düzenleniyor";
+
+"Upload File" = "Karşıya Dosya Yükle";
+
+"Edit image" = "Görüntüyü düzenle";
+
+"Dictation" = "Dikte";
+
+"Scroll to bottom" = "Aşağıya kaydır";
+
+"Message ChatGPT" = "ChatGPT’ye İleti Gönder...";
+
+"New Message" = "Yeni İleti";
+
+"Attach photos" = "Fotoğraf ekle";
+
+"Confirm" = "Onayla";
+
+"Replace" = "Değiştir";
+
+"Shows the voice recording interface and begins recording" = "Sesli kayıt arayüzünü gösterir ve kaydı başlatır";
+
+"Fullscreen" = "Tam Ekran";
+
+"Switch to Voice mode" = "Sesli moda geç";
+
+"Send" = "Gönder";
+
+"To continue, you’ll need to replace the current attachment." = "Devam etmek için mevcut eki değiştirmen gerekecek.";
+
+"No connection" = "Bağlantı yok";
+
+"Replace attachment?" = "Ek değiştirilsin mi?";
+

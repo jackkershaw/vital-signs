@@ -1,0 +1,132 @@
+"Searched 1 site" = "1 தளம் தேடப்பட்டது";
+
+"Making a research plan" = "ஒரு ஆராய்ச்சி திட்டத்தை உருவாக்குதல்";
+
+"Error reading documents" = "ஆவணங்களைப் படிப்பதில் பிழை";
+
+"Unsupported content" = "ஆதரிக்கப்படாத உள்ளடக்கம்";
+
+"Stopped researching" = "ஆராய்ச்சி செய்தல் நிறுத்தப்பட்டது";
+
+"Error talking to %@" = "%@ -உடனான தொடர்பாடலில் பிழை";
+
+"Read %@" = "%@ -ஐ படித்தல்";
+
+"Visited the web" = "இணையத்திற்கு வருகை செய்யப்பட்டது";
+
+"Visiting %@" = "%@ வருகை செய்யப்படுகிறது";
+
+"Search failed" = "தேடல் தோல்வியடைந்தது";
+
+"System error" = "அமைப்புப் பிழை";
+
+"Writing prompts…" = "தூண்டிகளை எழுதுதல்…";
+
+"Error analyzing" = "பகுப்பாய்வு செய்வதில் பிழை";
+
+"You declined this action" = "இந்தச் செயலை நிராகரித்துவிட்டீர்கள்";
+
+"Reading documents" = "ஆவணங்களைப் படித்தல்";
+
+"Stopped talking to site" = "தளத்துடன் பேசுவது நிறுத்தப்பட்டது";
+
+"Error reading document" = "ஆவணத்தைப் படிப்பதில் பிழை";
+
+"Are you sure you want to archive this chat?\nYou can view archived chats in Settings" = "இந்த அரட்டையை ஆவணக் காப்பிடுவதில் உறுதியாக இருக்கிறீர்களா?\nகாப்பகப்படுத்தப்பட்ட அரட்டைகளை அமைப்புகளில் பார்க்கலாம்";
+
+"Stopped analyzing" = "பகுப்பாய்வு நிறுத்தப்பட்டது";
+
+"Searching" = "தேடுகிறது";
+
+"Stopped reading document" = "ஆவணத்தைப் படிப்பது நிறுத்தப்பட்டது";
+
+"site" = "தளம்";
+
+"Creating image" = "படத்தை உருவாக்குதல்";
+
+"Creating %lld images…" = " படங்களை %lld உருவாக்குகிறது…";
+
+"Read documents" = "ஆவணங்களைப் படித்தல்";
+
+"Error creating image" = "படத்தை உருவாக்குவதில் பிழை";
+
+"Read document" = "ஆவணத்தைப் படித்தல்";
+
+"Reading document" = "ஆவணத்தைப் படித்தல்";
+
+"Error researching" = "ஆராய்ச்சி செய்வதில் பிழை";
+
+"Searched %lld sites" = " தளங்கள் %lld தேடப்பட்டன";
+
+"Searching “%@”" = "ஐத் தேடுகிறது “%@”";
+
+"Stopped browsing" = "உலாவல் நிறுத்தப்பட்டது";
+
+"Searched %lld sites" = "%lld தளங்கள் தேடப்பட்டன";
+
+"Analyzing" = "பகுப்பாய்வு செய்கிறது";
+
+"Research complete" = "ஆராய்ச்சி முடிந்தது";
+
+"Stopped reading documents" = "ஆவணங்களைப் படிப்பது நிறுத்தப்பட்டது";
+
+"Doing research with Bing" = "Bing -உடன் ஆராய்ச்சிகளை மேற்கொள்ளுதல்";
+
+"Starting action" = "செயலைத் தொடங்குதல்";
+
+"Delete Chat" = "அரட்டையை நீக்கவும்";
+
+"Stopped talking to %@" = "%@ -உடன் பேசுவது நிறுத்தப்பட்டது";
+
+"Search stopped" = "தேடல் நிறுத்தப்பட்டது";
+
+"Talking to %@" = "%@ -உடன் பேசுகிறது";
+
+"Read %lld documents" = "%lld ஆவணங்களைப் படித்தல்";
+
+"Unable to find metadata" = "மெட்டாடேட்டாவைக் கண்டுபிடிக்கமுடியவில்லை";
+
+"Error browsing" = "உலாவுவதில் பிழை";
+
+"Unable to find citation ID" = "மேற்கோள் ID -ஐக் கண்டுபிடிக்க முடியவில்லை";
+
+"Visited %@" = "%@ வருகை செய்யப்பட்டது";
+
+"Error creating images" = "படங்களை உருவாக்குவதில் பிழை";
+
+"Stopped creating image" = "படத்தை உருவாக்குவது நிறுத்தப்பட்டது";
+
+"Visited %lld sites" = "%lld தளங்கள் வருகை செய்யப்பட்டது";
+
+"Browsing %@" = " -ஐ உலாவுதல் %@";
+
+"Stopped" = "நிறுத்தப்பட்டது";
+
+"Invalid citation" = "தவறான மேற்கோள்";
+
+"Creating %lld images…" = "%lld படங்களை உருவாக்குகிறது…";
+
+"Creating 1 image…" = "1 படத்தை உருவாக்குகிறது…";
+
+"Reading %@" = "%@ -ஐப் படித்தல்";
+
+"This can't be undone." = "இதை மாற்ற முடியாது.";
+
+"Browsing %@" = "%@ -ஐ உலாவுதல்";
+
+"Talked to %@" = "%@ -உடன் பேசப்பட்டது";
+
+"Unable to generate URL" = "URL -ஐ உருவாக்க முடியவில்லை";
+
+"Searching “%@”" = "“%@” -ஐத் தேடுகிறது";
+
+"an external site" = "ஒரு வெளிபுறத்தளம்";
+
+"Archive Chat" = "அரட்டையை காப்பகப்படுத்தவும்";
+
+"Any created memories will be retained." = "உருவாக்கப்பட்ட நினைவுகள் தக்க வைக்கப்படும்.";
+
+"Archive" = "காப்பகம்";
+
+"Finished analyzing" = "பகுப்பாய்வு முடிந்தது";
+

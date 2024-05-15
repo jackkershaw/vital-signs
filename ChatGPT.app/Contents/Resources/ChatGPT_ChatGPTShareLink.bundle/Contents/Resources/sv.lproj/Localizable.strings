@@ -1,0 +1,50 @@
+"Share your name" = "Dela ditt namn";
+
+"Share link to chat" = "Dela länk till chatten";
+
+"Update title" = "Uppdatera titel";
+
+"Your custom instructions won’t be shared with viewers." = "Dina anpassade instruktioner delas inte med andra användare.";
+
+"There was an error sharing the conversation. Please try again. %@" = "Det uppstod ett fel när samtalet skulle delas. Försök igen. %@";
+
+"Shared Link Date" = "Datum när länken delades";
+
+"Shared link deleted." = "Den delade länken har raderats.";
+
+"Missing Name" = "Namn saknas";
+
+"Share link" = "Dela länk";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "Du har redan delat en länk till den här chatten. Om du vill inkludera nya meddelanden raderar du länken och delar chatten igen.";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "Är du säker på att du vill radera den delade länken ”%@”? Du kan alltid skapa en ny länk genom att dela den här chatten igen.";
+
+"Recipients won't be able to view images." = "Mottagarna kan inte se bilder.";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "Meddelanden som skickas eller tas emot efter att länken har delats visas inte. Alla som har URL:en kan se den delade chatten.";
+
+"The conversation has no messages." = "Samtalet har inga meddelanden.";
+
+"Delete link" = "Radera länken";
+
+"There was an error preparing the conversation. Please try again. %@" = "Det uppstod ett fel när samtalet skulle förberedas. Försök igen. %@";
+
+"Shared Link Title" = "Titel på delad länk";
+
+"There was an error deleting your shared link." = "Det uppstod ett fel när din delade länk skulle raderas.";
+
+"Options" = "Alternativ";
+
+"Help and FAQ" = "Hjälp och vanliga frågor";
+
+"Title" = "Titel";
+
+"Share anonymously" = "Dela anonymt";
+
+"Shared Link Owner" = "Ägare till delad länk";
+
+"Edit title" = "Redigera titeln";
+
+"The share link is invalid. %@" = "Den delade länken är ogiltig. %@";
+

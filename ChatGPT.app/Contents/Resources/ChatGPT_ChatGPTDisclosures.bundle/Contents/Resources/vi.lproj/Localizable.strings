@@ -1,0 +1,150 @@
+"Choose a voice" = "Chọn một giọng thoại";
+
+"Check your facts" = "Kiểm tra thông tin của bạn";
+
+"Hands-free" = "Rảnh tay";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "Tại đây, bạn có thể sử dụng các mô hình mới nhất có nhiều khả năng hơn và ít giới hạn hơn.";
+
+"Temporary Chat" = "Đoạn Chat Tạm Thời";
+
+"Welcome to ChatGPT" = "Chào mừng đến với ChatGPT";
+
+"Help improve our models" = "Giúp cải thiện mô hình của chúng tôi";
+
+"Keep the conversation going" = "Tiếp tục cuộc trò chuyện";
+
+"Taking steps to protect privacy" = "Thực hiện các bước để bảo vệ quyền riêng tư";
+
+"Picture perfect" = "Đẹp hoàn hảo";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "Quyết định xem các đoạn chat mới trên thiết bị này có xuất hiện trong lịch sử của bạn và được dùng để cải thiện hệ thống của chúng tôi hay không.";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "Cung cấp ngữ cảnh về ngành, vai trò hoặc dự án cụ thể của bạn để có được câu trả lời tốt hơn và phù hợp với bạn.";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "Ứng dụng chính thức này miễn phí, đồng bộ lịch sử của bạn trên các thiết bị và mang đến cho bạn những cải tiến mô hình mới nhất từ OpenAI.";
+
+"Active for new chats" = "Đang hoạt động đối với các đoạn chat mới";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "Bạn có thể chỉ định ngôn ngữ ưu tiên trong Cài đặt để dò tìm chính xác hơn.";
+
+"Follows custom instructions" = "Thực hiện theo hướng dẫn tùy chỉnh";
+
+"Refine DALL·E Images" = "Tinh chỉnh ảnh DALL·E";
+
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "Bất kỳ khi nào bạn chỉnh sửa, hướng dẫn tùy chỉnh sẽ có hiệu lực trong mọi đoạn chat mới mà bạn tạo. Các cuộc trò chuyện cũ hơn sẽ không được cập nhật.";
+
+"Chat with images" = "Trò chuyện bằng ảnh";
+
+"Continue" = "Tiếp tục";
+
+"Custom Instructions will still be followed if you have them enabled." = "Hướng dẫn tùy chỉnh vẫn sẽ được tuân thủ nếu bạn cho phép bật tính năng này.";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Nếu không muốn tiếp tục, bạn có thể ngừng chia sẻ bất kỳ lúc nào trong cài đặt.\n\n[Tìm hiểu thêm](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Start with a photo" = "Bắt đầu với một bức ảnh";
+
+"Temporary Chats won’t be used to improve our models." = "Đoạn Chat Tạm Thời sẽ không được dùng để cải thiện mô hình của chúng tôi.";
+
+"ChatGPT now has memory across chats" = "ChatGPT hiện có bộ nhớ cho các đoạn chat";
+
+"Chat with voice" = "Trò chuyện bằng thoại";
+
+"Help improve voice" = "Giúp cải thiện thoại";
+
+"Select an area of the image to edit" = "Chọn vùng ảnh cần chỉnh sửa";
+
+"Control your chat history" = "Kiểm soát lịch sử đoạn chat của bạn";
+
+"More helpful over time" = "Ngày càng trở nên hữu ích";
+
+"Share" = "Chia sẻ";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "Đoạn Chat Tạm Thời sẽ không xuất hiện trong lịch sử của bạn. Vì mục đích an toàn, chúng tôi có thể giữ bản sao đoạn chat của bạn lên tới 30 ngày.";
+
+"Learn more" = "Tìm hiểu thêm";
+
+"Tap Select, highlight the area, and describe changes in chat." = "Nhấn vào Chọn, đánh dấu vùng và mô tả các thay đổi trong đoạn chat.";
+
+"Ask away" = "Đặt câu hỏi bất kỳ";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "Mặc dù chúng tôi có các biện pháp bảo vệ nhưng ChatGPT có thể cung cấp cho bạn thông tin không chính xác. Phần mềm không được thiết kế để đưa ra lời khuyên.";
+
+"Don’t share sensitive info" = "Không chia sẻ thông tin nhạy cảm";
+
+"Share audio from future voice chats to improve and train our models." = "Chia sẻ âm thanh từ đoạn chat thoại trong tương lai để cải thiện và huấn luyện các mô hình của chúng tôi.";
+
+"Just start talking" = "Bắt đầu nói chuyện nào";
+
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "ChatGPT sẽ sử dụng những gì biết được từ các đoạn chat, từ đó có thể cung cấp những phản hồi phù hợp hơn.";
+
+"By default, chats in this workspace are not used to train our AI models." = "Theo mặc định, các đoạn chat trong không gian làm việc này không được dùng để huấn luyện mô hình AI của chúng tôi.";
+
+"No model training" = "Không huấn luyện mô hình";
+
+"Now you can have spoken conversations with ChatGPT." = "Bây giờ bạn có thể trò chuyện bằng giọng nói với ChatGPT.";
+
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "Bạn nắm quyền kiểm soát. Xem xét và xóa bộ nhớ cụ thể, bắt đầu lại từ đầu hoặc tắt tính năng này trong cài đặt.";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "Để cải thiện đoạn chat thoại, nhóm của chúng tôi có thể xem xét âm thanh. Chúng tôi thực hiện các bước để giảm lượng thông tin cá nhân trong âm thanh được dùng để huấn luyện các mô hình của chúng tôi.";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "ChatGPT có thể cung cấp thông tin không chính xác về con người, địa điểm hoặc sự kiện.";
+
+"Edit the full image" = "Chỉnh sửa ảnh đầy đủ";
+
+"Tap Edit and describe changes in chat." = "Nhấn vào Chỉnh sửa và mô tả các thay đổi trong đoạn chat.";
+
+"Not in history" = "Không có trong lịch sử";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "ChatGPT có thể trả lời các câu hỏi, giúp bạn tìm hiểu, viết mã, cùng nhau tư duy tìm ý tưởng và thực hiện nhiều việc khác.";
+
+"Welcome to your company's workspace" = "Chào mừng đến với không gian làm việc của công ty bạn";
+
+"Chat without having to look at your screen." = "Trò chuyện mà không cần phải nhìn vào màn hình của bạn.";
+
+"Built for business" = "Được xây dựng cho doanh nghiệp";
+
+"Don't Share" = "Không Chia Sẻ";
+
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "Tùy chỉnh tương tác với ChatGPT bằng cách cung cấp thông tin chi tiết và hướng dẫn cụ thể cho đoạn chat của bạn.";
+
+"Chats may be reviewed by our AI trainers to improve our systems." = "Các nhà huấn luyện AI của chúng tôi có thể xem xét các đoạn chat để cải thiện hệ thống của chúng tôi.";
+
+"Improve voice chats for everyone" = "Cải thiện đoạn chat thoại cho mọi người";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "Khi ở trong Trò chuyện tạm thời, ChatGPT sẽ không sử dụng hoặc tạo bộ nhớ. Hướng dẫn tùy chỉnh vẫn sẽ được tuân thủ nếu bạn cho phép bật tính năng này.";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "Hướng dẫn của bạn sẽ làm cho mô hình của chúng tôi tốt hơn. Hãy truy cập [Trung Tâm Trợ Giúp](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) của chúng tôi để tìm hiểu thêm về cách dữ liệu của bạn sẽ được sử dụng.";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "Hãy thử sử dụng ảnh để sửa xe đạp, tạo công thức hoặc phân tích các biểu đồ phức tạp.";
+
+"Welcome to\nChatGPT" = "Chào mừng đến với\nChatGPT";
+
+"Welcome to the %@ workspace" = "Chào mừng đến với không gian làm việc %@";
+
+"Language is auto-detected" = "Ngôn ngữ được dò tìm tự động";
+
+"Memory off" = "Tắt bộ nhớ";
+
+"Introducing\nCustom Instructions" = "Giới Thiệu\nHướng Dẫn Tùy Chỉnh";
+
+"Now you can have spoken conversations with GPTs." = "Bây giờ bạn có thể trò chuyện bằng giọng nói với GPT.";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "Xem bản phiên âm thoại trong lịch sử của bạn. Clip âm thanh không được lưu trữ.";
+
+"Snap a picture to ask ChatGPT about the world around you." = "Chụp ảnh để hỏi ChatGPT về thế giới xung quanh bạn.";
+
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "ChatGPT sẽ trở nên hữu ích hơn khi bạn trò chuyện, liên tục ghi nhớ các chi tiết và ưu tiên.";
+
+"Made for use at work" = "Được tạo ra để sử dụng tại nơi làm việc";
+
+"You’re in control" = "Bạn nắm quyền kiểm soát";
+
+"Chats are saved" = "Đoạn chat đã được lưu";
+
+"Get Started" = "Bắt Đầu";
+
+"ChatGPT can be inaccurate" = "ChatGPT có thể không chính xác";
+
+"Manage what it remembers" = "Quản lý những thông tin ghi nhớ";
+

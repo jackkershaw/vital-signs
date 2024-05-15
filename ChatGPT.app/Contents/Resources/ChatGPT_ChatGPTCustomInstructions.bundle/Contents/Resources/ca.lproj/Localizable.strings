@@ -1,0 +1,52 @@
+"Discard changes" = "Descarta els canvis";
+
+"Error updating state for customizations. Please try again later." = "Error en actualitzar l’estat de les personalitzacions. Torna-ho a provar més endavant.";
+
+"Customize ChatGPT" = "Personalitza ChatGPT";
+
+"Browsing" = "Navegant";
+
+"GPT-4 Capabilities" = "Capacitats de GPT-4";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Les instruccions personalitzades s’aplicaran a tots els xats nous. [Més informació](chat-preferences-disclosures)";
+
+"Enable for new chats" = "Habilita-ho per a xats nous";
+
+"Show tips" = "Mostra els consells";
+
+"Custom Instructions Enabled or Disabled" = "Instruccions personalitzades habilitades o deshabilitades";
+
+"DALL•E" = "DALL•E";
+
+"Keep editing" = "Segueix fent modificacions";
+
+"Code" = "Codi";
+
+"How would you like ChatGPT to respond?" = "Com voldries que ChatGPT respongués?";
+
+"Generate images using DALL•E" = "Genera imatges amb DALL•E";
+
+"Error loading customizations. Please try again later." = "Error en carregar les personalitzacions. Torna-ho a provar més endavant.";
+
+"An unknown error occurred. Please try again later" = "S’ha produït un error desconegut. Torna-ho a provar en un altre moment.";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Què voldries que ChatGPT sabés de tu perquè et proporcionés millors respostes?";
+
+"Choose which tools can be used with GPT-4." = "Tria quines eines es poden utilitzar amb GPT-4.";
+
+"Error saving custom instructions" = "Error en desar les instruccions personalitzades.";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Segur que vols descartar els canvis?\nQualsevol canvi que hagis fet es perdrà de manera permanent.";
+
+"Thought starters" = "Desencadenadors d’idees";
+
+"Save" = "Desa";
+
+"Unsaved changes" = "Canvis sense desar";
+
+"Execute code using Code Interpreter" = "Executa codi mitjançant l’Intèrpret de codi";
+
+"Saving Custom Instructions" = "Desant les instruccions personalitzades";
+
+"Browse the internet to find answers" = "Navega per Internet per trobar respostes";
+

@@ -1,0 +1,170 @@
+"Other" = "其他";
+
+"You can change this later." = "你可以稍後變更此設定。";
+
+"Tap to cancel" = "輕點以取消";
+
+"Voice feedback: give thumbs up" = "語音回饋：表示滿意";
+
+"Connected" = "已連接";
+
+"Click to interrupt" = "點選以中斷";
+
+"Select all that apply" = "選取全部適用的項目";
+
+"Tap to send manually" = "輕點以手動傳送";
+
+"Tap to interrupt" = "輕點以中斷";
+
+"Speaking" = "說話中";
+
+"Learn more" = "了解更多";
+
+"Audio issues" = "音訊問題";
+
+"Listening intently" = "專心聆聽中";
+
+"Excellent" = "極好";
+
+"Idle" = "閒置";
+
+"%lld." = "%lld。";
+
+"Tap to dismiss" = "輕點以關閉";
+
+"Submit feedback" = "提交回饋";
+
+"Helping improve voice" = "協助改善語音品質";
+
+"%lldms" = "%lld 毫秒";
+
+"Good" = "良好";
+
+"Voice mode" = "語音模式";
+
+"Hold for manual control" = "按住以手動控制";
+
+"Lost" = "已遺失";
+
+"Open camera" = "開啟相機";
+
+"Speak to keep active" = "說話以保持運作";
+
+"Restart" = "重啟";
+
+"Unknown" = "未知";
+
+"Tap to connect" = "輕點以連接";
+
+"Poor connection" = "連線品質不佳";
+
+"Speak now" = "請說話";
+
+"Choose a voice" = "選擇聲音";
+
+"Connecting." = "連接中.";
+
+"Play" = "播放";
+
+"Unknown error" = "未知的錯誤";
+
+"Poor" = "不佳";
+
+"Unable to review action" = "無法審查動作";
+
+"Connecting.." = "連接中……";
+
+"Stop listening" = "停止聆聽";
+
+"Voice chat ended" = "語音交談已結束";
+
+"Enable microphone access in Settings" = "在「設定」中啟用麥克風存取權";
+
+"Select %@" = "選取 %@";
+
+"Paused" = "已暫停";
+
+"I didn’t like the responses" = "我不喜歡回應的內容";
+
+"Voice chat ended after " = "語音交談已在下列時間後結束";
+
+"What went wrong?" = "發生了什麼問題？";
+
+"It misheard me" = "它聽錯內容";
+
+"Unable to send response. Please try again." = "無法傳送回應，請再試一次。";
+
+"Connect" = "連接";
+
+"Click to cancel" = "點選以取消";
+
+"Connection failed, tap to retry" = "連線失敗，輕點以重試";
+
+"Connecting" = "連接中";
+
+"Voice feedback: give thumbs down" = "語音回饋：表示不滿意";
+
+"Flip camera to the front" = "翻轉為前置相機";
+
+"It interrupted me" = "它打斷我說話";
+
+"Start speaking" = "開始說話";
+
+"Click to connect" = "點選以連接";
+
+"Go forward 15 seconds" = "前進 15 秒";
+
+"Click to send manually" = "點選以手動傳送";
+
+"On for training" = "已開啟訓練模式";
+
+"Pick photo" = "挑選照片";
+
+"Release to send" = "放開以傳送";
+
+"Listening" = "聆聽中";
+
+"See more information about voice research" = "查看更多語音研究資訊";
+
+"Halted" = "已中止";
+
+"Failed to connect" = "無法連接";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "你選擇分享語音交談中的音訊來改善並訓練我們的模型，這包括模型在思考或說話時透過麥克風所發出的音訊內容。你可以在「設定」中停止分享音訊內容。";
+
+"Error: '%@'" = "錯誤「%@」";
+
+"Finish speaking to send" = "說完後傳送";
+
+"Go backward 15 seconds" = "倒回 15 秒";
+
+"•" = "•";
+
+"Click to activate" = "點選以啟動";
+
+"Resume listening" = "繼續聆聽";
+
+"Tap to activate" = "輕點以啟動";
+
+"Flip camera to the rear" = "翻轉為後置相機";
+
+"Thank you!" = "感謝你！";
+
+"Unselect %@" = "取消選取 %@";
+
+"Save to Photos" = "儲存至相簿";
+
+"Grace Period for %@s" = "寬限期 %@ 秒";
+
+"Take picture" = "拍照";
+
+"Pause" = "暫停";
+
+"Close camera" = "關閉相機";
+
+"Connection failed, click to retry" = "連線失敗，點選以重試";
+
+"Close" = "關閉";
+
+"Thinking" = "思考中";
+

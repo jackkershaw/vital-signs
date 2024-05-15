@@ -1,0 +1,82 @@
+"Attached image" = "Kép csatolva";
+
+"No connection" = "Nincs kapcsolat";
+
+"Replace attachment?" = "Szeretnéd lecserélni a csatolmányt?";
+
+"Shows the voice recording interface and begins recording" = "Megmutatja a hangfelvevő felületet, és elindítja a rögzítést";
+
+"Edit selection" = "Kiválasztás szerkesztése";
+
+"Are you sure?" = "Biztos vagy benne?";
+
+"Image upload failed." = "Nem sikerült feltölteni a képet.";
+
+"Microphone access required" = "Mikrofon-hozzáférés szükséges";
+
+"Stop Generating" = "Generálás leállítása";
+
+"You need %@ to continue this chat because it has attachments." = "A csevegés folytatásához a következőre van szükség, mert csatolmányokat tartalmaz: %@.";
+
+"Switch to Voice mode" = "Váltás Hang módra";
+
+"You need %@ to continue this chat because it uses tools." = "A csevegés folytatásához a következőre van szükség, mert eszközöket használ: %@.";
+
+"Dictation" = "Diktálás";
+
+"This chat uses an older version of your custom instructions" = "Ez a csevegés az egyéni instrukcióknak egy korábbi verzióját használja";
+
+"New Message" = "Új üzenet";
+
+"Fullscreen" = "Teljes képernyő";
+
+"Editing message" = "Üzenet szerkesztése folyamatban";
+
+"Attach files" = "Fájlok csatolása";
+
+"Remove attachment" = "Csatolmány eltávolítása";
+
+"File upload failed." = "Nem sikerült feltölteni a fájlt.";
+
+"Message" = "Üzenet";
+
+"Message ChatGPT" = "Üzenet írása a ChatGPT-nek";
+
+"Scroll to bottom" = "Görgetés az oldal aljára";
+
+"Edit image" = "Kép szerkesztése";
+
+"This chat is currently unavailable" = "A csevegés jelenleg nem áll rendelkezésre";
+
+"You need %@ to continue this chat because it has images." = "A csevegés folytatásához a következőre van szükség, mert képeket tartalmaz: %@.";
+
+"Send" = "Küldés";
+
+"Image attachment failed." = "Nem sikerült csatolni a képet.";
+
+"Stop" = "Leállítás";
+
+"Continue Generating" = "Generálás folytatása";
+
+"Confirm" = "Megerősítés";
+
+"To continue, you’ll need to replace the current attachment." = "A folytatáshoz le kell cserélned a jelenlegi csatolmányt.";
+
+"Get Plus to Chat" = "A csevegéshez fizess elő a Plusra";
+
+"Failed, retry?" = "Nem sikerült. Szeretnél újrapróbálkozni?";
+
+"If you cancel the text conversion you will lose the recording." = "A szöveg konvertálásának megszakításával a felvétel elveszik.";
+
+"Upload File" = "Fájl feltöltése";
+
+"You need %@ to continue this chat because it uses audio." = "A csevegés folytatásához a következőre van szükség, mert hanganyagot használ: %@.";
+
+"You need %@ to continue this chat because this GPT requires it." = "A csevegés folytatásához a következőre van szükség, mert a GPT előírja annak használatát: %@.";
+
+"You've reached your %@ limit." = "Elérted a napi korlátot: %@.";
+
+"Attach photos" = "Fotók csatolása";
+
+"Replace" = "Csere";
+

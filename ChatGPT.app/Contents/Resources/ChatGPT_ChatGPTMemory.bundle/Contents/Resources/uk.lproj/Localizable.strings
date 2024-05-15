@@ -1,0 +1,40 @@
+"As you chat with %@, the details and preferences it remembers will be shown here." = "Під час спілкування із %@ тут відображатимуться запам’ятовані відомості й параметри.";
+
+"Open menu to select which GPT to show memories for" = "Відкрийте меню, щоб вибрати, для яких GPT показувати пам’ять";
+
+"Memory is disabled" = "Пам’ять вимкнено";
+
+"Learn More" = "Докладніше";
+
+"Error loading memories" = "Помилка завантаження пам’яті";
+
+"Clear ChatGPT’s memory" = "Очистити пам’ять ChatGPT";
+
+"Select a GPT" = "Вибрати GPT";
+
+"Are you sure?" = "Ви впевнені?";
+
+"Error loading GPTs" = "Помилка завантаження GPT";
+
+"Turn On" = "Увімкнути";
+
+"Search memories" = "Пошук у пам’яті";
+
+"No memories" = "Пам’яті немає";
+
+"Memory" = "Пам’ять";
+
+"%@'s memories" = "Пам’ять %@";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ забуде всю інформацію, запам’ятовану з ваших чатів. Цю дію неможливо скасувати.";
+
+"Could not reset memory. Please try again later." = "Не вдалося скинути пам’ять. Повторіть спробу пізніше.";
+
+"Clear this GPT's memory" = "Очистити пам’ять цього GPT";
+
+"%@ won't use or create memories" = "%@ не використовуватиме та не створюватиме пам’ять";
+
+"Clear Memory" = "Очистити пам’ять";
+
+"Error deleting memory" = "Помилка видалення пам’яті";
+

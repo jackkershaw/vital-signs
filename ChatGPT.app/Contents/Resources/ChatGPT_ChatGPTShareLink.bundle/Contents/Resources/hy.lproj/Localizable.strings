@@ -1,0 +1,50 @@
+"Edit title" = "Խմբագրել վերնագիրը";
+
+"Shared Link Title" = "Համօգտագործած հղման վերնագիրը";
+
+"Missing Name" = "Անունը նշված չէ";
+
+"Update title" = "Արդիացնել վերնագիրը";
+
+"Your custom instructions won’t be shared with viewers." = "Ձեր հարմարեցրած հրահանգները չեն համօգտագործվի դիտողների հետ։";
+
+"Recipients won't be able to view images." = "Ստացողները չեն կարողանա տեսնել պատկերները։";
+
+"Share anonymously" = "Համօգտագործել անանուն";
+
+"There was an error deleting your shared link." = "Սխալ առաջացավ համօգտագործած հղումը ջնջելիս։";
+
+"Shared Link Owner" = "Համօգտագործած հղման տնօրինողը";
+
+"Help and FAQ" = "Օգնություն և ՀՏՀ";
+
+"Share link to chat" = "Համօգտագործել հղումը զրույցում";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "Համոզվա՞ծ եք, որ ցանկանում եք ջնջել համօգտագործած հղումը՝ «%@»։ Դուք միշտ կարող եք ստեղծել նոր հղում՝ կրկին համօգտագործելով այս զրույցը։";
+
+"Share link" = "Համօգտագործել հղումը";
+
+"Shared link deleted." = "Համօգտագործած հղումը ջնջվել է։";
+
+"There was an error preparing the conversation. Please try again. %@" = "Սխալ առաջացավ զրուցաշարը նախապատրաստելիս։ Նորից փորձեք։ %@";
+
+"Share your name" = "Տրամադրել ձեր անունը";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "Հաղորդագրությունները, որոնք ուղարկում եք կամ ստանում եք հղումը համօգտագործելուց հետո, չեն համօգտագործվի։ Բոլոր անդամները, ովքեր ստացել են URL-ն, կտեսնեն ձեր համօգտագործվող զրույցը։";
+
+"Shared Link Date" = "Համօգտագործած հղման ամսաթիվը";
+
+"Title" = "Վերնագիր";
+
+"The conversation has no messages." = "Զրուցաշարում հաղորդագրություններ չկան։";
+
+"Options" = "Ընտրանքներ";
+
+"There was an error sharing the conversation. Please try again. %@" = "Սխալ առաջացավ զրուցաշարը համօգտագործելիս։ Նորից փորձեք։ %@";
+
+"Delete link" = "Ջնջել հղումը";
+
+"The share link is invalid. %@" = "Համօգտագործման հղումն անվավեր է։ %@";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "Դուք արդեն համօգտագործել եք հղում այս զրույցում։ Եթե ցանկանում եք ներառել նոր հաղորդագրություններ, ջնջեք այս հղումը և կրկին համօգտագործեք զրույցը։";
+

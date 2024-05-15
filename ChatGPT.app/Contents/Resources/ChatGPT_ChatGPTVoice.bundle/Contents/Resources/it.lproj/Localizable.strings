@@ -1,0 +1,170 @@
+"Tap to interrupt" = "Tocca per interrompere";
+
+"Halted" = "Interrotta";
+
+"Learn more" = "Scopri di più";
+
+"Start speaking" = "Inizia a parlare";
+
+"Stop listening" = "Interrompi ascolto";
+
+"What went wrong?" = "Quale problema hai riscontrato?";
+
+"%lld." = "%lld.";
+
+"Select all that apply" = "Seleziona tutte le opzioni interessate";
+
+"Open camera" = "Apri fotocamera";
+
+"On for training" = "Attivo per l'addestramento";
+
+"Take picture" = "Scatta foto";
+
+"Click to interrupt" = "Clicca per interrompere";
+
+"%lldms" = "%lldms";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "Hai scelto di condividere l'audio delle chat vocali per migliorare e addestrare i nostri modelli, incluso l'audio del microfono quando il modello sta elaborando la risposta o sta parlando. Puoi interrompere la condivisione nelle Impostazioni.";
+
+"Good" = "Buono";
+
+"Connection failed, click to retry" = "Connessione non riuscita. Clicca per riprovare";
+
+"Tap to connect" = "Tocca per collegare";
+
+"Thank you!" = "Grazie.";
+
+"Save to Photos" = "Salva nelle foto";
+
+"Unable to send response. Please try again." = "Impossibile inviare la risposta. Riprova.";
+
+"Paused" = "In pausa";
+
+"Voice chat ended after " = "Chat vocale terminata dopo ";
+
+"Connect" = "Collega";
+
+"It interrupted me" = "Mi ha interrotto";
+
+"Restart" = "Riavvia";
+
+"Go forward 15 seconds" = "Vai avanti di 15 secondi";
+
+"Poor connection" = "Connessione scadente";
+
+"Grace Period for %@s" = "Periodo di grazia di %@ s";
+
+"Submit feedback" = "Invia feedback";
+
+"Unknown error" = "Errore sconosciuto";
+
+"It misheard me" = "Non ha capito quello che ho detto";
+
+"Click to connect" = "Clicca per collegare";
+
+"Pick photo" = "Scegli foto";
+
+"Thinking" = "In elaborazione";
+
+"Play" = "Riproduci";
+
+"Lost" = "Persa";
+
+"Close camera" = "Chiudi fotocamera";
+
+"Connecting." = "Connessione in corso.";
+
+"Listening" = "In ascolto";
+
+"Pause" = "Metti in pausa";
+
+"Unable to review action" = "Impossibile controllare l'azione";
+
+"Error: '%@'" = "Errore: “%@”";
+
+"Listening intently" = "In ascolto attento";
+
+"Choose a voice" = "Scegli una voce";
+
+"Voice chat ended" = "Chat vocale terminata";
+
+"Connecting" = "Connessione in corso";
+
+"Close" = "Chiudi";
+
+"Speak now" = "Parla ora";
+
+"Click to send manually" = "Clicca per inviare manualmente";
+
+"Select %@" = "Seleziona %@";
+
+"Go backward 15 seconds" = "Vai indietro di 15 secondi";
+
+"I didn’t like the responses" = "Le risposte non mi sono piaciute";
+
+"Voice feedback: give thumbs up" = "Feedback sulla modalità vocale: mi piace";
+
+"Unselect %@" = "Deseleziona %@";
+
+"Idle" = "Inattività";
+
+"Hold for manual control" = "Tieni premuto per il controllo manuale";
+
+"Flip camera to the rear" = "Passa a fotocamera posteriore";
+
+"Tap to cancel" = "Tocca per annullare";
+
+"Failed to connect" = "Impossibile effettuare la connessione";
+
+"You can change this later." = "Puoi modificare l'impostazione in un secondo momento.";
+
+"Unknown" = "Sconosciuto";
+
+"See more information about voice research" = "Vedi altre informazioni sulla ricerca vocale";
+
+"Tap to send manually" = "Tocca per inviare manualmente";
+
+"Tap to activate" = "Tocca per attivare";
+
+"Voice mode" = "Modalità vocale";
+
+"Tap to dismiss" = "Tocca per ignorare";
+
+"Connected" = "Connessione riuscita";
+
+"Click to cancel" = "Clicca per annullare";
+
+"•" = "•";
+
+"Speak to keep active" = "Parla per mantenere attiva la sessione";
+
+"Audio issues" = "Problemi con l’audio";
+
+"Resume listening" = "Riprendi ascolto";
+
+"Excellent" = "Eccellente";
+
+"Enable microphone access in Settings" = "Abilita l'accesso al microfono nelle Impostazioni";
+
+"Click to activate" = "Clicca per attivare";
+
+"Connection failed, tap to retry" = "Connessione non riuscita. Tocca per riprovare";
+
+"Finish speaking to send" = "Smetti di parlare per inviare";
+
+"Helping improve voice" = "Contributi per migliorare la funzionalità vocale";
+
+"Poor" = "Scadente";
+
+"Release to send" = "Rilascia per inviare";
+
+"Speaking" = "In conversazione";
+
+"Voice feedback: give thumbs down" = "Feedback sulla modalità vocale: non mi piace";
+
+"Other" = "Altro";
+
+"Flip camera to the front" = "Passa a fotocamera frontale";
+
+"Connecting.." = "Connessione in corso..";
+

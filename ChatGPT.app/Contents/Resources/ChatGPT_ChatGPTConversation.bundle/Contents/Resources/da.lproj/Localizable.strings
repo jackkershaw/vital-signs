@@ -1,0 +1,48 @@
+"Upgrade Plan" = "Opgrader plan";
+
+"Temporary Chat" = "Midlertidig chat";
+
+"Keep in Sidebar" = "Behold i sidebjælke";
+
+"Remove From Sidebar" = "Fjern fra sidebjælke";
+
+"ChatGPT" = "ChatGPT";
+
+"Menu" = "Menu";
+
+"See less" = "Se mindre";
+
+"Share" = "Del";
+
+"Memory Off" = "Hukommelse slået fra";
+
+"Archive" = "Arkiver";
+
+"Rename" = "Omdøb";
+
+"Review GPT" = "Bedøm GPT";
+
+"This GPT is no longer available." = "Denne GPT er ikke længere tilgængelig";
+
+"Unable to load GPT." = "Kunne ikke indlæse GPT.";
+
+"Rename Chat" = "Omdøb chat";
+
+"Your workspace owner hasn't approved this GPT" = "Ejeren af dit arbejdsområde har ikke godkendt denne GPT.";
+
+"Title" = "Titel";
+
+"Manage Chat" = "Administrer chat";
+
+"Explore GPTs" = "Udforsk GPT'er";
+
+"Share GPT" = "Del GPT";
+
+"%@ requires memory to be on. Adjust in **settings**." = "%@ kræver, at hukommelse er slået til. Juster i **indstillinger**.";
+
+"No results for **%@**" = "Ingen resultater for **%@**";
+
+"%lld more" = "%lld mere";
+
+"ChatGPT %@" = "ChatGPT %@";
+

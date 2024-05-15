@@ -1,0 +1,84 @@
+"Edit selection" = "แก้ไขการเลือก";
+
+"Confirm" = "ยืนยัน";
+
+"Fullscreen" = "เต็มหน้าจอ";
+
+"Shows the voice recording interface and begins recording" = "แสดงอินเทอร์เฟซการบันทึกเสียงแล้วเริ่มบันทึก";
+
+"Attach photos" = "แนบรูป";
+
+"You've reached your %@ limit." = "คุณใช้%@ ครบจำนวนแล้ว";
+
+"Editing message" = "กำลังแก้ไขข้อความ";
+
+"Replace" = "แทนที่";
+
+"Send" = "ส่ง";
+
+"Switch to Voice mode" = "สลับเป็นโหมดเสียง";
+
+"This chat uses an older version of your custom instructions" = "แชตนี้ใช้คำสั่งแบบกำหนดเองเวอร์ชันเก่าของคุณ";
+
+"Stop" = "หยุด";
+
+"You need %@ to continue this chat because it uses audio." = "คุณต้องใช้ %@ เพื่อดำเนินการต่อเนื่องจากแชตนี้มีการใช้เสียง";
+
+"File upload failed." = "อัปโหลดไฟล์ไม่สำเร็จ";
+
+"Stop Generating" = "เลิกสร้าง";
+
+"Microphone access required" = "ต้องใช้การเข้าถึงไมโครโฟน";
+
+"You need %@ to continue this chat because it has attachments." = "คุณต้องใช้ %@ เพื่อดำเนินการแชตต่อเนื่องจากแชตนี้มีไฟล์แนบ";
+
+"No connection" = "ไม่มีการเชื่อมต่อ";
+
+"You need %@ to continue this chat because it has images." = "คุณต้องใช้ %@ เพื่อดำเนินการต่อเนื่องจากแชตนี้มีภาพ";
+
+"Remove attachment" = "ลบไฟล์แนบ";
+
+"New Message" = "ข้อความใหม่";
+
+"Scroll to bottom" = "เลื่อนลงด้านล่าง";
+
+"Message" = "ข้อความ";
+
+"You need %@ to continue this chat because it uses tools." = "คุณต้องใช้ %@ เพื่อดำเนินการแชตต่อเนื่องจากแชตนี้มีการใช้เครื่องมือ";
+
+"Edit image" = "แก้ไขภาพ";
+
+"Get Plus to Chat" = "รับ Plus เพื่อแชต";
+
+"This chat is currently unavailable" = "แชตนี้ไม่สามารถใช้งานได้ในขณะนี้";
+
+"Continue Generating" = "สร้างต่อไป";
+
+"To continue, you’ll need to replace the current attachment." = "คุณต้องแทนที่ไฟล์แนบปัจจุบันเพื่อดำเนินการต่อ";
+
+"Attached image" = "ภาพที่แนบ";
+
+"Failed, retry?" = "ไม่สำเร็จ จะลองอีกครั้งไหม";
+
+"Message ChatGPT" = "ส่งข้อความถึง ChatGPT";
+
+"Upload File" = "อัปโหลดไฟล์";
+
+"Attach files" = "แนบไฟล์";
+
+"Dictation" = "การเขียนตามคำบอก";
+
+"Image upload failed." = "อัปโหลดรูปภาพไม่สำเร็จ";
+
+"If you cancel the text conversion you will lose the recording." = "หากยกเลิกการแปลงข้อความ คุณจะสูญเสียการบันทึก";
+
+"Replace attachment?" = "จะแทนที่ไฟล์แนบใช่ไหม";
+
+"Are you sure?" = "คุณแน่ใจใช่ไหม";
+
+"Image attachment failed." = "แนบภาพไม่สำเร็จ";
+
+"You need %@ to continue this chat because this GPT requires it." = "คุณต้องใช้ %@ เพื่อดำเนินการต่อเนื่องจาก GPT นี้กำหนดให้ต้องใช้";
+
+"Image upload failed." = "อัปโหลดไฟล์ไม่สำเร็จ";
+

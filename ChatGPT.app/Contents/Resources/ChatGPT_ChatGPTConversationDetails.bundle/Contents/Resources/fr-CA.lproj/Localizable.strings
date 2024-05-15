@@ -1,0 +1,52 @@
+"Report GPT" = "Signaler le GPT";
+
+"Connected Accounts" = "Comptes connectés";
+
+"No actions are available for this GPT" = "Aucune action disponible pour ce GPT";
+
+"Select which websites are allowed to see data from conversations with %@." = "Sélectionnez les sites Web autorisés à accéder aux données des conversations avec %@.";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "Gérer les comptes de tiers auxquels %@ peut accéder.";
+
+"Accounts" = "Comptes";
+
+"Error loading action settings" = "Erreur de chargement des paramètres d’action";
+
+"None" = "Aucun";
+
+"Description" = "Description";
+
+"Ask" = "Demander";
+
+"Capabilities" = "Fonctionnalités";
+
+"Custom instructions" = "Instructions personnalisées";
+
+"This chat uses an older version of your custom instructions." = "Ce clavardage utilise une version précédente de vos instructions personnalisées.";
+
+"Always" = "Toujours";
+
+"No connected accounts are available for this GPT." = "Aucun compte connecté disponible pour ce GPT";
+
+"Error loading connected accounts.\n\n(%@)" = "Erreur de chargement des comptes connectés.\n\n(%@)";
+
+"Privacy Policy" = "Politique de confidentialité";
+
+"Report" = "Signaler";
+
+"Actions" = "Actions";
+
+"Failed to update setting, retry?" = "Échec de mise à jour du paramètre. Réessayer?";
+
+"Report Conversation" = "Signaler la conversation";
+
+"Confirm Logout" = "Confirmer la déconnexion";
+
+"Are you sure you want to log out of %@?" = "Voulez-vous vraiment vous déconnecter de %@?";
+
+"Please try again later.\n\n(%@)" = "Veuillez réessayer plus tard.\n\n(%@)";
+
+"Model Info" = "Info sur le modèle";
+
+"Privacy & Safety" = "Confidentialité et sécurité";
+

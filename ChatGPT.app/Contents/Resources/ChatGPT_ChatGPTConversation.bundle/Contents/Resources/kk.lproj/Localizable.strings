@@ -1,0 +1,48 @@
+"Keep in Sidebar" = "Бүйірлік тақтада сақтау";
+
+"Temporary Chat" = "Уақытша чат";
+
+"ChatGPT" = "ChatGPT";
+
+"%@ requires memory to be on. Adjust in **settings**." = "%@ жадтың қосулы болуын талап етеді. **Параметрлерде** реттеңіз.";
+
+"Menu" = "Мәзір";
+
+"Memory Off" = "Жад өшірулі";
+
+"Unable to load GPT." = "GPT жүктеу мүмкін емес.";
+
+"Share" = "Бөлісу";
+
+"Share GPT" = "GPT бөлісу";
+
+"Archive" = "Мұрағат";
+
+"Explore GPTs" = "GPT-лерді зерттеу";
+
+"Review GPT" = "GPT тексеру";
+
+"%lld more" = "Тағы %lld";
+
+"Manage Chat" = "Чатты басқару";
+
+"This GPT is no longer available." = "Бұл GPT енді қолжетімді емес.";
+
+"No results for **%@**" = "**%@** бойынша нәтижелер табылмады";
+
+"Remove From Sidebar" = "Бүйірлік тақтадан алып тастау";
+
+"Title" = "Тақырып";
+
+"Your workspace owner hasn't approved this GPT" = "Жұмыс кеңістігіңіздің иесі бұл GPT-ді растамады";
+
+"See less" = "Жию";
+
+"Upgrade Plan" = "Жоспарды ауыстыру";
+
+"Rename" = "Атауын өзгерту";
+
+"ChatGPT %@" = "ChatGPT %@";
+
+"Rename Chat" = "Чат атауын өзгерту";
+

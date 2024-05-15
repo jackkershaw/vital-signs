@@ -78,11 +78,16 @@ export default function Post({ post, posts }) {
               category={post.categories.edges}
             />
             <PostBody content={post.content} />
-            <h1 className="text-2xl font-bold font-sans text-red">
-              {post.pdf.pdf.node.sourceUrl |
-                post.pdf.pdf.node.mediaItemUrl |
-                post.pdf.pdf.node.src}
-            </h1>
+            {/* only show if pdf exists on page */}
+            {post.pdf?.pdf?.node?.mediaItemUrl && (
+              <embed
+                className="text-2xl font-bold font-sans text-red -mt-14 pb-10 mx-auto max-w-2xl"
+                src={post.pdf.pdf.node.mediaItemUrl}
+                type="application/pdf"
+                width="50%"
+                height="800px"
+              ></embed>
+            )}
           </article>
           <div className="flex flex-col justify-start lg:grid lg:grid-cols-4 ">
             <h1 className="text-2xl font-bold font-sans">

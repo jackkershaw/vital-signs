@@ -1,0 +1,150 @@
+"Introducing\nCustom Instructions" = "自定义指令\n简介";
+
+"Hands-free" = "解放双手";
+
+"Continue" = "继续";
+
+"Edit the full image" = "编辑完整图片";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "为了改善语音聊天，我们的团队可能会对音频进行审核。我们会采取多项措施，以减少用于训练模型的音频中所包含的个人信息量。";
+
+"Welcome to ChatGPT" = "欢迎使用 ChatGPT";
+
+"Keep the conversation going" = "继续保持对话";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "临时聊天不会显示在历史记录中。出于安全考虑，我们最多可能会将您的聊天副本保留 30 天。";
+
+"Tap Edit and describe changes in chat." = "点按“编辑”并在聊天中描述要进行的修改。";
+
+"Check your facts" = "请核实您的信息";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "如果您不希望继续，可以随时在设置中停止共享。\n\n[了解更多](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Get Started" = "开始使用";
+
+"Chat without having to look at your screen." = "聊天时无需盯着屏幕。";
+
+"Don't Share" = "不要共享";
+
+"Ask away" = "尽管问";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "在这里，您可以使用我们最新的模型，体验更多的功能和更少的限制。";
+
+"Not in history" = "不包含在历史记录中";
+
+"More helpful over time" = "随着时间的推移将更加实用";
+
+"Active for new chats" = "对新聊天有效";
+
+"No model training" = "不会用于模型训练";
+
+"Refine DALL·E Images" = "优化 DALL·E 图片";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "尝试使用照片来修理自行车、制作食谱，或分析复杂的图表。";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "您可以在“设置”中指定首选语言，以提高检测的准确性。";
+
+"Manage what it remembers" = "管理记忆的内容";
+
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "为聊天提供特定的详细信息和指导，从而自定义您与 ChatGPT 的交互。";
+
+"Welcome to\nChatGPT" = "欢迎使用\nChatGPT";
+
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "ChatGPT 会不断记忆细节和偏好，因此会在聊天中变得愈加实用。";
+
+"Chats may be reviewed by our AI trainers to improve our systems." = "我们的 AI 训练师可能会对聊天进行审查，以改进我们的系统。";
+
+"Share audio from future voice chats to improve and train our models." = "共享未来语音聊天的音频，以改进并训练我们的模型。";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "决定此设备上的新聊天是否将显示在历史记录中并用于优化我们的系统。";
+
+"Learn more" = "了解更多";
+
+"Taking steps to protect privacy" = "采取措施保护隐私";
+
+"Don’t share sensitive info" = "请勿共享敏感信息";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "使用临时聊天时，ChatGPT 不会使用或创建记忆。系统仍然会遵循您的自定义指令（如启用）。";
+
+"By default, chats in this workspace are not used to train our AI models." = "默认情况下，此工作空间中的聊天不会被用于训练我们的 AI 模型。";
+
+"Just start talking" = "开始说话即可";
+
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "ChatGPT 将记忆其在各聊天中学习的内容，以便提供更多相关的回复。";
+
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "您无论何时对自定义指令进行的编辑都将在后续创建的所有新聊天中生效。以往的对话不会进行更新。";
+
+"Now you can have spoken conversations with GPTs." = "现在您可以与 GPT 进行口头对话了。";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "尽管我们有一定的保障，ChatGPT 仍可能会提供不准确的信息。此信息并未意在向您提供建议。";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "ChatGPT 可以回答问题，帮助您学习，编写代码，开展头脑风暴以及更多任务。";
+
+"Follows custom instructions" = "遵循自定义指令";
+
+"Select an area of the image to edit" = "选择要编辑的图片区域";
+
+"Language is auto-detected" = "系统会自动检测语言";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "提供有关您的行业、角色或具体项目的背景信息，以获得更适合您的答案。";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "在您的历史记录中查看语音转录。音频片段不会被存储。";
+
+"Help improve voice" = "帮助改善语音";
+
+"Welcome to the %@ workspace" = "欢迎使用“%@”工作空间";
+
+"ChatGPT now has memory across chats" = "ChatGPT 现已推出跨聊天记忆功能";
+
+"Memory off" = "记忆关闭";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "您的指令将有助于优化我们的模型。请访问我们的[帮助中心](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt)，详细了解我们将如何使用您的数据。";
+
+"Improve voice chats for everyone" = "改善所有用户的语音聊天体验";
+
+"Now you can have spoken conversations with ChatGPT." = "现在您可以与 ChatGPT 进行口头对话了。";
+
+"Temporary Chats won’t be used to improve our models." = "我们不会将临时聊天用于改进我们的模型。";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "ChatGPT 可能会提供关于人物、地点或事实的不准确信息。";
+
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "一切尽在您掌握。查看和删除特定记忆，从头开始聊天，或在设置中关闭此功能。";
+
+"Choose a voice" = "选择一种语音";
+
+"Share" = "共享";
+
+"Chat with images" = "使用图片聊天";
+
+"Chat with voice" = "使用语音聊天";
+
+"ChatGPT can be inaccurate" = "ChatGPT 可能不准确";
+
+"Chats are saved" = "聊天已保存";
+
+"Made for use at work" = "在工作中使用";
+
+"Help improve our models" = "帮助优化我们的模型";
+
+"Start with a photo" = "从一张照片开始";
+
+"Snap a picture to ask ChatGPT about the world around you." = "拍张照片，向 ChatGPT 询问关于您周围世界的情况。";
+
+"Built for business" = "专为企业帐户构建";
+
+"Temporary Chat" = "临时聊天";
+
+"Tap Select, highlight the area, and describe changes in chat." = "点按“选择”，突出显示该区域并在聊天中描述要进行的修改。";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "这款免费的官方应用可以跨设备同步历史记录，并为您呈现 OpenAI 的最新模型改进效果。";
+
+"Picture perfect" = "轻松搞定图片";
+
+"Welcome to your company's workspace" = "欢迎使用贵公司的工作空间";
+
+"Control your chat history" = "控制您的聊天历史记录";
+
+"You’re in control" = "一切尽在您掌握";
+
+"Custom Instructions will still be followed if you have them enabled." = "系统仍然会遵循您的自定义指令（如启用）。";
+

@@ -1,0 +1,86 @@
+"Remove attachment" = "Fjern vedlegg";
+
+"Dictation" = "Diktat";
+
+"Are you sure?" = "Er du sikker?";
+
+"Stop" = "Stopp";
+
+"You've reached your %@ limit." = "Du har nådd %@-grensen.";
+
+"Scroll to bottom" = "Bla til bunnen";
+
+"File upload failed." = "Kunne ikke laste opp fil.";
+
+"No connection" = "Ingen forbindelse";
+
+"Switch to Voice mode" = "Bytt til talemodus";
+
+"Get Plus to Chat" = "Få Plus for å chatte";
+
+"Stop Generating" = "Stopp generering";
+
+"Shows the voice recording interface and begins recording" = "Viser grensesnittet for taleopptak og starter opptaket";
+
+"Edit selection" = "Rediger utvalg";
+
+"Attach files" = "Legg ved filer";
+
+"Upload File" = "Last opp fil";
+
+"This chat uses an older version of your custom instructions" = "Denne chatten bruker en eldre versjon av egendefinerte instruksjoner";
+
+"Editing message" = "Redigerer melding";
+
+"No connection" = "Ingen tilkobling";
+
+"If you cancel the text conversion you will lose the recording." = "Hvis du avbryter tekstkonverteringen, vil opptaket gå tapt.";
+
+"Attach photos" = "Legg ved bilder";
+
+"This chat is currently unavailable" = "Denne chatten er for øyeblikket ikke tilgjengelig";
+
+"Confirm" = "Bekreft";
+
+"Fullscreen" = "Fullskjerm";
+
+"Send" = "Send";
+
+"Message" = "Melding";
+
+"Message ChatGPT" = "Melding til ChatGPT";
+
+"New Message" = "Ny melding";
+
+"Attached image" = "Vedlagt bilde";
+
+"Replace attachment?" = "Vil du bytte vedlegg?";
+
+"You need %@ to continue this chat because it has images." = "Du trenger %@ for å fortsette denne chatten fordi den har bilder.";
+
+"Failed, retry?" = "Det oppsto en feil, prøve på nytt?";
+
+"Image upload failed." = "Kunne ikke laste opp bilde.";
+
+"You need %@ to continue this chat because it uses audio." = "Du trenger %@ for å fortsette denne chatten fordi den bruker lyd.";
+
+"To continue, you’ll need to replace the current attachment." = "For å fortsette, må du bytte ut det gjeldende vedlegget.";
+
+"You need %@ to continue this chat because it has attachments." = "Du trenger %@ for å fortsette denne chatten fordi den har vedlegg.";
+
+"Replace" = "Bytt";
+
+"This chat uses an older version of your custom instructions" = "Denne chatten bruker en eldre versjon av de egendefinerte instruksjonene dine";
+
+"You need %@ to continue this chat because it uses tools." = "Du trenger %@ for å fortsette denne chatten fordi den bruker verktøy.";
+
+"Continue Generating" = "Fortsett å generere";
+
+"Image attachment failed." = "Kunne ikke legge ved bilde.";
+
+"Edit image" = "Rediger bilde";
+
+"Microphone access required" = "Tilgang til mikrofon kreves";
+
+"You need %@ to continue this chat because this GPT requires it." = "Du trenger %@ for å fortsette denne chatten fordi denne GPT-en krever det.";
+

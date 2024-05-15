@@ -1,0 +1,170 @@
+"Voice feedback: give thumbs down" = "Гласовне повратне информације: покажи неодобравање";
+
+"Pick photo" = "Изабери фотографију";
+
+"Error: '%@'" = "Грешка: „%@“";
+
+"Tap to cancel" = "Додирни и откажи";
+
+"You can change this later." = "Ово можеш да промениш касније.";
+
+"Connected" = "Повезано";
+
+"What went wrong?" = "Шта није било у реду?";
+
+"Click to activate" = "Кликни и активирај";
+
+"Failed to connect" = "Повезивање није успело";
+
+"Connecting." = "Повезивање.";
+
+"Thinking" = "Размишљање";
+
+"It interrupted me" = "Прекинуо ме је";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "Одлучио/ла си да делиш звук из гласовног ћаскања ради побољшања и обуке наших модела. То обухвата звук из твог микрофона док модел размишља или говори. Дељење можеш да прекинеш у поставкама.";
+
+"Audio issues" = "Проблеми са звуком";
+
+"Voice feedback: give thumbs up" = "Гласовне повратне информације: покажи одобравање";
+
+"%lld." = "%lld.";
+
+"Connecting" = "Повезивање";
+
+"Unselect %@" = "Поништи избор %@";
+
+"Listening" = "Слушање";
+
+"Select %@" = "Изабери %@";
+
+"Thank you!" = "Хвала ти!";
+
+"Close camera" = "Затвори камеру";
+
+"Tap to activate" = "Додирни и активирај";
+
+"Lost" = "Изгубљено";
+
+"Start speaking" = "Почни да говориш";
+
+"Restart" = "Покрени поново";
+
+"Voice chat ended" = "Гласовно ћаскање је завршено";
+
+"Tap to dismiss" = "Додирни и одбаци";
+
+"Pause" = "Паузирај";
+
+"See more information about voice research" = "Погледај још информација о гласовној претрази";
+
+"Poor connection" = "Лош квалитет везе";
+
+"Idle" = "Неактиван";
+
+"Close" = "Затвори";
+
+"Enable microphone access in Settings" = "Омогући приступ микрофону у Поставкама";
+
+"Click to cancel" = "Кликни и откажи";
+
+"I didn’t like the responses" = "Не свиђају ми се одговори";
+
+"Hold for manual control" = "Задржи за ручну контролу";
+
+"Play" = "Пусти";
+
+"On for training" = "Укључено за обуку";
+
+"Open camera" = "Отвори камеру";
+
+"Connection failed, tap to retry" = "Повезивање није успело, додирни и покушај поново";
+
+"Speak now" = "Говори сада";
+
+"Connect" = "Повежи";
+
+"Speaking" = "Говори";
+
+"Speak to keep active" = "Говори и задржи активан статус";
+
+"Finish speaking to send" = "Заврши то што говориш и пошаљи";
+
+"Go forward 15 seconds" = "Пређи 15 секунди напред";
+
+"It misheard me" = "Лоше ме је чуо";
+
+"Choose a voice" = "Одабери глас";
+
+"Good" = "Добар";
+
+"Halted" = "Заустваљен";
+
+"Learn more" = "Сазнај више";
+
+"Excellent" = "Одлично";
+
+"Stop listening" = "Прекини да слушаш";
+
+"Connecting.." = "Повезује се...";
+
+"Flip camera to the rear" = "Пребаци се на задњу камеру";
+
+"Grace Period for %@s" = "Грејс период за %@";
+
+"Voice mode" = "Гласовни режим";
+
+"Save to Photos" = "Сачувај у фотографијама";
+
+"Release to send" = "Отпусти и пошаљи";
+
+"%lldms" = "%lld ms";
+
+"Flip camera to the front" = "Пребаци се на предњу камеру";
+
+"Poor" = "Лош";
+
+"Select all that apply" = "Изабери све што је применљиво";
+
+"Click to connect" = "Кликни и повежи";
+
+"Tap to interrupt" = "Додирни и прекини";
+
+"Unable to review action" = "Прегледање радње није могуће";
+
+"Tap to send manually" = "Додирни и пошаљи ручно";
+
+"Click to interrupt" = "Кликни и прекини";
+
+"Submit feedback" = "Пошаљи повратне информације";
+
+"Helping improve voice" = "Помагање да се побољша глас";
+
+"Unknown error" = "Непозната грешка";
+
+"Take picture" = "Сними слику";
+
+"Go backward 15 seconds" = "Врати се 15 секунди";
+
+"Voice chat ended after " = "Гласовно ћаскање се завршило после ";
+
+"•" = "•";
+
+"Paused" = "Паузирано";
+
+"Unable to send response. Please try again." = "Слање одговора није могуће. Покушај поново.";
+
+"Unknown" = "Непознато";
+
+"Connection failed, click to retry" = "Повезивање није успело – кликни и покушај поново";
+
+"Resume listening" = "Настави да слушаш";
+
+"Click to send manually" = "Кликни и пошаљи ручно";
+
+"Other" = "Друго";
+
+"Listening intently" = "Пажљиво слушање";
+
+"Tap to connect" = "Додирни и повежи се";
+

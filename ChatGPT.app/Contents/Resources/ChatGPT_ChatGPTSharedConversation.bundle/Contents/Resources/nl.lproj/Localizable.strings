@@ -1,0 +1,26 @@
+"Help and FAQ" = "Help en veelgestelde vragen";
+
+"Continue" = "Doorgaan";
+
+"Failed to determine model." = "Bepalen van model is mislukt.";
+
+"Shared conversation" = "Gedeeld gesprek";
+
+"Failed to load shared conversation." = "Laden van gedeeld gesprek is mislukt.";
+
+"Shared Link Title" = "Titel van gedeelde link";
+
+"Menu" = "Menu";
+
+"Shared Link Date" = "Datum van gedeelde link";
+
+"This conversation may reflect the link creator’s custom instructions, which aren’t shared and can meaningfully change how the model responds." = "Dit gesprek kan een weerspiegeling zijn van de aangepaste instructies van de maker van de link. Deze worden niet gedeeld en kunnen de reacties van het model significant wijzigen.";
+
+"Report" = "Rapporteren";
+
+"Shared Link Owner" = "Eigenaar van gedeelde link";
+
+"Shared conversation is invalid." = "Gedeeld gesprek is ongeldig.";
+
+"The shared conversation does not exist." = "Het gedeelde gesprek bestaat niet.";
+

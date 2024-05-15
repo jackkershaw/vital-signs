@@ -1,0 +1,18 @@
+"The response is invalid. Please try again." = "Η απάντηση δεν είναι έγκυρη. Προσπάθησε ξανά.";
+
+"There is a problem with your request. (%lld, %@)" = "Υπάρχει πρόβλημα με το αίτημά σου. (%lld, %@)";
+
+"There is a problem with your account info. Please try signing out then in." = "Υπάρχει πρόβλημα με τα στοιχεία του λογαριασμού σου. Προσπάθησε να αποσυνδεθείς και στη συνέχεια να συνδεθείς.";
+
+"This content may violate our content policy. Please try again with different content." = "Αυτό το περιεχόμενο ενδέχεται να παραβιάζει την πολιτική περιεχομένου μας. Προσπάθησε ξανά με διαφορετικό περιεχόμενο.";
+
+"The server is overloaded. Please try again later." = "Ο διακομιστής είναι υπερφορτωμένος. Προσπάθησε ξανά αργότερα.";
+
+"Unsupported content" = "Μη υποστηριζόμενο περιεχόμενο";
+
+"You've made too many requests. Please try again later. (429, %@)" = "Έκανες πάρα πολλά αιτήματα. Προσπάθησε ξανά αργότερα. (429, %@)";
+
+"System error" = "Σφάλμα συστήματος";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "Ο διακομιστής αντιμετωπίζει προβλήματα. Προσπάθησε ξανά αργότερα. (%lld, %@)";
+

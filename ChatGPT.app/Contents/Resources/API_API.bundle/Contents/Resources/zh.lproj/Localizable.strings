@@ -1,0 +1,18 @@
+"The server is having problems. Please try again later. (%lld, %@)" = "服务器出现问题。请稍后重试。（%lld，%@）";
+
+"This content may violate our content policy. Please try again with different content." = "此内容可能违反了我们的内容政策。请使用其他内容重试。";
+
+"The server is overloaded. Please try again later." = "服务器已过载。请稍后重试。";
+
+"Unsupported content" = "不支持的内容";
+
+"You've made too many requests. Please try again later. (429, %@)" = "您提交的请求过多。请稍后重试。（429，%@）";
+
+"System error" = "系统错误";
+
+"There is a problem with your request. (%lld, %@)" = "您的请求出现问题。（%lld，%@）";
+
+"There is a problem with your account info. Please try signing out then in." = "您的帐户信息存在问题。请尝试注销后重新登录。";
+
+"The response is invalid. Please try again." = "此回复无效。请重试。";
+

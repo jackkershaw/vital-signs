@@ -1,0 +1,124 @@
+"Stopped talking to site" = "S’ha deixat de comunicar amb el lloc";
+
+"Reading %@" = "S’està llegint %@";
+
+"Searched 1 site" = "Cerca feta a 1 lloc";
+
+"Creating %lld images…" = "S’estan creant %lld imatges...";
+
+"Stopped reading documents" = "S’ha aturat la lectura dels documents";
+
+"Search failed" = "Error en la cerca";
+
+"Searching “%@”" = "S’està cercant \"%@\"";
+
+"Doing research with Bing" = "S’està fent recerca amb Bing";
+
+"Error creating image" = "Error en crear la imatge";
+
+"Archive" = "Arxiva";
+
+"Error talking to %@" = "Error en comunicar amb %@";
+
+"You declined this action" = "Has rebutjat aquesta acció";
+
+"Finished analyzing" = "Anàlisi acabada";
+
+"Research complete" = "Recerca completa";
+
+"Read %lld documents" = "Llegeix %lld documents";
+
+"Read documents" = "Documents llegits";
+
+"Search stopped" = "Cerca aturada";
+
+"Stopped reading document" = "S’ha aturat la lectura del document";
+
+"Visited %@" = "Ha visitat %@";
+
+"Analyzing" = "Analitzant";
+
+"Talking to %@" = "S’està comunicant amb %@";
+
+"Searching" = "S’està cercant";
+
+"Visiting %@" = "Està visitant %@";
+
+"Visited the web" = "Ha visitat el web";
+
+"Any created memories will be retained." = "Les memòries creades es conservaran.";
+
+"Are you sure you want to archive this chat?\nYou can view archived chats in Settings" = "Segur que vols arxivar aquest xat?\nPots consultar els xats arxivats a la Configuració.";
+
+"Read document" = "Document llegit";
+
+"Stopped browsing" = "S’ha aturat la navegació";
+
+"Stopped creating image" = "Creació d’imatge aturada";
+
+"Stopped researching" = "S’ha aturat la recerca";
+
+"Unable to generate URL" = "No es pot generar l’URL.";
+
+"Error browsing" = "Error de navegació";
+
+"an external site" = "un lloc extern";
+
+"Invalid citation" = "Citació no vàlida";
+
+"Stopped analyzing" = "Anàlisi aturada";
+
+"This can't be undone." = "Aquesta acció no es pot desfer.";
+
+"Visited %lld sites" = "Ha visitat %lld llocs";
+
+"Creating 1 image…" = "S’està creant 1 imatge...";
+
+"Error researching" = "Error de recerca";
+
+"Writing prompts…" = "S’estan escrivint indicacions...";
+
+"Starting action" = "S’està iniciant l’acció";
+
+"Reading document" = "S’està llegint el document";
+
+"Error reading document" = "Error en llegir el document";
+
+"Talked to %@" = "S’ha comunicat amb %@";
+
+"Searched %lld sites" = "Cerca feta a %lld llocs";
+
+"Stopped" = "S’ha aturat";
+
+"System error" = "Error del sistema";
+
+"Stopped talking to %@" = "S’ha deixat de comunicar amb %@";
+
+"Unable to find citation ID" = "No es pot trobar l’identificador de la citació.";
+
+"Unable to find metadata" = "No es poden trobar les metadades.";
+
+"Error analyzing" = "Error d’anàlisi";
+
+"Read %@" = "Llegeix %@";
+
+"Archive Chat" = "Arxiva el xat";
+
+"Creating image" = "Creant imatge";
+
+"Unsupported content" = "Contingut no admès";
+
+"Delete Chat" = "Suprimeix el xat";
+
+"Reading documents" = "S’estan llegint els documents";
+
+"site" = "lloc";
+
+"Browsing %@" = "Navegant %@";
+
+"Error reading documents" = "Error en llegir els documents";
+
+"Error creating images" = "Error en crear les imatges";
+
+"Making a research plan" = "S’està creant un pla de recerca";
+

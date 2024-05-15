@@ -1,0 +1,96 @@
+"Birthday" = "Születésnap";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "Nem sikerült lekérni a szükséges információkat. Ellenőrizd az internetkapcsolatot, és indítsd újra az appot. (%@)";
+
+"Something went wrong. Please try again." = "Hiba történt. Próbáld újra.";
+
+"Resend code" = "Kód újraküldése";
+
+"Please check your internet connection and retry." = "Ellenőrizd az internetkapcsolatot, és próbáld újra.";
+
+"Phone number" = "Telefonszám";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "Küldtünk egy e-mailt a(z) %@ címre.\nA kezdéshez kattints a benne található linkre.";
+
+"Your account could not be created. Please try again. %@" = "Nem sikerült létrehozni a fiókot. Próbáld újra. %@";
+
+"Please provide a phone number for verification." = "Adj meg egy telefonszámot az igazoláshoz.";
+
+"Code" = "Kód";
+
+"Email resent!" = "E-mail újraküldve";
+
+"Failed to load required information." = "Nem sikerült betölteni a szükséges információt.";
+
+"Please choose a valid date for your birthday." = "Válassz érvényes születési dátumot.";
+
+"Tell us about you." = "Mesélj magadról.";
+
+"Verify you're human" = "Igazold, hogy ember vagy";
+
+"You have made too many attempts. Please try again later." = "Túl sokszor próbálkoztál. Próbáld újra később.";
+
+"Select your area code" = "Válaszd ki a körzetszámot";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "Ha segítségre van szükséged, tekintsd át a [telefonszám-igazolási útmutatót](https://help.openai.com/articles/6613520-phone-verification).";
+
+"Verify your email" = "Igazold az e-mail-címedet";
+
+"There was a problem, please try again." = "Hiba történt. Próbáld újra.";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "Hiba történt. Indítsd újra az appot, vagy jelentkezz ki, és próbáld újra.";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Hiba történt. A fiókot már létrehozták, de nem lehet frissíteni. Jelentkezz ki, majd ismét jelentkezz be.";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "A „Tovább” gombra kattintva elfogadod a [Feltételeinket](https://openai.com/policies/terms-of-use) és az [Adatvédelmi irányelveinket](https://openai.com/policies/privacy-policy), valamint annak [Koreára vonatkozó kiegészítését](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "A „Tovább” gombra kattintva megerősíted, hogy szülőd vagy gondviselőd beleegyezett a ChatGPT általad való használatába, továbbá elfogadod a [Feltételeinket](https://openai.com/policies/terms-of-use) és az [Adatvédelmi irányelveinket](https://openai.com/policies/privacy-policy), valamint annak [Koreára vonatkozó kiegészítését](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"error" = "hiba";
+
+"Area code" = "Körzetszám";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "Nem tudjuk létrehozni a fiókot az [Általános szerződési feltételek](https://openai.com/policies/terms-of-use) miatt.";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "A „Tovább” gombra kattintva elfogadod a [Feltételeinket](https://openai.com/policies/terms-of-use) és az [Adatvédelmi irányelveinket](https://openai.com/policies/privacy-policy).";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Probléma lépett fel az internetkapcsolattal. Próbáld újra. (%lld)";
+
+"Select your Birthday" = "Add meg a születési dátumodat";
+
+"Resend email" = "E-mail újraküldése";
+
+"There was a problem, please try again. (%@)" = "Hiba történt. Próbáld újra. (%@)";
+
+"First name" = "Utónév";
+
+"Verify phone number" = "Igazold a telefonszámodat";
+
+"Enter the code we just sent to your number ending in **%@" = "Add meg a kódot, amit elküldtünk a következőre végződő telefonszámodra: **%@";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "A „Tovább” gombra kattintva megerősíted, hogy szülőd vagy gondviselőd beleegyezett a ChatGPT általad való használatába, valamint elfogadod a [Feltételeinket](https://openai.com/policies/terms-of-use) és az [Adatvédelmi irányelveinket](https://openai.com/policies/privacy-policy).";
+
+"There was a problem verifying the code. %@" = "Hiba történt a kód igazolása közben. %@";
+
+"Continue" = "Tovább";
+
+"Please solve this puzzle so we know you're a person." = "Oldd meg ezt a kirakóst, hogy bizonyítsd, hogy ember vagy.";
+
+"Last name" = "Vezetéknév";
+
+"Finish creating your OpenAI account" = "Fejezd be az OpenAI-fiók létrehozását";
+
+"Something went wrong. Sign out and try again." = "Hiba történt. Jelentkezz ki, és próbáld újra.";
+
+"Sorry, we aren't able to create your account" = "Sajnáljuk, de nem tudjuk létrehozni a fiókodat";
+
+"There was a problem verifying your phone number. %@" = "Hiba történt a telefonszámod igazolása közben. %@";
+
+"Open Mail App" = "E-mail-app megnyitása";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "Nem sikerült lekérni az országokat. Ellenőrizd az internetkapcsolatot, és indítsd újra az appot. %@";
+
+"I've verified my email" = "Igazoltam az e-mail-címemet";
+
+"Your email is not yet verified. Please check your email inbox." = "Még nem igazoltad az e-mail-címedet. Ellenőrizd az e-mail-fiókod beérkező leveleit.";
+

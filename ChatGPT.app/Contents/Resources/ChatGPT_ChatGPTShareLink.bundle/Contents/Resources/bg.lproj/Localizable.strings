@@ -1,0 +1,50 @@
+"Share link to chat" = "Споделете връзка за чат";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "Вече сте споделили връзка към този чат. Ако искате да включите нови съобщения, изтрийте тази връзка и споделете чата отново.";
+
+"Options" = "Опции";
+
+"There was an error deleting your shared link." = "Възникна грешка при изтриването на вашата споделена връзка.";
+
+"Edit title" = "Редактиране на заглавието";
+
+"Shared link deleted." = "Споделената връзка е изтрита.";
+
+"Share anonymously" = "Споделете анонимно";
+
+"Share link" = "Споделете връзка";
+
+"Shared Link Date" = "Дата на споделена връзка";
+
+"Shared Link Title" = "Споделено заглавие на връзката";
+
+"Shared Link Owner" = "Собственик на споделена връзка";
+
+"Missing Name" = "Липсва име";
+
+"Recipients won't be able to view images." = "Получателите няма да могат да преглеждат изображения.";
+
+"The conversation has no messages." = "Разговорът няма съобщения.";
+
+"There was an error preparing the conversation. Please try again. %@" = "Възникна грешка при подготовката на разговора. Моля, опитайте отново. %@";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "Съобщенията, изпратени или получени след споделянето на връзката ви, няма да бъдат споделяни. Всеки с URL ще може да види вашия споделен чат.";
+
+"There was an error sharing the conversation. Please try again. %@" = "Възникна грешка при споделяне на разговора. Моля, опитайте отново. %@";
+
+"The share link is invalid. %@" = "Връзката за споделяне е невалидна. %@";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "Сигурен(на) ли сте, че искате да изтриете споделената връзка „%@“? Винаги можете да създадете нова връзка, като споделите този чат отново.";
+
+"Update title" = "Актуализиране на заглавието";
+
+"Delete link" = "Изтриване на връзката";
+
+"Your custom instructions won’t be shared with viewers." = "Вашите инструкции по ваш избор няма да бъдат споделени със зрителите.";
+
+"Title" = "Заглавие";
+
+"Help and FAQ" = "Помощ и ЧЗВ";
+
+"Share your name" = "Споделете вашето име";
+

@@ -1,0 +1,74 @@
+"Failed, retry?" = "Operațiunea a eșuat. Reîncerci?";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Scris cu cel mai capabil model al nostru, GPT-4, disponibil în ChatGPT Plus";
+
+"Select Text" = "Selectează text";
+
+"Manage memories" = "Gestionează memorii";
+
+"Read Aloud" = "Citește cu voce tare";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT păstrează fișiere doar o perioadă limitată. Începe o conversație nouă sau încarcă un fișier nou pentru a-ți continua conversația.";
+
+"Selection" = "Selecție";
+
+"Deny" = "Interzice";
+
+"Regenerate" = "Regenerează";
+
+"Bad" = "Inadecvat";
+
+"Loading…" = "Se încarcă…";
+
+"\"%@\" cell" = "celula „%@”";
+
+"Memory updated" = "Memorie actualizată";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Acest fișier nu mai este disponibil. Începe o nouă conversație sau încarcă un fișier nou pentru a-ți continua conversația.";
+
+"Continue Generating" = "Continuă generarea";
+
+"Please try again later.%@" = "Încearcă din nou mai târziu.%@";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "Se încarcă ^[%lld atașamente](inflect: true)…";
+
+"Memories updated" = "Memorii actualizate";
+
+"\"%@\" column" = "coloana „%@”";
+
+"Quick Look" = "Vizualizare rapidă";
+
+"Always allow" = "Permite întotdeauna";
+
+"File unavailable" = "Fișier indisponibil";
+
+"Decline" = "Refuză";
+
+"You" = "Tu";
+
+"Edit" = "Editează";
+
+"#%lld row" = "rândul #%lld";
+
+"A GPT" = "Un GPT";
+
+"Analysis" = "Analiză";
+
+"Save File As…" = "Salvează fișierul ca...";
+
+"Your most recent request failed. Please retry!" = "Cea mai recentă solicitare a ta a eșuat. Reîncearcă!";
+
+"Response rating failed." = "Evaluarea răspunsului a eșuat.";
+
+"Stop Generating" = "Oprește generarea";
+
+"Upgraded response" = "Răspuns îmbunătățit";
+
+"Sign in to %@" = "Conectează-te la %@";
+
+"How would you rate this GPT?" = "Cum ai evalua acest GPT?";
+
+"File expired" = "Fișier expirat";
+
+"Change Model" = "Schimbă modelul";
+

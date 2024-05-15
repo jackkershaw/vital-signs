@@ -1,0 +1,24 @@
+"Workspaces" = "مساحات العمل";
+
+"Personal account" = "حساب شخصي";
+
+"Deactivated" = "تم إلغاء التفعيل";
+
+"Your workspace is deactivated" = "تم إلغاء تفعيل مساحة العمل خاصتك";
+
+"Continue" = "متابعة";
+
+"An error occurred. Please try again." = "حدث خطأ. يرجى المحاولة مرة أخرى.";
+
+"Your chat history and settings will not be available." = "لن يكون سجل الدردشة والإعدادات الخاصة بك متاحين.";
+
+"Your team owner has deactivated the workspace." = "ألغى مالك الفريق تفعيل مساحة العمل.";
+
+"This will create your personal workspace automatically, using the Free plan." = "سيؤدي هذا إلى إنشاء مساحة عمل شخصية خاصة بك تلقائيًا باستخدام خطة Free.";
+
+"You will still be able to use ChatGPT with the other workspaces associated with this email address." = "ستستمر في التمكن من استخدام ChatGPT في مساحات العمل الأخرى المرتبطة بعنوان البريد الإلكتروني هذا.";
+
+"Start using ChatGPT for free" = "ابدأ في استخدام ChatGPT مجانًا";
+
+"%@ workspace is deactivated" = "تم إلغاء تفعيل مساحة العمل %@";
+

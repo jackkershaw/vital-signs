@@ -1,0 +1,124 @@
+"Stopped creating image" = "Stoppet oppretting av bilde";
+
+"Search stopped" = "Søk stoppet";
+
+"This can't be undone." = "Dette kan ikke angres.";
+
+"System error" = "Systemfeil";
+
+"Writing prompts…" = "Skriver meldinger …";
+
+"Stopped reading document" = "Stoppet lesing av dokument";
+
+"Creating image" = "Oppretter bilde";
+
+"Read document" = "Les dokument";
+
+"Finished analyzing" = "Analysering fullført";
+
+"Archive Chat" = "Arkiver chat";
+
+"Research complete" = "Research ferdig";
+
+"Creating %lld images…" = "Oppretter %lld bilder ...";
+
+"Making a research plan" = "Lager en plan for research";
+
+"Reading documents" = "Leser dokumenter";
+
+"Delete Chat" = "Slett chat";
+
+"Visited the web" = "Besøkte nettet";
+
+"Invalid citation" = "Ugyldig sitat";
+
+"Read %@" = "Les %@";
+
+"Stopped reading documents" = "Stoppet lesing av dokumenter";
+
+"Archive" = "Arkiver";
+
+"Error analyzing" = "Feil ved analysering";
+
+"Read documents" = "Les dokumenter";
+
+"Starting action" = "Innledende handling";
+
+"Unsupported content" = "Ikke støttet innhold";
+
+"Visited %lld sites" = "Besøkte %lld nettsteder";
+
+"Talked to %@" = "Snakket med %@";
+
+"Error reading documents" = "Feil ved lesing av dokumenter";
+
+"Analyzing" = "Analyserer";
+
+"Visiting %@" = "Besøker %@";
+
+"You declined this action" = "Du avviste denne handlingen";
+
+"Unable to generate URL" = "Kan ikke generere URL";
+
+"Stopped talking to site" = "Sluttet å snakke med nettsted";
+
+"Read %lld documents" = "Les %lld dokumenter";
+
+"Stopped" = "Stoppet";
+
+"Search failed" = "Søk mislyktes";
+
+"Searched 1 site" = "Søkte på 1 nettsted";
+
+"Talking to %@" = "Snakker med %@";
+
+"Error creating images" = "Feil ved oppretting av bilder";
+
+"Stopped analyzing" = "Analysering stoppet";
+
+"Any created memories will be retained." = "Opprettede minner vil bli tatt vare på.";
+
+"Searched %lld sites" = "Søkte på %lld nettsteder";
+
+"Visited %@" = "Besøkte %@";
+
+"Error reading document" = "Feil ved lesing av dokument";
+
+"Error researching" = "Feil under research";
+
+"an external site" = "et eksternt nettsted";
+
+"Error creating image" = "Feil ved oppretting av bilde";
+
+"Are you sure you want to archive this chat?\nYou can view archived chats in Settings" = "Er du sikker på at du vil arkivere denne chatten?\nDu kan se arkiverte chatter i innstillingene.";
+
+"Stopped browsing" = "Stoppet å bla gjennom";
+
+"Reading document" = "Leser dokument";
+
+"Reading %@" = "Leser %@";
+
+"Searching" = "Søker";
+
+"Stopped researching" = "Stoppet research";
+
+"Unable to find citation ID" = "Finner ikke sitat-ID";
+
+"Unable to find metadata" = "Finner ikke metadata";
+
+"Searching “%@”" = "Søker \"%@\"";
+
+"site" = "nettsted";
+
+"Error browsing" = "Kunne ikke bla gjennom";
+
+"Stopped talking to %@" = "Sluttet å snakke med %@";
+
+"Browsing %@" = "Blar gjennom %@";
+
+"Error talking to %@" = "Feil ved samtale med %@";
+
+"Doing research with Bing" = "Gjør research med Bing";
+
+"Creating 1 image…" = "Oppretter 1 bilde ...";
+

@@ -1,0 +1,12 @@
+"Check your OpenAI e-mail for an invite titled \"OpenAI has invited you to test ChatGPT\" or contact [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A) to be added." = "请查看 OpenAI 发送的电子邮件，查找名为“OpenAI 邀请您测试 ChatGPT”的邀请，或联系 [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A) 以请求加入。";
+
+"Download the beta build or contact [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W) if you're having issues." = "下载测试版，或者如果您有疑问，请联系 [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W)。";
+
+"Error loading account information. Please try again later." = "加载帐户信息时出错。请稍后重试。";
+
+"Loading account…" = "正在加载帐户……";
+
+"Checking system health…" = "正在检查系统健康……";
+
+"  %@\n\n  OpenAI employees are required to use internal builds to access ChatGPT.\n" = "  %@\n\n  OpenAI 员工必须使用内部构建来访问 ChatGPT。\n";
+

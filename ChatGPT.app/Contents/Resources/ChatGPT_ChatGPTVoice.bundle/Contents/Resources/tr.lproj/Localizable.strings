@@ -1,0 +1,170 @@
+"Tap to cancel" = "İptal etmek için dokun";
+
+"Audio issues" = "Ses sorunları";
+
+"Idle" = "Aktif değil";
+
+"What went wrong?" = "Sorun neydi?";
+
+"Listening intently" = "Dikkatle dinliyor";
+
+"Speak now" = "Şimdi konuş";
+
+"Flip camera to the rear" = "Arka kameraya geç";
+
+"Release to send" = "Göndermek için bırak";
+
+"%lld." = "%lld.";
+
+"Speaking" = "Konuşuyor";
+
+"Poor" = "Zayıf";
+
+"Tap to send manually" = "Manuel olarak göndermek için dokun";
+
+"Connecting" = "Bağlanıyor";
+
+"Unable to review action" = "Eylem gözden geçirilemedi";
+
+"Grace Period for %@s" = "%@ saniye bekleme süresi";
+
+"Error: '%@'" = "Hata: '%@'";
+
+"Pick photo" = "Fotoğraf seç";
+
+"Click to connect" = "Bağlanmak için tıkla";
+
+"Play" = "Oynat";
+
+"Flip camera to the front" = "Ön kameraya geç";
+
+"Submit feedback" = "Geri bildirim gönder";
+
+"Save to Photos" = "Fotoğraflara Kaydet";
+
+"Finish speaking to send" = "Göndermek için konuşmayı bitir";
+
+"You can change this later." = "Bunu daha sonra değiştirebilirsin.";
+
+"Connect" = "Bağlan";
+
+"Hold for manual control" = "Manuel kontrol için basılı tut";
+
+"Choose a voice" = "Bir ses seç";
+
+"Take picture" = "Resim çek";
+
+"Stop listening" = "Dinlemeyi bırak";
+
+"Pause" = "Duraklat";
+
+"Excellent" = "Mükemmel";
+
+"Halted" = "Durduruldu";
+
+"Unknown error" = "Bilinmeyen hata";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "Modellerimizi iyileştirmek ve eğitmek için sesli sohbetlerde sesini paylaşmayı seçtin. Bu, model düşünürken ya da konuşurken mikrofonundan gelen sesleri içerir. Ayarlardan paylaşmayı durdurabilirsin.";
+
+"Connected" = "Bağlandı";
+
+"Connecting.." = "Bağlanıyor..";
+
+"Select %@" = "Bunu seç: %@ ";
+
+"Connecting." = "Bağlanıyor.";
+
+"Open camera" = "Kamerayı aç";
+
+"Paused" = "Duraklatıldı";
+
+"Poor connection" = "Zayıf bağlantı";
+
+"Go backward 15 seconds" = "15 saniye geriye git";
+
+"Listening" = "Dinliyor";
+
+"Resume listening" = "Dinlemeyi sürdür";
+
+"Tap to interrupt" = "Yarıda kesmek için dokun";
+
+"Good" = "İyi";
+
+"Connection failed, click to retry" = "Bağlantı başarısız, yeniden denemek için tıkla";
+
+"Failed to connect" = "Bağlanılamadı";
+
+"Helping improve voice" = "Ses özelliğini geliştirmeye yardımcı ol";
+
+"Voice chat ended" = "Sesli sohbet bitti";
+
+"Lost" = "Kayboldu";
+
+"It interrupted me" = "Sözümü kesti";
+
+"Voice mode" = "Sesli mod";
+
+"%lldms" = "%lld ms";
+
+"I didn’t like the responses" = "Yanıtları beğenmedim";
+
+"Start speaking" = "Konuşmaya başla";
+
+"Tap to dismiss" = "Reddetmek için dokun";
+
+"Learn more" = "Daha fazlasını öğren";
+
+"Go forward 15 seconds" = "15 saniye ileriye git";
+
+"Unselect %@" = "%@ seçimini kaldır";
+
+"See more information about voice research" = "Ses araştırması hakkında daha fazla bilgi edin";
+
+"Voice feedback: give thumbs down" = "Ses geri bildirimi: kötü not ver";
+
+"Tap to connect" = "Bağlanmak için dokun";
+
+"Select all that apply" = "Geçerli olanların hepsini seç";
+
+"Click to interrupt" = "Yarıda kesmek için tıkla";
+
+"Thinking" = "Düşünüyor";
+
+"Voice feedback: give thumbs up" = "Ses geri bildirimi: iyi not ver";
+
+"Click to activate" = "Etkinleştirmek için tıkla";
+
+"Restart" = "Yeniden Başlat";
+
+"Unknown" = "Bilinmeyen";
+
+"Other" = "Diğer";
+
+"Close camera" = "Kamerayı kapat";
+
+"•" = "•";
+
+"Enable microphone access in Settings" = "Ayarlar’da mikrofon erişimini etkinleştir";
+
+"Tap to activate" = "Etkinleştirmek için dokun";
+
+"It misheard me" = "Beni yanlış duydu";
+
+"Voice chat ended after " = "Sesli sohbet şu kadar sürdü: ";
+
+"Close" = "Kapat";
+
+"Speak to keep active" = "Aktif tutmak için konuş";
+
+"Unable to send response. Please try again." = "Yanıt gönderilemedi. Lütfen yeniden dene.";
+
+"Thank you!" = "Teşekkürler!";
+
+"Click to send manually" = "Manuel olarak göndermek için tıkla";
+
+"On for training" = "Eğitim için hazır";
+
+"Connection failed, tap to retry" = "Bağlantı başarısız, yeniden denemek için dokun";
+
+"Click to cancel" = "İptal etmek için tıkla";
+

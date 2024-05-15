@@ -1,0 +1,74 @@
+"Continue Generating" = "ਬਣਾਉਣਾ ਜਾਰੀ ਰੱਖੋ";
+
+"Failed, retry?" = "ਅਸਫਲ, ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰਨੀ ਹੈ?";
+
+"Stop Generating" = "ਬਣਾਉਣਾ ਬੰਦ ਕਰੋ";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "^[%lld ਜੁੜਤਾਂ](inflect: true) ਅੱਪਲੋਡ ਹੋ ਰਹੀਆਂ ਹਨ…";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "ਸਾਡੇ ਸਭ ਤੋਂ ਯੋਗ ਮਾਡਲ GPT-4 ਨਾਲ ਲਿਖਿਆ ਗਿਆ, ChatGPT ਪਲੱਸ ‘ਤੇ ਉਪਲਬਧ";
+
+"Selection" = "ਚੋਣ";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT ਸਿਰਫ ਸੀਮਤ ਸਮੇਂ ਲਈ ਹੀ ਫਾਈਲਾਂ ਸੰਭਾਲ ਕੇ ਰੱਖਦਾ ਹੈ। ਆਪਣੀ ਗੱਲਬਾਤ ਜਾਰੀ ਰੱਖਣ ਲਈ ਨਵੀਂ ਗੱਲਬਾਤ ਸ਼ੁਰੂ ਕਰੋ ਜਾਂ ਨਵੀਂ ਫਾਈਲ ਅੱਪਲੋਡ ਕਰੋ।";
+
+"A GPT" = "ਇੱਕ GPT";
+
+"Analysis" = "ਵਿਸ਼ਲੇਸ਼ਣ";
+
+"Read Aloud" = "ਉੱਚੀ ਪੜ੍ਹੋ";
+
+"Edit" = "ਸੰਪਾਦਨ";
+
+"Bad" = "ਬੁਰਾ";
+
+"Select Text" = "ਟੈਕਸਟ ਚੁਣੋ";
+
+"File expired" = "ਫਾਈਲ ਦੀ ਮਿਆਦ ਪੁੱਗ ਚੁੱਕੀ ਹੈ";
+
+"Memories updated" = "ਮੈਮੋਰੀਆਂ ਅੱਪਡੇਟ ਕੀਤੀਆਂ ਗਈਆਂ";
+
+"Quick Look" = "ਤੇਜ਼ ਝਾਤ";
+
+"Regenerate" = "ਮੁੜ ਬਣਾਓ";
+
+"Manage memories" = "ਮੈਮੋਰੀਆਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ";
+
+"Response rating failed." = "ਜਵਾਬ ਨੂੰ ਰੇਟਿੰਗ ਦੇਣਾ ਅਸਫਲ ਹੋਇਆ।";
+
+"Upgraded response" = "ਅੱਪਗ੍ਰੇਡ ਕੀਤੇ ਜਵਾਬ";
+
+"Decline" = "ਅਸਵੀਕਾਰ ਕਰੋ";
+
+"Loading…" = "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...";
+
+"#%lld row" = "#%lld ਕਤਾਰ";
+
+"File unavailable" = "ਫਾਈਲ ਉਪਲਬਧ ਨਹੀਂ ਹੈ";
+
+"Always allow" = "ਹਮੇਸ਼ਾ ਲਈ ਮਨਜ਼ੂਰ ਕਰੋ";
+
+"Change Model" = "ਮਾਡਲ ਬਦਲੋ";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "ਇਹ ਫਾਈਲ ਹੁਣ ਉਪਲਬਧ ਨਹੀਂ ਹੈ। ਆਪਣੀ ਗੱਲਬਾਤ ਜਾਰੀ ਰੱਖਣ ਲਈ ਨਵੀਂ ਗੱਲਬਾਤ ਸ਼ੁਰੂ ਕਰੋ ਜਾਂ ਨਵੀਂ ਫਾਈਲ ਅੱਪਲੋਡ ਕਰੋ।";
+
+"\"%@\" cell" = "\"%@\" ਸੈੱਲ";
+
+"Deny" = "ਇਨਕਾਰ ਕਰੋ";
+
+"Sign in to %@" = "%@ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ";
+
+"You" = "ਤੁਸੀਂ";
+
+"Please try again later.%@" = "ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।%@";
+
+"How would you rate this GPT?" = "ਤੁਸੀਂ ਇਸ GPT ਨੂੰ ਕਿਵੇਂ ਰੇਟ ਕਰੋਗੇ?";
+
+"\"%@\" column" = "\"%@\" ਕਾਲਮ";
+
+"Your most recent request failed. Please retry!" = "ਤੁਹਾਡੀ ਸਭ ਤੋਂ ਪਿਛਲੀ ਬੇਨਤੀ ਅਸਫਲ ਹੋ ਗਈ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ!";
+
+"Memory updated" = "ਮੈਮੋਰੀ ਅੱਪਡੇਟ ਕੀਤੀ ਗਈ";
+
+"Save File As…" = "ਫਾਈਲ ਇਸ ਵਜੋਂ ਸੇਵ ਕਰੋ...";
+

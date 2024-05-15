@@ -1,0 +1,18 @@
+"Unsupported content" = "ये कंटेंट सपोर्टेड नहीं है";
+
+"This content may violate our content policy. Please try again with different content." = "ये कंटेंट हमारी कंटेंट पॉलिसी का उल्लंघन कर सकती है। कृपया किसी अलग कंटेंट के साथ दोबारा कोशिश करें।";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "सर्वर में समस्याएँ आ रही है। कृपया बाद में दोबारा कोशिश करें। (%lld, %@)";
+
+"You've made too many requests. Please try again later. (429, %@)" = "आपने बहुत सारे अनुरोध किए हैं। कृपया बाद में दोबारा कोशिश करें। (429, %@)";
+
+"System error" = "सिस्टम एरर";
+
+"The response is invalid. Please try again." = "जवाब गलत है। कृपया दोबारा कोशिश करें।";
+
+"There is a problem with your request. (%lld, %@)" = "आपके अनुरोध में कोई समस्या है। (%lld, %@)";
+
+"The server is overloaded. Please try again later." = "सर्वर ओवरलोड हो गया है। कृपया बाद में दोबारा कोशिश करें।";
+
+"There is a problem with your account info. Please try signing out then in." = "आपकी अकाउंट जानकारी में कोई समस्या है। कृपया पहले साइन आउट करें फ़िर साइन इन करें।";
+

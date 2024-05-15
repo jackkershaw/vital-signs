@@ -1,0 +1,40 @@
+"%@ won't use or create memories" = "%@ သည် အသုံးပြုခြင်း သို့မဟုတ် မမ်မိုရီများကို ဖန်တီးခြင်း မပြုပါ";
+
+"Are you sure?" = "သေချာရဲ့လား။";
+
+"Memory is disabled" = "မမ်မိုရီကို ပိတ်ထားသည်";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ သည် သင့်ချတ်များမှ မှတ်မိထားသော အရာအားလုံးကို မေ့သွားမည်။ ၎င်းကို ပြင်ဆင်၍မရနိုင်ပါ။";
+
+"Clear Memory" = "မမ်မိုရီကို ရှင်းလင်းပါ";
+
+"Memory" = "မမ်မိုရီ";
+
+"Turn On" = "ဖွင့်သည်";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "သင် %@ နှင့် သင်ချတ်သည်နှင့် ၎င်းမှတ်မိသော အသေးစိတ်များနှင့် ဦးစားပေး နှစ်သက်မှုများကို ဤနေရာတွင် ပြပါမည်။";
+
+"Error loading GPTs" = "GPT များကို ဖွင့်ရာတွင် အမှားအယွင်း ရှိသည်။";
+
+"Search memories" = "မမ်မိုရီများကို ရှာဖွေပါ";
+
+"Clear this GPT's memory" = "ဤ GPT၏ မမ်မိုရီကို ရှင်းလင်းပါ။";
+
+"Error loading memories" = "မမ်မိုရီများကို တင်ရာတွင် အမှားအယွင်း ရှိသည်။";
+
+"Error deleting memory" = "မမ်မိုရီကို ဖျက်ရာတွင် အမှားအယွင်း ရှိသည်။";
+
+"Clear ChatGPT’s memory" = "ChatGPT ၏ မမ်မိုရီကို ရှင်းလင်းပါ";
+
+"Could not reset memory. Please try again later." = "မမ်မိုရီကို ပြန်လည် သတ်မှတ်၍မရပါ။ နောက်မှ ပြန်လုပ်ဆောင်ပါ။";
+
+"%@'s memories" = "%@ ၏ မမ်မိုရီများ";
+
+"Open menu to select which GPT to show memories for" = "မမ်မိုရီများကို ပြသရန် မည်သည့် GPT ကိုရွေးချယ်ရန် မီနူးကိုဖွင့်ပါ။";
+
+"Select a GPT" = "GPT ကို ရွေးပါ";
+
+"Learn More" = "ပိုမို သိရှိရန်";
+
+"No memories" = "မမ်မိုရီများ မရှိပါ";
+

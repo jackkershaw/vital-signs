@@ -1,0 +1,20 @@
+"Received an empty response from ChatGPT. Please try again." = "ChatGPT யிடம் இருந்து காலியான பதில் பெறப்பட்டது. மீண்டும் முயற்சி செய்யவும்.";
+
+"Your most recent request failed. Please try again." = "உங்கள் சமீபத்திய கோரிக்கை தோல்வியடைந்தது. மீண்டும் முயற்சி செய்யவும்.";
+
+"You are logged out. Please open the ChatGPT app to log in." = "நீங்கள் வெளியேறிவிட்டீர்கள்.உள்நுழைவதற்கு ChatGPT செயலியைத் திறக்கவும்.";
+
+"Can't determine the right ChatGPT model to use. Please try again." = "பயன்படுத்த சரியான ChatGPT மாதிரியைத் தீர்மானிக்க முடியவில்லை. மீண்டும் முயற்சி செய்யவும்.";
+
+"Did not receive a response from ChatGPT. Please try again." = "ChatGPT யிடம் இருந்து பதில் பெறவில்லை. மீண்டும் முயற்சி செய்யவும்.";
+
+"You are logged out. Please open the ChatGPT app to log in." = "நீங்கள் வெளியேறிவிட்டீர்கள். உள்நுழைவதற்கு ChatGPT செயலியைத் திறக்கவும்.";
+
+"You do not have access to this app yet. You can still use ChatGPT at %@" = "இந்த செயலிக்கான அணுகல் உங்களுக்கு இன்னும் கிடைக்கவில்லை. நீங்கள் இன்னும் ChatGPT -ஐ %@ இல் பயன்படுத்தலாம்.";
+
+"You do not have access to the Desktop app yet. You can still use ChatGPT at %@" = "உங்களிடம் டெஸ்க்டாப் செயலிக்கான அணுகல் இன்னும் கிடைக்கவில்லை. நீங்கள் இன்னும் ChatGPT -ஐ %@ இல் பயன்படுத்தலாம்.";
+
+"You do not have access to this app yet!" = "இந்த செயலிக்கான அணுகல் உங்களுக்கு இன்னும் கிடைக்கவில்லை!";
+
+"You do not have access to this app yet!" = "இந்த செயலிக்காக உங்களுக்கு அணுகல் இன்னும் இல்லை!";
+

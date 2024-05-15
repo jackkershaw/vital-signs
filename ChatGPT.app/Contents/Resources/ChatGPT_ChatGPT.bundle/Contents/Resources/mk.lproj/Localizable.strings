@@ -1,0 +1,16 @@
+"Your most recent request failed. Please try again." = "Твоето последно барање не успеа. Обиди се повторно.";
+
+"Received an empty response from ChatGPT. Please try again." = "Добиен е празен одговор од ChatGPT. Обиди се повторно.";
+
+"Did not receive a response from ChatGPT. Please try again." = "Не е добиен одговор од ChatGPT. Обиди се повторно.";
+
+"You are logged out. Please open the ChatGPT app to log in." = "Одјавен си. Отвори ја апликацијата ChatGPT за да се најавиш.";
+
+"You do not have access to this app yet. You can still use ChatGPT at %@" = "Сè уште немаш пристап до оваа апликација. Сè уште можеш да користиш ChatGPT на %@";
+
+"You do not have access to the Desktop app yet. You can still use ChatGPT at %@" = "Сè уште немаш пристап до апликацијата Desktop. Сè уште можеш да користиш ChatGPT на %@";
+
+"You do not have access to this app yet!" = "Сè уште немаш пристап до оваа апликација!";
+
+"Can't determine the right ChatGPT model to use. Please try again." = "Не може да се одреди вистинскиот модел на ChatGPT за користење. Обиди се повторно.";
+

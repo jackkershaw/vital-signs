@@ -1,0 +1,114 @@
+"Report" = "報告する";
+
+"Chats: %@" = "チャット: %@";
+
+"Editing Not Available" = "編集できません";
+
+"Recently Used" = "最近使用した GPT";
+
+"Search Public GPTs" = "公開 GPT を検索する";
+
+"Bad" = "悪い";
+
+"Star rating" = "星評価";
+
+"Editing and creating a GPT is only available on web for now." = "現在、GPT の編集と作成はウェブでのみ行えます。";
+
+"How would you rate **%@**?" = "**%@** の評価はいかがですか？";
+
+"Start chat" = "チャットを開始する";
+
+"Only me" = "自分だけ";
+
+"Include my email" = "メールを追加する";
+
+"Optional private note for creator…" = "作成者向けのプライベートの注記 (任意)…";
+
+"Remove" = "削除する";
+
+"%@ chats" = "%@ チャット";
+
+"Okay" = "問題なし";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "^[%lld 個の星](inflect: true)、評価 %@";
+
+"By %@" = "作成者: %@";
+
+"Searching…" = "検索しています…";
+
+"Visibility" = "表示";
+
+"How would you rate this GPT?" = "この GPT の評価はいかがですか？";
+
+"%@ rating" = "%@ 評価";
+
+"Top Suggestions" = "上位のおすすめ";
+
+"Conversation starters" = "会話の開始者";
+
+"No Recents" = "最近の一覧なし";
+
+"Options" = "オプション";
+
+"Tap a star" = "星をタップしてください";
+
+"Top Picks" = "厳選";
+
+"Good" = "良い";
+
+"Failed to delete GPT, retry?" = "GPT を削除できませんでした。もう一度実行しますか？";
+
+"Include my email **%@**" = "メール **%@** を追加する";
+
+"Great" = "とても良い";
+
+"Unable to load, retry?" = "読み込めません。もう一度実行しますか？";
+
+"Exceptional!" = "素晴らしい！";
+
+"Explore" = "詳細を見る";
+
+"See more" = "もっと見る";
+
+"Anyone with a link" = "リンクを受け取った人";
+
+"Start Chat" = "チャットを開始する";
+
+"Untitled" = "タイトルなし";
+
+"By community builder" = "コミュニティ ビルダーが作成";
+
+"My GPTs" = "マイ GPT";
+
+"Are you sure you want to remove this GPT from your recents?" = "この GPT を最近の一覧から削除してもよろしいですか？";
+
+"Get Plus to Chat" = "Plus を入手してチャットする";
+
+"Public" = "公開";
+
+"Feedback" = "フィードバック";
+
+"Share" = "共有する";
+
+"Edit" = "編集する";
+
+"Are you sure you want to delete this GPT?" = "この GPT を削除してもよろしいですか？";
+
+"Capabilities" = "機能";
+
+"in **%@**" = "**%@** 内";
+
+"Remove GPT" = "GPT を削除する";
+
+"Failed to remove recent GPT, retry?" = "最近の GPT を削除できませんでした。もう一度実行しますか？";
+
+"Thank you for your feedback!" = "フィードバックをお寄せいただきありがとうございます！";
+
+"Anyone at %@" = "%@ のメンバー";
+
+"Add a note" = "メモを追加する";
+
+"Loading more" = "詳細を読み込んでいます";
+
+"No Results Found" = "結果が見つかりませんでした";
+

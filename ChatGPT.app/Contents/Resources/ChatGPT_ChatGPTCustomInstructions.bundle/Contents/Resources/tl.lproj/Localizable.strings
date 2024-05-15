@@ -1,0 +1,52 @@
+"Unsaved changes" = "Mga hindi naka-save na pagbabago";
+
+"GPT-4 Capabilities" = "Mga Kakayahan ng GPT-4";
+
+"Save" = "I-save";
+
+"Custom Instructions Enabled or Disabled" = "Naka-enable o naka-disable ang mga Custom na Instruksyon";
+
+"DALL•E" = "DALL·E";
+
+"Browsing" = "Nagba-browse";
+
+"Discard changes" = "Balewalain ang mga pagbabago";
+
+"Customize ChatGPT" = "I-customize ang ChatGPT";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Ano ang gusto mong malaman ng ChatGPT tungkol sa iyo para makapagbigay ng mas magagandang sagot?";
+
+"Generate images using DALL•E" = "Mag-generate ng mga larawan gamit ang DALL•E";
+
+"Code" = "Code";
+
+"Error updating state for customizations. Please try again later." = "Nagka-error sa pag-a-update ng estado ng mga customization. Pakisubukan ulit mamaya.";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Ia-apply ang mga custom na instruksyon sa lahat ng bagong chat. [Alamin ang higit pa](chat-preferences-disclosures)";
+
+"Browse the internet to find answers" = "Mag-browse sa internet upang maghanap ng mga sagot";
+
+"How would you like ChatGPT to respond?" = "Paano mo gustong sumagot ang ChatGPT?";
+
+"Choose which tools can be used with GPT-4." = "Pumili kung aling mga tool ang maaaring gamitin sa GPT-4.";
+
+"Saving Custom Instructions" = "Sine-save ang mga Custom na Instruksyon";
+
+"Show tips" = "Ipakita ang mga tip";
+
+"Thought starters" = "Thought starters";
+
+"Enable for new chats" = "I-enable para sa mga bagong chat";
+
+"Keep editing" = "Magpatuloy sa pag-edit";
+
+"Error loading customizations. Please try again later." = "Nagka-error sa paglo-load ng mga customization. Pakisubukan ulit mamaya.";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Sigurado ka bang gusto mong balewalain ang mga pagbabagong ginawa mo?\nMawawala ang anumang pagbabagong ginawa mo.";
+
+"Execute code using Code Interpreter" = "I-execute ang code gamit ang Code Interpreter";
+
+"Error saving custom instructions" = "Nagka-error sa pag-save ng mga custom na instruksyon";
+
+"An unknown error occurred. Please try again later" = "May nangyaring hindi alam na error. Pakisubukan ulit mamaya.";
+

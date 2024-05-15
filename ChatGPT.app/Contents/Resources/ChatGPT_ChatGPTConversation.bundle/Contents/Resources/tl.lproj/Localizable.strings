@@ -1,0 +1,48 @@
+"Temporary Chat" = "Pansamantalang Chat";
+
+"ChatGPT" = "ChatGPT";
+
+"Manage Chat" = "I-manage ang Chat";
+
+"%@ requires memory to be on. Adjust in **settings**." = "Kinakailangan ng %@ na naka-on ang memory. I-adjust sa **mga setting**.";
+
+"%lld more" = "%lld pa";
+
+"Menu" = "Menu";
+
+"This GPT is no longer available." = "Hindi na available ang GPT na ito.";
+
+"Rename Chat" = "I-rename ang Chat";
+
+"Share" = "Ibahagi";
+
+"See less" = "Bawasan ang nakikita";
+
+"Keep in Sidebar" = "Panatilihin sa Sidebar";
+
+"Remove From Sidebar" = "Alisin Mula sa Sidebar";
+
+"Share GPT" = "Ibahagi ang GPT";
+
+"Your workspace owner hasn't approved this GPT" = "Hindi pa inaprubahan ng may-ari ng workspace mo ang GPT na ito";
+
+"No results for **%@**" = "Walang mga resulta para sa **%@**";
+
+"Upgrade Plan" = "I-upgrade ang Plan";
+
+"Title" = "Pamagat";
+
+"Rename" = "I-rename";
+
+"Explore GPTs" = "I-explore ang mga GPT";
+
+"Archive" = "I-archive";
+
+"Memory Off" = "Naka-off ang Memory";
+
+"Unable to load GPT." = "Hindi ma-load ang GPT.";
+
+"Review GPT" = "Suriin ang GPT";
+
+"ChatGPT %@" = "ChatGPT %@";
+

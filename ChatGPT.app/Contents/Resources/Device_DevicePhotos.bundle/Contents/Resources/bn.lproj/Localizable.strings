@@ -1,0 +1,16 @@
+"Failed to Save Image" = "চিত্র সংরক্ষণ করতে ব্যর্থ হয়েছে";
+
+"Please try again later.\n\n(%@)" = "অনুগ্রহ করে পরে আবার চেষ্টা করুন।\n\n(%@)";
+
+"Photos Access Denied" = "ফটোগুলির অ্যাক্সেস অস্বীকার করা হয়েছে";
+
+"Not authorized" = "অনুমোদিত নয়";
+
+"Image conversion failed" = "চিত্র রূপান্তর ব্যর্থ হয়েছে";
+
+"Expected a non-file URL, but received a file URL" = "একটি অ-ফাইল URL প্রত্যাশিত, কিন্তু একটি ফাইল URL পেয়েছে";
+
+"Enable photo library access in Settings to save photos." = "ফটো সংরক্ষণ করতে সেটিংসে ফটো লাইব্রেরি অ্যাক্সেস সক্ষম করুন।";
+
+"Expected a file URL, but received a non-file URL" = "একটি URL ফাইল প্রত্যাশিত, কিন্তু একটি অ-ফাইল URL পেয়েছে";
+

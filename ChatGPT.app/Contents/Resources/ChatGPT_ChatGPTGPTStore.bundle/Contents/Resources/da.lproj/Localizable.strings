@@ -1,0 +1,114 @@
+"Report" = "Indberet";
+
+"How would you rate **%@**?" = "Hvordan vil du bedømme **%@**?";
+
+"Explore" = "Udforsk";
+
+"Are you sure you want to remove this GPT from your recents?" = "Er du sikker på, at du vil fjerne denne GPT fra dine seneste?";
+
+"Unable to load, retry?" = "Kan ikke indlæse, prøv igen?";
+
+"Exceptional!" = "Fremragende!";
+
+"Okay" = "Okay";
+
+"in **%@**" = "i **%@**";
+
+"Anyone with a link" = "Alle med et link";
+
+"By %@" = "Af %@";
+
+"Feedback" = "Feedback";
+
+"No Recents" = "Ingen seneste";
+
+"Remove GPT" = "Fjern GPT";
+
+"Failed to remove recent GPT, retry?" = "Kunne ikke fjerne seneste GPT, prøv igen?";
+
+"%@ chats" = "%@ chats";
+
+"See more" = "Se mere";
+
+"Share" = "Del";
+
+"Start chat" = "Start chat";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "^[%lld stjerner](inflect: true), %@ af bedømmelser";
+
+"Editing Not Available" = "Redigering er ikke tilgængelig";
+
+"Loading more" = "Indlæser mere";
+
+"Visibility" = "Synlighed";
+
+"Add a note" = "Tilføj en note";
+
+"Top Picks" = "Topvalg";
+
+"Failed to delete GPT, retry?" = "Kunne ikke slette GPT, prøv igen?";
+
+"Only me" = "Kun mig";
+
+"Chats: %@" = "Chats: %@";
+
+"Star rating" = "Stjernebedømmelse";
+
+"Bad" = "Dårlig";
+
+"Anyone at %@" = "Alle på %@";
+
+"No Results Found" = "Ingen resultater fundet";
+
+"Are you sure you want to delete this GPT?" = "Er du sikker på, at du vil slette denne GPT?";
+
+"Conversation starters" = "Samtalestartere";
+
+"Recently Used" = "Anvendt for nyligt";
+
+"%@ rating" = "%@ bedømmelse";
+
+"Include my email **%@**" = "Inkluder min e-mail **%@**";
+
+"Public" = "Offentlig";
+
+"Top Suggestions" = "Bedste forslag";
+
+"Capabilities" = "Funktioner";
+
+"How would you rate this GPT?" = "Hvordan vil du bedømme denne GPT?";
+
+"Untitled" = "Uden titel";
+
+"Start Chat" = "Start chat";
+
+"Great" = "Rigtig god!";
+
+"Good" = "God";
+
+"Optional private note for creator…" = "Valgfri privat note til skaberen...";
+
+"Options" = "Valgmuligheder";
+
+"Thank you for your feedback!" = "Tak for din feedback!";
+
+"Tap a star" = "Tryk på en stjerne";
+
+"Remove" = "Fjern";
+
+"Edit" = "Rediger";
+
+"Editing and creating a GPT is only available on web for now." = "Redigering og oprettelse af en GPT er indtil videre kun tilgængeligt på web.";
+
+"Include my email" = "Inkluder min e-mail";
+
+"My GPTs" = "Mine GPT'er";
+
+"Search Public GPTs" = "Søg i offentlige GPT'er";
+
+"Get Plus to Chat" = "Få Plus for at chatte";
+
+"Searching…" = "Søger...";
+
+"By community builder" = "Af community builder";
+

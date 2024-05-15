@@ -1,0 +1,26 @@
+"Failed to load shared conversation." = "გაზიარებული საუბრის ჩატვირთვა ვერ მოხერხდა.";
+
+"Failed to determine model." = "მოდელის დადგენა ვერ მოხერხდა.";
+
+"Continue" = "გაგრძელება";
+
+"This conversation may reflect the link creator’s custom instructions, which aren’t shared and can meaningfully change how the model responds." = "ეს საუბარი, შესაძლოა, შეიცავდეს ბმულის შემქმნელის პერსონალიზებულ ინსტრუქციებს, რომლებიც არ არის თქვენთან გაზიარებული; შედეგად, შესაძლოა, შეიცვალოს მოდელის რეაგირება თქვენს კითხვებზე.";
+
+"Shared Link Owner" = "გაზიარებული ბმულის მფლობელი";
+
+"Shared conversation is invalid." = "გაზიარებული საუბარი არასწორია.";
+
+"Help and FAQ" = "დახმარება და ხშირად დასმული შეკითხვები";
+
+"Shared Link Date" = "გაზიარებული ბმულის თარიღი";
+
+"Report" = "გაფრთხილება";
+
+"Shared conversation" = "გაზიარებული საუბარი";
+
+"Shared Link Title" = "გაზიარებული ბმულის სათაური";
+
+"Menu" = "მენიუ";
+
+"The shared conversation does not exist." = "გაზიარებული საუბარი არ არსებობს.";
+

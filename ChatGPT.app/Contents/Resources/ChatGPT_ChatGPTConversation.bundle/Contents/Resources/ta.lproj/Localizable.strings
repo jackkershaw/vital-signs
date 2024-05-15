@@ -1,0 +1,52 @@
+"%lld more" = "%lld மேலும் ";
+
+"%@ requires memory to be on. Adjust in **settings**." = "%@ செயற்பாட்டுக்கு நினைவகம் அவசியமாகிறது. ** -இலுள்ள** அமைப்புகளில் மாற்றங்கள் செய்க.";
+
+"ChatGPT" = "ChatGPT";
+
+"No results for **%@**" = " க்கு தேடல் முடிவுகள் இல்லை **%@**";
+
+"No results for **%@**" = " க்கு முடிவுகள் இல்லை **%@**";
+
+"Share" = "பகிரவும்";
+
+"Menu" = "பட்டியல்";
+
+"Upgrade Plan" = "திட்டத்தை மேம்படுத்தவும்";
+
+"Remove From Sidebar" = "பக்கப்பட்டியிலிருந்து அகற்றவும்";
+
+"Your workspace owner hasn't approved this GPT" = "உங்கள் பணியிட உரிமையாளர் இந்த GPT -ஐ அங்கீகரிக்கவில்லை.";
+
+"Archive" = "ஆவணக் காப்பிடவும்";
+
+"This GPT is no longer available." = "இந்த GPT இனி கிடைக்காது.";
+
+"Unable to load GPT." = "GPT -ஐ ஏற்ற முடியவில்லை";
+
+"Rename" = "மறுபெயரிடவும்";
+
+"Manage Chat" = "அரட்டைகளை மேலாளுக";
+
+"Temporary Chat" = "தற்காலிக அரட்டை";
+
+"%lld more" = "மேலும் %lld";
+
+"Review GPT" = "GPT -ஐ மீளாய்வு செய்யவும்";
+
+"Explore GPTs" = "GPT -களை ஆராயவும்";
+
+"Share GPT" = "GPT -ஐப் பகிரவும்";
+
+"See less" = "குறைவாக பார்க்கவும்";
+
+"Keep in Sidebar" = "பக்கப்பட்டியில் வைக்கவும்";
+
+"Memory Off" = "நினைவகம் முடக்கப்பட்டுள்ளது";
+
+"Title" = "தலைப்பு";
+
+"Rename Chat" = "அரட்டைக்கு மறுபெயரிடவும்";
+
+"ChatGPT %@" = "ChatGPT %@";
+

@@ -1,0 +1,170 @@
+"Other" = "其他";
+
+"Take picture" = "拍摄照片";
+
+"Unable to review action" = "无法审核操作";
+
+"Pause" = "暂停";
+
+"I didn’t like the responses" = "我不喜欢这个回复";
+
+"Click to activate" = "点击以激活";
+
+"Voice feedback: give thumbs down" = "语音反馈：踩";
+
+"Select all that apply" = "请选择所有适用项";
+
+"Restart" = "重启";
+
+"Excellent" = "超棒";
+
+"Learn more" = "了解更多";
+
+"Go backward 15 seconds" = "回退 15 秒";
+
+"Tap to send manually" = "点按以手动发送";
+
+"Connected" = "已连接";
+
+"%lld." = "%lld。";
+
+"Resume listening" = "恢复倾听";
+
+"Hold for manual control" = "按住以进行手动控制";
+
+"Thank you!" = "感谢！";
+
+"%lldms" = "%lld 毫秒";
+
+"Speaking" = "正在说话";
+
+"Good" = "良好";
+
+"Lost" = "已丢失";
+
+"Voice chat ended" = "语音聊天已结束";
+
+"Close camera" = "关闭相机";
+
+"On for training" = "参与训练";
+
+"Tap to dismiss" = "点按以忽略";
+
+"Select %@" = "选择“%@”";
+
+"Tap to cancel" = "点按以取消";
+
+"Paused" = "已暂停";
+
+"Thinking" = "正在思考";
+
+"Unknown" = "未知";
+
+"Voice mode" = "语音模式";
+
+"Connection failed, click to retry" = "连接失败，点击以重试";
+
+"Helping improve voice" = "帮助改善语音";
+
+"Failed to connect" = "无法连接";
+
+"Go forward 15 seconds" = "前进 15 秒";
+
+"Poor" = "不良";
+
+"Click to interrupt" = "点击以中断";
+
+"Play" = "播放";
+
+"Pick photo" = "选择照片";
+
+"Audio issues" = "音频问题";
+
+"Stop listening" = "停止倾听";
+
+"Open camera" = "打开相机";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "您已选择共享语音聊天中的音频，以帮助改进和训练我们的模型。这包括模型思考或说话时您的麦克风所捕捉到的音频。您可以在设置中停止共享。";
+
+"Unable to send response. Please try again." = "无法发送回复。请重试。";
+
+"Unknown error" = "未知错误";
+
+"Unselect %@" = "取消选中 %@";
+
+"Tap to interrupt" = "点按以中断";
+
+"Connect" = "连接";
+
+"Flip camera to the front" = "翻转为前置摄像头";
+
+"Voice feedback: give thumbs up" = "语音反馈：赞";
+
+"It misheard me" = "它听错了我的话";
+
+"Speak now" = "现在说话";
+
+"Error: '%@'" = "错误：“%@”";
+
+"Voice chat ended after " = "语音聊天结束倒计时";
+
+"Flip camera to the rear" = "翻转为后置摄像头";
+
+"Choose a voice" = "选择一种语音";
+
+"See more information about voice research" = "查看更多关于语音研究的信息";
+
+"Grace Period for %@s" = "宽限期：%@ 秒";
+
+"Listening" = "正在倾听";
+
+"Connecting.." = "正在连接……";
+
+"Submit feedback" = "提交反馈";
+
+"Click to cancel" = "点击以取消";
+
+"Connecting." = "正在连接。";
+
+"Tap to connect" = "点按以连接";
+
+"Start speaking" = "开始说话";
+
+"Connecting" = "正在连接";
+
+"Enable microphone access in Settings" = "在“设置”中启用麦克风访问权限";
+
+"Close" = "关闭";
+
+"•" = "•";
+
+"Connection failed, tap to retry" = "连接失败，点按以重试";
+
+"Click to send manually" = "点击以手动发送";
+
+"Poor connection" = "连接不良";
+
+"Save to Photos" = "保存到“图片”";
+
+"You can change this later." = "您可以稍后进行更改。";
+
+"Halted" = "已停止";
+
+"Finish speaking to send" = "说话完毕后即可发送";
+
+"Click to connect" = "点击以连接";
+
+"Idle" = "空闲";
+
+"Release to send" = "松开以发送";
+
+"Listening intently" = "正在专注倾听";
+
+"Tap to activate" = "点按以激活";
+
+"Speak to keep active" = "说话以使对话保持活跃状态";
+
+"What went wrong?" = "出什么问题了？";
+
+"It interrupted me" = "它打断了我的话";
+

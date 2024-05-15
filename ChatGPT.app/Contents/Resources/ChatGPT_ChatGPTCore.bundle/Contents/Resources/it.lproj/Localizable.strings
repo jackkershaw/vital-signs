@@ -1,0 +1,82 @@
+"Citation" = "Citazione";
+
+"Learns from previous chats to improve future conversations" = "Apprende come migliorare le conversazioni future dalle chat precedenti";
+
+"The builder of this GPT can’t view your chats" = "Il configuratore di questo GPT non può visualizzare le tue chat";
+
+"Untitled" = "Senza titolo";
+
+"community builder" = "creatore della community";
+
+"ChatGPT" = "ChatGPT";
+
+"By community builder" = "Del creatore della community";
+
+"Contents may violate our content policy" = "I contenuti potrebbero violare la nostra politica sui contenuti";
+
+"This chat won't appear in history or be used to train our models. For safety purposes, we may keep a copy of this chat for up to 30 days." = "Questa chat non sarà visibile nella cronologia e non verrà usata per addestrare i nostri modelli. Per ragioni di sicurezza, potremmo conservarne una copia per un massimo di 30 giorni.";
+
+"Unsupported content" = "Contenuto non supportato";
+
+"Memory" = "Memoria";
+
+"GitHub" = "GitHub";
+
+"Data Analysis" = "Analisi dati";
+
+"Browsing" = "Navigazione su web";
+
+"Copy Link" = "Copia link";
+
+"Your limit resets in %lld minutes" = "Your limit resets in %lld minutes";
+
+"Failed to load citation" = "Impossibile caricare la citazione";
+
+"Open Link" = "Apri link";
+
+"Your limit resets tomorrow at %@" = "Your limit resets tomorrow at %@";
+
+"Any data shared with a third party through GPT actions are subject to the third party's privacy policy. [Learn more](https://help.openai.com/en/articles/8914046-temporary-chat-faq)" = "Eventuali dati condivisi con terzi tramite azioni GPT sono soggetti all'informativa sulla privacy di tali terzi. [Scopri di più](https://help.openai.com/en/articles/8914046-temporary-chat-faq)";
+
+"DALL•E Images" = "Immagini DALL•E";
+
+"Temporary Chat" = "Chat temporanea";
+
+"Website" = "Sito web";
+
+"Actions" = "Azioni";
+
+"Twitter" = "Twitter";
+
+"This version of the app will be sunset soon!" = "Questa versione dell'app verrà ritirata a breve.";
+
+"Retrieves or takes actions outside of ChatGPT" = "Recupera o esegue azioni al di fuori di ChatGPT";
+
+"Your limit resets at %@" = "Your limit resets at %@";
+
+"By %@" = "Di %@";
+
+"This chat won't appear in history, use or create memories, or be used to train our models. For safety purposes, we may keep a copy of this chat for up to 30 days." = "Questa chat non sarà visibile nella cronologia, non userà né creerà memorie e non verrà impiegata per addestrare i nostri modelli. Per ragioni di sicurezza, potremmo conservarne una copia per un massimo di 30 giorni.";
+
+"Your limit resets in 1 minute" = "Your limit resets in 1 minute";
+
+"Me" = "Io";
+
+"By" = "Di";
+
+"Invalid citation" = "Citazione non valida";
+
+"LinkedIn" = "LinkedIn";
+
+"Link unavailable" = "Link non disponibile";
+
+"Pinned" = "Elementi fissati";
+
+"Your limit resets %@" = "Your limit resets %@";
+
+"The builder of this GPT can’t view your chats or memories" = "Il configuratore di questo GPT non può visualizzare le tue chat o memorie";
+
+"Info" = "Info";
+
+"Instagram" = "Instagram";
+

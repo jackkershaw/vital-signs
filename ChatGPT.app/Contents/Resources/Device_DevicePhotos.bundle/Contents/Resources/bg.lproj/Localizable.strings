@@ -1,0 +1,16 @@
+"Enable photo library access in Settings to save photos." = "Активирайте достъпа до библиотеката със снимки в Настройки, за да запазвате снимки.";
+
+"Photos Access Denied" = "Достъпът до снимки е отказан";
+
+"Please try again later.\n\n(%@)" = "Моля, опитайте отново по-късно.\n\n(%@)";
+
+"Expected a file URL, but received a non-file URL" = "Очакваше се URL адрес на файл, но получи URL адрес, който не е файл";
+
+"Expected a non-file URL, but received a file URL" = "Очакваше се URL адрес, който не е на файл, но се получи URL адрес на файл";
+
+"Not authorized" = "Неоторизиран";
+
+"Image conversion failed" = "Неуспешно преобразуване на изображението";
+
+"Failed to Save Image" = "Неуспешно запазване на изображението";
+

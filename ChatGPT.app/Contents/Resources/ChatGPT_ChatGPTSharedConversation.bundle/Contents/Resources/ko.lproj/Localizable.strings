@@ -1,0 +1,26 @@
+"Shared Link Date" = "공유 링크 날짜";
+
+"Help and FAQ" = "도움말 및 FAQ";
+
+"The shared conversation does not exist." = "공유된 대화가 존재하지 않습니다.";
+
+"Failed to determine model." = "모델을 결정하지 못했습니다.";
+
+"Failed to load shared conversation." = "공유된 대화를 로딩하지 못했습니다.";
+
+"Continue" = "계속";
+
+"Menu" = "메뉴";
+
+"Shared conversation is invalid." = "공유된 대화가 유효하지 않습니다.";
+
+"This conversation may reflect the link creator’s custom instructions, which aren’t shared and can meaningfully change how the model responds." = "이 대화는 링크 작성자의 맞춤형 지침을 반영할 수 있습니다. 이 데이터는 공유되지 않으며 모델이 응답하는 방식을 의미 있게 바꿀 수 있습니다.";
+
+"Report" = "신고";
+
+"Shared conversation" = "공유된 대화";
+
+"Shared Link Title" = "공유 링크 제목";
+
+"Shared Link Owner" = "공유 링크 소유자";
+

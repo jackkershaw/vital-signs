@@ -1,0 +1,39 @@
+/* No comment provided by engineer. */
+"Continue" = "Continue";
+
+/* No comment provided by engineer. */
+"Failed to determine model." = "Failed to determine model.";
+
+/* No comment provided by engineer. */
+"Failed to load shared conversation." = "Failed to load shared conversation.";
+
+/* No comment provided by engineer. */
+"Help and FAQ" = "Help and FAQ";
+
+/* No comment provided by engineer. */
+"Menu" = "Menu";
+
+/* No comment provided by engineer. */
+"Report" = "Report";
+
+/* No comment provided by engineer. */
+"Shared conversation" = "Shared conversation";
+
+/* No comment provided by engineer. */
+"Shared conversation is invalid." = "Shared conversation is invalid.";
+
+/* No comment provided by engineer. */
+"Shared Link Date" = "Shared Link Date";
+
+/* No comment provided by engineer. */
+"Shared Link Owner" = "Shared Link Owner";
+
+/* No comment provided by engineer. */
+"Shared Link Title" = "Shared Link Title";
+
+/* No comment provided by engineer. */
+"The shared conversation does not exist." = "The shared conversation does not exist.";
+
+/* No comment provided by engineer. */
+"This conversation may reflect the link creator’s custom instructions, which aren’t shared and can meaningfully change how the model responds." = "This conversation may reflect the link creator’s custom instructions, which aren’t shared and can meaningfully change how the model responds.";
+

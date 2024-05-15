@@ -1,0 +1,18 @@
+"The server is overloaded. Please try again later." = "സെർവർ ഓവർലോഡ് ആണ്. ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക.";
+
+"System error" = "സിസ്റ്റത്തിൽ പിശക്";
+
+"There is a problem with your request. (%lld, %@)" = "നിങ്ങളുടെ അഭ്യർത്ഥനയിൽ ഒരു പ്രശ്നമുണ്ട്. (%lld, %@)";
+
+"The response is invalid. Please try again." = "മറുപടി അസാധുവാണ്. ദയവായി വീണ്ടും ശ്രമിക്കുക.";
+
+"There is a problem with your account info. Please try signing out then in." = "നിങ്ങളുടെ അക്കൗണ്ട് വിവരങ്ങളിൽ ഒരു പ്രശ്നമുണ്ട്. ദയവായി സൈൻ ഔട്ട് ചെയ്‌ത് വീണ്ടും സൈൻ ഇൻ ചെയ്യുക.";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "സെർവറിൽ പ്രശ്‌നങ്ങളുണ്ട്. ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക. (%lld, %@)";
+
+"Unsupported content" = "പിന്തുണയ്ക്കാത്ത ഉള്ളടക്കം";
+
+"You've made too many requests. Please try again later. (429, %@)" = "നിങ്ങൾ വളരെയധികം അഭ്യർത്ഥനകൾ നടത്തി. ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക. (429, %@)";
+
+"This content may violate our content policy. Please try again with different content." = "ഈ ഉള്ളടക്കം ഞങ്ങളുടെ ഉള്ളടക്ക നയം ലംഘിച്ചിരിക്കാം. ദയവായി മറ്റൊരു ഉള്ളടക്കം ഉപയോഗിച്ച് വീണ്ടും ശ്രമിക്കുക.";
+

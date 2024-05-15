@@ -1,0 +1,178 @@
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "इस डिवाइस पर नई चैट को अपने हिस्टरी में सेव करें और उन्हें हमारे मॉडल को बेहतर बनाने के लिए इस्तेमाल करने की अनुमति दें। सेव नहीं की गई चैट्स 30 दिनों के अंदर हमारे सिस्टम से डिलीट कर दी जाएंगी। ये सेटिंग सभी डिवाइसेस में सिंक नहीं होती है। [और ज़्यादा जानें](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Voice" = "वॉइस";
+
+"Archived conversations will be available here" = "आर्काइव की हुई चैट्स यहाँ उपलब्ध रहेंगी";
+
+"New Features" = "नए फ़ीचर्स";
+
+"Improve voice for everyone" = "सभी के लिए वॉयस को बेहतर बनाएँ";
+
+"Manage Subscriptions" = "सब्सक्रिप्शन्स मैनेज करें";
+
+"Error deleting all chats" = "सभी चैट्स को डिलीट करने में एरर आया";
+
+"ChatGPT for %@" = "%@ के लिए ChatGPT";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "आप अपना अकाउंट केवल तभी डिलीट कर सकते हैं अगर आपने पिछले 10 मिनट के अंदर लॉग इन किया हो।\n\nकृपया दोबारा लॉग इन करें, उसके बाद जारी रखने के लिए यहां वापस आएं।";
+
+"All your chats will be archived. This cannot be undone." = "आपकी सभी चैट आर्काइव कर दी जाएंगी। इसे दोबारा पहले जैसा नहीं किया जा सकता है।";
+
+"View" = "देखें";
+
+"Help Center" = "हेल्प सेंटर";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "इस डिवाइस पर नई चैट को अपने हिस्टरी में सेव करें। सेव नहीं की गई चैट्स 30 दिनों के अंदर हमारे सिस्टम से डिलीट कर दी जाएंगी। ये सेटिंग सभी डिवाइसेस में सिंक नहीं होती है। [और ज़्यादा जानें](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Speech" = "स्पीच";
+
+"Archive All Chats" = "सभी चैट्स आर्काइव करें";
+
+"ChatGPT Enterprise" = "ChatGPT Enterprise";
+
+"Could not delete conversation. Please try again later." = "बातचीत डिलीट नहीं की जा सकी। कृपया बाद में दोबारा कोशिश करें।";
+
+"Email" = "ईमेल";
+
+"Today" = "आज";
+
+"Improve the model for everyone" = "सभी के लिए मॉडल को बेहतर बनाएँ";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "हमारे मॉडल्स को बेहतर बनाने और ट्रेन करने के लिए भविष्य की वॉयस चैट से ऑडियो शेयर करें। इससे सभी के लिए वॉयस चैट की क्वालिटी में सुधार होता है। [और ज़्यादा जानें](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Export Data" = "डेटा को एक्सपोर्ट करें";
+
+"Keep ChatGPT on top" = "ChatGPT को टॉप पर रखें";
+
+"Data Controls" = "डेटा कंट्रोल";
+
+"Help" = "हेल्प";
+
+"Unarchive" = "अनआर्काइव करें";
+
+"Error updating setting. Please try again later" = "सेटिंग्स अपडेट करने में एरर आया। कृपया बाद में दोबारा कोशिश करें";
+
+"Delete All Chats" = "सभी चैट्स डिलीट करें";
+
+"Subscription" = "सब्सक्रिप्शन";
+
+"Customize ChatGPT" = "ChatGPT कस्टमाइज़ करें";
+
+"ChatGPT Team" = "ChatGPT Team";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "आपके अकाउंट का विवरण और बातचीत एक्सपोर्ट में शामिल की जाएगी।\n\nडेटा डाउनलोड करने योग्य फ़ाइल के रूप में आपके रजिस्टर्ड ईमेल पर भेजा जाएगा।\n\nप्रोसेसिंग में कुछ समय लग सकता है। इसके तैयार होने पर आपको सूचित कर दिया जाएगा।";
+
+"Subscription Cancellation" = "सब्सक्रिप्शन कैंसलेशन";
+
+"Could not delete all chats" = "सभी चैट्स डिलीट नहीं की जा सकीं";
+
+"Chat history" = "चैट हिस्टरी";
+
+"Haptic Feedback" = "हैप्टिक फ़ीडबैक";
+
+"Manage Memory" = "मेमोरी को मैनेज करें";
+
+"Privacy Policy" = "गोपनीयता नीति";
+
+"Off" = "बंद";
+
+"Recent login required" = "हालिया लॉग इन ज़रूरी है";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "आपके अकाउंट को डिलीट करने में एक गड़बड़ी हुई। कृपया दोबारा कोशिश करें। अगर समस्या बनी रहती है तो कृपया help.openai.com पर जाएं।";
+
+"Memory" = "मेमोरी";
+
+"App" = "ऐप";
+
+"All your chats will be cleared from history. This cannot be undone." = "आपकी सभी चैट्स हिस्टरी से क्लियर कर दी जाएंगी। इसे दोबारा पहले जैसा नहीं किया जा सकता है।";
+
+"Are you sure?" = "क्या आप वाकई ये करना चाहते हैं?";
+
+"Keyboard Shortcut" = "कीबोर्ड शॉर्टकट";
+
+"Always show ChatGPT in dock" = "ChatGPT को हमेशा डॉक में दिखाएं";
+
+"Color Scheme" = "कलर स्कीम";
+
+"No archived chats" = "कोई आर्काइव की हुई चैट्स नहीं";
+
+"Restore purchases" = "खरीदारियों को रीस्टोर करें";
+
+"Yesterday" = "बीता कल";
+
+"Chat training" = "चैट ट्रेनिंग";
+
+"ChatGPT Plus" = "ChatGPT Plus";
+
+"This workspace is private and opted out of training." = "ये वर्कस्पेस प्राइवेट है और ट्रेनिंग से बाहर रखा गया है।";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "आपका अकाउंट हमेशा के लिए डिलीट हो जाएगा और इसे दोबारा पहले जैसा नहीं किया जा सकता। प्रोफ़ाइल, बातचीत और API उपयोग सहित, आपका अन्य सभी डेटा हटा दिया जाएगा।\n\nआप नए अकाउंट के लिए उसी ईमेल या फ़ोन नंबर का दोबारा इस्तेमाल नहीं कर सकते।\n\nअगर आप API के साथ ChatGPT का इस्तेमाल कर रहे हैं, तो ये एक्सेस भी डिलीट कर दिया जाएगा।";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "जैसे-जैसे आप चैट करेंगे ChatGPT ज़्यादा उपयोगी होता जाएगा, और अपने जवाबों को आपके अनुरूप बनाने के लिए विवरण और प्रेफ़रेंसेस का चयन करेगा। [और ज़्यादा जानें](%@)\n\nये समझने के लिए कि ChatGPT क्या याद रखता है या उसे कुछ नया सिखाने के लिए, बस उसके साथ चैट करें:\n\n• “याद रखें कि मुझे संक्षिप्त जवाब पसंद हैं।”\n• “मुझे अभी-अभी एक पपी मिला है!”\n• “आपको मेरे बारे में क्या याद है?”\n• “मेरे पिछले प्रोजेक्ट पर हमने कहाँ काम छोड़ा था?”";
+
+"Confirm Export" = "एक्सपोर्ट कन्फ़र्म करें";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "बेहतरीन रिज़ल्ट्स के लिए, वो भाषा चुनें जिसे आप मुख्य रूप से बोलते हैं। अगर ये सूचीबद्ध नहीं है, तो इसे अभी भी ऑटो-डिटेक्शन के ज़रिये सपोर्ट किया जा सकता है।";
+
+"Light" = "हल्का";
+
+"Terms of Use" = "उपयोग की शर्तें";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "हमारे मॉडल्स को ट्रेन करने के लिए आपके कन्टेंट का इस्तेमाल करने की अनुमति दें, जो ChatGPT को आपके और इसका इस्तेमाल करने वाले सभी लोगों के लिए बेहतर बनाता है। हम आपकी गोपनीयता की सुरक्षा के लिए कदम उठाते हैं। [और ज़्यादा जानें](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"We couldn't load your archived chats" = "हम आपकी आर्काइव की गई चैट्स लोड नहीं कर सके";
+
+"None" = "कोई नहीं";
+
+"Dark" = "गहरा";
+
+"About" = "परिचय";
+
+"Your account has been queued for deletion." = "आपका अकाउंट डिलीट किए जाने के लिए कतारबद्ध कर दिया गया है।";
+
+"Could not update the memory setting. Please try again later." = "मेमोरी सेटिंग अपडेट नहीं की जा सकी। कृपया बाद में दोबारा कोशिश करें।";
+
+"We were unable to process your export at this time. Please try again later." = "हम इस समय आपके एक्सपोर्ट को प्रोसेस नहीं कर पाए। कृपया बाद में दोबारा कोशिश करें।";
+
+"Free Plan" = "फ़्री प्लान";
+
+"Could not unarchive conversation. Please try again later." = "बातचीत को अनआर्काइव नहीं किया जा सका। कृपया बाद में दोबारा कोशिश करें।";
+
+"Search Archive" = "आर्काइव सर्च करें";
+
+"Could not archive all chats" = "सभी चैट्स आर्काइव नहीं की जा सकीं";
+
+"Email missing!" = "ईमेल मौजूद नहीं है!";
+
+"Manage workspace" = "वर्कस्पेस मैनेज करें";
+
+"Successfully exported data. You should receive an email shortly with your data." = "डेटा सफ़लतापूर्वक एक्सपोर्ट किया गया। आपको जल्द ही अपने डेटा के साथ एक ईमेल मिलना चाहिए।";
+
+"Chat History & Training" = "चैट हिस्टरी और ट्रेनिंग";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "आप इस ऐप के अंदर अपने सब्सक्रिप्शन में बदलाव नहीं कर सकते, क्योंकि आपने ये सब्सक्रिप्शन किसी अन्य प्लेटफ़ॉर्म पर खरीदा है।";
+
+"Workspace" = "वर्कस्पेस";
+
+"Main Language" = "मुख्य भाषा";
+
+"Conversation not found" = "बातचीत नहीं मिली";
+
+"Upgrade to ChatGPT Plus" = "ChatGPT Plus में अपग्रेड करें";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "आपका अकाउंट डिलीट करने से कोई भी एक्टिव इन-ऐप सब्सक्रिप्शन्स कैंसल नहीं होंगी। आप अपनी Apple ID सेटिंग्स में जाकर इन सब्सक्रिप्शन्स को कैंसल कर सकते हैं।";
+
+"Delete Account" = "अकाउंट डिलीट करें";
+
+"Archived Chats" = "आर्काइव की हुई चैट्स";
+
+"Desktop Launcher" = "डेस्कटॉप लॉन्चर";
+
+"App Language" = "ऐप की भाषा";
+
+"On" = "चालू";
+
+"System" = "सिस्टम";
+
+"Error archiving all chats" = "सभी चैट्स को आर्काइव करने में एरर आया";
+

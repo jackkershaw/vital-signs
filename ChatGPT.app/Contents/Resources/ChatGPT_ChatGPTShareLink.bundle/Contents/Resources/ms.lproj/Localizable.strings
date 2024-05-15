@@ -1,0 +1,50 @@
+"Share link" = "Kongsi pautan";
+
+"Title" = "Tajuk";
+
+"Options" = "Pilihan";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "Mesej yang dihantar atau diterima selepas berkongsi pautan anda tidak akan dikongsi. Orang yang mempunyai URL akan dapat melihat sembang kongsian anda.";
+
+"The conversation has no messages." = "Perbualan tidak mempunyai mesej.";
+
+"Share link to chat" = "Kongsi pautan untuk sembang";
+
+"Share your name" = "Kongsi nama anda";
+
+"Shared Link Title" = "Tajuk Pautan Kongsian";
+
+"Shared Link Date" = "Tarikh Pautan Kongsian";
+
+"Edit title" = "Edit tajuk";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "Anda sudah berkongsi pautan kepada sembang ini. Jika anda ingin menyertakan mesej baharu, padamkan pautan ini dan kongsi sembang anda sekali lagi.";
+
+"There was an error sharing the conversation. Please try again. %@" = "Terdapat ralat semasa berkongsi perbualan. Sila cuba lagi. %@";
+
+"Help and FAQ" = "Bantuan dan Soalan Lazim";
+
+"Missing Name" = "Nama Tiada";
+
+"Delete link" = "Padamkan pautan";
+
+"Update title" = "Kemas kini tajuk";
+
+"Shared Link Owner" = "Pemilik Pautan Kongsian";
+
+"Shared link deleted." = "Pautan kongsian dipadamkan";
+
+"There was an error preparing the conversation. Please try again. %@" = "Terdapat ralat semasa menyediakan perbualan. Sila cuba lagi. %@";
+
+"Recipients won't be able to view images." = "Penerima tidak akan dapat memaparkan imej anda.";
+
+"Your custom instructions won’t be shared with viewers." = "Arahan tersuai anda tidak akan dikongsi dengan penonton.";
+
+"The share link is invalid. %@" = "Pautan kongsi tidak sah. %@";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "Adakah anda pasti mahu memadamkan pautan kongsian \"%@\"? Anda boleh sentiasa mencipta pautan baharu dengan berkongsi semula sembang ini.";
+
+"There was an error deleting your shared link." = "Terdapat ralat semasa memadamkan pautan kongsian anda.";
+
+"Share anonymously" = "Kongsi tanpa nama";
+

@@ -1,0 +1,12 @@
+"Error loading account information. Please try again later." = "Feil ved lasting av kontoinformasjon. Prøv igjen litt senere.";
+
+"Checking system health…" = "Sjekker systemets helsetilstand ...";
+
+"Download the beta build or contact [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W) if you're having issues." = "Last ned betaversjon eller ta kontakt med [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W) hvis du har problemer.";
+
+"Loading account…" = "Laster konto ...";
+
+"  %@\n\n  OpenAI employees are required to use internal builds to access ChatGPT.\n" = "  %@\n\n  Ansatte i OpenAI må bruke interne versjoner for å få tilgang til ChatGPT.\n";
+
+"Check your OpenAI e-mail for an invite titled \"OpenAI has invited you to test ChatGPT\" or contact [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A) to be added." = "Sjekk OpenAI e-posten for å se om du har mottatt en invitasjon med tittelen “OpenAI har invitert deg til å teste ChatGPT” eller ta kontakt med [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A) for å bli lagt til.";
+

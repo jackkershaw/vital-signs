@@ -1,0 +1,34 @@
+"Deleting chat failed" = "அரட்டையை நீக்குதல் தோல்வியடைந்தது";
+
+"Deleted chat" = "நீக்கப்பட்ட அரட்டை";
+
+"Please make sure this feature is enabled for your account." = "உங்கள் கணக்கிற்கு இந்த அம்சம் செயல்படுத்தப்பட்டுள்ளது என்பதை உறுதி செய்துகொள்ளவும்.";
+
+"Memory off" = "நினைவகம் செயலாற்றவில்லை";
+
+"Error reading message out loud" = "செய்தியை உரக்க வாசிப்பதில் பிழை";
+
+"Open Settings" = "அமைப்புகளைத் திறக்கவும்";
+
+"Voice unavailable" = "குரல் கிடைக்கவில்லை";
+
+"Thank you for your feedback!" = "உங்கள் பின்னூட்டத்திற்கு நன்றி!";
+
+"Toggle Sidebar" = "பக்கப்பட்டியை ஆன் ஆஃப் செய்க";
+
+"Deleting chat…" = "அரட்டை நீக்கப்படுகிறது…";
+
+"Turn history on" = "வரலாற்றை ஆன் செய்யவும்";
+
+"There is a problem with your internet connection." = "உங்கள் இணைய இணைப்பில் சிக்கல் உள்ளது.";
+
+"Voice capabilities aren’t currently available when history is turned off." = "வரலாறு முடக்கப்பட்டிருப்பதால் குரல் திறன்கள் தற்போது கிடைக்காது.";
+
+"Open Memory Settings" = "நினைவக அமைப்புகளைத் திறக்கவும்";
+
+"History off" = "வரலாறு செயலாற்றவில்லை";
+
+"Voice capabilities aren’t currently available with this GPT because it requires memory to be on." = "இந்த GPT -உடன் தற்போது குரல் திறன்கள் கிடைக்காது. ஏனென்றால், அதற்கு நினைவகம் ஆன் செய்யப்பட்டிருக்க வேண்டும்.";
+
+"Close menu" = "பட்டியலை மூடவும்";
+

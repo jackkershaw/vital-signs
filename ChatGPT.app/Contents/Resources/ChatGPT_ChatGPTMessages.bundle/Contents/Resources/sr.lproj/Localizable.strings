@@ -1,0 +1,74 @@
+"You" = "Ти";
+
+"Memories updated" = "Меморије су ажуриране";
+
+"Read Aloud" = "Читај наглас";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT чува датотеке само ограничено време. Започни нов разговор или отпреми нову датотеку за наставак разговора.";
+
+"Upgraded response" = "Надограђен одговор";
+
+"Edit" = "Измени";
+
+"Response rating failed." = "Оцењивање одговора није успело.";
+
+"Your most recent request failed. Please retry!" = "Твој најновији захтев није успео. Покушај поново!";
+
+"How would you rate this GPT?" = "Како оцењујеш овај GPT?";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "Отпремање ^[%lld прилога](inflect: true)…";
+
+"#%lld row" = "Ред бр. %lld";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Ова датотека више није доступна. Започни нови разговор или отпреми нову датотеку за наставак разговора.";
+
+"Sign in to %@" = "Пријави се на %@";
+
+"Select Text" = "Изабери текст";
+
+"File unavailable" = "Датотека није доступна";
+
+"Loading…" = "Учитава се…";
+
+"Decline" = "Одбиј";
+
+"File expired" = "Датотека је истекла";
+
+"Stop Generating" = "Престани са генерисањем";
+
+"Always allow" = "Увек дозволи";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Написао наш модел са највише могућности, GPT-4, доступан уз ChatGPT Plus";
+
+"Deny" = "Негирај";
+
+"Memory updated" = "Меморија је ажурирана";
+
+"Quick Look" = "Брзи поглед";
+
+"Bad" = "Лоше";
+
+"Analysis" = "Анализа";
+
+"Failed, retry?" = "Није успело. Желиш ли да покушаш поново?";
+
+"Continue Generating" = "Настави са генерисањем";
+
+"Selection" = "Избор";
+
+"A GPT" = "Неки GPT";
+
+"Please try again later.%@" = "Покушај поново касније.%@";
+
+"Manage memories" = "Управљај меморијама";
+
+"Change Model" = "Промени модел";
+
+"Regenerate" = "Генериши поново";
+
+"\"%@\" column" = "Колона „%@“";
+
+"\"%@\" cell" = "Ћелија „%@“";
+
+"Save File As…" = "Сачувај датотеку као…";
+

@@ -1,0 +1,18 @@
+"There is a problem with your request. (%lld, %@)" = "Có vấn đề với yêu cầu của bạn. (%lld, %@)";
+
+"The server is overloaded. Please try again later." = "Máy chủ bị quá tải. Vui lòng thử lại sau.";
+
+"There is a problem with your account info. Please try signing out then in." = "Có vấn đề với thông tin tài khoản của bạn. Hãy thử đăng xuất rồi đăng nhập lại.";
+
+"Unsupported content" = "Nội dung không được hỗ trợ";
+
+"This content may violate our content policy. Please try again with different content." = "Nội dung này có thể vi phạm chính sách nội dung của chúng tôi. Vui lòng thử lại với nội dung khác.";
+
+"You've made too many requests. Please try again later. (429, %@)" = "Bạn đã đưa ra quá nhiều yêu cầu. Vui lòng thử lại sau. (429, %@)";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "Máy chủ đang gặp sự cố. Vui lòng thử lại sau. (%lld, %@)";
+
+"The response is invalid. Please try again." = "Phản hồi không hợp lệ. Vui lòng thử lại.";
+
+"System error" = "Lỗi hệ thống";
+

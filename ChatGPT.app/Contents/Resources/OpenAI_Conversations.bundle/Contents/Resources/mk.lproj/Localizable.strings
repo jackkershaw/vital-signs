@@ -1,0 +1,124 @@
+"Talked to %@" = "Разговараше со %@";
+
+"Error reading document" = "Грешка при читање документ";
+
+"Error creating images" = "Грешка при креирање слики";
+
+"Error talking to %@" = "Грешка при разговор со %@";
+
+"Making a research plan" = "Изработка на план за истражување";
+
+"Invalid citation" = "Неважечки цитат";
+
+"Creating image" = "Се креира слика";
+
+"Searched 1 site" = "Пребарана е 1 страница";
+
+"Delete Chat" = "Избриши го разговорот";
+
+"Stopped reading documents" = "Читањето документи е стопирано";
+
+"Are you sure you want to archive this chat?\nYou can view archived chats in Settings" = "Сигурно сакаш да го архивираш овој разговор? \nМоже да прегледаш архивирани разговори во Поставки";
+
+"Searching “%@”" = "Се пребарува „%@“";
+
+"Stopped" = "Стопирано";
+
+"Unable to generate URL" = "Не може да се генерира URL-референца";
+
+"Visited %@" = "Посети %@";
+
+"Archive" = "Архивирање";
+
+"Stopped talking to site" = "Разговарањето со страницата е стопирано";
+
+"Analyzing" = "Анализирање";
+
+"Reading %@" = "Читање %@";
+
+"Creating 1 image…" = "Се креира 1 слика…";
+
+"Talking to %@" = "Разговара со %@";
+
+"Starting action" = "Започнување дејство";
+
+"Error reading documents" = "Грешка при читање документи";
+
+"Visited the web" = "Посети интернет";
+
+"Writing prompts…" = "Се пишуваат промптови…";
+
+"Read %@" = "Прочитај %@";
+
+"an external site" = "надворешна страница";
+
+"Visiting %@" = "Се посетува %@";
+
+"Stopped researching" = "Истражувањето е стопирано";
+
+"Creating %lld images…" = "Се креираат %lld слики…";
+
+"Stopped talking to %@" = "Разговарањето со %@ е стопирано";
+
+"Archive Chat" = "Архивирај разговор";
+
+"Reading document" = "Читање документ";
+
+"Unsupported content" = "Неподдржана содржина";
+
+"Reading documents" = "Читање документи";
+
+"Any created memories will be retained." = "Сите креирани мемории ќе бидат задржани.";
+
+"Searching" = "Се пребарува";
+
+"System error" = "Системска грешка";
+
+"Error analyzing" = "Грешка при анализа";
+
+"Finished analyzing" = "Анализирањето е завршено";
+
+"Stopped browsing" = "Прелистувањето е стопирано";
+
+"Read document" = "Прочитај документ";
+
+"Read documents" = "Прочитај документи";
+
+"Searched %lld sites" = "Пребарани се %lld страници";
+
+"You declined this action" = "Го одби ова дејство";
+
+"This can't be undone." = "Ова не може да се врати назад.";
+
+"site" = "страница";
+
+"Browsing %@" = "Се прелистува %@";
+
+"Error browsing" = "Грешка при прелистување";
+
+"Error creating image" = "Грешка при креирање слика";
+
+"Search stopped" = "Пребарувањето е запрено";
+
+"Unable to find citation ID" = "Не може да се најде идентификација на цитат";
+
+"Error researching" = "Грешка при истражување";
+
+"Doing research with Bing" = "Спроведување истражување со Bing";
+
+"Stopped analyzing" = "Анализирањето е стопирано";
+
+"Research complete" = "Истражувањето е завршено";
+
+"Stopped reading document" = "Читањето документ е стопирано";
+
+"Unable to find metadata" = "Не можат да се најдат метаподатоци";
+
+"Visited %lld sites" = "Посети %lld страници";
+
+"Stopped creating image" = "Креирањето слика е стопирано";
+
+"Read %lld documents" = "Прочитај %lld документи";
+
+"Search failed" = "Пребарувањето не успеа";
+

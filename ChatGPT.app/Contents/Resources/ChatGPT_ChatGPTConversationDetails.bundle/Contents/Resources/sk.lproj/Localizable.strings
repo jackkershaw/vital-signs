@@ -1,0 +1,52 @@
+"Report Conversation" = "Nahlásiť konverzáciu";
+
+"No actions are available for this GPT" = "Pre tento model GPT nie sú k dispozícii žiadne akcie.";
+
+"Model Info" = "Informácie o modeli";
+
+"Error loading action settings" = "Pri načítavaní nastavení akcie sa vyskytla chyba.";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "Spravuj, ku ktorým účtom tretích strán môže mať %@ prístup.";
+
+"Please try again later.\n\n(%@)" = "Skús to znova neskôr.\n\n(%@)";
+
+"Privacy Policy" = "Zásady ochrany osobných údajov";
+
+"Privacy & Safety" = "Ochrana osobných údajov a zabezpečenie";
+
+"Are you sure you want to log out of %@?" = "Naozaj sa chceš odhlásiť zo služby %@?";
+
+"Actions" = "Akcie";
+
+"Custom instructions" = "Vlastné pokyny";
+
+"Failed to update setting, retry?" = "Nepodarilo sa aktualizovať nastavenie, skúsiť znova?";
+
+"This chat uses an older version of your custom instructions." = "Tento čet využíva staršiu verziu tvojich vlastných pokynov.";
+
+"Description" = "Opis";
+
+"Confirm Logout" = "Potvrdiť odhlásenie";
+
+"Always" = "Vždy";
+
+"Select which websites are allowed to see data from conversations with %@." = "Vyber weby, ktoré majú povolené vidieť údaje z konverzácií s používateľom %@.";
+
+"Capabilities" = "Možnosti";
+
+"Error loading connected accounts.\n\n(%@)" = "Pri načítavaní pripojených účtov sa vyskytla chyba.\n\n(%@)";
+
+"Report" = "Nahlásiť";
+
+"None" = "Žiadne";
+
+"Accounts" = "Účty";
+
+"No connected accounts are available for this GPT." = "Pre tento model GPT nie sú k dispozícii žiadne pripojené účty.";
+
+"Report GPT" = "Nahlásiť GPT";
+
+"Connected Accounts" = "Pripojené účty";
+
+"Ask" = "Spýtať sa";
+

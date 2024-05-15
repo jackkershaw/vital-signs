@@ -1,0 +1,126 @@
+"Searched %lld sites" = "تم البحث في %lld موقع";
+
+"Error reading document" = "حدث خطأ أثناء قراءة المستند";
+
+"Searching “%@”" = "جاري البحث عن ”%@“";
+
+"Talking to %@" = "جاري التحدث إلى %@";
+
+"Unable to generate URL" = "تعذر إنشاء عنوان URL";
+
+"Searching" = "جاري البحث عن";
+
+"Stopped reading document" = "توقفت عملية قراءة المستند";
+
+"Visited the web" = "تم زيارة الويب";
+
+"Stopped" = "تم الإيقاف";
+
+"Stopped browsing" = "توقفت عملية التصفح";
+
+"Error analyzing" = "حدث خطأ أثناء التحليل";
+
+"Archive" = "أرشفة";
+
+"Writing prompts…" = "جاري كتابة الأوامر...";
+
+"Are you sure you want to archive this chat?\nYou can view archived chats in Settings" = "هل أنت واثق من رغبتك في أرشفة هذه الدردشة؟\nيمكنك عرض الدردشات التي تمت أرشفتها من \"الإعدادات\"";
+
+"Reading documents" = "جاري قراءة المستندات";
+
+"Search failed" = "فشلت عملية البحث";
+
+"Error reading documents" = "خطأ في قراءة المستند";
+
+"Browsing %@" = "تصفح %@";
+
+"Visiting %@" = "يتم زيارة %@ الآن";
+
+"Any created memories will be retained." = "سيتم الاحتفاظ بأي ذاكرات تم إنشاؤها.";
+
+"Error browsing" = "خطأ في عملية التصفح";
+
+"Unable to find citation ID" = "تعذر العثور على معرف الإشارة";
+
+"Archive Chat" = "أرشفة الدردشة";
+
+"Read document" = "قراءة المستند";
+
+"Stopped talking to site" = "تم التوقف عن التحدث إلى الموقع";
+
+"an external site" = "موقع خارجي";
+
+"Search stopped" = "توقفت عملية البحث";
+
+"Creating 1 image…" = "جاري إنشاء صورة واحدة...";
+
+"Doing research with Bing" = "إجراء بحث باستخدام Bing";
+
+"Stopped creating image" = "تم إيقاف إنشاء الصورة";
+
+"This can't be undone." = "لا يمكن التراجع عن هذا الإجراء.";
+
+"Making a research plan" = "جاري وضع خطة البحث";
+
+"Reading document" = "جاري قراءة المستند";
+
+"Unable to find metadata" = "تعذر العثور على بيانات التعريف";
+
+"Finished analyzing" = "اكتمل التحليل";
+
+"Stopped researching" = "توقفت عملية البحث";
+
+"Visited %lld sites" = "تم زيارة %lld موقعًا";
+
+"Error creating images" = "حدث خطأ أثناء إنشاء الصور";
+
+"Stopped analyzing" = "تم إيقاف التحليل";
+
+"Reading %@" = "جاري قراءة %@";
+
+"Error researching" = "حدث خطأ أثناء البحث";
+
+"Searched 1 site" = "تم البحث في موقع واحد";
+
+"Visited %@" = "تم زيارة %@";
+
+"Delete Chat" = "حذف الدردشة";
+
+"Creating %lld images…" = "جاري إنشاء %lld صورة...";
+
+"Read %lld documents" = "قراءة %lld مستندًا";
+
+"System error" = "خطأ في النظام";
+
+"You declined this action" = "لقد رفضت هذا الإجراء";
+
+"Read %@" = "قراءة %@";
+
+"Stopped talking to %@" = "تم التوقف عن التحدث إلى %@";
+
+"Read documents" = "قراءة المستندات";
+
+"site" = "موقع";
+
+"Error talking to %@" = "حدث خطأ عند التحدث إلى %@";
+
+"Research complete" = "اكتمل البحث";
+
+"Creating image" = "جاري إنشاء صورة";
+
+"Analyzing" = "جاري التحليل";
+
+"Starting action" = "جاري بدء الإجراء";
+
+"Error creating image" = "خطأ في إنشاء الصورة";
+
+"Talked to %@" = "تم التحدث إلى %@";
+
+"Searching “%@”" = "جاري البحث عن \"%@\"";
+
+"Stopped reading documents" = "توقفت عملية قراءة المستندات";
+
+"Unsupported content" = "محتوى غير مدعوم";
+
+"Invalid citation" = "إشارة غير صالحة";
+

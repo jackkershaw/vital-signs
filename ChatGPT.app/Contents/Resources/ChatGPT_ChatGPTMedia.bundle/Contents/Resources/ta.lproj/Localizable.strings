@@ -1,0 +1,76 @@
+"Select camera device" = "கேமரா சாதனத்தை தெரிவுசெய்யுங்கள்";
+
+"Enable camera access in Settings to take photos." = "புகைப்படங்களை எடுக்க அமைப்புகளில் கேமரா அணுகலைச் செயல்படுத்தவும்.";
+
+"Flash on, tap to toggle off" = "ஃபிளாஷ்(Flash) ஆன், ஆஃப் செய்ய இருநிலை மாற்றியைத் தட்டவும்";
+
+"Dismiss" = "நிராகரி";
+
+"Bad response" = "மோசமான பதில்";
+
+"Thank you for your feedback!" = "உங்கள் பின்னூட்டத்திற்கு நன்றி!";
+
+"Camera Access Denied" = "கேமரா அணுகல் நிராகரிக்கப்பட்டது";
+
+"Annotate" = "விவரியுங்கள்";
+
+"Rear camera selected, tap to toggle to front" = "பின்பக்க கேமரா தேர்ந்தெடுக்கப்பட்டுள்ளது, முன்பக்கத்திற்கு மாற்ற இருநிலைமாற்றியைத் தட்டவும்";
+
+"Next" = "அடுத்து";
+
+"Front camera selected, tap to toggle to rear" = "முன்பக்க கேமரா தேர்ந்தெடுக்கப்பட்டுள்ளது, பின்பக்கத்திற்கு மாற்ற இருநிலைமாற்றியைத் தட்டவும்";
+
+"Dismiss" = "நிராகரிக்கவும்";
+
+"Failed to load image" = "படத்தை ஏற்றுவது தோல்வியடைந்தது";
+
+"Pick photo" = "படத்தைத் தேர்ந்தெடுக்கவும்";
+
+"Redo" = "மீண்டும் செய்யவும்";
+
+"View prompt" = "தூண்டியைப் பார்க்கவும்";
+
+"The file download failed. Please try again later." = "கோப்பு பதிவிறக்கம் தோல்வியடைந்தது. தயவுசெய்து மீண்டும் முயற்சிக்கவும்.";
+
+"Flash off, tap to toggle to auto" = "ஃபிளாஷ்(Flash) ஆஃப், ஆட்டோவிற்கு மாற்ற இருநிலை மாற்றியைத் தட்டவும்";
+
+"Undo" = "செயல்தவிர்க்கவும்";
+
+"Good response" = "நல்ல பதில்";
+
+"Prompt" = "தூண்டி";
+
+"Camera access is restricted on this device. Please check your parental control or system settings." = "இந்தச் சாதனத்தில் கேமரா அணுகல் கட்டுப்படுத்தப்பட்டுள்ளது. உங்கள் பெற்றோர் கட்டுப்பாடு அல்லது அமைப்பின் அமைப்புகளை சரிபார்க்கவும்.";
+
+"Download complete" = "பதிவிறக்கம் பூரணமானது";
+
+"Image saved" = "படம் சேமிக்கப்பட்டது";
+
+"Next" = "அடுத்தது";
+
+"This file has expired." = "கோப்பு காலாவதியாகிவிட்டது.";
+
+"Back" = "பின்செல்";
+
+"Copied" = "நகலெடுக்கப்பட்டது";
+
+"Camera Access Restricted" = "கேமரா அணுகல் கட்டுப்படுத்தப்பட்டுள்ளது";
+
+"Flash auto, tap to toggle on" = "ஃபிளாஷ்(Flash) ஆட்டோ, ஆன் செய்ய இருநிலை மாற்றியைத் தட்டவும்";
+
+"The file was not found." = "கோப்பு காணப்படவில்லை.";
+
+"Learn more" = "மேலும் அறியவும்";
+
+"This file is not available." = "கோப்பு கிடைக்கவில்லை.";
+
+"More" = "மேலும்";
+
+"Select an area to edit" = "திருத்த வேண்டிய ஒரு பகுதியைத் தேர்ந்தெடுக்கவும்";
+
+"Annotate by drawing on the image" = "படத்தின் மீது வரைந்து விவரித்தல்";
+
+"Select" = "தேர்ந்தெடுக்கவும்";
+
+"Prompt" = "தூண்டல்";
+

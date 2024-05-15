@@ -1,0 +1,40 @@
+"Memory is disabled" = "Pamäť je zakázaná.";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "Podrobnosti a predvoľby, ktoré si %@ zapamätáva počas četovania, sa zobrazia na tomto mieste.";
+
+"Learn More" = "Ďalšie informácie";
+
+"Select a GPT" = "Vyber GPT";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ zabudne všetko, čo si zapamätal z tvojich četov. Túto akciu nemožno vrátiť späť.";
+
+"Memory" = "Pamäť";
+
+"Could not reset memory. Please try again later." = "Nepodarilo sa resetovať pamäť. Skús to znova neskôr.";
+
+"Are you sure?" = "Určite?";
+
+"Error deleting memory" = "Pri odstraňovaní pamäte sa vyskytla chyba.";
+
+"Open menu to select which GPT to show memories for" = "Otvor ponuku a vyber model GPT, pre ktorý sa majú zobraziť pamäte.";
+
+"Search memories" = "Vyhľadávať v pamätiach";
+
+"Error loading GPTs" = "Pri načítavaní modelov GPT sa vyskytla chyba.";
+
+"Clear Memory" = "Vymazať pamäť";
+
+"%@ won't use or create memories" = "%@ nebude používať ani vytvárať pamäte.";
+
+"Turn On" = "Zapnúť";
+
+"Clear ChatGPT’s memory" = "Vymazať pamäť modelu ChatGPT";
+
+"Error loading memories" = "Pri načítavaní pamätí sa vyskytla chyba.";
+
+"No memories" = "Žiadne pamäte";
+
+"%@'s memories" = "Pamäte používateľa %@";
+
+"Clear this GPT's memory" = "Vymazať pamäť tohto modelu GPT";
+

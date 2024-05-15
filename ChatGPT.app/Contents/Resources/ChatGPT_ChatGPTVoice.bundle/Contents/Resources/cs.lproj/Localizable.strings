@@ -1,0 +1,170 @@
+"Pause" = "Pozastavit";
+
+"Choose a voice" = "Vyber hlas";
+
+"Error: '%@'" = "Chyba: „%@“";
+
+"Stop listening" = "Přestat poslouchat";
+
+"Voice chat ended after " = "Hlasový chat skončil po ";
+
+"Open camera" = "Otevřít fotoaparát";
+
+"I didn’t like the responses" = "Odpovědi se mi nelíbily";
+
+"%lld." = "%lld.";
+
+"Speak now" = "Mluvit hned";
+
+"Submit feedback" = "Odeslat zpětnou vazbu";
+
+"Listening intently" = "Soustředěný poslech";
+
+"Grace Period for %@s" = "Dodatečná lhůta %@ s";
+
+"Other" = "Jiný";
+
+"Resume listening" = "Pokračovat v poslechu";
+
+"Voice feedback: give thumbs down" = "Hlasová zpětná vazba: dát palec dolů";
+
+"Click to connect" = "Kliknutím se připoj";
+
+"Finish speaking to send" = "Když přestaneš mluvit, data se odešlou";
+
+"Restart" = "Restartovat";
+
+"Tap to activate" = "Klepnutím aktivovat";
+
+"Lost" = "Ztracené";
+
+"Unable to review action" = "Akci nelze zkontrolovat";
+
+"Halted" = "Zastaveno";
+
+"Failed to connect" = "Připojení se nezdařilo";
+
+"Audio issues" = "Problémy se zvukem";
+
+"Click to interrupt" = "Kliknutím přeruš";
+
+"Save to Photos" = "Uložit do Fotografií";
+
+"Click to activate" = "Kliknutím aktivuj";
+
+"Close camera" = "Zavřít fotoaparát";
+
+"Speak to keep active" = "Mluv a zůstaň aktivní";
+
+"Hold for manual control" = "Podržet pro ruční ovládání";
+
+"Good" = "Dobře";
+
+"Select %@" = "Vybrat %@";
+
+"Enable microphone access in Settings" = "Povolit přístup mikrofonu v Nastavení";
+
+"Connection failed, tap to retry" = "Připojení se nezdařilo, klepnutím to zkus znovu";
+
+"Unknown error" = "Neznámá chyba";
+
+"Listening" = "Poslech";
+
+"Tap to interrupt" = "Klepnutím přerušit";
+
+"Thank you!" = "Děkujeme!";
+
+"Unable to send response. Please try again." = "Odpověď nelze odeslat. Zkus to znovu.";
+
+"Connecting.." = "Připojování..";
+
+"Tap to send manually" = "Klepnutím odeslat ručně";
+
+"Voice feedback: give thumbs up" = "Hlasová zpětná vazba: dát palec nahoru";
+
+"On for training" = "Zapnout pro trénování";
+
+"Flip camera to the rear" = "Přepnout fotoaparát na zadní";
+
+"Go backward 15 seconds" = "O 15 sekund zpět";
+
+"Excellent" = "Excelentní";
+
+"Helping improve voice" = "Pomoc s vylepšením hlasu";
+
+"Flip camera to the front" = "Přepnout fotoaparát na přední";
+
+"Poor connection" = "Slabé připojení";
+
+"Connect" = "Připojit";
+
+"Close" = "Zavřít";
+
+"Tap to dismiss" = "Klepnutím zavřít";
+
+"Unselect %@" = "Zrušit výběr %@";
+
+"Connecting" = "Připojování";
+
+"Go forward 15 seconds" = "O 15 sekund vpřed";
+
+"Thinking" = "Přemýšlení";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "Zvolil jsi možnost sdílení zvuku z hlasových chatů ke zlepšení a trénování našich modelů. To zahrnuje zvuk ze tvého mikrofonu. když bude model přemýšlet nebo mluvit. Sdílení můžeš zastavit v Nastavení.";
+
+"Connecting." = "Připojování.";
+
+"Take picture" = "Pořídit snímek";
+
+"Tap to connect" = "Klepnutím připojit";
+
+"What went wrong?" = "Co bylo špatně?";
+
+"Speaking" = "Mluvení";
+
+"Connection failed, click to retry" = "Připojení se nezdařilo, kliknutím to zkus znovu";
+
+"Idle" = "Nečinný";
+
+"Tap to cancel" = "Klepnutím zrušit";
+
+"Click to cancel" = "Kliknutím zruš";
+
+"Paused" = "Pozastaveno";
+
+"Voice chat ended" = "Hlasový chat byl ukončen";
+
+"Pick photo" = "Vybrat fotku";
+
+"%lldms" = "%lld ms";
+
+"See more information about voice research" = "Zobrazit další informace o hlasovém průzkumu";
+
+"You can change this later." = "Později to můžeš změnit.";
+
+"Release to send" = "Uvolněním odeslat";
+
+"Start speaking" = "Začít mluvit";
+
+"•" = "•";
+
+"Unknown" = "Neznámé";
+
+"Play" = "Přehrát";
+
+"It misheard me" = "Nerozuměl mi";
+
+"Connected" = "Připojeno";
+
+"Select all that apply" = "Vyber všechny platné možnosti";
+
+"Voice mode" = "Režim hlasu";
+
+"It interrupted me" = "Přerušoval mě";
+
+"Click to send manually" = "Kliknutím odešli ručně";
+
+"Poor" = "Slabý";
+
+"Learn more" = "Další informace";
+

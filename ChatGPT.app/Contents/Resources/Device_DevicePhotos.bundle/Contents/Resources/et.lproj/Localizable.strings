@@ -1,0 +1,18 @@
+"Please try again later.\n\n(%@)" = "Proovige hiljem uuesti.\n\n(%@)";
+
+"Photos Access Denied" = "Juurdepääs fotodele keelatud";
+
+"Photos Access Denied" = "Ligipääs fotodele keelatud";
+
+"Expected a non-file URL, but received a file URL" = "Oodati mitte-faili URL-i, kuid saadi faili URL";
+
+"Enable photo library access in Settings to save photos." = "Lubage fotode salvestamiseks seadetes juurdepääs fotokogule.";
+
+"Image conversion failed" = "Pildi konverteerimine ebaõnnestus";
+
+"Expected a file URL, but received a non-file URL" = "Oodati faili URL-i, kuid saadi mitte-faili URL";
+
+"Not authorized" = "Autoriseerimata";
+
+"Failed to Save Image" = "Pildi salvestamine ebaõnnestus";
+

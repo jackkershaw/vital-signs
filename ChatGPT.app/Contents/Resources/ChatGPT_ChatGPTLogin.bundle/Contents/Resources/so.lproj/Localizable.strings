@@ -1,0 +1,70 @@
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "Waxbaa qaldamay. Fadlan xaqiiji in taariikhda iyo wakhtiga agabkaagu saxsanyihiin, oo in ‘Deji si Otomaatik ah’ ka daaranyahay ‘Habeynada → Guud → Taariikh & Wakhti’.";
+
+"Let’s collaborate" = "Aan wada-shaqeyno";
+
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "Dhib baa lagala kulmay la xiriirida saafarada Apple. Fadlan markale isku day. (%lld)";
+
+"There is a problem with the server. Please try again later." = "Dhib ayaa ka jira saafarka. Fadlan iskuday markale hadhow.";
+
+"Store failed." = "Kaydka waa fashilmay.";
+
+"Let’s explore" = "Aan sahmino";
+
+"PKCE not allowed." = "PKCE lama ogola.";
+
+"Something went wrong." = "Waxbaa qaldamay.";
+
+"Failed to validate id token." = "Lagu guul daraystay in la ansixiyo aqoonsi daliil.";
+
+"Sign in request was cancelled." = "Codsiga galitaanka waa la baajiyey.";
+
+"Let’s invent" = "Aan isla-hindisno";
+
+"Let’s create" = "Aan abuurno";
+
+"No sign in info found. Please sign in." = "Macaluumaad lagu galo lama helin. Fadlan gal.";
+
+"Unknown other error." = "Cillad kale aan la garaneyn.";
+
+"Missing bundle id." = "Maqan aqoonsi bundad.";
+
+"Terms of Use" = "Shuruudaha Isticmaalka";
+
+"No authorization code found." = "Koodh ansixin ah lama helin.";
+
+"Sign in failed" = "Galida waa fashilantay";
+
+"Let’s design" = "Aan naqshadeyno";
+
+"Let’s chit-chat" = "Aan wada-sheekeysano";
+
+"Unknown error." = "Cillad aan la garaneyn.";
+
+"Invalid invite url." = "Casuumaad url qaldan.";
+
+"Let’s brainstorm" = "Aan afkaar-keeno";
+
+"Let’s go" = "Aan bilawno";
+
+"There was a problem saving sign in info. Please try again." = "Dhib ayaa ka jirey kaydinta macaluumaadka lagu galo. Fadlan markale isku day.";
+
+"Privacy Policy" = "Siyaasada Asturnaanta";
+
+"Sign up with email" = "Isku-diiwaangeli iimeyl";
+
+"Let’s discover" = "Aan ogaano";
+
+"There was a problem clearing sign in info. Please try again." = "Dhib ayaa ka jirey tirtirin macaluumaadka lagu galo. Fadlan markale isku day.";
+
+"There was a problem. Please restart the app." = "Dhib baa jirey. Fadlan dib u bilaw abbka.";
+
+"No refresh token found." = "Daliil dib-u-kicin ah lama helin.";
+
+"Request cancelled." = "Codsiga waa la baajiyey.";
+
+"Renew failed." = "Dib-u-cusbooneysiinta waa fashilantay.";
+
+"Revoke failed." = "Ka-noqoshada waa fashilantay.";
+
+"Continue with Google" = "Kusii wad Google";
+

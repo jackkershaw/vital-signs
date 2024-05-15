@@ -1,0 +1,82 @@
+"Attach photos" = "Lampirkan foto";
+
+"You need %@ to continue this chat because it has attachments." = "Anda perlu %@ untuk melanjutkan obrolan ini karena obrolan memiliki lampiran.";
+
+"You need %@ to continue this chat because it uses audio." = "Anda perlu %@ untuk melanjutkan obrolan ini karena obrolan menggunakan audio.";
+
+"You need %@ to continue this chat because it uses tools." = "Anda perlu %@ untuk melanjutkan obrolan ini karena obrolan menggunakan alat.";
+
+"This chat is currently unavailable" = "Obrolan ini saat ini tidak tersedia";
+
+"Remove attachment" = "Hapus lampiran";
+
+"Message ChatGPT" = "Kirim pesan ChatGPT";
+
+"Are you sure?" = "Anda yakin?";
+
+"Stop Generating" = "Berhenti Membuat";
+
+"You've reached your %@ limit." = "Anda telah mencapai batas %@.";
+
+"Replace" = "Ganti";
+
+"Send" = "Kirim";
+
+"Attach files" = "Lampirkan file";
+
+"Attached image" = "Gambar yang dilampirkan";
+
+"You need %@ to continue this chat because it has images." = "Anda perlu %@ untuk melanjutkan obrolan ini karena obrolan memiliki gambar.";
+
+"Edit image" = "Edit gambar";
+
+"Microphone access required" = "Akses mikrofon diperlukan";
+
+"New Message" = "Pesan Baru";
+
+"To continue, you’ll need to replace the current attachment." = "Untuk melanjutkan, Anda nanti perlu mengganti lampiran saat ini.";
+
+"Switch to Voice mode" = "Beralih ke mode Suara";
+
+"Scroll to bottom" = "Gulir ke bawah";
+
+"Fullscreen" = "Layar penuh";
+
+"Dictation" = "Dikte";
+
+"Image upload failed." = "Pengunggahan gambar gagal.";
+
+"Shows the voice recording interface and begins recording" = "Menampilkan antarmuka perekaman suara dan memulai perekaman";
+
+"Replace attachment?" = "Ganti lampiran?";
+
+"Confirm" = "Konfirmasikan";
+
+"Get Plus to Chat" = "Dapatkan Plus untuk Mengobrol";
+
+"You need %@ to continue this chat because this GPT requires it." = "Anda perlu %@ untuk melanjutkan obrolan ini karena GPT ini memerlukannya.";
+
+"Editing message" = "Mengedit pesan";
+
+"Stop" = "Stop";
+
+"This chat uses an older version of your custom instructions" = "Obrolan ini menggunakan versi lama dari instruksi khusus Anda";
+
+"Continue Generating" = "Lanjutkan Membuat";
+
+"Edit selection" = "Edit pilihan";
+
+"Failed, retry?" = "Gagal, coba lagi?";
+
+"If you cancel the text conversion you will lose the recording." = "Jika membatalkan konversi teks, Anda akan kehilangan rekaman.";
+
+"Image attachment failed." = "Pelampiran gambar gagal.";
+
+"Message" = "Pesan";
+
+"File upload failed." = "Pengunggahan file gagal.";
+
+"No connection" = "Tidak ada koneksi";
+
+"Upload File" = "Unggah File";
+

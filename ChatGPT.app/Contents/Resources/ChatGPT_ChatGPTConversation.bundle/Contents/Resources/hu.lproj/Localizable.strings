@@ -1,0 +1,48 @@
+"Rename Chat" = "Csevegés átnevezése";
+
+"Review GPT" = "GPT áttekintése";
+
+"Share" = "Megosztás";
+
+"Unable to load GPT." = "Nem sikerült betölteni a GPT-t.";
+
+"Share GPT" = "GPT megosztása";
+
+"ChatGPT" = "ChatGPT";
+
+"Manage Chat" = "Csevegés kezelése";
+
+"Temporary Chat" = "Ideiglenes csevegés";
+
+"See less" = "Kevesebb mutatása";
+
+"This GPT is no longer available." = "A GPT már nem áll rendelkezésre.";
+
+"Menu" = "Menü";
+
+"%lld more" = "%lld további";
+
+"%@ requires memory to be on. Adjust in **settings**." = "A(z) %@ működéséhez memória szükséges. A **Beállításokban** kezelheted a funkció működését.";
+
+"Explore GPTs" = "GPT-k felfedezése";
+
+"Upgrade Plan" = "Csomag bővítése";
+
+"Archive" = "Archiválás";
+
+"Rename" = "Átnevezés";
+
+"Keep in Sidebar" = "Megtartás az oldalsávon";
+
+"Remove From Sidebar" = "Eltávolítás az oldalsávról";
+
+"No results for **%@**" = "Nincs találat a következőre: **%@**";
+
+"Memory Off" = "Memória kikapcsolva";
+
+"Your workspace owner hasn't approved this GPT" = "A munkaterület-tulajdonos még nem hagyta jóvá ezt a GPT-t";
+
+"ChatGPT %@" = "ChatGPT %@";
+
+"Title" = "Cím";
+

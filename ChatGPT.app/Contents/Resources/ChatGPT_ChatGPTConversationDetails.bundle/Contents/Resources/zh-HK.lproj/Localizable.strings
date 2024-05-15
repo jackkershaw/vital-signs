@@ -1,0 +1,52 @@
+"Custom instructions" = "自訂說明";
+
+"No connected accounts are available for this GPT." = "此 GPT 沒有可用的已連線帳戶。";
+
+"Privacy Policy" = "私隱政策";
+
+"Privacy & Safety" = "私隱與安全";
+
+"Are you sure you want to log out of %@?" = "確定要登出 %@ 嗎？";
+
+"Model Info" = "模型資訊";
+
+"Report Conversation" = "舉報對話";
+
+"Failed to update setting, retry?" = "更新設定失敗，要重試嗎？";
+
+"Always" = "總是";
+
+"No actions are available for this GPT" = "此 GPT 沒有可用的動作";
+
+"Actions" = "動作";
+
+"Capabilities" = "功能";
+
+"Report GPT" = "舉報 GPT";
+
+"Description" = "描述";
+
+"Error loading action settings" = "載入動作設定時出錯";
+
+"Please try again later.\n\n(%@)" = "請稍後重試。\n\n（%@）";
+
+"Accounts" = "帳戶";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "管理 %@ 可以存取哪些第三方帳戶。";
+
+"Ask" = "詢問";
+
+"Connected Accounts" = "已連線的帳戶";
+
+"Report" = "舉報";
+
+"Select which websites are allowed to see data from conversations with %@." = "選取允許哪些網站查看與 %@ 對話中的資料。";
+
+"None" = "無";
+
+"Error loading connected accounts.\n\n(%@)" = "載入已連線的帳戶時出錯。\n\n（%@）";
+
+"Confirm Logout" = "確認登出";
+
+"This chat uses an older version of your custom instructions." = "此聊天使用您自訂指示較舊的版本。";
+

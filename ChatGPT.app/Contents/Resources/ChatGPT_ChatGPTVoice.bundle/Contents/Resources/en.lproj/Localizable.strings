@@ -1,0 +1,252 @@
+/* No comment provided by engineer. */
+"%lld." = "%lld.";
+
+/* No comment provided by engineer. */
+"%lldms" = "%lldms";
+
+/* No comment provided by engineer. */
+"•" = "•";
+
+/* No comment provided by engineer. */
+"Audio issues" = "Audio issues";
+
+/* No comment provided by engineer. */
+"Choose a voice" = "Choose a voice";
+
+/* No comment provided by engineer. */
+"Click to activate" = "Click to activate";
+
+/* No comment provided by engineer. */
+"Click to cancel" = "Click to cancel";
+
+/* No comment provided by engineer. */
+"Click to connect" = "Click to connect";
+
+/* No comment provided by engineer. */
+"Click to interrupt" = "Click to interrupt";
+
+/* No comment provided by engineer. */
+"Click to send manually" = "Click to send manually";
+
+/* No comment provided by engineer. */
+"Close" = "Close";
+
+/* No comment provided by engineer. */
+"Connect" = "Connect";
+
+/* No comment provided by engineer. */
+"Connected" = "Connected";
+
+/* No comment provided by engineer. */
+"Connecting" = "Connecting";
+
+/* No comment provided by engineer. */
+"Connecting." = "Connecting.";
+
+/* No comment provided by engineer. */
+"Connecting.." = "Connecting..";
+
+/* No comment provided by engineer. */
+"Connection failed, click to retry" = "Connection failed, click to retry";
+
+/* No comment provided by engineer. */
+"Connection failed, tap to retry" = "Connection failed, tap to retry";
+
+/* No comment provided by engineer. */
+"Enable microphone access in Settings" = "Enable microphone access in Settings";
+
+/* No comment provided by engineer. */
+"Error: '%@'" = "Error: '%@'";
+
+/* No comment provided by engineer. */
+"Excellent" = "Excellent";
+
+/* No comment provided by engineer. */
+"Failed to connect" = "Failed to connect";
+
+/* No comment provided by engineer. */
+"Finish speaking to send" = "Finish speaking to send";
+
+/* No comment provided by engineer. */
+"Flip camera to the front" = "Flip camera to the front";
+
+/* No comment provided by engineer. */
+"Flip camera to the rear" = "Flip camera to the rear";
+
+/* No comment provided by engineer. */
+"Go backward 15 seconds" = "Go backward 15 seconds";
+
+/* No comment provided by engineer. */
+"Go forward 15 seconds" = "Go forward 15 seconds";
+
+/* No comment provided by engineer. */
+"Good" = "Good";
+
+/* No comment provided by engineer. */
+"Grace Period for %@s" = "Grace Period for %@s";
+
+/* No comment provided by engineer. */
+"Halted" = "Halted";
+
+/* No comment provided by engineer. */
+"Helping improve voice" = "Helping improve voice";
+
+/* No comment provided by engineer. */
+"Hold for manual control" = "Hold for manual control";
+
+/* No comment provided by engineer. */
+"I didn’t like the responses" = "I didn’t like the responses";
+
+/* No comment provided by engineer. */
+"Idle" = "Idle";
+
+/* No comment provided by engineer. */
+"It interrupted me" = "It interrupted me";
+
+/* No comment provided by engineer. */
+"It misheard me" = "It misheard me";
+
+/* No comment provided by engineer. */
+"Learn more" = "Learn more";
+
+/* No comment provided by engineer. */
+"Listening" = "Listening";
+
+/* No comment provided by engineer. */
+"Listening intently" = "Listening intently";
+
+/* No comment provided by engineer. */
+"Lost" = "Lost";
+
+/* No comment provided by engineer. */
+"On for training" = "On for training";
+
+/* No comment provided by engineer. */
+"Open camera" = "Open camera";
+
+/* No comment provided by engineer. */
+"Other" = "Other";
+
+/* No comment provided by engineer. */
+"Pause" = "Pause";
+
+/* No comment provided by engineer. */
+"Paused" = "Paused";
+
+/* No comment provided by engineer. */
+"Pick photo" = "Pick photo";
+
+/* No comment provided by engineer. */
+"Play" = "Play";
+
+/* No comment provided by engineer. */
+"Poor" = "Poor";
+
+/* No comment provided by engineer. */
+"Poor connection" = "Poor connection";
+
+/* No comment provided by engineer. */
+"Release to send" = "Release to send";
+
+/* No comment provided by engineer. */
+"Restart" = "Restart";
+
+/* No comment provided by engineer. */
+"Resume listening" = "Resume listening";
+
+/* No comment provided by engineer. */
+"Save to Photos" = "Save to Photos";
+
+/* No comment provided by engineer. */
+"See more information about voice research" = "See more information about voice research";
+
+/* No comment provided by engineer. */
+"Select %@" = "Select %@";
+
+/* No comment provided by engineer. */
+"Select all that apply" = "Select all that apply";
+
+/* No comment provided by engineer. */
+"Speak now" = "Speak now";
+
+/* No comment provided by engineer. */
+"Speak to keep active" = "Speak to keep active";
+
+/* No comment provided by engineer. */
+"Speaking" = "Speaking";
+
+/* No comment provided by engineer. */
+"Start speaking" = "Start speaking";
+
+/* No comment provided by engineer. */
+"Stop listening" = "Stop listening";
+
+/* No comment provided by engineer. */
+"Submit feedback" = "Submit feedback";
+
+/* No comment provided by engineer. */
+"Take picture" = "Take picture";
+
+/* No comment provided by engineer. */
+"Tap to activate" = "Tap to activate";
+
+/* No comment provided by engineer. */
+"Tap to cancel" = "Tap to cancel";
+
+/* No comment provided by engineer. */
+"Tap to connect" = "Tap to connect";
+
+/* No comment provided by engineer. */
+"Tap to dismiss" = "Tap to dismiss";
+
+/* No comment provided by engineer. */
+"Tap to interrupt" = "Tap to interrupt";
+
+/* No comment provided by engineer. */
+"Tap to send manually" = "Tap to send manually";
+
+/* No comment provided by engineer. */
+"Thank you!" = "Thank you!";
+
+/* No comment provided by engineer. */
+"Thinking" = "Thinking";
+
+/* No comment provided by engineer. */
+"Unable to review action" = "Unable to review action";
+
+/* No comment provided by engineer. */
+"Unable to send response. Please try again." = "Unable to send response. Please try again.";
+
+/* No comment provided by engineer. */
+"Unknown" = "Unknown";
+
+/* No comment provided by engineer. */
+"Unknown error" = "Unknown error";
+
+/* No comment provided by engineer. */
+"Unselect %@" = "Unselect %@";
+
+/* No comment provided by engineer. */
+"Voice chat ended" = "Voice chat ended";
+
+/* No comment provided by engineer. */
+"Voice chat ended after " = "Voice chat ended after ";
+
+/* No comment provided by engineer. */
+"Voice feedback: give thumbs down" = "Voice feedback: give thumbs down";
+
+/* No comment provided by engineer. */
+"Voice feedback: give thumbs up" = "Voice feedback: give thumbs up";
+
+/* No comment provided by engineer. */
+"Voice mode" = "Voice mode";
+
+/* No comment provided by engineer. */
+"What went wrong?" = "What went wrong?";
+
+/* No comment provided by engineer. */
+"You can change this later." = "You can change this later.";
+
+/* No comment provided by engineer. */
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings.";
+

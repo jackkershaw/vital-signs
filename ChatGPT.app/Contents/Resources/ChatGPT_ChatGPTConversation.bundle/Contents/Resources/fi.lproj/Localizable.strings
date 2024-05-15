@@ -1,0 +1,48 @@
+"Keep in Sidebar" = "Säilytä sivupalkissa";
+
+"Share" = "Jaa";
+
+"ChatGPT" = "ChatGPT";
+
+"Upgrade Plan" = "Päivitä sopimus";
+
+"No results for **%@**" = "Haulle **%@** ei ole tuloksia";
+
+"%@ requires memory to be on. Adjust in **settings**." = "%@ vaatii muistin olevan päällä. Muuta **asetuksissa**.";
+
+"Manage Chat" = "Keskustelun hallinta";
+
+"Share GPT" = "Jaa GPT";
+
+"See less" = "Näytä vähemmän";
+
+"Menu" = "Valikko";
+
+"Rename" = "Nimeä uudelleen";
+
+"Temporary Chat" = "Väliaikainen keskustelu";
+
+"Rename Chat" = "Nimeä keskustelu uudelleen";
+
+"Review GPT" = "Arvostele GPT";
+
+"Remove From Sidebar" = "Poista sivupalkista";
+
+"Title" = "Otsikko";
+
+"%lld more" = "%lld lisää";
+
+"Explore GPTs" = "Tutustu GPT:ihin";
+
+"Archive" = "Arkistoi";
+
+"Memory Off" = "Muisti pois päältä";
+
+"Your workspace owner hasn't approved this GPT" = "Työtilasi omistaja ei ole hyväksynyt tätä GPT:tä";
+
+"Unable to load GPT." = "GPT:tä ei voitu ladata.";
+
+"ChatGPT %@" = "ChatGPT %@";
+
+"This GPT is no longer available." = "Tämä GPT ei ole enää saatavilla.";
+

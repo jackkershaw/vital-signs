@@ -1,0 +1,74 @@
+"Loading…" = "ಲೋಡ್ ಆಗುತ್ತಿದೆ...";
+
+"Please try again later.%@" = "ದಯವಿಟ್ಟು ನಂತರ ಪ್ರಯತ್ನಿಸಿ. %@";
+
+"Selection" = "ಆಯ್ಕೆ";
+
+"Stop Generating" = "ಉತ್ಪಾದಿಸುವುದನ್ನು ನಿಲ್ಲಿಸಿ";
+
+"Upgraded response" = "ಉನ್ನತೀಕರಿಸಿದ ಪ್ರತಿಕ್ರಿಯೆ";
+
+"Save File As…" = "ಫೈಲ್ಅನ್ನು ಹೀಗೆ ಉಳಿಸಿ...";
+
+"Regenerate" = "ಮರುರಚಿಸು";
+
+"\"%@\" column" = "\"%@\" ಕಾಲಮ್";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "ಈ ಕಡತ ಇನ್ನು ಮುಂದೆ ಲಭ್ಯವಿರುವುದಿಲ್ಲ. ನಿಮ್ಮ ಸಂಭಾಶಣೆಯನ್ನು ಮುಂದುವರೆಸಲು ಹೊಸ ಸಂಭಾಶಣೆ ಶುರುಮಾಡಿ ಅಥವಾ ಹೊಸ ಕಡತವನ್ನು ಅಪ್ಲೋಡ್ ಮಾಡಿ.";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "^[%lld ಲಗತ್ತುಗಳನ್ನು ಅಪ್ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ ](inflect: true)…";
+
+"Manage memories" = "ಮೆಮೊರಿಯನ್ನು ನಿರ್ವಹಿಸಿ";
+
+"Change Model" = "ಮಾದರಿ ಬದಲಿಸಿ";
+
+"Continue Generating" = "ರಚಿಸುವುದನ್ನು ಮುಂದುವರಿಸಿ";
+
+"Quick Look" = "ತ್ವರಿತ ನೋಟ";
+
+"\"%@\" cell" = "\"%@\" ಸೆಲ್";
+
+"Always allow" = "ಯಾವಾಗಲೂ ಅನುಮತಿಸಿ";
+
+"Your most recent request failed. Please retry!" = "ನಿಮ್ಮ ಇತ್ತೀಚಿನ ವಿನಂತಿಯು ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ.";
+
+"File expired" = "ಕಡತ ಅವಧಿ ಮುಗಿದಿದೆ";
+
+"Memories updated" = "ಮೆಮೊರಿಗಳನ್ನು ನವೀಕರಿಸಲಾಗಿದೆ";
+
+"Sign in to %@" = "%@ಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ";
+
+"A GPT" = "ಒಂದು GPT";
+
+"Read Aloud" = "ಜೋರಾಗಿ ಓದು";
+
+"Deny" = "ನಿರಾಕರಿಸು";
+
+"File unavailable" = "ಕಡತ ಲಭ್ಯವಿಲ್ಲ";
+
+"Select Text" = "ಪಠ್ಯವನ್ನು ಸೆಲೆಕ್ಟ್ ಮಾಡಿ";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "ChatGPT ಪ್ಲಸ್ ನಲ್ಲಿ ಲಭ್ಯವಿರುವ ನಮ್ಮ ಅತ್ಯಂತ ಸಮರ್ಥ ಮಾದರಿ, GPT-4 ನೊಂದಿಗೆ ಬರೆಯಲಾಗಿದೆ";
+
+"Edit" = "ಸಂಪಾದಿಸಿ";
+
+"Analysis" = "ವಿಶ್ಲೇಷಣೆ";
+
+"Bad" = "ಕೆಟ್ಟದು";
+
+"You" = "ನೀವು";
+
+"#%lld row" = "#%lld ಅಡ್ಡಸಾಲು";
+
+"Failed, retry?" = "ವಿಫಲವಾಗಿದೆ, ಮರುಪ್ರಯತ್ನಿಸುವುದೇ?";
+
+"Response rating failed." = "ಪ್ರತಿಕ್ರಿಯೆ ರೇಟಿಂಗ್ ವಿಫಲವಾಗಿದೆ.";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT ಕಡತ‌ಗಳನ್ನು ಕೇವಲ ನಿರ್ದಿಷ್ಟ ಸಮಯದವರೆಗೆ ಮಾತ್ರ ಇಟ್ಟುಕೊಳ್ಳುತ್ತದೆ. ನಿಮ್ಮ ಸಂಭಾಶಣೆಯನ್ನು ಮುಂದುವರೆಸಲು ಹೊಸ ಸಂಭಾಶಣೆ ಶುರುಮಾಡಿ ಅಥವಾ ಹೊಸ ಕಡತವನ್ನು ಅಪ್ಲೋಡ್ ಮಾಡಿ.";
+
+"How would you rate this GPT?" = "ಈ GPT ಅನ್ನು ನೀವು ಹೇಗೆ ರೇಟ್ ಮಾಡುತ್ತೀರಿ?";
+
+"Memory updated" = "ಮೆಮೊರಿಯನ್ನು ನವೀಕರಿಸಲಾಗಿದೆ";
+
+"Decline" = "ನಿರಾಕರಿಸು";
+

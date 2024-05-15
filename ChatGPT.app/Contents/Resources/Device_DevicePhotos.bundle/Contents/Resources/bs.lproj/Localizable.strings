@@ -1,0 +1,16 @@
+"Enable photo library access in Settings to save photos." = "Omogućite pristup foto galeriji u Podešavanjima kako biste mogli sačuvati fotografije.";
+
+"Expected a non-file URL, but received a file URL" = "Očekivana URL adresa bez datoteke, ali je učitana URL adresa s datotekom";
+
+"Photos Access Denied" = "Pristup kameri odbijen";
+
+"Expected a file URL, but received a non-file URL" = "Očekivana URL adresa s datotekom, ali je učitana URL adresa bez datoteke";
+
+"Failed to Save Image" = "Spremanje slike nije uspjelo";
+
+"Please try again later.\n\n(%@)" = "Pokušajte ponovo kasnije.\n\n(%@)";
+
+"Not authorized" = "Nije dozvoljeno";
+
+"Image conversion failed" = "Konverzija slike nije uspjela";
+

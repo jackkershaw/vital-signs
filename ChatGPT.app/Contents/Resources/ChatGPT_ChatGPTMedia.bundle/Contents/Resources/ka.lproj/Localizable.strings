@@ -1,0 +1,70 @@
+"Next" = "შემდეგი";
+
+"Camera access is restricted on this device. Please check your parental control or system settings." = "კამერაზე წვდომა შეზღუდულია ამ მოწყობილობაზე. შეამოწმეთ მშობელთა კონტროლის ან სისტემური პარამეტრები.";
+
+"Copied" = "დაკოპირდა";
+
+"The file was not found." = "ფაილი არ იძებნება.";
+
+"Good response" = "კარგი პასუხი";
+
+"Select an area to edit" = "აირჩიეთ ნაწილი რედაქტირებისთვის";
+
+"Redo" = "მოქმედების გამეორება";
+
+"Undo" = "მოქმედების გაუქმება";
+
+"Pick photo" = "აირჩიეთ ფოტო";
+
+"View prompt" = "მოთხოვნის ნახვა";
+
+"Image saved" = "სურათი შენახულია";
+
+"Flash on, tap to toggle off" = "ფლეში ჩართულია, შეეხეთ გადამრთველს გამოსართავად";
+
+"Camera Access Restricted" = "კამერაზე წვდომა შეზღუდულია";
+
+"Failed to load image" = "სურათის ჩატვირთვა ვერ მოხერხდა";
+
+"Camera Access Denied" = "კამერაზე წვდომა უარყოფილია";
+
+"The file download failed. Please try again later." = "ფაილის გადმოწერა ვერ მოხერხდა. სცადეთ მოგვიანებით.";
+
+"This file has expired." = "ფაილი ვადაგასულია.";
+
+"Learn more" = "ვრცლად";
+
+"Back" = "უკან";
+
+"Bad response" = "ცუდი პასუხი";
+
+"Thank you for your feedback!" = "გმადლობთ უკუკავშირისთვის!";
+
+"Enable camera access in Settings to take photos." = "გაააქტიურეთ კამერაზე წვდომა პარამეტრებიდან ფოტოების გადასაღებად.";
+
+"More" = "მეტი";
+
+"This file is not available." = "ფაილი ხელმისაწვდომი არ არის.";
+
+"Rear camera selected, tap to toggle to front" = "არჩეულია ძირითადი კამერა, შეეხეთ გადამრთველს წინა კამერის ასარჩევად";
+
+"Download complete" = "ჩამოტვირთვა დასრულებულია";
+
+"Annotate" = "ანოტირება";
+
+"Flash off, tap to toggle to auto" = "ფლეში გამორთულია, შეეხეთ გადამრთველს ავტომატურ რეჟიმზე გადასართავად";
+
+"Select camera device" = "კამერის მქონე მოწყობილობის არჩევა";
+
+"Flash auto, tap to toggle on" = "ავტომატური ფლეში, შეეხეთ ჩასართავად";
+
+"Front camera selected, tap to toggle to rear" = "არჩეულია წინა კამერა, შეეხეთ გადამრთველს ძირითადი კამერის ასარჩევად";
+
+"Dismiss" = "დახურვა";
+
+"Prompt" = "მოთხოვნა";
+
+"Select" = "არჩევა";
+
+"Annotate by drawing on the image" = "დატოვეთ ანოტაცია სურათზე დახატვის გზით";
+

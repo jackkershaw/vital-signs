@@ -1,0 +1,18 @@
+"The server is having problems. Please try again later. (%lld, %@)" = "Pelayan sedang menghadapi masalah. Sila cuba sebentar lagi. (%lld, %@)";
+
+"The response is invalid. Please try again." = "Tindak balas tidak sah. Sila cuba lagi.";
+
+"Unsupported content" = "Kandungan tidak disokong";
+
+"There is a problem with your request. (%lld, %@)" = "Terdapat masalah dengan permintaan anda. (%lld, %@)";
+
+"The server is overloaded. Please try again later." = "Pelayan mengalami beban berlebihan. Sila cuba sebentar lagi.";
+
+"You've made too many requests. Please try again later. (429, %@)" = "Anda telah membuat terlalu banyak permintaan. Sila cuba sebentar lagi. (429, %@)";
+
+"There is a problem with your account info. Please try signing out then in." = "Terdapat masalah dengan maklumat akaun anda. Sila cuba log keluar, kemudian log masuk semula.";
+
+"System error" = "Ralat sistem";
+
+"This content may violate our content policy. Please try again with different content." = "Kandungan ini mungkin melanggar dasar kandungan kami. Sila cuba lagi dengan kandungan berbeza.";
+

@@ -1,0 +1,82 @@
+"Edit image" = "تحرير الصورة";
+
+"Shows the voice recording interface and begins recording" = "يعرض واجهة تسجيل الصوت ويبدأ في التسجيل";
+
+"Message" = "رسالة";
+
+"No connection" = "لا يوجد اتصال";
+
+"You need %@ to continue this chat because it uses audio." = "تحتاج إلى %@ لمتابعة هذه الدردشة حيث يوجد بها مقاطع صوتية.";
+
+"To continue, you’ll need to replace the current attachment." = "للمتابعة، سيتعين عليك استبدال المرفقات الحالية.";
+
+"Upload File" = "تحميل ملف";
+
+"Edit selection" = "تحرير التحديد";
+
+"Attach files" = "أرفق ملفات";
+
+"You need %@ to continue this chat because it has images." = "تحتاج إلى %@ لمتابعة هذه الدردشة حيث يوجد بها صور.";
+
+"Image upload failed." = "تعذر تحميل الصورة.";
+
+"New Message" = "رسالة جديدة";
+
+"Send" = "إرسال";
+
+"You need %@ to continue this chat because it has attachments." = "تحتاج إلى %@ لمتابعة هذه الدردشة حيث يوجد بها مرفقات.";
+
+"This chat uses an older version of your custom instructions" = "تستخدم هذه الدردشة نسخة قديمة من التعليمات المخصصة الخاصة بك";
+
+"Replace" = "استبدال";
+
+"Scroll to bottom" = "التمرير إلى الأسفل";
+
+"Remove attachment" = "إزالة المرفقات";
+
+"File upload failed." = "تعذر تحميل الملف.";
+
+"You've reached your %@ limit." = "لقد وصلت للحد %@ المسموح لك.";
+
+"Are you sure?" = "هل أنت متأكد؟";
+
+"Editing message" = "تحرير الرسالة";
+
+"Stop" = "إيقاف";
+
+"Message ChatGPT" = "اكتب رسالة لـ ChatGPT";
+
+"You need %@ to continue this chat because it uses tools." = "تحتاج إلى %@ لمتابعة هذه الدردشة حيث يتم استخدام أدوات فيها.";
+
+"Get Plus to Chat" = "اشترك في Plus للدردشة";
+
+"Failed, retry?" = "تعذر التنفيذ، هل ترغب في إعادة المحاولة؟";
+
+"Microphone access required" = "يتطلب إمكانية الوصول إلى الميكروفون";
+
+"Switch to Voice mode" = "التحويل إلى وضع الصوت";
+
+"You need %@ to continue this chat because this GPT requires it." = "تحتاج إلى %@ لمتابعة هذه الدردشة لأن نموذج GPT هذا يتطلبها.";
+
+"Image attachment failed." = "تعذر إرفاق الصورة.";
+
+"Fullscreen" = "ملء الشاشة";
+
+"Dictation" = "إملاء";
+
+"Continue Generating" = "مواصلة الإجابة";
+
+"Stop Generating" = "إيقاف الإجابة";
+
+"Attach photos" = "أرفق صور";
+
+"Replace attachment?" = "هل ترغب في استبدال المرفقات؟";
+
+"This chat is currently unavailable" = "هذه الدردشة غير متاحة حاليًا";
+
+"Attached image" = "الصورة التي تم إرفاقها";
+
+"Confirm" = "تأكيد";
+
+"If you cancel the text conversion you will lose the recording." = "في حالة إلغاء تحويل الكلام إلى نص ستفقد هذا التسجيل.";
+

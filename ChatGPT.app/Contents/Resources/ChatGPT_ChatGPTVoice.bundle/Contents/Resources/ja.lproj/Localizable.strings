@@ -1,0 +1,170 @@
+"Click to cancel" = "クリックしてキャンセルする";
+
+"Voice chat ended" = "ボイス チャットを終了しました";
+
+"See more information about voice research" = "音声リサーチについてもっと見る";
+
+"Restart" = "再起動";
+
+"Helping improve voice" = "音声の改善への貢献";
+
+"Unselect %@" = "%@ を選択解除する";
+
+"Voice feedback: give thumbs up" = "音声フィードバック: いいね";
+
+"Release to send" = "送信するには指を離します";
+
+"Other" = "その他";
+
+"Thinking" = "考えています";
+
+"Go forward 15 seconds" = "15 秒先に進む";
+
+"Unknown" = "不明";
+
+"Excellent" = "素晴らしい";
+
+"Connection failed, click to retry" = "接続できませんでした。クリックしてもう一度お試しください";
+
+"Click to interrupt" = "クリックして中断する";
+
+"Connecting.." = "接続しています。";
+
+"%lld." = "%lld。";
+
+"Open camera" = "カメラを起動する";
+
+"Close camera" = "カメラを終了する";
+
+"Tap to connect" = "接続するにはタップします";
+
+"On for training" = "学習用にオン";
+
+"Go backward 15 seconds" = "15 秒前に戻る";
+
+"Unable to review action" = "アクションをレビューできません";
+
+"Save to Photos" = "写真に保存する";
+
+"Stop listening" = "聞くのをやめる";
+
+"Flip camera to the front" = "前面のカメラに切り替えます";
+
+"Lost" = "失われました";
+
+"Paused" = "一時停止しました";
+
+"Tap to cancel" = "キャンセルするにはタップします";
+
+"It interrupted me" = "割り込まれました";
+
+"Click to send manually" = "クリックして手動で送信する";
+
+"Connected" = "接続しました";
+
+"Choose a voice" = "音声を選択してください";
+
+"Unable to send response. Please try again." = "回答を送信できません。もう一度お試しください。";
+
+"Learn more" = "詳細を見る";
+
+"Connecting" = "接続しています";
+
+"Error: '%@'" = "エラー: %@";
+
+"Grace Period for %@s" = "%@ 秒の猶予期間";
+
+"Click to connect" = "クリックして接続する";
+
+"Connect" = "接続する";
+
+"Speaking" = "話しています";
+
+"Flip camera to the rear" = "背面のカメラに切り替えます";
+
+"Listening intently" = "熱心に聞いています";
+
+"Finish speaking to send" = "送信するには話を終了します";
+
+"Close" = "閉じる";
+
+"Audio issues" = "音声の問題";
+
+"Play" = "再生";
+
+"Hold for manual control" = "手動操作を行うには押し続けます";
+
+"Listening" = "聞いています";
+
+"Submit feedback" = "フィードバックを送信する";
+
+"Poor connection" = "接続の品質が悪い";
+
+"Connecting." = "接続しています。";
+
+"Enable microphone access in Settings" = "[設定] でマイクへのアクセスを有効にする";
+
+"Tap to dismiss" = "閉じるにはタップします";
+
+"Pause" = "一時停止";
+
+"Good" = "良い";
+
+"Pick photo" = "写真を選択";
+
+"%lldms" = "%lld ミリ秒";
+
+"Resume listening" = "聞くのを再開する";
+
+"What went wrong?" = "どのような問題がありましたか？";
+
+"Start speaking" = "話し始める";
+
+"Voice mode" = "音声モード";
+
+"Idle" = "アイドル状態";
+
+"Connection failed, tap to retry" = "接続に失敗しました。もう一度実行するにはタップしてください";
+
+"Tap to interrupt" = "中断するにはタップします";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "モデルの改善と学習のために、ボイス チャットから音声を共有することを選択しました。これには、モデルが考えたり話したりしているときのマイクからの音声が含まれます。[設定] で共有を停止できます。";
+
+"Select %@" = "%@ を選択する";
+
+"Tap to send manually" = "手動で送信するにはタップします";
+
+"Tap to activate" = "有効にするにはタップします";
+
+"Poor" = "悪い";
+
+"Select all that apply" = "当てはまるものをすべて選択してください";
+
+"Failed to connect" = "接続できませんでした";
+
+"It misheard me" = "聞き間違いをされました";
+
+"•" = "•";
+
+"Take picture" = "写真を撮る";
+
+"I didn’t like the responses" = "回答が好ましくありません";
+
+"Speak to keep active" = "話している間は有効になります";
+
+"Voice feedback: give thumbs down" = "音声フィードバック: よくないね";
+
+"Halted" = "停止しました";
+
+"Thank you!" = "ありがとうございます。";
+
+"You can change this later." = "この設定は後で変更できます。";
+
+"Unknown error" = "不明なエラー";
+
+"Click to activate" = "クリックして有効にする";
+
+"Voice chat ended after " = "次の後にボイス チャットを終了しました: ";
+
+"Speak now" = "今話してください";
+

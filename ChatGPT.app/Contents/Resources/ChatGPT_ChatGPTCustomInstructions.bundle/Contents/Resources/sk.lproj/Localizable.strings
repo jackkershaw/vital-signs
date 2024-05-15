@@ -1,0 +1,52 @@
+"Keep editing" = "Pokračovať v úpravách";
+
+"Error updating state for customizations. Please try again later." = "Pri aktualizácii stavu prispôsobení sa vyskytla chyba. Skús to znova neskôr.";
+
+"Execute code using Code Interpreter" = "Spustiť kód pomocou funkcie Code Interpreter";
+
+"Code" = "Kód";
+
+"Thought starters" = "Inšpirácie";
+
+"Save" = "Uložiť";
+
+"Error saving custom instructions" = "Pri ukladaní vlastných pokynov sa vyskytla chyba.";
+
+"Generate images using DALL•E" = "Generovať obrázky pomocou modelu DALL•E";
+
+"GPT-4 Capabilities" = "Možnosti modelu GPT-4";
+
+"DALL•E" = "DALL•E";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Vlastné pokyny sa aplikujú vo všetkých nových četoch. [Ďalšie informácie](chat-preferences-disclosures)";
+
+"Browsing" = "Prehľadávanie";
+
+"Show tips" = "Zobraziť tipy";
+
+"Custom Instructions Enabled or Disabled" = "Vlastné pokyny sú povolené alebo zakázané";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Naozaj chceš zrušiť zmeny?\nPrídeš o všetky vykonané zmeny.";
+
+"Customize ChatGPT" = "Prispôsobiť ChatGPT";
+
+"Error loading customizations. Please try again later." = "Pri načítavaní prispôsobení sa vyskytla chyba. Skús to znova neskôr.";
+
+"An unknown error occurred. Please try again later" = "Vyskytla sa neznáma chyba. Skús to znova neskôr.";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Čo chceš, aby model ChatGPT o tebe vedel, aby mohol poskytovať lepšie odpovede?";
+
+"Choose which tools can be used with GPT-4." = "Vyber, ktoré nástroje možno používať s modelom GPT-4.";
+
+"Saving Custom Instructions" = "Ukladanie vlastných pokynov";
+
+"Unsaved changes" = "Neuložené zmeny";
+
+"Browse the internet to find answers" = "Vyhľadávať odpovede na internete";
+
+"Discard changes" = "Zrušiť zmeny";
+
+"Enable for new chats" = "Povoliť pre nové čety";
+
+"How would you like ChatGPT to respond?" = "Ako chceš, aby ChatGPT odpovedal?";
+

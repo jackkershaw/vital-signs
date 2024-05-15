@@ -1,0 +1,178 @@
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "Hesabını silmek, aktif olan uygulama içi aboneliklerini iptal etmeyecektir. Bu abonelikleri Apple Kimliği ayarlarından iptal edebilirsin.";
+
+"Error deleting all chats" = "Tüm sohbetleri silme hatası";
+
+"Off" = "Kapalı";
+
+"Manage workspace" = "Çalışma alanını yönet";
+
+"Export Data" = "Verileri Dışarı Aktar";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Bu aygıttaki yeni sohbetleri geçmişine kaydet ve modellerimizi iyileştirmek için kullanılmalarına izin ver. Kaydedilmeyen sohbetler 30 gün içinde sistemlerimizden silinecektir. Bu ayar aygıtlar arasında senkronize olmaz. [Daha fazlasını öğren](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Chat history" = "Sohbet geçmişi";
+
+"We were unable to process your export at this time. Please try again later." = "Şu anda dışarı aktarma işlemini gerçekleştiremiyoruz. Lütfen daha sonra tekrar dene.";
+
+"Terms of Use" = "Kullanım Şartları";
+
+"Could not archive all chats" = "Tüm sohbetler arşivlenemedi";
+
+"Data Controls" = "Veri Kontrolleri";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "ChatGPT, sohbet ettikçe yanıtların sana özel olması için ayrıntıları ve tercihleri öğrenerek daha faydalı hale gelecek. [Daha fazlasını öğren](%@)\n\nChatGPT'nin neleri hatırlayabildiğini anlamak veya ona yeni bir şey öğretmek için onunla sohbet et:\n\n• \"Kısa yanıtları sevdiğimi unutma.\"\n• \"Yeni bir yavru köpek aldım!\"\n• \"Benim hakkımda ne hatırlıyorsun?\"\n• \"Son projemde nerede kalmıştık?\"";
+
+"Recent login required" = "Yakın zamanda oturum açılmış olması gerekir";
+
+"Archived conversations will be available here" = "Arşivlenmiş konuşmalara buradan ulaşabilirsin";
+
+"Error updating setting. Please try again later" = "Ayar güncelleme hatası. Lütfen daha sonra tekrar dene";
+
+"Confirm Export" = "Dışarı Aktarmayı Onayla";
+
+"Light" = "Aydınlık";
+
+"Color Scheme" = "Renk Düzeni";
+
+"All your chats will be cleared from history. This cannot be undone." = "Tüm sohbetlerin geçmişten silinecek. Bu geri alınamaz.";
+
+"None" = "Yok";
+
+"Subscription Cancellation" = "Abonelik İptali";
+
+"Successfully exported data. You should receive an email shortly with your data." = "Veriler başarıyla dışarı aktarıldı. Kısa süre sonra verilerini içeren bir e-posta alacaksın.";
+
+"Keyboard Shortcut" = "Klavye Kısayolu";
+
+"Manage Memory" = "Belleği Yönet";
+
+"Haptic Feedback" = "Dokunsal Geri Bildirim";
+
+"ChatGPT Enterprise" = "ChatGPT Enterprise";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "En iyi sonucu almak için ana dilini seç. Listede görünmüyorsa da otomatik algılama yoluyla desteklenebilir.";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "İçeriğinin modellerimizi eğitmek için kullanılmasına izin ver. Bu, ChatGPT’yi senin ve kullanan herkes için daha iyi hale getirecek. Gizliliğini korumak için gereken adımları atıyoruz. [Daha fazlasını öğren](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Delete Account" = "Hesabı Sil";
+
+"Your account has been queued for deletion." = "Hesabın silinmek üzere sıraya alındı.";
+
+"This workspace is private and opted out of training." = "Bu çalışma alanı özel ve eğitim kapsamı dışında.";
+
+"Voice" = "Ses";
+
+"Help" = "Yardım";
+
+"Manage Subscriptions" = "Abonelikleri Yönet";
+
+"Desktop Launcher" = "Masaüstü Başlatıcı";
+
+"Main Language" = "Ana Dil";
+
+"Privacy Policy" = "Gizlilik Politikası";
+
+"We couldn't load your archived chats" = "Arşivlenmiş sohbetlerini yükleyemedik";
+
+"Improve voice for everyone" = "Herkes için sesi iyileştir";
+
+"ChatGPT Team" = "ChatGPT Team";
+
+"Customize ChatGPT" = "ChatGPT’yi özelleştir";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "Bu aboneliği başka bir platformdan satın aldığın için bu uygulama üzerinden aboneliğinde değişiklik yapamazsın.";
+
+"About" = "Hakkında";
+
+"System" = "Sistem";
+
+"New Features" = "Yeni Özellikler";
+
+"Conversation not found" = "Konuşma bulunamadı";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Modellerimizi iyileştirmek ve eğitmek için gelecekteki sohbetlerden ses paylaş. Bu, herkes için sesli sohbetlerin kalitesini artırır. [Daha fazlasını öğren](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"App" = "Uygulama";
+
+"Always show ChatGPT in dock" = "ChatGPT’yi her zaman dock’ta göster";
+
+"Search Archive" = "Arşivi Ara";
+
+"On" = "Açık";
+
+"Could not delete conversation. Please try again later." = "Konuşma silinemedi. Lütfen daha sonra tekrar dene.";
+
+"Keep ChatGPT on top" = "ChatGPT’yi üstte tut";
+
+"ChatGPT for %@" = "%@ için ChatGPT";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "Hesap bilgilerin ve konuşmaların dışarı aktarıma dahil edilecektir. \n\nVeriler indirilebilir bir dosya halinde kayıtlı e-posta adresine gönderilecektir. \n\nİşlem biraz zaman alabilir. Hazır olduğunda bilgi vereceğiz.";
+
+"Yesterday" = "Dün";
+
+"ChatGPT Plus" = "ChatGPT Plus";
+
+"Subscription" = "Abonelik";
+
+"Free Plan" = "Free Planı";
+
+"App Language" = "Uygulama Dili";
+
+"Delete All Chats" = "Tüm Sohbetleri Sil";
+
+"Restore purchases" = "Satın almaları geri yükle";
+
+"Could not unarchive conversation. Please try again later." = "Konuşma arşivden çıkarılamadı. Lütfen daha sonra tekrar dene.";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "Hesabını silmek kalıcıdır ve geri alınamaz. Profil, konuşmalar ve API kullanımı dahil olmak üzere tüm verilerin kaldırılacaktır. \n\nAynı e-posta veya telefon numarasını yeni bir hesap oluşturmak için tekrar kullanamazsın. \n\nChatGPT'yi API ile kullanıyorsan, buna bağlı erişim de silinecektir.";
+
+"Archive All Chats" = "Tüm Sohbetleri Arşivle";
+
+"Improve the model for everyone" = "Herkes için modeli iyileştir";
+
+"Upgrade to ChatGPT Plus" = "ChatGPT Plus’a yükselt";
+
+"Speech" = "Konuşma";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Bu aygıttaki yeni sohbetleri geçmişine kaydet. Kaydedilmeyen sohbetler 30 gün içinde sistemlerimizden silinecektir. Bu ayar aygıtlar arasında senkronize olmaz. [Daha fazlasını öğren](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"No archived chats" = "Arşivlenmiş sohbet yok";
+
+"Are you sure?" = "Emin misin?";
+
+"Chat History & Training" = "Sohbet Geçmişi ve Eğitim";
+
+"All your chats will be archived. This cannot be undone." = "Tüm sohbetlerin arşivlenecek. Bu geri alınamaz.";
+
+"Could not update the memory setting. Please try again later." = "Bellek ayarı güncellenemedi. Lütfen daha sonra tekrar dene.";
+
+"View" = "Görüntüle";
+
+"Email missing!" = "E-posta eksik!";
+
+"Memory" = "Bellek";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "Ancak son 10 dakika içinde oturum açtıysan hesabını silebilirsin. \n\nLütfen tekrar oturum aç ve sonra devam etmek için buraya dön.";
+
+"Error archiving all chats" = "Tüm sohbetleri arşivleme hatası";
+
+"Unarchive" = "Arşivden Çıkar";
+
+"Archived Chats" = "Arşivlenmiş Sohbetler";
+
+"Help Center" = "Yardım Merkezi";
+
+"Chat training" = "Sohbet eğitimi";
+
+"Could not delete all chats" = "Tüm sohbetler silinemedi";
+
+"Dark" = "Karanlık";
+
+"Today" = "Bugün";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "Hesap silme işleminde bir hata oluştu. Lütfen tekrar dene. Sorun devam ederse lütfen help.openai.com adresini ziyaret et.";
+
+"Email" = "E-posta";
+
+"Workspace" = "Çalışma alanı";
+

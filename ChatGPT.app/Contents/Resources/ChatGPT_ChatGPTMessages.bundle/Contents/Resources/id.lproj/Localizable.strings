@@ -1,0 +1,74 @@
+"Change Model" = "Ubah Model";
+
+"Deny" = "Tolak";
+
+"Memories updated" = "Memori diperbarui";
+
+"#%lld row" = "Baris #%lld";
+
+"Analysis" = "Analisis";
+
+"Stop Generating" = "Berhenti Membuat";
+
+"Quick Look" = "Lihat Cepat";
+
+"File unavailable" = "File tidak tersedia";
+
+"Bad" = "Buruk";
+
+"Regenerate" = "Buat Ulang";
+
+"\"%@\" column" = "Kolom \"%@\"";
+
+"Always allow" = "Selalu izinkan";
+
+"Upgraded response" = "Respons yang di-upgrade";
+
+"Loading…" = "Sedang memuat...";
+
+"Manage memories" = "Kelola memori";
+
+"Decline" = "Tolak";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT hanya menyimpan file selama waktu yang terbatas. Mulai percakapan baru atau unggah file baru untuk melanjutkan percakapan Anda.";
+
+"Memory updated" = "Memori diperbarui";
+
+"Response rating failed." = "Penilaian respons gagal.";
+
+"Please try again later.%@" = "Cobalah lagi nanti.%@";
+
+"Sign in to %@" = "Masuk ke %@";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Ditulis dengan model kami yang paling mumpuni, GPT-4, tersedia di ChatGPT Plus";
+
+"Selection" = "Pemilihan";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "File ini tidak lagi tersedia. Mulai percakapan baru atau unggah file baru untuk melanjutkan percakapan Anda.";
+
+"How would you rate this GPT?" = "Bagaimana Anda menilai GPT ini?";
+
+"Select Text" = "Pilih Teks";
+
+"A GPT" = "GPT";
+
+"You" = "Anda";
+
+"Save File As…" = "Simpan File Sebagai…";
+
+"Continue Generating" = "Lanjutkan Membuat";
+
+"Failed, retry?" = "Gagal, coba lagi?";
+
+"File expired" = "File kedaluwarsa";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "Sedang mengunggah ^[%lld lampiran](inflect: true)…";
+
+"\"%@\" cell" = "Sel \"%@\"";
+
+"Read Aloud" = "Bacakan";
+
+"Edit" = "Edit";
+
+"Your most recent request failed. Please retry!" = "Permintaan terkini Anda gagal. Cobalah lagi!";
+

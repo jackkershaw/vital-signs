@@ -1,0 +1,150 @@
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "ChatGPT가 채팅과 채팅 간에 학습하는 내용을 전달하여, 보다 정확도가 높은 응답을 제공할 수 있습니다.";
+
+"Improve voice chats for everyone" = "모든 사용자 대상 음성 채팅 개선";
+
+"Snap a picture to ask ChatGPT about the world around you." = "사진을 찍어 내 주위 세상에 대해 ChatGPT에 물어보세요.";
+
+"Don't Share" = "공유하지 않음";
+
+"Not in history" = "기록에 남지 않음";
+
+"Made for use at work" = "업무용으로 제작";
+
+"Choose a voice" = "음성 선택";
+
+"Welcome to\nChatGPT" = "안녕하세요,\nChatGPT입니다";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "여기서는 제한 사항은 더 적고, 기능은 더 풍성한 최신 모델을 사용하실 수 있습니다.";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "음성 채팅을 개선하기 위해 당사 팀이 오디오를 검토할 수 있습니다. 당사는 모델 훈련에 사용되는 오디오에서 개인 정보의 양을 줄이기 위한 조치를 취하고 있습니다.";
+
+"You’re in control" = "직접 제어하세요";
+
+"Learn more" = "자세히 알아보기";
+
+"Manage what it remembers" = "ChatGPT가 기억하는 내용을 관리하세요";
+
+"Check your facts" = "사실 여부를 확인하세요";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "임시 채팅 내에 있을 때는, ChatGPT가 메모리를 사용하거나 생성하지 않습니다. 맞춤형 지침을 사용하는 경우에는 그대로 따르게 됩니다.";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "사용자님의 설정으로 모델을 개선할 수 있습니다. 사용자님의 데이터가 어떻게 사용되는지 자세히 알아보려면 [도움말 센터](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt)를 방문하세요.";
+
+"Chats are saved" = "채팅이 저장됨";
+
+"Ask away" = "무엇이든 물어보세요";
+
+"Chat with images" = "이미지로 채팅";
+
+"Select an area of the image to edit" = "편집할 이미지 영역을 선택하세요";
+
+"Continue" = "계속";
+
+"No model training" = "모델 훈련 없음";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "이 공식 앱은 무료이며, 여러 장치에 있는 사용자님의 기록을 동기화하고 OpenAI의 최신 모델 개선 사항을 제공합니다.";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "사진을 사용하여 자전거를 고치고, 레시피를 만들고, 복잡한 그래프를 분석해 보세요.";
+
+"Help improve our models" = "모델 개선에 참여";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "임시 채팅은 기록에 표시되지 않습니다. 안전을 위해 당사는 사용자님의 채팅 사본을 최대 30일 동안 보관할 수 있습니다.";
+
+"Don’t share sensitive info" = "민감한 정보는 공유하지 마세요";
+
+"Chat with voice" = "음성으로 채팅";
+
+"Picture perfect" = "이미지 업로드";
+
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "맞춤형 지침을 편집할 때마다 새로 만드는 모든 채팅에 해당 지침이 적용됩니다. 이전 대화는 업데이트되지 않습니다.";
+
+"Tap Edit and describe changes in chat." = "편집을 탭하고, 채팅으로 변경 사항을 설명하세요.";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "ChatGPT는 사람, 장소, 사실에 대해 부정확한 정보를 제공할 수 있습니다.";
+
+"Edit the full image" = "전체 이미지 편집";
+
+"Welcome to the %@ workspace" = "%@ 워크스페이스에 오신 것을 환영합니다";
+
+"Hands-free" = "핸즈프리";
+
+"Temporary Chats won’t be used to improve our models." = "임시 채팅은 모델을 개선하는 데 사용되지 않습니다.";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "일하는 업계, 맡은 업무나 직책 또는 프로젝트에 대한 자세한 내용을 주고 내게 맞춰진 답변을 받아보세요.";
+
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "채팅에 대한 구체적인 세부 정보와 지침을 주어, ChatGPT와의 상호 작용을 맞춤 설정하세요.";
+
+"Language is auto-detected" = "언어가 자동 탐지됨";
+
+"By default, chats in this workspace are not used to train our AI models." = "기본 설정상, 이 워크스페이스의 채팅은 AI 모델을 훈련하는 데 사용되지 않습니다.";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "ChatGPT는 질문에 답변하고, 학습을 돕고, 코드를 작성하고, 함께 브레인스토밍하는 등 다양한 작업을 할 수 있습니다.";
+
+"Introducing\nCustom Instructions" = "맞춤형 지침을\n이용해 보세요";
+
+"ChatGPT can be inaccurate" = "ChatGPT는 부정확할 수 있습니다";
+
+"More helpful over time" = "시간이 지날수록 더 유용해집니다";
+
+"Refine DALL·E Images" = "DALL·E 이미지 개선";
+
+"Tap Select, highlight the area, and describe changes in chat." = "선택을 탭하고, 해당 영역을 강조 표시한 후 채팅으로 변경 사항을 설명하세요.";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "더 정확하게 탐지하도록 설정에서 기본 언어를 지정할 수 있습니다.";
+
+"Keep the conversation going" = "대화를 계속 이어가세요";
+
+"Now you can have spoken conversations with ChatGPT." = "이제 ChatGPT와 음성 대화를 나눌 수 있습니다.";
+
+"Now you can have spoken conversations with GPTs." = "이제 GPT와 음성 대화를 나눌 수 있습니다.";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "기록 내 음성 스크립트를 봅니다. 오디오 클립은 저장되지 않습니다.";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "당사에는 보호 조치가 있지만, ChatGPT는 부정확한 정보를 제공할 수 있습니다. ChatGPT는 조언을 드리려는 것이 아닙니다.";
+
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "ChatGPT가 채팅을 하면서 세부 사항과 기본 설정을 지속적으로 기억하여 더욱 유용해집니다.";
+
+"Active for new chats" = "새 채팅에 적용";
+
+"Chat without having to look at your screen." = "화면을 보지 않고 채팅하세요.";
+
+"ChatGPT now has memory across chats" = "ChatGPT가 이제 채팅 전반을 기억합니다";
+
+"Follows custom instructions" = "맞춤형 지침 따름";
+
+"Memory off" = "메모리 꺼짐";
+
+"Welcome to ChatGPT" = "안녕하세요, ChatGPT입니다";
+
+"Custom Instructions will still be followed if you have them enabled." = "맞춤형 지침을 사용하는 경우에는 그대로 따르게 됩니다.";
+
+"Temporary Chat" = "임시 채팅";
+
+"Help improve voice" = "음성 개선에 참여";
+
+"Start with a photo" = "사진으로 시작하기";
+
+"Share" = "공유";
+
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "사용자님의 선택입니다. 특정 메모리를 검토 및 삭제하거나, 처음부터 다시 시작할 수도, 설정에서 이 기능을 끌 수도 있습니다.";
+
+"Chats may be reviewed by our AI trainers to improve our systems." = "시스템 개선을 위해 AI 트레이너가 채팅을 검토할 수 있습니다.";
+
+"Control your chat history" = "채팅 기록 관리";
+
+"Taking steps to protect privacy" = "개인정보 보호를 위한 조치";
+
+"Just start talking" = "대화를 시작하세요";
+
+"Welcome to your company's workspace" = "회사 워크스페이스에 오신 것을 환영합니다";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "이 장치에서의 새로운 채팅을 기록에 표시하고 시스템을 개선하는 데 사용할지 결정하세요.";
+
+"Built for business" = "업무용으로 제작";
+
+"Share audio from future voice chats to improve and train our models." = "향후 음성 채팅의 오디오를 공유하면 모델을 개선하고 훈련할 수 있습니다.";
+
+"Get Started" = "시작하기";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "계속하고 싶지 않으면 언제든지 설정에서 공유를 중지할 수 있습니다.\n\n[자세히 알아보기](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+

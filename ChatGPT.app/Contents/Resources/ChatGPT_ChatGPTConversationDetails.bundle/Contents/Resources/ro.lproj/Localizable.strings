@@ -1,0 +1,52 @@
+"Custom instructions" = "Instrucțiuni particularizate";
+
+"Accounts" = "Conturi";
+
+"Are you sure you want to log out of %@?" = "Sigur vrei să te deconectezi de la %@?";
+
+"Privacy & Safety" = "Confidențialitate și siguranță";
+
+"Model Info" = "Informații privind modelul";
+
+"Privacy Policy" = "Politică de confidențialitate";
+
+"None" = "Nicio opțiune";
+
+"Please try again later.\n\n(%@)" = "Încearcă din nou mai târziu.\n\n(%@)";
+
+"Failed to update setting, retry?" = "Nu s-a reușit actualizarea setării. Reîncerci?";
+
+"Ask" = "Întreabă";
+
+"Confirm Logout" = "Confirmă deconectarea";
+
+"Report" = "Raportează";
+
+"No connected accounts are available for this GPT." = "Nu este disponibil niciun cont conectat pentru acest GPT.";
+
+"Report GPT" = "Raportează GPT-ul";
+
+"Error loading action settings" = "Eroare la încărcarea setărilor privind acțiunile";
+
+"Error loading connected accounts.\n\n(%@)" = "Eroare la încărcarea conturilor conectate.\n\n(%@)";
+
+"Select which websites are allowed to see data from conversations with %@." = "Selectează ce site-uri web au permisiunea de a vedea date din conversațiile cu %@.";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "Gestionează ce conturi terțe pot fi accesate de către %@.";
+
+"Report Conversation" = "Raportează conversația";
+
+"Description" = "Descriere";
+
+"Capabilities" = "Capacități";
+
+"No actions are available for this GPT" = "Nu este disponibilă nicio acțiune pentru acest GPT";
+
+"This chat uses an older version of your custom instructions." = "Această discuție utilizează o versiune mai veche a instrucțiunilor tale particularizate.";
+
+"Actions" = "Acțiuni";
+
+"Connected Accounts" = "Conturi conectate";
+
+"Always" = "Întotdeauna";
+

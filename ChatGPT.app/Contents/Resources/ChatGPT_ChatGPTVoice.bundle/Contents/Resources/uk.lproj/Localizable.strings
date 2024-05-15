@@ -1,0 +1,170 @@
+"Paused" = "Призупинено";
+
+"Error: '%@'" = "Помилка: «%@»";
+
+"Start speaking" = "Почати говорити";
+
+"Unknown error" = "Невідома помилка";
+
+"Hold for manual control" = "Утримуйте, щоб керувати вручну";
+
+"Connecting." = "Підключення.";
+
+"Select %@" = "Виберіть %@";
+
+"%lld." = "%lld.";
+
+"I didn’t like the responses" = "Мені не сподобалися відповіді";
+
+"Connection failed, tap to retry" = "Помилка підключення. Торкніться, щоб повторити спробу";
+
+"Audio issues" = "Проблеми з аудіо";
+
+"Voice mode" = "Голосовий режим";
+
+"Idle" = "Очікування";
+
+"Restart" = "Перезапустити";
+
+"Connect" = "Підключити";
+
+"Click to cancel" = "Натисніть, щоб скасувати";
+
+"Save to Photos" = "Зберегти в розділ «Фотографії»";
+
+"Excellent" = "Відмінно";
+
+"Select all that apply" = "Виберіть усі відповідні варіанти";
+
+"Close" = "Закрити";
+
+"Speak to keep active" = "Говоріть, щоб підтримувати активність";
+
+"What went wrong?" = "Яка проблема виникла?";
+
+"Poor connection" = "Погане підключення";
+
+"It misheard me" = "Програма неправильно почула мої слова";
+
+"Speak now" = "Говоріть";
+
+"Go forward 15 seconds" = "Уперед на 15 секунд";
+
+"Stop listening" = "Припинити прослуховування";
+
+"Grace Period for %@s" = "Період активності сеансу: %@ с";
+
+"Click to connect" = "Натисніть, щоб підключити";
+
+"Voice chat ended" = "Спілкування в голосовому чаті завершено";
+
+"Speaking" = "Говорить";
+
+"See more information about voice research" = "Показати більше про дослідження голосових функцій";
+
+"Poor" = "Погано";
+
+"Connection failed, click to retry" = "Помилка підключення. Натисніть, щоб повторити спробу";
+
+"Voice feedback: give thumbs up" = "Відгук про голосову функцію: поставити палець угору";
+
+"Other" = "Інше";
+
+"Lost" = "Втрачено";
+
+"Unable to send response. Please try again." = "Не вдалося надіслати відповідь. Повторіть спробу.";
+
+"Halted" = "Призупинено";
+
+"Tap to interrupt" = "Торкніться, щоб перервати";
+
+"Listening intently" = "Зосереджено слухає";
+
+"Go backward 15 seconds" = "Назад на 15 секунд";
+
+"Flip camera to the rear" = "Переверніть камеру на задню";
+
+"You can change this later." = "Ви можете змінити це налаштування пізніше.";
+
+"Tap to connect" = "Торкніться, щоб підключити";
+
+"Connecting" = "Підключення";
+
+"Tap to activate" = "Торкніться, щоб активувати";
+
+"Thank you!" = "Дякуємо!";
+
+"Close camera" = "Закрити камеру";
+
+"Choose a voice" = "Вибрати голос";
+
+"Voice feedback: give thumbs down" = "Відгук про голосову функцію: поставити палець униз";
+
+"Connected" = "Підключено";
+
+"Tap to cancel" = "Торкніться, щоб скасувати";
+
+"Unselect %@" = "Скасувати вибір: %@";
+
+"Play" = "Відтворення";
+
+"Take picture" = "Зробити знімок";
+
+"Voice chat ended after " = "Спілкування в голосовому чаті завершено після ";
+
+"Resume listening" = "Поновити прослуховування";
+
+"Unable to review action" = "Не вдалося переглянути дію";
+
+"Open camera" = "Відкрити камеру";
+
+"Click to send manually" = "Натисніть, щоб надіслати вручну";
+
+"Unknown" = "Невідомо";
+
+"Click to activate" = "Натисніть, щоб активувати";
+
+"Enable microphone access in Settings" = "Увімкніть доступ до мікрофона в розділі «Налаштування»";
+
+"Connecting.." = "Підключення…";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "Ви прийняли рішення поширювати свої аудіо з голосових чатів для поліпшення й навчання наших моделей. Це стосується аудіо з мікрофона, коли модель обробляє інформацію або говорить. Поширення можна припинити в налаштуваннях.";
+
+"Click to interrupt" = "Натисніть, щоб перервати";
+
+"Failed to connect" = "Помилка підключення";
+
+"•" = "•";
+
+"Helping improve voice" = "Допомога в поліпшенні функції розпізнавання голосу";
+
+"Flip camera to the front" = "Переверніть камеру на фронтальну";
+
+"Finish speaking to send" = "Завершіть говорити, щоб надіслати";
+
+"Thinking" = "Обробка";
+
+"Pause" = "Пауза";
+
+"Submit feedback" = "Надіслати відгук";
+
+"On for training" = "Увімкнено для навчання";
+
+"Release to send" = "Відпустіть, щоб надіслати";
+
+"%lldms" = "%lld мс";
+
+"Learn more" = "Докладніше";
+
+"It interrupted me" = "Програма перебила мене";
+
+"Listening" = "Слухає";
+
+"Pick photo" = "Вибрати фотографію";
+
+"Tap to send manually" = "Торкніться, щоб надіслати вручну";
+
+"Tap to dismiss" = "Торкніться, щоб відхилити";
+
+"Good" = "Добре";
+

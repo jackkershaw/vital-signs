@@ -1,0 +1,70 @@
+"Sign in failed" = "সাইন ইন ব্যর্থ হয়েছে";
+
+"Request cancelled." = "অনুরোধ বাতিল করা হয়েছে।";
+
+"Let’s discover" = "আসুন আবিষ্কার করা যাক";
+
+"Renew failed." = "নবায়ন ব্যর্থ হয়েছে।";
+
+"Unknown other error." = "অন্য অজানা ত্রুটি।";
+
+"Missing bundle id." = "বান্ডেল আইডি অনুপস্থিত।";
+
+"There was a problem. Please restart the app." = "একটি সমস্যা হয়েছিল। অনুগ্রহ করে অ্যাপ আবার চালু করুন।";
+
+"Let’s explore" = "আসুন অন্বেষণ করা যাক";
+
+"PKCE not allowed." = "PKCE অনুমোদিত নয়।";
+
+"No sign in info found. Please sign in." = "কোনও সাইন ইন তথ্য পাওয়া যায়নি। অনুগ্রহ করে সাইন ইন করুন।";
+
+"Let’s create" = "আসুন তৈরি করা যাক";
+
+"Let’s go" = "চলুন যাওয়া যাক";
+
+"Sign up with email" = "ইমেইল দিয়ে সাইন আপ করুন";
+
+"Let’s collaborate" = "আসুন সহযোগিতা করি";
+
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "Apple সার্ভারের সাথে যোগাযোগ করতে সমস্যা হয়েছে। অনুগ্রহ করে আবার চেষ্টা করুন। (%lld)";
+
+"No refresh token found." = "কোনও রিফ্রেশ টোকেন পাওয়া যায়নি।";
+
+"There was a problem saving sign in info. Please try again." = "সাইন ইন তথ্য সংরক্ষণ করতে একটি সমস্যা হয়েছে। অনুগ্রহ করে আবার চেষ্টা করুন।";
+
+"Let’s invent" = "আসুন আবিষ্কার করা যাক";
+
+"No authorization code found." = "কোনও অনুমোদন কোড পাওয়া যায়নি।";
+
+"Unknown error." = "অজানা ত্রুটি।";
+
+"Store failed." = "স্টোর ব্যর্থ হয়েছে।";
+
+"Terms of Use" = "ব্যবহারের শর্তাবলী";
+
+"Let’s design" = "ডিজাইন করা যাক";
+
+"Something went wrong." = "কিছু ভুল হয়েছে।";
+
+"Revoke failed." = "প্রত্যাহার ব্যর্থ হয়েছে।";
+
+"Let’s chit-chat" = "চিট-চ্যাট করা যাক";
+
+"There was a problem clearing sign in info. Please try again." = "সাইন ইন তথ্য সাফ করতে একটি সমস্যা হয়েছে। অনুগ্রহ করে আবার চেষ্টা করুন।";
+
+"There is a problem with the server. Please try again later." = "সার্ভারে একটি সমস্যা আছে। অনুগ্রহ করে পরে আবার চেষ্টা করুন।";
+
+"Sign in request was cancelled." = "সাইন ইনের অনুরোধ বাতিল করা হয়েছে।";
+
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "কিছু ভুল হয়েছে । অনুগ্রহ করে আপনার ডিভাইসের তারিখ এবং সময় সঠিক কিনা তা নিশ্চিত করুন এবং 'সেটিংস → সাধারণ → তারিখ এবং সময়' এর অধীনে 'স্বয়ংক্রিয়ভাবে সেট করুন' টগল করা হয়েছে তা নিশ্চিত করুন।";
+
+"Continue with Google" = "Google এর সাথে চালিয়ে যান";
+
+"Privacy Policy" = "গোপনীয়তার নীতি";
+
+"Invalid invite url." = "অকার্যকর আমন্ত্রণ URL।";
+
+"Failed to validate id token." = "আইডি টোকেন যাচাই করতে ব্যর্থ হয়েছে।";
+
+"Let’s brainstorm" = "আসুন আমরা চিন্তাভাবনা করি";
+

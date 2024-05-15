@@ -1,0 +1,86 @@
+"Message" = "Mensaje";
+
+"Image attachment failed." = "Error al adjuntar la imagen.";
+
+"Attached image" = "Imagen adjunta";
+
+"Editing message" = "Editando mensaje";
+
+"Edit image" = "Editar imagen";
+
+"Scroll to bottom" = "Ir al final";
+
+"Attach photos" = "Adjuntar fotografías";
+
+"You've reached your %@ limit." = "Alcanzaste el límite de %@.";
+
+"You need %@ to continue this chat because it has attachments." = "Necesitas %@ para continuar este chat porque tiene archivos adjuntos.";
+
+"Remove attachment" = "Quitar archivo adjunto";
+
+"Are you sure?" = "¿Lo confirmas?";
+
+"If you cancel the text conversion you will lose the recording." = "Si cancelas la conversión a texto, perderás la grabación.";
+
+"Replace attachment?" = "¿Quieres reemplazar el archivo adjunto?";
+
+"Confirm" = "Confirmar";
+
+"Stop Generating" = "Dejar de generar";
+
+"Replace" = "Reemplazar";
+
+"Edit selection" = "Editar selección";
+
+"Microphone access required" = "Se requiere acceso al micrófono";
+
+"You need %@ to continue this chat because it has images." = "Necesitas %@ para continuar este chat porque tiene imágenes.";
+
+"You need %@ to continue this chat because this GPT requires it." = "Necesitas %@ para continuar este chat porque este GPT lo requiere.";
+
+"This chat uses an older version of your custom instructions" = "Este chat usa una versión anterior de las instrucciones personalizadas.";
+
+"This chat is currently unavailable" = "Este chat no está disponible en este momento";
+
+"New Message" = "Nuevo mensaje";
+
+"You need %@ to continue this chat because it uses tools." = "Necesitas %@ para continuar este chat porque usa herramientas.";
+
+"Get Plus to Chat" = "Obtén Plus para chatear";
+
+"Fullscreen" = "Pantalla completa";
+
+"Dictation" = "Dictado";
+
+"Failed, retry?" = "Ocurrió un error. ¿Deseas reintentarlo?";
+
+"Image upload failed." = "Error al cargar la imagen.";
+
+"No connection" = "Sin conexión";
+
+"This chat is currently unavailable" = "Este chat actualmente no está disponible";
+
+"Switch to Voice mode" = "Cambiar al modo de voz";
+
+"File upload failed." = "Error al cargar el archivo.";
+
+"Attach files" = "Adjuntar archivos";
+
+"Continue Generating" = "Continuar generando";
+
+"Message ChatGPT" = "Enviar mensaje a ChatGPT";
+
+"Shows the voice recording interface and begins recording" = "Muestra la interfaz de grabación de voz e inicia la grabación.";
+
+"Send" = "Enviar";
+
+"Upload File" = "Cargar archivo";
+
+"You need %@ to continue this chat because it uses audio." = "Necesitas %@ para continuar este chat porque utiliza audio.";
+
+"To continue, you’ll need to replace the current attachment." = "Para continuar, tendrás que reemplazar el archivo adjunto actual.";
+
+"You need %@ to continue this chat because it uses tools." = "Necesitas %@ para continuar porque usa herramientas.";
+
+"Stop" = "Detener";
+

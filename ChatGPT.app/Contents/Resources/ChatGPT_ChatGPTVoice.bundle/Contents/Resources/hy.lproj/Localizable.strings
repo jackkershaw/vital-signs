@@ -1,0 +1,170 @@
+"Unknown" = "Անհայտ";
+
+"It interrupted me" = "Այն ընդհատում էր ինձ";
+
+"Helping improve voice" = "Օգնում եք բարելավել ձայնը";
+
+"Voice feedback: give thumbs up" = "Ձայնային արձագանք․ հավանել";
+
+"Restart" = "Վերագործարկել";
+
+"Connection failed, click to retry" = "Կապակցումը չհաջողվեց, կտտացրեք՝ նորից փորձելու համար";
+
+"Tap to connect" = "Հպեք՝ կապակցվելու համար";
+
+"Finish speaking to send" = "Ավարտեք խոսելը և ուղարկեք";
+
+"Voice feedback: give thumbs down" = "Ձայնային արձագանք․ չհավանել";
+
+"Connecting.." = "Կապակցվում է…";
+
+"Take picture" = "Լուսանկարել";
+
+"Click to send manually" = "Կտտացրեք՝ ոչ ավտոմատ ուղարկելու համար";
+
+"Good" = "Լավ";
+
+"Error: '%@'" = "Սխալ․ «%@»";
+
+"Go backward 15 seconds" = "15 վայրկյան հետ գնացեք";
+
+"Learn more" = "Իմանալ ավելին";
+
+"Tap to cancel" = "Հպեք՝ չեղարկելու համար";
+
+"Voice chat ended after " = "Ձայնային զրույցն ավարտվեց այսքան ժամանակից՝";
+
+"Open camera" = "Բացել տեսախցիկը";
+
+"Click to connect" = "Կտտացրեք՝ կապակցվելու համար";
+
+"Go forward 15 seconds" = "15 վայրկյան առաջ գնացեք";
+
+"It misheard me" = "Այն սխալ էր լսում ինձ";
+
+"Flip camera to the front" = "Շրջել առջևի տեսախցիկին";
+
+"Connecting" = "Կապակցվում է";
+
+"Halted" = "Դադարեցված";
+
+"Thinking" = "Մտածում է";
+
+"Idle" = "Անգործուն";
+
+"Click to cancel" = "Կտտացրեք՝ չեղարկելու համար";
+
+"Play" = "Նվագարկել";
+
+"Speak to keep active" = "Խոսեք՝ ակտիվ պահելու համար";
+
+"Save to Photos" = "Պահել Լուսանկարներում";
+
+"Pause" = "Դադարեցնել";
+
+"Tap to dismiss" = "Հպեք՝ բաց թողնելու համար";
+
+"What went wrong?" = "Ի՞նչն այնպես չէր։";
+
+"Connected" = "Կապակցված է";
+
+"Submit feedback" = "Ներկայացնել արձագանքը";
+
+"Click to interrupt" = "Կտտացրեք՝ ընդհատելու համար";
+
+"You can change this later." = "Սա կարող եք փոխել հետագայում։";
+
+"Tap to send manually" = "Հպեք՝ ոչ ավտոմատ ուղարկելու համար";
+
+"On for training" = "Միացված է վարժեցման համար";
+
+"Start speaking" = "Սկսեք խոսել";
+
+"Connection failed, tap to retry" = "Կապակցումը չհաջողվեց, հպեք՝ նորից փորձելու համար";
+
+"Enable microphone access in Settings" = "Միացնել խոսափողի հասանելիությունը Կարգավորումներից";
+
+"Connecting." = "Կապակցվում է։";
+
+"Other" = "Այլ";
+
+"Unselect %@" = "Ապընտրեք %@-ը";
+
+"Grace Period for %@s" = "Արտոնյալ ժամանակահատված %@ վ";
+
+"Speak now" = "Խոսեք հիմա";
+
+"Excellent" = "Գերազանց";
+
+"Tap to interrupt" = "Հպեք՝ ընդհատելու համար";
+
+"Resume listening" = "Վերսկսել լսումը";
+
+"Tap to activate" = "Հպեք՝ ակտիվացնելու համար";
+
+"Hold for manual control" = "Պահեք՝ ոչ ավտոմատ կառավարման համար";
+
+"Select %@" = "Ընտրեք %@-ը";
+
+"Close" = "Փակել";
+
+"Release to send" = "Բաց թողեք՝ ուղարկելու համար";
+
+"Listening intently" = "Լսում եմ ուշադիր";
+
+"Click to activate" = "Կտտացրեք՝ ակտիվացնելու համար";
+
+"Select all that apply" = "Ընտրեք բոլոր տարբերակները, որոնք կիրառելի են";
+
+"Voice mode" = "Ձայնային ռեժիմ";
+
+"Pick photo" = "Ընտրեք լուսանկարը";
+
+"Audio issues" = "Ձայնային խնդիրներ";
+
+"Unable to send response. Please try again." = "Հնարավոր չէ ուղարկել պատասխանը։ Նորից փորձեք։";
+
+"Stop listening" = "Դադարեցնել լսումը";
+
+"Listening" = "Լսում եմ";
+
+"Lost" = "Կապը կորավ";
+
+"%lldms" = "%lld մվ";
+
+"Voice chat ended" = "Ձայնային զրույցն ավարտվեց";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "Դուք նախընտրել եք համօգտագործել ձայնային զրույցներում առկա ձեր ձայնանյութերը՝ մեր մոդելները բարելավելու և վարժեցնելու համար։ Սրանց մեջ մտնում են ձեր խոսափողից ստացված ձայնանյութերը, երբ մոդելը մտածում կամ խոսում է։ Համօգտագործումը կարող եք դադարեցնել կարգավորումներից։";
+
+"%lld." = "%lld։";
+
+"Close camera" = "Փակել տեսախցիկը";
+
+"•" = "•";
+
+"Poor connection" = "Վատ կապակցում";
+
+"See more information about voice research" = "Լրացուցիչ տեղեկություններ ձայնային որոնման մասին";
+
+"Thank you!" = "Շնորհակալություն։";
+
+"Speaking" = "Խոսում է";
+
+"Poor" = "Վատ";
+
+"Flip camera to the rear" = "Շրջել հետևի տեսախցիկին";
+
+"Paused" = "Դադարեցված";
+
+"Unknown error" = "Անհայտ սխալ";
+
+"Unable to review action" = "Հնարավոր չէ վերանայել գործողությունը";
+
+"Connect" = "Կապակցել";
+
+"I didn’t like the responses" = "Ինձ դուր չեկան պատասխանները";
+
+"Failed to connect" = "Չհաջողվեց կապակցվել";
+
+"Choose a voice" = "Ընտրեք ձայն";
+

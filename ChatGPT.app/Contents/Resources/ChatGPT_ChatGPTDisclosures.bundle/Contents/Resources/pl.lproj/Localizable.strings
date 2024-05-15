@@ -1,0 +1,150 @@
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "ChatGPT będzie w miarę czatowania stawał się bardziej pomocny oraz będzie ciągle zapamiętywał szczegóły i preferencje.";
+
+"Chat without having to look at your screen." = "Czatuj bez konieczności patrzenia na ekran.";
+
+"Improve voice chats for everyone" = "Ulepsz czaty głosowe dla wszystkich";
+
+"Control your chat history" = "Kontroluj historię czatu";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "Możesz określić preferowany język w obszarze Ustawienia, aby zapewnić dokładniejsze wykrywanie.";
+
+"Check your facts" = "Sprawdź fakty";
+
+"Memory off" = "Pamięć wyłączona";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "ChatGPT może odpowiadać na pytania, ułatwiać naukę, pisać kod, przeprowadzać wspólną burzę mózgów i wiele więcej.";
+
+"Custom Instructions will still be followed if you have them enabled." = "Instrukcje niestandardowe nadal będą przestrzegane, jeśli są włączone.";
+
+"Chat with images" = "Czat z obrazami";
+
+"By default, chats in this workspace are not used to train our AI models." = "Domyślnie czaty w tym obszarze roboczym nie są używane do trenowania naszych modeli AI.";
+
+"Language is auto-detected" = "Język jest wykrywany automatycznie";
+
+"Share" = "Udostępnij";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "Tutaj możesz używać naszych najnowszych modeli oferujących więcej funkcji i mniej ograniczeń.";
+
+"Not in history" = "Nie w historii";
+
+"Picture perfect" = "Jak na zdjęciu";
+
+"Now you can have spoken conversations with GPTs." = "Teraz możesz rozmawiać na głos z modelami GPT.";
+
+"Made for use at work" = "Utworzony z myślą o stosowaniu w pracy";
+
+"Get Started" = "Rozpocznij";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "Spróbuj użyć zdjęć, aby naprawić rower, stworzyć przepis lub przeanalizować złożone wykresy.";
+
+"Start with a photo" = "Zacznij od zdjęcia";
+
+"You’re in control" = "To Ty masz kontrolę";
+
+"ChatGPT can be inaccurate" = "ChatGPT może być niedokładny";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "ChatGPT może podawać niedokładne informacje na temat ludzi, miejsc czy faktów.";
+
+"Keep the conversation going" = "Podtrzymuj konwersację";
+
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "To Ty decydujesz. Zrecenzuj i usuń konkretne pamięci, uruchom ponownie od początku lub wyłącz funkcję w ustawieniach.";
+
+"Continue" = "Kontynuuj";
+
+"Welcome to the %@ workspace" = "Obszar roboczy %@ – Zapraszamy!";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "Podaj kontekst dotyczący swojej branży, roli lub projektów, aby uzyskać bardziej dopasowane odpowiedzi.";
+
+"Now you can have spoken conversations with ChatGPT." = "Teraz możesz rozmawiać na głos z ChatGPT.";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "Czaty tymczasowe nie będą widoczne w historii. Ze względów bezpieczeństwa możemy przechowywać kopię czatu przez maksymalnie 30 dni.";
+
+"Help improve our models" = "Pomóż ulepszyć nasze modele";
+
+"Share audio from future voice chats to improve and train our models." = "Udostępniaj dźwięk z przyszłych czatów głosowych, aby poprawić i trenować nasze modele.";
+
+"Welcome to ChatGPT" = "ChatGPT – zapraszamy!";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Jeśli nie chcesz kontynuować, możesz zatrzymać udostępnianie w dowolnym momencie w ustawieniach.\n\n[Dowiedz się więcej](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"No model training" = "Bez trenowania modelu";
+
+"Tap Edit and describe changes in chat." = "Dotknij opcji Edytuj i opisz zmiany w czacie.";
+
+"Tap Select, highlight the area, and describe changes in chat." = "Dotknij opcji Wybierz, wyróżnij obszar i opisz zmiany w czacie.";
+
+"Help improve voice" = "Pomóż ulepszyć głos";
+
+"More helpful over time" = "Bardziej pomocny wraz z upływem czasu";
+
+"Ask away" = "Pytaj";
+
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "Zawsze, gdy dokonasz edycji instrukcji niestandardowych, zaczną one obowiązywać we wszystkich nowych tworzonych przez Ciebie czatach. Starsze konwersacje nie zostaną zaktualizowane.";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "Ta oficjalna aplikacja jest darmowa, synchronizuje Twoją historię między różnymi urządzeniami i zapewnia najnowsze ulepszenia modelu od OpenAI.";
+
+"Temporary Chat" = "Czat tymczasowy";
+
+"Welcome to\nChatGPT" = "ChatGPT\nZapraszamy!";
+
+"Chat with voice" = "Czat z głosem";
+
+"Hands-free" = "Bez użycia rąk";
+
+"Refine DALL·E Images" = "Ulepsz obrazy DALL·E";
+
+"Introducing\nCustom Instructions" = "Wprowadzenie do\ninstrukcji niestandardowych";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "Zobacz transkrypcje głosowe w swojej historii. Klipy audio nie są przechowywane.";
+
+"Chats are saved" = "Czaty są zapisywane";
+
+"ChatGPT now has memory across chats" = "ChatGPT ma teraz pamięć między czatami";
+
+"Chats may be reviewed by our AI trainers to improve our systems." = "Czaty mogą być zrecenzowane przez naszych trenerów AI, aby ulepszyć nasze systemy.";
+
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "ChatGPT będzie przenosił to, czego się nauczył, między czatami, co pozwoli mu udzielać bardziej odpowiednich odpowiedzi.";
+
+"Don't Share" = "Nie udostępniaj";
+
+"Just start talking" = "Po prostu zacznij mówić";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "Stosujemy zabezpieczenia, jednak ChatGPT może dostarczać niedokładnych informacji. Nie jest on przeznaczony do udzielania porad.";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "Aby ulepszyć czaty głosowe, nasz zespół może recenzować treści dźwiękowe. Podejmujemy kroki, aby ograniczać ilość danych osobowych w treściach dźwiękowych używanych do trenowania naszych modeli.";
+
+"Edit the full image" = "Edytuj cały obraz";
+
+"Learn more" = "Dowiedz się więcej";
+
+"Select an area of the image to edit" = "Wybierz obszar obrazu do edycji";
+
+"Follows custom instructions" = "Przestrzega instrukcji niestandardowych";
+
+"Taking steps to protect privacy" = "Kroki podejmowane na rzecz ochrony prywatności";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "Twoje instrukcje ulepszą nasze modele. Odwiedź nasze [Centrum pomocy](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt), aby dowiedzieć się więcej o tym, jak będziemy używać Twoich danych.";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "Zdecyduj, czy nowe czaty na tym urządzeniu będą pojawiały się w historii i będą używane do ulepszenia naszych systemów.";
+
+"Built for business" = "Stworzone dla biznesu";
+
+"Choose a voice" = "Wybierz głos";
+
+"Active for new chats" = "Aktywne dla nowych czatów";
+
+"Don’t share sensitive info" = "Nie udostępniaj informacji poufnych";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "ChatGPT nie będzie wykorzystywał ani tworzył pamięci podczas czatu tymczasowego. Instrukcje niestandardowe nadal będą przestrzegane, jeśli są włączone.";
+
+"Manage what it remembers" = "Zarządzaj tym, co jest zapamiętywane";
+
+"Snap a picture to ask ChatGPT about the world around you." = "Zrób zdjęcie, aby zapytać ChatGPT o otaczający Cię świat.";
+
+"Welcome to your company's workspace" = "Obszar roboczy Twojej firmy – Zapraszamy!";
+
+"Temporary Chats won’t be used to improve our models." = "Czaty tymczasowe nie będą używane do ulepszania naszych modeli.";
+
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "Dostosuj swoje interakcje z ChatGPT, podając konkretne szczegóły i wytyczne dla swoich czatów.";
+

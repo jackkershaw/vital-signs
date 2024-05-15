@@ -1,0 +1,114 @@
+"Loading more" = "مزید لوڈ کر رہا ہے";
+
+"Get Plus to Chat" = "چیٹ کرنے کے لیے Plus حاصل کریں";
+
+"Great" = "زبردست";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "^[%lld ستارے ](inflect: true)،%@ کی درجہ بندی";
+
+"No Recents" = "کوئی حالیہ نہیں ہیں";
+
+"Remove GPT" = "GPT ہٹائیں";
+
+"Top Picks" = "چوٹی کے انتخاب";
+
+"Only me" = "صرف مجھے";
+
+"Remove" = "ہٹائیں";
+
+"Capabilities" = "استعدادیں";
+
+"Failed to remove recent GPT, retry?" = "حالیہ GPT حذف نہیں ہوا، کیا دوبارہ کوشش کریں؟";
+
+"Feedback" = "Feedback";
+
+"Start chat" = "چیٹ شروع کریں";
+
+"Okay" = "ٹھیک ہے";
+
+"Are you sure you want to remove this GPT from your recents?" = "کیا آپ واقعی اس GPT کو اپنے حالیہ سے ہٹانا چاہتے ہیں؟";
+
+"Include my email **%@**" = "میرا ای میل پتہ **%@**شامل کریں";
+
+"Top Suggestions" = "چوٹی کی تجاویز";
+
+"Exceptional!" = "غیر معمولی!";
+
+"Public" = "عوام";
+
+"Editing and creating a GPT is only available on web for now." = "GPT میں ترمیم کرنا اور اسے بنانا ابھی صرف ویب پر دستیاب ہے۔";
+
+"Share" = "شیئر کریں";
+
+"How would you rate this GPT?" = "آپ اس GPT کو کیا درجہ دیں گے؟";
+
+"By %@" = "%@ کی جانب سے";
+
+"Editing Not Available" = "ترمیم دستیاب نہیں ہے";
+
+"Anyone with a link" = "کوئی بھی ایک لنک کے ساتھ";
+
+"Report" = "رپورٹ کریں";
+
+"Untitled" = "بلا عنوان";
+
+"Good" = "اچھا";
+
+"%@ chats" = "%@چیٹس";
+
+"Are you sure you want to delete this GPT?" = "کیا آپ یہ GPT واقعی حذف کرنا چاہتے ہیں؟";
+
+"Bad" = "برا";
+
+"No Results Found" = "کوئی نتیجہ نہیں ملا";
+
+"in **%@**" = "**%@**میں";
+
+"Optional private note for creator…" = "بنانے والے کے لیے اختیاری نجی نوٹ…";
+
+"Failed to delete GPT, retry?" = "GPT حذف نہیں ہوا، کیا دوبارہ کوشش کریں؟";
+
+"Edit" = "ترمیم کریں";
+
+"Add a note" = "ایک نوٹ شامل کریں";
+
+"Unable to load, retry?" = "لوڈ کرنے سے قاصر، کیا دوبارہ کوشش کریں؟";
+
+"By community builder" = "کمیونٹی بنانے والے کی جانب سے";
+
+"Visibility" = "نموداری";
+
+"See more" = "زیادہ دیکھیں";
+
+"Search Public GPTs" = "عوامی GPTs تلاش کریں";
+
+"Start Chat" = "چیٹ شروع کریں";
+
+"Options" = "آپشنز";
+
+"Thank you for your feedback!" = "اپنی رائے دینے کے لیے آپ کا شکریہ!";
+
+"Include my email" = "میرا ای میل پتہ شامل کریں";
+
+"Star rating" = "ستارہ درجہ بندی";
+
+"Tap a star" = "ستارہ کو ٹیپ کریں";
+
+"Anyone at %@" = "کوئی بھی %@ پر";
+
+"Chats: %@" = "چیٹس: %@";
+
+"Explore" = "کھوج لگائیں";
+
+"How would you rate **%@**?" = "آپ **%@** کو کیا درجہ دیں گے؟";
+
+"Recently Used" = "حال ہی میں استعمال شدہ";
+
+"My GPTs" = "My GPTs";
+
+"Conversation starters" = "گفتگو کے سٹارٹرز";
+
+"%@ rating" = "%@ درجہ بندی";
+
+"Searching…" = "تلاش کر رہا ہے۔۔۔";
+

@@ -1,0 +1,70 @@
+"Pick photo" = "Избери слика";
+
+"Undo" = "Врати";
+
+"More" = "Повеќе";
+
+"Annotate" = "Забележи";
+
+"The file was not found." = "Датотеката не беше пронајдена.";
+
+"Flash on, tap to toggle off" = "Блицот е вклучен, допри за да избереш опција за исклучено";
+
+"Camera Access Restricted" = "Пристапот до камерата е ограничен";
+
+"Download complete" = "Симнувањето е завршено";
+
+"Flash auto, tap to toggle on" = "Автоматски блиц, допри за да избереш опција за вклучено";
+
+"Next" = "Следно";
+
+"Copied" = "Копирано";
+
+"Camera access is restricted on this device. Please check your parental control or system settings." = "Пристапот до камерата е ограничен на овој уред. Провери ги твоите поставки за родителска контрола и системските поставки.";
+
+"Good response" = "Добар одговор";
+
+"This file is not available." = "Оваа датотека не е достапна.";
+
+"Select an area to edit" = "Избери област за уредување";
+
+"Rear camera selected, tap to toggle to front" = "Избрана е задна камера, допри за да избереш опција за предна камера";
+
+"Annotate by drawing on the image" = "Забележи со цртање на сликата";
+
+"Back" = "Назад";
+
+"Front camera selected, tap to toggle to rear" = "Избрана е предната камера, допри за да избереш опција за задна камера";
+
+"Learn more" = "Дознај повеќе";
+
+"Select" = "Избери";
+
+"Thank you for your feedback!" = "Ти благодариме за твојата повратна информација!";
+
+"Bad response" = "Лош одговор";
+
+"View prompt" = "Прикажи промпт";
+
+"Prompt" = "Промпт";
+
+"Failed to load image" = "Не успеа да се вчита сликата";
+
+"Redo" = "Повтори";
+
+"Camera Access Denied" = "Пристапот до камерата е одбиен";
+
+"Select camera device" = "Избери уред со камера";
+
+"Flash off, tap to toggle to auto" = "Блицот е исклучен, допри за да избереш опција за автоматски";
+
+"This file has expired." = "Оваа датотека е истечена.";
+
+"Dismiss" = "Отфрли";
+
+"Image saved" = "Сликата е зачувана";
+
+"The file download failed. Please try again later." = "Преземањето на датотеката не успеа. Обиди се повторно подоцна.";
+
+"Enable camera access in Settings to take photos." = "Овозможи пристап до камерата во Поставки, за да правиш фотографии.";
+

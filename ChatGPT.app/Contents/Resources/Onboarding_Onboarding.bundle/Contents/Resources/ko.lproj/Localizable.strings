@@ -1,0 +1,96 @@
+"Tell us about you." = "사용자님에 대해 알려주세요.";
+
+"There was a problem verifying your phone number. %@" = "전화번호 인증에 문제가 발생했습니다. %@";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "국가를 가져올 수 없습니다. 인터넷 연결을 확인하고 앱을 다시 시작하세요. %@";
+
+"Email resent!" = "이메일을 다시 보냈습니다!";
+
+"Open Mail App" = "메일 앱 열기";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "“계속”을 클릭하면 당사 [이용약관](https://openai.com/policies/terms-of-use)과 [개인정보 보호 정책](https://openai.com/policies/privacy-policy) 및 이의 [한국 부록](https://openai.com/policies/kr-privacy-policy-addendum)에 동의하는 것으로 간주합니다.";
+
+"Phone number" = "전화번호";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "당사 [이용약관](https://openai.com/policies/terms-of-use)으로 인해 사용자님의 계정을 만들 수 없습니다.";
+
+"There was a problem, please try again." = "문제가 발생했습니다. 다시 시도해 주세요.";
+
+"Please solve this puzzle so we know you're a person." = "퍼즐을 풀고 로봇이 아님을 인증해 주세요.";
+
+"Sorry, we aren't able to create your account" = "죄송합니다. 사용자님의 계정을 만들 수 없습니다";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "도움이 필요하면 [전화 인증 가이드](https://help.openai.com/articles/6613520-phone-verification)를 참조하세요.";
+
+"Your account could not be created. Please try again. %@" = "사용자님의 계정을 만들 수 없습니다. 다시 시도해 주세요. %@";
+
+"You have made too many attempts. Please try again later." = "시도 한도를 초과했습니다. 나중에 다시 시도해 주세요.";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "“계속”을 클릭하면 당사 [이용약관](https://openai.com/policies/terms-of-use)과 [개인정보 보호 정책](https://openai.com/policies/privacy-policy)에 동의하는 것으로 간주합니다.";
+
+"Birthday" = "생일";
+
+"Continue" = "계속";
+
+"I've verified my email" = "내 이메일을 인증했습니다";
+
+"Code" = "코드";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "필수 정보를 가져올 수 없습니다. 인터넷 연결을 확인하고 앱을 다시 시작하세요. (%@)";
+
+"Last name" = "성";
+
+"Your email is not yet verified. Please check your email inbox." = "사용자님의 이메일이 아직 인증되지 않았습니다. 받은 편지함을 확인하세요.";
+
+"Please choose a valid date for your birthday." = "사용자님의 생일에 해당하는 올바른 날짜를 선택하세요.";
+
+"Resend code" = "코드 다시 보내기";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "문제가 발생했습니다. 계정을 이미 만들었지만 새로 고칠 수 없습니다. 로그아웃했다가 다시 로그인하세요.";
+
+"There was a problem verifying the code. %@" = "코드 인증에 문제가 발생했습니다. %@";
+
+"Failed to load required information." = "필요한 정보를 로딩하지 못했습니다.";
+
+"Resend email" = "이메일 다시 보내기";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "인터넷 연결에 문제가 발생했습니다. 다시 시도해 주세요. (%lld)";
+
+"error" = "오류";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "문제가 발생했습니다. 앱을 다시 시작하거나 로그아웃한 뒤 다시 시도해 주세요.";
+
+"Finish creating your OpenAI account" = "OpenAI 계정 만들기 완료";
+
+"Something went wrong. Sign out and try again." = "문제가 발생했습니다. 로그아웃한 뒤 다시 시도해 주세요.";
+
+"Verify phone number" = "전화번호 인증";
+
+"Verify your email" = "이메일 인증";
+
+"Please check your internet connection and retry." = "인터넷 연결을 확인하고 다시 시도해 주세요.";
+
+"Select your area code" = "지역 코드 선택";
+
+"Please provide a phone number for verification." = "인증을 위한 전화번호를 입력하세요.";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "“계속”을 클릭하면 ChatGPT 사용에 대한 부모 또는 보호자의 동의를 받았음을 확인하는 동시에 당사 [이용약관](https://openai.com/policies/terms-of-use)과 [개인정보 보호 정책](https://openai.com/policies/privacy-policy) 및 이의 [한국 부록](https://openai.com/policies/kr-privacy-policy-addendum)에 동의하는 것으로 간주합니다.";
+
+"Verify you're human" = "로봇 아님 검증";
+
+"Something went wrong. Please try again." = "문제가 발생했습니다. 다시 시도해 주세요.";
+
+"There was a problem, please try again. (%@)" = "문제가 발생했습니다. 다시 시도해 주세요. (%@)";
+
+"Enter the code we just sent to your number ending in **%@" = "**%@(으)로 끝나는 전화번호로 방금 보내드린 코드를 입력하세요";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "%@(으)로 이메일을 보냈습니다.\n이메일 내 링크를 클릭해 시작하세요.";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "“계속”을 클릭하면 ChatGPT 사용에 대한 부모 또는 보호자의 동의를 받았음을 확인하고 당사 [이용약관](https://openai.com/policies/terms-of-use)과 [개인정보 보호 정책](https://openai.com/policies/privacy-policy)에 동의하는 것으로 간주합니다.";
+
+"Select your Birthday" = "생일 선택";
+
+"First name" = "이름";
+
+"Area code" = "지역 코드";
+

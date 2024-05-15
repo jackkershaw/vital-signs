@@ -1,0 +1,150 @@
+"Temporary Chats won’t be used to improve our models." = "Тимчасові чати не використовуватимуться для поліпшення наших моделей.";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "Під час тимчасового чата ChatGPT не використовує і не створює спогади. Спеціальні інструкції як і раніше, будуть виконуватися, якщо вони ввімкнені.";
+
+"Keep the conversation going" = "Продовжуйте розмову";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "ChatGPT може надавати неточну інформацію про людей, місця чи факти.";
+
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "ChatGPT використовуватиме здобуті знання в нових чатах, завдяки чому відповіді програми ставатимуть більш актуальними.";
+
+"Custom Instructions will still be followed if you have them enabled." = "Спеціальні інструкції, як і раніше, будуть виконуватися, якщо вони ввімкнені.";
+
+"Share audio from future voice chats to improve and train our models." = "Поширюйте аудіо з майбутніх голосових чатів, щоб поліпшувати та навчати наші моделі.";
+
+"Manage what it remembers" = "Керуйте інформацією, яку запам’ятовує програма";
+
+"Refine DALL·E Images" = "Покращуйте зображень DALL·E";
+
+"Get Started" = "Почати роботу";
+
+"Start with a photo" = "Почніть із фотографії";
+
+"Not in history" = "Немає в історії";
+
+"Memory off" = "Пам’ять вимкнено";
+
+"Temporary Chat" = "Тимчасовий чат";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "Хоча в нас є запобіжні заходи, ChatGPT може надавати вам неточну інформацію. Програму не призначено для надання порад.";
+
+"Active for new chats" = "Активовано для нових чатів";
+
+"Help improve voice" = "Допоможіть поліпшити функцію розпізнавання голосу";
+
+"Control your chat history" = "Керуйте своєю історією чатів";
+
+"Language is auto-detected" = "Мова визначається автоматично";
+
+"No model training" = "Немає навчання моделей";
+
+"Improve voice chats for everyone" = "Поліпшіть голосові чати для кожного користувача";
+
+"Chat with voice" = "Чат із голосовими функціями";
+
+"Just start talking" = "Просто почніть говорити";
+
+"Continue" = "Продовжити";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "Тимчасові чати не відображатимуться у вашій історії. З міркувань безпеки ми можемо зберігати копію вашого чату щонайбільше протягом 30 днів.";
+
+"Choose a voice" = "Вибрати голос";
+
+"Snap a picture to ask ChatGPT about the world around you." = "Зробіть знімок, щоб запитати ChatGPT про світ навколо.";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "Переглядайте транскрипції голосу у своїй історії. Аудіокліпи не зберігаються.";
+
+"Taking steps to protect privacy" = "Уживання заходів для захисту конфіденційності";
+
+"Chats are saved" = "Чати збережено";
+
+"More helpful over time" = "Більше користі із часом";
+
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "Щоразу, коли ви редагуватимете спеціальні інструкції, вони починатимуть діяти в усіх нових чатах, які ви створюватимете. Старіші розмови не оновлюватимуться.";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "Ваші інструкції допоможуть поліпшити наші моделі. Відвідайте наш [Центр довідки](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt), щоб дізнатися докладнішу інформацію про спосіб використання ваших даних.";
+
+"Welcome to ChatGPT" = "Вітаємо в ChatGPT";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Якщо ви не захочете продовжувати, ви можете будь-коли припинити поширення в налаштуваннях.\n\n[Докладніше](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "Спробуйте використати фотографії для ремонту велосипеда, створення рецепта чи аналізу складних діаграм.";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "Ця офіційна програма безплатна. Вона синхронізує вашу історію на різних пристроях і надає останні поліпшення моделі від OpenAI.";
+
+"ChatGPT can be inaccurate" = "Програма ChatGPT може бути неточною";
+
+"You’re in control" = "Усе під вашим контролем";
+
+"Welcome to the %@ workspace" = "Вітаємо в робочій області «%@»";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "Тут ви можете використовувати наші найновіші моделі з більшими можливостями та меншими обмеженнями.";
+
+"Made for use at work" = "Створено для використання на роботі";
+
+"Follows custom instructions" = "Спеціальні інструкції дотримуються";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "ChatGPT може відповідати на запитання, допомагати вам у навчанні, писати код, брати участь у мозкових штурмах тощо.";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "Вирішіть, чи відображатимуться нові чати на цьому пристрої у вашій історії та чи використовуватимуться вони для поліпшення наших систем.";
+
+"Now you can have spoken conversations with ChatGPT." = "Тепер ChatGPT підтримує голосові розмови.";
+
+"Chat without having to look at your screen." = "Спілкуйтеся в чаті, не дивлячись на екран.";
+
+"Share" = "Поширити";
+
+"Welcome to your company's workspace" = "Вітаємо в робочій області вашої компанії";
+
+"Welcome to\nChatGPT" = "Вітаємо в\nChatGPT";
+
+"Built for business" = "Створено для бізнесу";
+
+"Chat with images" = "Чат із зображеннями";
+
+"Check your facts" = "Перевіряйте факти";
+
+"Picture perfect" = "Ідеальне зображення";
+
+"By default, chats in this workspace are not used to train our AI models." = "За замовчуванням чати в цій робочій області не використовуються для навчання наших моделей ШІ.";
+
+"Learn more" = "Докладніше";
+
+"Help improve our models" = "Допоможіть поліпшити наші моделі";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "Надайте контекст щодо своєї галузі, ролі чи конкретних проєктів, щоб отримати кращі відповіді, адаптовані до ваших потреб.";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "Щоб поліпшувати голосові чати, наша команда може прослуховувати аудіо. Ми вживаємо заходів, щоб зменшити обсяг особистої інформації в аудіо, яка використовується для навчання наших моделей.";
+
+"Edit the full image" = "Редагування всього зображення";
+
+"Don’t share sensitive info" = "Не поширюйте конфіденційну інформацію";
+
+"Now you can have spoken conversations with GPTs." = "Тепер GPT підтримують голосові розмови.";
+
+"Tap Edit and describe changes in chat." = "Торкніться «Редагувати» й опишіть зміни в чаті.";
+
+"Introducing\nCustom Instructions" = "Представляємо\nспеціальні інструкції";
+
+"ChatGPT now has memory across chats" = "ChatGPT тепер має пам’ять для чатів";
+
+"Chats may be reviewed by our AI trainers to improve our systems." = "Чати можуть переглядати наші інструктори із ШІ, щоб поліпшувати наші системи.";
+
+"Hands-free" = "Гучномовний режим";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "Ви можете вказати основну мову в розділі «Налаштування» для точнішого визначення.";
+
+"Tap Select, highlight the area, and describe changes in chat." = "Торкніться «Вибрати», виділіть область і опишіть зміни в чаті.";
+
+"Ask away" = "Запитуйте";
+
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "Налаштуйте свою взаємодію із ChatGPT, надавши конкретні відомості та вказівки для своїх чатів.";
+
+"Don't Share" = "Не поширювати";
+
+"Select an area of the image to edit" = "Виберіть область зображення для редагування";
+
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "Усе під вашим контролем. Ви можете переглянути й видалити конкретну пам’ять, почати все знову з нуля або вимкнути цю функцію в налаштуваннях.";
+
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "ChatGPT стане кориснішим під час спілкування в чаті, оскільки постійно запам’ятовуватиме відомості та параметри.";
+

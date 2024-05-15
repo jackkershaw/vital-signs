@@ -1,0 +1,82 @@
+"Are you sure?" = "Sigurado ka ba?";
+
+"Fullscreen" = "Fullscreen";
+
+"Editing message" = "Ine-edit ang mensahe";
+
+"Scroll to bottom" = "Mag-scroll sa baba";
+
+"To continue, you’ll need to replace the current attachment." = "Para magpatuloy, kakailanganin mong palitan ang kasalukuyang attachment.";
+
+"Attached image" = "Mag-attach ng larawan";
+
+"This chat uses an older version of your custom instructions" = "Gumagamit ang chat na ito ng mas lumang bersyon ng mga custom na instruksyon mo";
+
+"Stop" = "Ihinto";
+
+"Shows the voice recording interface and begins recording" = "Ipinapakita ang voice recording interface at sinisimulan ang pagre-record";
+
+"Replace" = "Palitan";
+
+"Failed, retry?" = "Hindi gumana, subukan ulit?";
+
+"You need %@ to continue this chat because it has attachments." = "You need %@ to continue this chat because it has attachments.";
+
+"Image upload failed." = "Hindi ma-upload ang larawan.";
+
+"Attach files" = "Mag-attach ng mga file";
+
+"Stop Generating" = "Ihinto ang Pag-generate";
+
+"You need %@ to continue this chat because this GPT requires it." = "You need %@ to continue this chat because this GPT requires it.";
+
+"Message" = "Mensahe";
+
+"You need %@ to continue this chat because it uses audio." = "You need %@ to continue this chat because it uses audio.";
+
+"You've reached your %@ limit." = "You've reached your %@ limit.";
+
+"Message ChatGPT" = "Magmensahe sa ChatGPT";
+
+"Upload File" = "Mag-upload ng File";
+
+"Edit selection" = "I-edit ang selection";
+
+"Continue Generating" = "Magpatuloy sa Pag-generate";
+
+"Dictation" = "Dictation";
+
+"You need %@ to continue this chat because it uses tools." = "You need %@ to continue this chat because it uses tools.";
+
+"If you cancel the text conversion you will lose the recording." = "Kung kakanselahin mo ang pag-convert ng text, mawawala ang recording.";
+
+"Remove attachment" = "Alisin ang attachment";
+
+"File upload failed." = "Hindi ma-upload ang file.";
+
+"This chat is currently unavailable" = "This chat is currently unavailable";
+
+"Microphone access required" = "Microphone access required";
+
+"New Message" = "Bagong Mensahe";
+
+"Image attachment failed." = "Hindi ma-attach ang larawan.";
+
+"Confirm" = "Kumpirmahin";
+
+"Attach photos" = "Mag-attach ng mga litrato";
+
+"Replace attachment?" = "Palitan ang attachment?";
+
+"Switch to Voice mode" = "Lumipat sa Voice mode";
+
+"Send" = "Ipadala";
+
+"Edit image" = "I-edit ang larawan";
+
+"No connection" = "No connection";
+
+"Get Plus to Chat" = "Kumuha ng Plus para Mag-chat";
+
+"You need %@ to continue this chat because it has images." = "You need %@ to continue this chat because it has images.";
+

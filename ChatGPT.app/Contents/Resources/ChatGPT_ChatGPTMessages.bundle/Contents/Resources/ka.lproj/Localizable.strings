@@ -1,0 +1,74 @@
+"Loading…" = "მიმდინარეობს ჩატვირთვა...";
+
+"How would you rate this GPT?" = "როგორ შეაფასებდით ამ GPT-ს?";
+
+"Sign in to %@" = "%@-ში შესვლა";
+
+"Your most recent request failed. Please retry!" = "თქვენი ბოლო მოთხოვნის შესრულება ვერ მოხერხდა. სცადეთ ხელახლა!";
+
+"File unavailable" = "ფაილი მიუწვდომელია";
+
+"Deny" = "უარყოფა";
+
+"Edit" = "რედაქტირება";
+
+"#%lld row" = "#%lld რიგი";
+
+"Regenerate" = "ხელახლა გენერირება";
+
+"Always allow" = "ყოველთვის დაშვება";
+
+"\"%@\" column" = "„%@“ სვეტი";
+
+"File expired" = "ფაილი ვადაგასულია";
+
+"Quick Look" = "სწრაფი დათვალიერება";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "დაწერილია ჩვენი ყველაზე განვითარებული მოდელის, GPT-4-ის მიერ, რომელიც ხელმისაწვდომია ChatGPT Plus-ზე";
+
+"Memories updated" = "მეხსიერებები განახლდა";
+
+"Decline" = "უარის თქმა";
+
+"Upgraded response" = "განახლებული პასუხი";
+
+"Stop Generating" = "გენერირების შეწყვეტა";
+
+"Response rating failed." = "პასუხის შეფასება ვერ მოხერხდა.";
+
+"\"%@\" cell" = "„%@“ უჯრა";
+
+"Please try again later.%@" = "ცადეთ მოგვიანებით.%@";
+
+"Select Text" = "ტექსტის მონიშვნა";
+
+"Failed, retry?" = "ვერ მოხერხდა, ცდით ხელახლა?";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "ეს ფაილი ხელმისაწვდომი აღარ არის. ხელახლა წამოიწყეთ საუბარი ან ატვირთეთ ახალი ფაილი საუბრის გასაგრძელებლად.";
+
+"Selection" = "მონიშვნა";
+
+"Bad" = "ცუდი";
+
+"A GPT" = "GPT";
+
+"Save File As…" = "ფაილის შენახვა როგორც...";
+
+"Analysis" = "ანალიზი";
+
+"Change Model" = "მოდელის შეცვლა";
+
+"Continue Generating" = "შექმნის გაგრძელება";
+
+"Read Aloud" = "ხმამაღლა წაკითხვა";
+
+"Manage memories" = "მეხსიერებების მართვა";
+
+"Memory updated" = "მეხსიერება განახლდა";
+
+"You" = "თქვენ";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "იტვირთება ^[%lld მიბმული ფაილი](inflect: true)…";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT ფაილებს ინახავს მხოლოდ შეზღუდული დროით. ხელახლა დაიწყეთ საუბარი ან ატვირთეთ ახალი ფაილი საუბრის გასაგრძელებლად.";
+

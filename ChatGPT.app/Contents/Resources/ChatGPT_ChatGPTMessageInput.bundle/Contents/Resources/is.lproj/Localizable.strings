@@ -1,0 +1,82 @@
+"Upload File" = "Hlaða upp skrá";
+
+"Dictation" = "Taltúlkun";
+
+"Get Plus to Chat" = "Fáðu Plus til að spjalla";
+
+"Image attachment failed." = "Ekki tókst að setja mynd í viðhengi.";
+
+"Stop Generating" = "Hætta að mynda";
+
+"Confirm" = "Staðfesta";
+
+"Attach photos" = "Hengja við myndir";
+
+"Send" = "Senda";
+
+"Message ChatGPT" = "Senda ChatGPT skilaboð";
+
+"Continue Generating" = "Halda áfram að búa til";
+
+"You've reached your %@ limit." = "Þú hefur náð takmarkinu fyrir %@.";
+
+"This chat uses an older version of your custom instructions" = "Þetta spjall notar eldri útgáfu sérsniðinna leiðbeininga þinna";
+
+"Are you sure?" = "Ertu viss?";
+
+"No connection" = "Engin tenging";
+
+"Replace attachment?" = "Skipta um viðhengi?";
+
+"Microphone access required" = "Aðgangur að hljóðnema nauðsynlegur";
+
+"File upload failed." = "Ekki tókst að hlaða upp skrá";
+
+"Edit image" = "Breyta mynd";
+
+"Shows the voice recording interface and begins recording" = "Sýnir viðmóti fyrir raddupptöku og byrjar að taka upp";
+
+"Image upload failed." = "Upphleðsla myndar mistókst.";
+
+"You need %@ to continue this chat because this GPT requires it." = "Þú þarft %@ til að halda þessu spjalli áfram vegna þess að þessi GPT-lausn krefst þess.";
+
+"Failed, retry?" = "Mistókst, reyna aftur?";
+
+"Switch to Voice mode" = "Skipta í raddstillingu";
+
+"Stop" = "Stöðva";
+
+"Edit selection" = "Breyta vali";
+
+"Scroll to bottom" = "Fara neðst";
+
+"This chat is currently unavailable" = "Spjallið er ekki tiltækt núna";
+
+"New Message" = "Ný skilaboð";
+
+"Replace" = "Skipta út";
+
+"Attach files" = "Hengja við skrár";
+
+"To continue, you’ll need to replace the current attachment." = "Til að halda áfram þarftu að skipta núverandi viðhengi út.";
+
+"You need %@ to continue this chat because it has attachments." = "Þú þarft %@ til að halda þessu spjalli áfram vegna þess að það er með viðhengi.";
+
+"Attached image" = "Mynd í viðhengi";
+
+"Fullscreen" = "Heilskjár";
+
+"Remove attachment" = "Fjarlægja viðhengi";
+
+"If you cancel the text conversion you will lose the recording." = "Ef þú hættir við umbreytingu í texta mun upptakan glatast.";
+
+"Editing message" = "Breytir skilaboðum";
+
+"You need %@ to continue this chat because it has images." = "Þú þarft %@ til að halda þessu spjalli áfram vegna þess að það er með myndir.";
+
+"You need %@ to continue this chat because it uses tools." = "Þú þarft %@ til að halda þessu spjalli áfram vegna þess að það notar verkfæri.";
+
+"Message" = "Skilaboð";
+
+"You need %@ to continue this chat because it uses audio." = "Þú þarft %@ til að halda þessu spjalli áfram vegna þess að það notar hljóð.";
+

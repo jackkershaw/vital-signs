@@ -1,0 +1,40 @@
+"Select a GPT" = "Chagua GPT";
+
+"Search memories" = "Tafuta kumbukumbu";
+
+"Open menu to select which GPT to show memories for" = "Fungua menyu ili kuchagua GPT ya kuonyesha kumbukumbu";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "Unapochati na %@, maelezo na mapendeleo ambayo inakumbuka yataonyeshwa hapa.";
+
+"Error loading memories" = "Hitilafu katika kupakia kumbukumbu";
+
+"Error loading GPTs" = "Hitilafu katika kupakia GPT";
+
+"%@'s memories" = "kumbukumbu za %@";
+
+"Turn On" = "Washa";
+
+"Could not reset memory. Please try again later." = "Haikuweza kuweka kumbukumbu upya. Tafadhali jaribu tena baadaye.";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ itasahau kila kitu ambacho iilikuwa imekumbuka kutoka kwa chati zako. Hatua hii haiwezi kutenduliwa.";
+
+"Clear Memory" = "Futa Kumbukumbu";
+
+"Clear ChatGPT’s memory" = "Futa kumbukumbu ya ChatGPT";
+
+"Clear this GPT's memory" = "Futa kumbukumbu hii ya GPT";
+
+"%@ won't use or create memories" = "%@ haitatumia au kuunda kumbukumbu";
+
+"Error deleting memory" = "Hitilafu katika kufuta kumbukumbu";
+
+"Memory" = "Kumbukumbu";
+
+"No memories" = "Hakuna kumbukumbu";
+
+"Are you sure?" = "Una uhakika?";
+
+"Memory is disabled" = "Kumbukumbu imezimwa";
+
+"Learn More" = "Pata Maelezo Zaidi";
+

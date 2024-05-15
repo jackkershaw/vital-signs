@@ -1,0 +1,70 @@
+"PKCE not allowed." = "PKCE niet toegestaan.";
+
+"Let’s design" = "Laten we iets ontwerpen";
+
+"Let’s go" = "Laten we beginnen";
+
+"Sign in request was cancelled." = "Het aanmeldingsverzoek werd geannuleerd.";
+
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "Er is iets verkeerd gegaan. Zorg dat de datum en tijd van je apparaat correct zijn en dat 'Automatisch instellen' is ingeschakeld onder 'Instellingen → Algemeen → Datum en tijd'.";
+
+"Continue with Google" = "Doorgaan met Google";
+
+"Let’s explore" = "Laten we iets onderzoeken";
+
+"Unknown other error." = "Onbekende andere fout.";
+
+"Sign in failed" = "Aanmelden is mislukt";
+
+"There is a problem with the server. Please try again later." = "Er is een probleem met de server. Probeer het later opnieuw.";
+
+"Let’s discover" = "Laten we iets gaan ontdekken";
+
+"There was a problem clearing sign in info. Please try again." = "Er is een probleem opgetreden bij het wissen van de aanmeldgegevens. Probeer het opnieuw.";
+
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "Er is een probleem opgetreden bij de communicatie met de Apple-servers. Probeer het opnieuw. (%lld)";
+
+"Sign up with email" = "Registreren met e-mailadres";
+
+"Renew failed." = "Vernieuwen is mislukt.";
+
+"Something went wrong." = "Er is iets verkeerd gegaan.";
+
+"No authorization code found." = "Geen autorisatiecode gevonden.";
+
+"There was a problem. Please restart the app." = "Er is een probleem opgetreden. Start de app opnieuw.";
+
+"Let’s collaborate" = "Laten we samenwerken";
+
+"Unknown error." = "Onbekende fout.";
+
+"Invalid invite url." = "Ongeldige uitnodiging-URL.";
+
+"There was a problem saving sign in info. Please try again." = "Er is een probleem opgetreden bij het opslaan van de aanmeldgegevens. Probeer het opnieuw.";
+
+"Request cancelled." = "Verzoek geannuleerd.";
+
+"Let’s create" = "Laten we iets maken";
+
+"Let’s brainstorm" = "Laten we brainstormen";
+
+"Terms of Use" = "Gebruiksvoorwaarden";
+
+"Revoke failed." = "Intrekken is mislukt.";
+
+"Privacy Policy" = "Privacybeleid";
+
+"No refresh token found." = "Geen vernieuwingstoken gevonden.";
+
+"Store failed." = "Opslaan is mislukt.";
+
+"No sign in info found. Please sign in." = "Geen aanmeldgegevens gevonden. Meld je aan.";
+
+"Failed to validate id token." = "Valideren van ID-token is mislukt.";
+
+"Let’s invent" = "Laten we iets gaan uitvinden";
+
+"Let’s chit-chat" = "Laten we kletsen";
+
+"Missing bundle id." = "Bundel-ID ontbreekt.";
+

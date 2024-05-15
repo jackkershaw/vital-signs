@@ -1,0 +1,52 @@
+"Error loading customizations. Please try again later." = "అనుకూలీకరణలను లోడ్ చేయడంలో లోపం. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "మీరు ఖచ్చితంగా మీ మార్పులను విస్మరించాలనుకుంటున్నారా?\nమీరు చేసిన ఏవైనా మార్పులు పోతాయి.";
+
+"Generate images using DALL•E" = "DALL·E ఉపయోగించి చిత్రాలను రూపొందించండి";
+
+"Save" = "సేవ్ చేయండి";
+
+"Custom Instructions Enabled or Disabled" = "అనుకూల సూచనలు ఎనేబుల్ లేదా డిసేబుల్ చేయబడ్డాయి";
+
+"GPT-4 Capabilities" = "GPT-4 సామర్థ్యాలు";
+
+"Discard changes" = "మార్పులను విస్మరించండి";
+
+"Error saving custom instructions" = "అనుకూల సూచనలు సేవ్ చేయడంలో లోపం";
+
+"Browsing" = "బ్రౌజింగ్";
+
+"Enable for new chats" = "కొత్త చాట్‌ల కోసం ప్రారంభించండి";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "అన్ని కొత్త చాట్‌‌లకు అనుకూల సూచనలు వర్తించబడతాయి. [మరింత నేర్చుకోండి](chat-preferences-disclosures)";
+
+"Show tips" = "టిప్ ‌ లను చూపించండి";
+
+"An unknown error occurred. Please try again later" = "తెలియని లోపం సంభవించింది. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి";
+
+"Keep editing" = "సవరించడం కొనసాగించండి";
+
+"DALL•E" = "DALL•E";
+
+"Saving Custom Instructions" = "అనుకూల సూచనలు సేవ్ చేస్తోంది";
+
+"Code" = "కోడ్";
+
+"How would you like ChatGPT to respond?" = "మీరు ChatGPT ఎలా ప్రతిస్పందించాలనుకుంటున్నారు?";
+
+"Thought starters" = "థాట్ స్టార్టర్స్";
+
+"Unsaved changes" = "సేవ్ చేయని మార్పులు";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "మెరుగైన ప్రతిస్పందనలను అందించడానికి మీ గురించి ChatGPT ఏమి తెలుసుకోవాలనుకుంటున్నారు?";
+
+"Customize ChatGPT" = "ChatGPTని అనుకూలీకరించండి";
+
+"Error updating state for customizations. Please try again later." = "అనుకూలీకరణల కోసం స్థితిని నవీకరించడంలో లోపం. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.";
+
+"Browse the internet to find answers" = "సమాధానాలను కనుగొనడానికి ఇంటర్నెట్‌ని బ్రౌజ్ చేయండి";
+
+"Choose which tools can be used with GPT-4." = "GPT-4తో ఏ సాధనాలను ఉపయోగించవచ్చో ఎంచుకోండి";
+
+"Execute code using Code Interpreter" = "కోడ్ ఇంటర్‌ప్రెటర్‌ని ఉపయోగించి కోడ్‌ని అమలు చేయండి";
+

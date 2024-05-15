@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>VERIFICATION_URL</key>
+	<string></string>
+	<key>API_KEY</key>
+	<string>11111111-1111-1111-1111-111111111111</string>
+	<key>API_URL_BASE</key>
+	<string>https://openai-api.arkoselabs.com/v2</string>
+	<key>API_FILE</key>
+	<string>api.js</string>
+	<key>ENABLE_OVERRIDE_KEY</key>
+	<true/>
+</dict>
+</plist>

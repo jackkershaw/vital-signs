@@ -1,0 +1,74 @@
+"How would you rate this GPT?" = "Kaip įvertintumėte šį GPT?";
+
+"File expired" = "Failas nebegalioja";
+
+"Edit" = "Redaguoti";
+
+"\"%@\" cell" = "%@ langelis";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "„ChatGPT“ saugo failus tik ribotą laiką. Pradėkite naują pasikalbėjimą arba įkelkite naują failą, kad galėtumėte tęsti pasikalbėjimą.";
+
+"Manage memories" = "Tvarkyti atmintis";
+
+"Memory updated" = "Atmintis atnaujinta";
+
+"Stop Generating" = "Nustoti generuoti";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "Įrašyta naudojant mūsų galingiausią modelį GPT-4, kurį galima rasti „ChatGPT Plus“";
+
+"Analysis" = "Analizė";
+
+"File unavailable" = "Failas nepasiekiamas";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "Šis failas nebepasiekiamas. Pradėkite naują pasikalbėjimą arba įkelkite naują failą, kad galėtumėte tęsti pasikalbėjimą.";
+
+"Memories updated" = "Atmintys atnaujintos";
+
+"Response rating failed." = "Atsakymo įvertinti nepavyko.";
+
+"Change Model" = "Pakeisti modelį";
+
+"Save File As…" = "Įrašyti failą kaip…";
+
+"Select Text" = "Pasirinkti tekstą";
+
+"Continue Generating" = "Generuoti toliau";
+
+"\"%@\" column" = "%@ stulpelis";
+
+"#%lld row" = "%lld eilutė";
+
+"Deny" = "Atmesti";
+
+"Quick Look" = "Greitas žvilgsnis";
+
+"Selection" = "Parinktis";
+
+"Loading…" = "Įkeliama…";
+
+"You" = "Jūs";
+
+"Bad" = "Blogas";
+
+"Your most recent request failed. Please retry!" = "Jūsų vėliausia užklausa nesėkminga. Bandykite iš naujo!";
+
+"Read Aloud" = "Skaityti balsu";
+
+"Decline" = "Atsisakyti";
+
+"Please try again later.%@" = "Bandykite dar kartą vėliau.%@";
+
+"Upgraded response" = "Patobulintas atsakymas";
+
+"A GPT" = "GPT";
+
+"Failed, retry?" = "Nepavyko, ar bandyti iš naujo?";
+
+"Always allow" = "Visada leisti";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "Įkeliama ^[%lld priedų](inflect: true)…";
+
+"Sign in to %@" = "Prisijungti prie %@";
+
+"Regenerate" = "Atkurti";
+

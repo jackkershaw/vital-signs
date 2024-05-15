@@ -1,0 +1,16 @@
+"Image conversion failed" = "სურათის კონვერსია ვერ მოხერხდა";
+
+"Expected a non-file URL, but received a file URL" = "მოსალოდნელი ბმულის ნაცვლად, რომელიც არ იყო ფაილის,მივიღეთ ფაილის ბმული";
+
+"Expected a file URL, but received a non-file URL" = "მოსალოდნელი ფაილის ბმულის ნაცვლად, მივიღეთ ბმული რომელიც არ არის ფაილის";
+
+"Not authorized" = "არ არის ავტორიზებული";
+
+"Please try again later.\n\n(%@)" = "სცადეთ მოგვიანებით.\n\n(%@)";
+
+"Failed to Save Image" = "სურათის შენახვა ვერ მოხერხდა";
+
+"Photos Access Denied" = "ფოტოებზე წვდომა უარყოფილია";
+
+"Enable photo library access in Settings to save photos." = "გაააქტიურეთ ფოტოების ბიბლიოთეკაზე წვდომა თქვენი პარამეტრებიდან, რათა შეინახოთ ფოტოები.";
+

@@ -1,0 +1,12 @@
+"Download the beta build or contact [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W) if you're having issues." = "Descarcă versiunea beta sau contactează [#sidekick-feedback](https://openai.enterprise.slack.com/archives/C06MFN6UZ7W) dacă întâmpini probleme.";
+
+"Loading account…" = "Se încarcă contul…";
+
+"Checking system health…" = "Se verifică sănătatea sistemului…";
+
+"Check your OpenAI e-mail for an invite titled \"OpenAI has invited you to test ChatGPT\" or contact [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A) to be added." = "Verifică-ți e-mailul de la OpenAI pentru a citi invitația intitulată „OpenAI te-a invitat să testezi ChatGPT” sau contactează [#chatgpt-ios-chatter](https://openai.enterprise.slack.com/archives/C04FZKZMB7A) pentru a fi adăugat(ă).";
+
+"  %@\n\n  OpenAI employees are required to use internal builds to access ChatGPT.\n" = "  %@\n\n  Angajații OpenAI trebuie să utilizeze versiuni interne pentru a accesa ChatGPT.\n";
+
+"Error loading account information. Please try again later." = "Eroare la încărcarea informațiilor contului. Încearcă din nou mai târziu.";
+

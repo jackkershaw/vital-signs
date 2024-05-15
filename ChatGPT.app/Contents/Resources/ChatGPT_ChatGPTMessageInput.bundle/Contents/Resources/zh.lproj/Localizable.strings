@@ -1,0 +1,82 @@
+"You need %@ to continue this chat because it has images." = "由于此聊天包含图片，因此您需要使用 %@ 才能继续此聊天。";
+
+"Switch to Voice mode" = "切换为语音模式";
+
+"Edit selection" = "编辑所选内容";
+
+"Get Plus to Chat" = "获取 Plus 以进行聊天";
+
+"Send" = "发送";
+
+"Stop Generating" = "停止生成";
+
+"Upload File" = "上传文件";
+
+"If you cancel the text conversion you will lose the recording." = "若取消文本转换，录音将丢失。";
+
+"Are you sure?" = "确定吗？";
+
+"Attach photos" = "附加照片";
+
+"Attached image" = "附加的图片";
+
+"You need %@ to continue this chat because it uses audio." = "由于此聊天使用了音频，因此您需要使用 %@ 才能继续此聊天。";
+
+"Attach files" = "附加文件";
+
+"Edit image" = "编辑图片";
+
+"This chat is currently unavailable" = "此聊天当前不可用";
+
+"Image upload failed." = "无法上传图片。";
+
+"You need %@ to continue this chat because it uses tools." = "由于此聊天使用了工具，因此您需要使用 %@ 才能继续此聊天。";
+
+"Message" = "消息";
+
+"This chat uses an older version of your custom instructions" = "此聊天使用的是旧版自定义指令";
+
+"Fullscreen" = "全屏";
+
+"New Message" = "新消息";
+
+"Microphone access required" = "需要麦克风权限";
+
+"Image attachment failed." = "无法附加图片。";
+
+"Failed, retry?" = "操作失败，要重试吗？";
+
+"Dictation" = "听写";
+
+"Replace attachment?" = "替换附件？";
+
+"You need %@ to continue this chat because this GPT requires it." = "由于此 GPT 的需要，因此您需要使用 %@ 才能继续此聊天。";
+
+"Message ChatGPT" = "给 ChatGPT 发送消息";
+
+"Editing message" = "正在编辑消息";
+
+"Remove attachment" = "移除附件";
+
+"To continue, you’ll need to replace the current attachment." = "要继续，您需要替换当前的附件。";
+
+"You need %@ to continue this chat because it has attachments." = "由于此聊天包含附件，因此您需要使用 %@ 才能继续此聊天。";
+
+"You've reached your %@ limit." = "您已达到 %@ 的使用上限。";
+
+"File upload failed." = "无法上传文件。";
+
+"Replace" = "替换";
+
+"Continue Generating" = "继续生成";
+
+"Stop" = "停止";
+
+"Scroll to bottom" = "滚动到底部";
+
+"Confirm" = "确认";
+
+"Shows the voice recording interface and begins recording" = "显示录音界面并开始录制";
+
+"No connection" = "无连接";
+

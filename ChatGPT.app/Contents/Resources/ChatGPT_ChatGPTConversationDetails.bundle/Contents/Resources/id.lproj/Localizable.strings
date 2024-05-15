@@ -1,0 +1,52 @@
+"Description" = "Deskripsi";
+
+"Model Info" = "Info Model";
+
+"Always" = "Selalu";
+
+"Connected Accounts" = "Akun Terhubung";
+
+"No connected accounts are available for this GPT." = "Tidak ada akun terhubung yang tersedia untuk GPT ini.";
+
+"Confirm Logout" = "Konfirmasikan Keluar";
+
+"Actions" = "Tindakan";
+
+"No actions are available for this GPT" = "Tidak ada tindakan yang tersedia untuk GPT ini";
+
+"Privacy Policy" = "Kebijakan Privasi";
+
+"Report" = "Laporkan";
+
+"Privacy & Safety" = "Privasi & Keselamatan";
+
+"Error loading action settings" = "Ada kesalahan saat memuat pengaturan tindakan";
+
+"Please try again later.\n\n(%@)" = "Cobalah lagi nanti.\n\n(%@)";
+
+"This chat uses an older version of your custom instructions." = "Obrolan ini menggunakan versi lama dari instruksi khusus Anda.";
+
+"Accounts" = "Akun";
+
+"Select which websites are allowed to see data from conversations with %@." = "Pilih situs web yang diizinkan melihat data dari percakapan dengan %@.";
+
+"Report Conversation" = "Laporkan Percakapan";
+
+"Failed to update setting, retry?" = "Gagal memperbarui pengaturan, coba lagi?";
+
+"Report GPT" = "Laporkan GPT";
+
+"Are you sure you want to log out of %@?" = "Anda yakin ingin keluar dari %@?";
+
+"None" = "Tidak ada";
+
+"Custom instructions" = "Instruksi khusus";
+
+"Error loading connected accounts.\n\n(%@)" = "Ada kesalahan saat memuat akun terhubung.\n\n(%@)";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "Kelola akun pihak ketiga yang dapat diakses oleh %@.";
+
+"Capabilities" = "Kemampuan";
+
+"Ask" = "Tanya";
+

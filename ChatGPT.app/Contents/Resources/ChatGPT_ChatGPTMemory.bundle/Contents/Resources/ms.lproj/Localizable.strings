@@ -1,0 +1,40 @@
+"Turn On" = "Hidupkan";
+
+"No memories" = "Tiada memori";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ akan melupakan semua yang telah diingati daripada sembang anda. Tindakan ini tidak boleh dibuat asal.";
+
+"%@'s memories" = "Memori %@";
+
+"Error loading GPTs" = "Ralat memuatkan GPT";
+
+"Clear this GPT's memory" = "Kosongkan memori GPT ini";
+
+"Open menu to select which GPT to show memories for" = "Buka menu untuk memilih GPT yang hendak ditunjukkan memori untuk";
+
+"Memory" = "Memori";
+
+"Clear Memory" = "Kosongkan Memori";
+
+"Are you sure?" = "Adakah anda pasti?";
+
+"Memory is disabled" = "Memori dinyahdayakan";
+
+"Error loading memories" = "Ralat memuatkan memori";
+
+"%@ won't use or create memories" = "%@ tidak akan menggunakan atau mencipta memori";
+
+"Clear ChatGPT’s memory" = "Kosongkan memori ChatGPT";
+
+"Could not reset memory. Please try again later." = "Tidak dapat set semula memori. Sila cuba sebentar lagi.";
+
+"Search memories" = "Carian memori";
+
+"Error deleting memory" = "Ralat memadamkan memori";
+
+"Select a GPT" = "Pilih GPT";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "Semasa anda bersembang dengan %@, butiran dan keutamaan yang diingati akan ditunjukkan di sini.";
+
+"Learn More" = "Ketahui Lebih Lanjut";
+

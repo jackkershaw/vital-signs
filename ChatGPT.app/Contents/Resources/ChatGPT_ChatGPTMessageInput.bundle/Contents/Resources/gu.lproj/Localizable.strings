@@ -1,0 +1,84 @@
+"No connection" = "કોઈ કનેક્શન નથી";
+
+"Confirm" = "પુષ્ટિ કરો";
+
+"Continue Generating" = "જનરેટ કરવાનું ચાલુ રાખો";
+
+"Edit image" = "ઇમેજ એડિટ કરો";
+
+"Failed, retry?" = "નિષ્ફળ, ફરી પ્રયાસ કરીએ કરવું છે?";
+
+"Editing message" = "મેસેજ એડિટ કરો";
+
+"You need %@ to continue this chat because it uses tools." = "આ ચેટ ચાલુ રાખવા માટે તમારે %@ની જરૂર છે કારણ કે તેમાં ટૂલ છે.";
+
+"Replace attachment?" = "અટેચમેન્ટ બદલીએ?";
+
+"Scroll to bottom" = "નીચે સુધી સ્ક્રોલ કરો";
+
+"Shows the voice recording interface and begins recording" = "વૉઇસ રેકોર્ડિંગ ઇન્ટરફેસ બતાવે છે અને રેકોર્ડિંગ શરૂ કરે છે";
+
+"You need %@ to continue this chat because it has attachments." = "આ ચેટ ચાલુ રાખવા માટે તમારે %@ની જરૂર છે કારણ કે તેમાં જોડાણો છે.";
+
+"New Message" = "નવો મેસેજ";
+
+"Message ChatGPT" = "ChatGPTને મેસેજ કરો...";
+
+"Send" = "મોકલો";
+
+"To continue, you’ll need to replace the current attachment." = "ચાલુ રાખવા માટે, તમારે વર્તમાન અટેચમેન્ટ બદલવાની જરૂર પડશે.";
+
+"This chat is currently unavailable" = "આ ચેટ હાલમાં અનુપલબ્ધ છે";
+
+"You need %@ to continue this chat because it has images." = "આ ચેટ ચાલુ રાખવા માટે તમારે %@ની જરૂર છે કારણ કે તેમાં છબીઓ છે.";
+
+"If you cancel the text conversion you will lose the recording." = "જો તમે ટેક્સ્ટ કન્વર્ઝન રદ કરશો તો તમે રેકોર્ડિંગ ગુમાવશો.";
+
+"Message" = "મેસેજ";
+
+"Stop Generating" = "જનરેટ કરવાનું બંધ કરો";
+
+"You need %@ to continue this chat because this GPT requires it." = "આ ચેટ ચાલુ રાખવા માટે તમારે %@ની જરૂર છે કારણ કે આ GPTને તેની જરૂર છે.";
+
+"Are you sure?" = "શું તમને ખાતરી છે?";
+
+"Switch to Voice mode" = "વૉઇસ મોડ પર સ્વિચ કરો";
+
+"Microphone access required" = "માઇક્રોફોન ઍક્સેસ જરૂરી છે";
+
+"Get Plus to Chat" = "ચેટ કરવા માટે પ્લસ મેળવો";
+
+"This chat uses an older version of your custom instructions" = "આ ચેટ તમારી કસ્ટમ સૂચનાઓના જૂના સંસ્કરણનો ઉપયોગ કરે છે.";
+
+"Dictation" = "શ્રુતલેખન";
+
+"Image upload failed." = "ઇમેજ અપલોડ નિષ્ફળ.";
+
+"Attached image" = "જોડાયેલ છબી";
+
+"Replace" = "બદલો";
+
+"Remove attachment" = "જોડાણ દૂર કરો";
+
+"Stop" = "બંધ";
+
+"Fullscreen" = "ફુલસ્ક્રીન";
+
+"This chat uses an older version of your custom instructions" = "આ ચેટ તમારી કસ્ટમ સૂચનાઓના જૂના સંસ્કરણનો ઉપયોગ કરે છે";
+
+"You've reached your %@ limit." = "તમે તમારી %@ મર્યાદા સુધી પહોંચી ગયા છો.";
+
+"Image attachment failed." = "ઇમેજ અટેચમેન્ટ નિષ્ફળ થયું.";
+
+"Attach photos" = "ફોટા જોડો";
+
+"Edit selection" = "પસંદગી એડિટ કરો";
+
+"Attach files" = "ફાઇલો જોડો";
+
+"You need %@ to continue this chat because it uses audio." = "આ ચેટ ચાલુ રાખવા માટે તમારે %@ની જરૂર છે કારણ કે તેમાં ઑડિયો છે.";
+
+"Upload File" = "ફાઈલ અપલોડ કરો";
+
+"File upload failed." = "ફાઇલ અપલોડ કરવામાં નિષ્ફળ.";
+

@@ -1,0 +1,50 @@
+"Delete link" = "Fshi lidhjen";
+
+"Update title" = "Përditëso titullin";
+
+"The share link is invalid. %@" = "Lidhja e ndarjes është e pavlefshme. %@";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "Mesazhet e dërguara ose të marra pas ndarjes së lidhjes nuk do të ndahen. Kushdo që ka URL-në do të jetë në gjendje të shohë bisedat e tua të përbashkëta.";
+
+"Share your name" = "Ndaj emrin tuaj";
+
+"Shared Link Date" = "Data e lidhjes së ndarë";
+
+"Recipients won't be able to view images." = "Marrësit nuk do të jenë në gjendje të shikojnë imazhet.";
+
+"Share link to chat" = "Ndaj lidhjen te biseda";
+
+"Share link" = "Ndaj lidhjen";
+
+"Shared Link Title" = "Titulli i lidhjes së ndarë";
+
+"Share anonymously" = "Ndaj në mënyrë anonime";
+
+"The conversation has no messages." = "Biseda nuk ka mesazhe.";
+
+"Shared Link Owner" = "Pronari i lidhjes së ndarë";
+
+"Edit title" = "Modifiko titullin";
+
+"There was an error preparing the conversation. Please try again. %@" = "Pati një gabim në përgatitjen e bisedës. Provo përsëri. %@";
+
+"Help and FAQ" = "Ndihma dhe pyetjet e shpeshta";
+
+"Shared link deleted." = "Lidhja e ndarë u fshi.";
+
+"Missing Name" = "Mungon emri";
+
+"Options" = "Opsione";
+
+"Title" = "Titulli";
+
+"There was an error sharing the conversation. Please try again. %@" = "Pati një gabim gjatë ndarjes së bisedës. Provo përsëri. %@";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "Je i sigurt që dëshiron ta fshish lidhjen e përbashkët \"%@\"? Mund të krijosh gjithmonë një lidhje të re duke e ndarë sërish këtë bisedë.";
+
+"Your custom instructions won’t be shared with viewers." = "Udhëzimet e tua të përshtatura nuk do të ndahen me shikuesit.";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "Ke ndarë tashmë një lidhje për këtë bisedë. Nëse dëshiron të përfshish mesazhe të reja, fshije këtë lidhje dhe ndaje përsëri bisedën.";
+
+"There was an error deleting your shared link." = "Pati një gabim gjatë fshirjes së lidhjes sate të ndarë.";
+

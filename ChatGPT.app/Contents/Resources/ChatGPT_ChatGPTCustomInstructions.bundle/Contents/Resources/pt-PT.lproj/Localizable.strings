@@ -1,0 +1,52 @@
+"Keep editing" = "Continuar a editar";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Tem a certeza de que pretende eliminar as alterações? \nQuaisquer alterações que tenha feito serão perdidas.";
+
+"Execute code using Code Interpreter" = "Executa código utilizando o Intérprete de Código";
+
+"Browsing" = "Navegar";
+
+"How would you like ChatGPT to respond?" = "De que forma gostaria que o ChatGPT respondesse?";
+
+"Unsaved changes" = "Alterações por guardar";
+
+"An unknown error occurred. Please try again later" = "Ocorreu um erro inesperado. Tente novamente mais tarde.";
+
+"Error loading customizations. Please try again later." = "Erro ao carregar personalizações. Tente novamente mais tarde.";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "As instruções personalizadas serão aplicadas a todos os novos chats. [Saber mais](chat-preferences-disclosures)";
+
+"DALL•E" = "DALL•E";
+
+"Browse the internet to find answers" = "Navegue na internet para encontrar respostas";
+
+"Error updating state for customizations. Please try again later." = "Erro ao atualizar o estado das personalizações. Tente novamente mais tarde.";
+
+"Custom Instructions Enabled or Disabled" = "Instruções personalizadas Ativadas ou Desativadas";
+
+"GPT-4 Capabilities" = "Capacidades do GPT-4";
+
+"Choose which tools can be used with GPT-4." = "Escolha que ferramentas podem ser utilizadas com o GPT-4.";
+
+"Code" = "Código";
+
+"Customize ChatGPT" = "Personalizar ChatGPT";
+
+"Show tips" = "Mostrar dicas";
+
+"Saving Custom Instructions" = "Erro ao gravar Instruções personalizadas";
+
+"Discard changes" = "Eliminar alterações";
+
+"Generate images using DALL•E" = "Gera imagens com o DALL·E";
+
+"Thought starters" = "Por onde começar";
+
+"Error saving custom instructions" = "Erro ao guardar instruções personalizadas";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "O que gostaria que o ChatGPT soubesse sobre si para lhe disponibilizar melhores respostas?";
+
+"Save" = "Guardar";
+
+"Enable for new chats" = "Ativar para novos chats";
+

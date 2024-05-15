@@ -1,0 +1,50 @@
+"Recipients won't be able to view images." = "Mottakere vil ikke kunne se bilder.";
+
+"There was an error deleting your shared link." = "Det oppsto en feil ved sletting av den delte lenken.";
+
+"Are you sure you want to delete the shared link \"%@\"? You can always create a new link by sharing this chat again." = "Er du sikker på at du vil slette den delte lenken \"%@\"? Du kan når som helst opprette en ny lenke ved å dele denne chatten igjen.";
+
+"Messages sent or received after sharing your link won't be shared. Anyone with the URL will be able to view your shared chat." = "Meldinger som sendes eller mottas etter deling av lenken, blir ikke delt. Alle som har URL-adressen vil kunne se den delte chatten.";
+
+"Title" = "Tittel";
+
+"The share link is invalid. %@" = "Delingslenken er ugyldig. %@";
+
+"Shared Link Owner" = "Eier av delt lenke";
+
+"Help and FAQ" = "Hjelp og spørsmål og svar";
+
+"Options" = "Alternativer";
+
+"Shared Link Title" = "Tittel på delt lenke";
+
+"Update title" = "Oppdater tittel";
+
+"Share link to chat" = "Del lenke til chat";
+
+"Share link" = "Del lenke";
+
+"There was an error sharing the conversation. Please try again. %@" = "Det oppstod en feil ved deling av samtalen. Prøv igjen. %@";
+
+"Your custom instructions won’t be shared with viewers." = "Dine egendefinerte instruksjoner blir ikke delt med dem som ser på innholdet.";
+
+"There was an error preparing the conversation. Please try again. %@" = "Det oppstod en feil ved klargjøring av samtalen. Prøv igjen. %@";
+
+"Delete link" = "Slett lenke";
+
+"Missing Name" = "Navn mangler";
+
+"You’ve already shared a link to this chat. If you’d like to include new messages, delete this link and share your chat again." = "Du har allerede delt en lenke i denne chatten. Hvis du vil ta med nye meldinger, sletter du denne lenken og deler chatten på nytt.";
+
+"Edit title" = "Rediger tittel";
+
+"Shared link deleted." = "Delt lenke slettet.";
+
+"The conversation has no messages." = "Samtalen har ingen meldinger.";
+
+"Share anonymously" = "Del anonymt";
+
+"Shared Link Date" = "Dato for delt lenke";
+
+"Share your name" = "Del navnet ditt";
+

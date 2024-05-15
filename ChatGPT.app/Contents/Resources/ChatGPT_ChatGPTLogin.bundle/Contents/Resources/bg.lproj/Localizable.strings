@@ -1,0 +1,70 @@
+"Invalid invite url." = "Невалиден URL адрес на поканата.";
+
+"Unknown other error." = "Неизвестна друга грешка.";
+
+"Renew failed." = "Опресняването не е успешно.";
+
+"Sign in failed" = "Неуспешно влизане";
+
+"Missing bundle id." = "Липсващ идентификатор за пакет.";
+
+"Revoke failed." = "Отмяната не е успешна.";
+
+"Let’s discover" = "Да открием";
+
+"Let’s invent" = "Да изобретим";
+
+"Unknown error." = "Неизвестна грешка.";
+
+"Failed to validate id token." = "Неуспешно валидиране на токена за идентификатор.";
+
+"There was a problem. Please restart the app." = "Възникна проблем. Моля, рестартирайте този ап.";
+
+"There is a problem with the server. Please try again later." = "Има проблем със сървъра. Моля, опитайте отново по-късно.";
+
+"No sign in info found. Please sign in." = "Не е намерена информация за вписване. Моля, влезте в акаунта си.";
+
+"Let’s chit-chat" = "Да си побъбрим";
+
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "Нещо се обърка. Моля, уверете се, че датата и часът на вашето устройство са правилни, и че „Задаване автоматично“ е включено в „Настройки → Общи → Дата и час“.";
+
+"Terms of Use" = "Условия за ползване";
+
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "Възникна проблем при свързването със сървърите на Apple. Моля, опитайте отново. (%lld)";
+
+"Something went wrong." = "Нещо се обърка.";
+
+"There was a problem clearing sign in info. Please try again." = "Възникна проблем с изчистването на информацията за вход. Моля, опитайте отново.";
+
+"No authorization code found." = "Няма намерен код за упълномощаване.";
+
+"Let’s design" = "Да проектираме";
+
+"Let’s create" = "Да създадем";
+
+"Let’s explore" = "Да изследваме";
+
+"Sign up with email" = "Регистрирайте се с имейл";
+
+"Privacy Policy" = "Политика за защита на личните данни";
+
+"There was a problem saving sign in info. Please try again." = "Възникна проблем със запазване на информацията за вписване. Моля, опитайте отново.";
+
+"Request cancelled." = "Заявката е отменена.";
+
+"Continue with Google" = "Продължете с Google";
+
+"PKCE not allowed." = "PKCE не е позволено.";
+
+"Let’s brainstorm" = "Да нахвърляме идеи";
+
+"Let’s go" = "Да започнем";
+
+"Sign in request was cancelled." = "Заявката за влизане е анулирана.";
+
+"No refresh token found." = "Не е намерен токен за опресняване.";
+
+"Let’s collaborate" = "Да си сътрудничим";
+
+"Store failed." = "Неуспешно съхраняване.";
+

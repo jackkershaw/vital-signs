@@ -1,0 +1,114 @@
+"Remove GPT" = "Հեռացնել GPT-ն";
+
+"%@ chats" = "%@ զրույց";
+
+"My GPTs" = "Իմ GPT-ները";
+
+"Loading more" = "Բեռնվում է ավելին";
+
+"Share" = "Համօգտագործել";
+
+"Top Suggestions" = "Լավագույն առաջարկները";
+
+"Failed to remove recent GPT, retry?" = "Չհաջողվեց հեռացնել վերջին օգտագործած GPT-ն, կրկին փորձե՞լ։";
+
+"%@ rating" = "%@ գնահատում";
+
+"Okay" = "Նորմալ";
+
+"Add a note" = "Ավելացնել նշում";
+
+"Tap a star" = "Հպեք աստղին";
+
+"Chats: %@" = "Զրույցներ՝ %@";
+
+"Visibility" = "Տեսանելիություն";
+
+"How would you rate this GPT?" = "Ինչպե՞ս կգնահատեիք այս GPT-ն։";
+
+"Feedback" = "Feedback";
+
+"Unable to load, retry?" = "Հնարավոր չէ բեռնել, կրկին փորձե՞լ։";
+
+"Start chat" = "Սկսել զրույցը";
+
+"How would you rate **%@**?" = "Ինչպե՞ս կգնահատեիք **%@**-ը։";
+
+"By community builder" = "Համայնքային կառուցողի կողմից";
+
+"Editing Not Available" = "Խմբագրումը հասանելի չէ";
+
+"Explore" = "Դիտել";
+
+"No Recents" = "Վերջին օգտագործածներ չկան";
+
+"Only me" = "Միայն ես";
+
+"Untitled" = "Չանվանված";
+
+"Edit" = "Խմբագրել";
+
+"Exceptional!" = "Բացառիկ";
+
+"Public" = "Հանրային";
+
+"Failed to delete GPT, retry?" = "Չհաջողվեց ջնջել GPT-ն, կրկին փորձե՞լ։";
+
+"Include my email **%@**" = "Ներառել իմ Էլ․ փոստը՝ **%@**";
+
+"Are you sure you want to remove this GPT from your recents?" = "Համոզվա՞ծ եք, որ ուզում եք հեռացնել այս GPT-ն ձեր վերջերս օգտագործածներից։";
+
+"Capabilities" = "Հնարավորություններ";
+
+"Get Plus to Chat" = "Ձեռք բերեք Plus-ը՝ զրուցելու համար";
+
+"Good" = "Լավ";
+
+"No Results Found" = "Արդյունքներ չգտնվեցին";
+
+"Thank you for your feedback!" = "Շնորհակալություն ձեր կարծիքի համար։";
+
+"Bad" = "Վատ";
+
+"Include my email" = "Ներառել իմ Էլ․ փոստը";
+
+"Recently Used" = "Վերջերս օգտագործած";
+
+"See more" = "Ցուցադրել ավելին";
+
+"in **%@**" = "**%@**-ում";
+
+"Searching…" = "Որոնում․․․";
+
+"Remove" = "Հեռացնել";
+
+"Anyone at %@" = "%@-ի ցանկացած անդամ";
+
+"Conversation starters" = "Զրուցաշարը մեկնարկողներ";
+
+"By %@" = "Հեղինակ՝ %@";
+
+"Star rating" = "Աստղերով գնահատում";
+
+"Editing and creating a GPT is only available on web for now." = "GPT-ի խմբագրումն ու ստեղծումը առայժմ հասանելի է միայն վեբ տարբերակում։";
+
+"Start Chat" = "Սկսել զրույցը";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "^[%lld աստղ](inflect: true), %@ գնահատում";
+
+"Report" = "Հայտնել";
+
+"Anyone with a link" = "Ցանկացած անդամ, ով ստացել է հղումը";
+
+"Top Picks" = "Լավագույն ընտրությունները";
+
+"Options" = "Ընտրանքներ";
+
+"Are you sure you want to delete this GPT?" = "Համոզվա՞ծ եք, որ ուզում եք ջնջել այս GPT-ն։";
+
+"Search Public GPTs" = "Որոնել հանրային GPT-ներ";
+
+"Optional private note for creator…" = "Ընտրովի մասնավոր նշում ստեղծողի համար․․․";
+
+"Great" = "Հիանալի";
+

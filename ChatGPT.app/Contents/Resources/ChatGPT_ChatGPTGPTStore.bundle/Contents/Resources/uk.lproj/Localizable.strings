@@ -1,0 +1,114 @@
+"How would you rate this GPT?" = "Як би ви оцінили цей GPT?";
+
+"in **%@**" = "у категорії «**%@**»";
+
+"Bad" = "Погано";
+
+"By community builder" = "Автор: загальнодоступний конструктор";
+
+"Include my email" = "Додати мою адресу електронної пошти";
+
+"Search Public GPTs" = "Пошук загальнодоступних GPT";
+
+"No Recents" = "Немає нещодавнього";
+
+"Start Chat" = "Почати чат";
+
+"Visibility" = "Видимість";
+
+"Explore" = "Ознайомитися";
+
+"Chats: %@" = "Чатів: %@";
+
+"Edit" = "Редагувати";
+
+"Feedback" = "Feedback";
+
+"Include my email **%@**" = "Додати мою адресу електронної пошти **%@**";
+
+"Anyone with a link" = "Усі, хто має посилання";
+
+"Exceptional!" = "Відмінно!";
+
+"Anyone at %@" = "Усі в робочій області «%@»";
+
+"No Results Found" = "Результатів не знайдено";
+
+"Remove" = "Вилучити";
+
+"Only me" = "Лише я";
+
+"%@ rating" = "Оцінка: %@";
+
+"See more" = "Показати більше";
+
+"Star rating" = "Оцінка (кількість зірочок)";
+
+"Get Plus to Chat" = "Отримайте Plus, щоб використовувати чат";
+
+"Remove GPT" = "Вилучити GPT";
+
+"Add a note" = "Додати нотатку";
+
+"By %@" = "Автор: %@";
+
+"Editing and creating a GPT is only available on web for now." = "Наразі функції редагування та створення GPT доступні лише в браузері.";
+
+"Failed to remove recent GPT, retry?" = "Не вдалося вилучити нещодавній GPT. Повторити спробу?";
+
+"Public" = "Загальний доступ";
+
+"Top Suggestions" = "Популярні рекомендації";
+
+"Tap a star" = "Торкніться зірочки";
+
+"Are you sure you want to remove this GPT from your recents?" = "Справді вилучити цей GPT з нещодавнього?";
+
+"Great" = "Чудово";
+
+"My GPTs" = "Мої GPT";
+
+"Untitled" = "Без назви";
+
+"Top Picks" = "Популярний вибір";
+
+"Okay" = "Нормально";
+
+"Start chat" = "Почати чат";
+
+"Are you sure you want to delete this GPT?" = "Справді видалити цей GPT?";
+
+"Failed to delete GPT, retry?" = "Не вдалося видалити GPT. Повторити спробу?";
+
+"Share" = "Поширити";
+
+"Editing Not Available" = "Редагування недоступне";
+
+"Conversation starters" = "Фрази для початку розмови";
+
+"Recently Used" = "Нещодавно використані";
+
+"Capabilities" = "Можливості";
+
+"Searching…" = "Пошук…";
+
+"Loading more" = "Завантаження додаткових даних";
+
+"Thank you for your feedback!" = "Дякуємо за відгук!";
+
+"Unable to load, retry?" = "Помилка завантаження. Повторити спробу?";
+
+"How would you rate **%@**?" = "Як би ви оцінили **%@**?";
+
+"Options" = "Параметри";
+
+"Report" = "Повідомити";
+
+"^[%lld stars](inflect: true), %@ of ratings" = "Зірочок: ^[%lld](inflect: true), оцінок: %@";
+
+"Good" = "Добре";
+
+"%@ chats" = "Чатів: %@";
+
+"Optional private note for creator…" = "Необов’язкова приватна нотатка для автора…";
+

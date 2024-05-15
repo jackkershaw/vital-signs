@@ -1,0 +1,150 @@
+"Share" = "Dela";
+
+"Edit the full image" = "Redigera hela bilden";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "ChatGPT kan ge felaktig information om personer, platser eller sakförhållanden.";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "Bestäm om nya chattar på den här enheten ska visas i din historik och användas för att förbättra våra system.";
+
+"Not in history" = "Inte i historiken";
+
+"Welcome to your company's workspace" = "Välkommen till ditt företags arbetsyta";
+
+"Built for business" = "Skapat för företag";
+
+"Introducing\nCustom Instructions" = "Vi presenterar:\nanpassade instruktioner";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "Visa rösttranskriptioner i din historik. Ljudklipp lagras inte.";
+
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "När du redigerar anpassade instruktioner tillämpas de på alla chattar du skapar. Äldre samtal uppdateras inte.";
+
+"You’re in control" = "Du bestämmer";
+
+"Chat without having to look at your screen." = "Chatta utan att behöva titta på skärmen.";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "Denna officiella app är gratis, synkar din historik mellan enheter och ger dig de senaste modellförbättringarna från OpenAI.";
+
+"Just start talking" = "Börja prata";
+
+"Now you can have spoken conversations with ChatGPT." = "Nu kan du ha röstsamtal med ChatGPT.";
+
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "Du bestämmer. Granska och radera specifika minnen, börja om från början eller inaktivera funktionen i inställningarna.";
+
+"Welcome to ChatGPT" = "Välkommen till ChatGPT";
+
+"Custom Instructions will still be followed if you have them enabled." = "Anpassade instruktioner kommer fortfarande att följas om de är aktiverade.";
+
+"Select an area of the image to edit" = "Välj ett område i bilden som du vill redigera";
+
+"Tap Edit and describe changes in chat." = "Tryck på Redigera och beskriv ändringarna i chatten.";
+
+"Chat with voice" = "Chatta med röst";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "ChatGPT varken använder eller skapar minnen i tillfälliga chattar. Anpassade instruktioner kommer fortfarande att följas om de är aktiverade.";
+
+"Help improve our models" = "Hjälp oss att förbättra våra modeller";
+
+"Now you can have spoken conversations with GPTs." = "Nu kan du ha röstsamtal med GPT:er.";
+
+"Snap a picture to ask ChatGPT about the world around you." = "Ta ett foto och fråga ChatGPT om din omgivning.";
+
+"Welcome to the %@ workspace" = "Välkommen till arbetsytan %@";
+
+"More helpful over time" = "Mer användbar med tiden";
+
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "Svaren från ChatGPT blir mer och mer användbara ju mer du chattar, eftersom den minns information och inställningar.";
+
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "ChatGPT för över vad den lärt sig mellan chattar för att kunna ge mer relevanta svar.";
+
+"Picture perfect" = "En bild säger mer än tusen ord";
+
+"Don't Share" = "Dela inte";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "Här kan du använda våra senaste modeller, med fler funktioner och färre begränsningar.";
+
+"Temporary Chat" = "Tillfällig chatt";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "Prova att använda foton för att laga cykeln, skapa ett recept eller analysera komplexa diagram.";
+
+"Tap Select, highlight the area, and describe changes in chat." = "Tryck på Välj, markera området och beskriv ändringarna i chatten.";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "Dina instruktioner gör våra modeller bättre. Gå till vårt [hjälpcenter](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) om du vill läsa mer om hur dina data används.";
+
+"Check your facts" = "Kontrollera fakta";
+
+"Share audio from future voice chats to improve and train our models." = "Dela ljud från kommande röstchattar för att förbättra och träna våra modeller.";
+
+"By default, chats in this workspace are not used to train our AI models." = "Som standard används inga chattar i den här arbetsytan för att träna våra AI-modeller.";
+
+"Start with a photo" = "Börja med ett foto";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "Trots att vi vidtar skyddsåtgärder kan ChatGPT ge felaktig information. Den är inte avsedd för rådgivning.";
+
+"Learn more" = "Läs mer";
+
+"Chats are saved" = "Chattarna har sparats";
+
+"Ask away" = "Ställ en fråga";
+
+"Continue" = "Fortsätt";
+
+"Don’t share sensitive info" = "Dela ingen känslig information";
+
+"Welcome to\nChatGPT" = "Välkommen till\nChatGPT";
+
+"Memory off" = "Minne avstängt";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "För att förbättra röstchattarna kan vårt team granska ljudfilerna. Vi vidtar åtgärder för att så lite personlig information som möjligt i ljudfiler ska användas för att träna våra modeller.";
+
+"Choose a voice" = "Välj en röst";
+
+"Hands-free" = "Handsfree";
+
+"Improve voice chats for everyone" = "Förbättra röstchattar för alla";
+
+"Active for new chats" = "Aktiv för nya chattar";
+
+"Language is auto-detected" = "Språk upptäcks automatiskt";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "Du kan ange huvudspråk i Inställningar för mer exakt upptäckt.";
+
+"Control your chat history" = "Konfigurera din chatthistorik";
+
+"Help improve voice" = "Bidra till att förbättra röstfunktionen";
+
+"Get Started" = "Kom igång";
+
+"ChatGPT now has memory across chats" = "ChatGPT delar nu minnet mellan chattar";
+
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "Anpassa dina interaktioner med ChatGPT genom att ange specifik information och riktlinjer för chattarna.";
+
+"Refine DALL·E Images" = "Förbättra DALL·E-bilder";
+
+"Taking steps to protect privacy" = "Vi värnar om din integritet";
+
+"Chat with images" = "Chatta med bilder";
+
+"Made for use at work" = "Utformad för att användas på jobbet";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "ChatGPT kan besvara frågor, hjälpa till med inlärning, skriva kod, brainstorma och mycket mer.";
+
+"ChatGPT can be inaccurate" = "ChatGPT kan ge felaktig information";
+
+"Follows custom instructions" = "Följer anpassade instruktioner";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Om du inte vill fortsätta kan du sluta dela när du vill. Gå bara till Inställningar.\n\n[Läs mer](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Keep the conversation going" = "Håll igång samtalet";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "Berätta mer om din bransch, din roll eller specifika projekt för att få svar som är bättre anpassade för dig.";
+
+"No model training" = "Ingen modellträning";
+
+"Manage what it remembers" = "Hantera vad den minns";
+
+"Temporary Chats won’t be used to improve our models." = "Tillfälliga chattar används inte för att förbättra våra modeller.";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "Tillfälliga chattar visas inte i din historik. Vi kan behålla en kopia av chatten i upp till 30 dagar av säkerhetsskäl.";
+
+"Chats may be reviewed by our AI trainers to improve our systems." = "AI-tränare kan komma att granska chattarna för att förbättra våra system.";
+

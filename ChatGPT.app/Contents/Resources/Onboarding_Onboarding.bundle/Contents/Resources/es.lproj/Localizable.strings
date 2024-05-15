@@ -1,0 +1,96 @@
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Al pulsar en «Continuar», confirmas que tienes el consentimiento de tus padres o tutores para utilizar ChatGPT, aceptas nuestras [condiciones](https://openai.com/policies/terms-of-use) y reconoces nuestra [política de privacidad](https://openai.com/policies/privacy-policy).";
+
+"Resend email" = "Reenviar correo electrónico";
+
+"There was a problem verifying your phone number. %@" = "Ha habido un problema al verificar tu número de teléfono. %@";
+
+"error" = "error";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Algo ha salido mal. La cuenta ya se ha creado, pero no se ha podido actualizar. Cierra la sesión y vuelve a iniciarla.";
+
+"There was a problem, please try again." = "Ha habido un problema, vuelve a intentarlo.";
+
+"Phone number" = "Número de teléfono";
+
+"Last name" = "Apellidos";
+
+"Select your area code" = "Selecciona tu prefijo telefónico";
+
+"There was a problem verifying the code. %@" = "Ha habido un problema al verificar el código. %@";
+
+"Verify your email" = "Verifica tu correo electrónico";
+
+"Failed to load required information." = "Error al cargar la información obligatoria.";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "Hemos enviado un correo electrónico a %@.\nPulsa en el enlace que encontrarás en él para empezar.";
+
+"Verify you're human" = "Verifica que eres humano";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "No se han podido obtener los países. Comprueba la conexión a Internet y reinicia la aplicación. %@";
+
+"Please check your internet connection and retry." = "Comprueba la conexión a Internet y vuelve a intentarlo.";
+
+"Continue" = "Continuar";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "Para obtener ayuda, consulta la [guía de verificación del teléfono](https://help.openai.com/articles/6613520-phone-verification).";
+
+"You have made too many attempts. Please try again later." = "Has realizado demasiados intentos. Vuelve a intentarlo más tarde.";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "Ha habido un error. Reinicia la aplicación o cierra la sesión y vuelve a intentarlo.";
+
+"Please provide a phone number for verification." = "Proporciona un número de teléfono para la verificación.";
+
+"Select your Birthday" = "Selecciona tu fecha de nacimiento";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "No se ha podido obtener la información requerida. Comprueba la conexión a Internet y reinicia la aplicación. (%@)";
+
+"Your account could not be created. Please try again. %@" = "No se ha podido crear tu cuenta. Vuelve a intentarlo. %@";
+
+"Please solve this puzzle so we know you're a person." = "Resuelve este puzle para que sepamos que eres una persona.";
+
+"Open Mail App" = "Abrir la aplicación de correo electrónico";
+
+"Birthday" = "Fecha de nacimiento";
+
+"Your email is not yet verified. Please check your email inbox." = "Tu correo electrónico aún no ha sido verificado. Comprueba la bandeja de entrada de tu correo electrónico.";
+
+"Resend code" = "Reenviar código";
+
+"Tell us about you." = "Háblanos de ti.";
+
+"Code" = "Código";
+
+"Please choose a valid date for your birthday." = "Elige una fecha de nacimiento válida.";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Al pulsar en «Continuar», aceptas nuestras [condiciones](https://openai.com/policies/terms-of-use) y aceptas nuestra [política de privacidad](https://openai.com/policies/privacy-policy) y su [anexo de Corea](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Area code" = "Prefijo telefónico";
+
+"Enter the code we just sent to your number ending in **%@" = "Introduce el código que acabamos de enviarte a tu número acabado en **%@.";
+
+"There was a problem, please try again. (%@)" = "Ha habido un problema, vuelve a intentarlo. (%@)";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "No podemos crear tu cuenta debido a nuestras [condiciones de uso](https://openai.com/policies/terms-of-use).";
+
+"Sorry, we aren't able to create your account" = "Lo sentimos, no podemos crear tu cuenta";
+
+"Email resent!" = "¡Correo electrónico reenviado!";
+
+"Something went wrong. Please try again." = "Algo ha salido mal. Vuelve a intentarlo.";
+
+"I've verified my email" = "He verificado mi correo electrónico";
+
+"Something went wrong. Sign out and try again." = "Algo ha salido mal. Cierra la sesión y vuelve a intentarlo.";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Al pulsar en «Continuar», confirmas que tienes el consentimiento de tus padres o tutores para utilizar ChatGPT, aceptas nuestras [condiciones](https://openai.com/policies/terms-of-use) y aceptas nuestra [política de privacidad](https://openai.com/policies/privacy-policy) y su [anexo de Corea](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"First name" = "Nombre";
+
+"Finish creating your OpenAI account" = "Completa la creación de tu cuenta de OpenAI";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Ha habido un problema con tu conexión a Internet. Vuelve a intentarlo. (%lld)";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Al pulsar en «Continuar», aceptas nuestras [condiciones](https://openai.com/policies/terms-of-use) y nuestra [política de privacidad](https://openai.com/policies/privacy-policy).";
+
+"Verify phone number" = "Verifica tu número de teléfono";
+

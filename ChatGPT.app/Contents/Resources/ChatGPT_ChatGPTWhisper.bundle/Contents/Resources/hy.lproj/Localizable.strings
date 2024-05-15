@@ -1,0 +1,34 @@
+"There was a problem starting the recording." = "Խնդիր առաջացավ ձայնագրությունը սկսելիս։";
+
+"There was a problem with the recording." = "Խնդիր առաջացավ ձայնագրության հետ։";
+
+"The recording could not be processed. Please check your internet connection. (%lld)" = "Չհաջողվեց մշակել ձայնագրությունը։ Ստուգեք ձեր կապակցումը համացանցին։ (%lld)";
+
+"There was an unexpected error. %@" = "Անսպասելի սխալ առաջացավ։ %@";
+
+"Converting to text…" = "Փոխարկում է տեքստի․․․";
+
+"Retry transcription" = "Կրկին փորձել արձանագրությունը";
+
+"Open Settings" = "Բացել կարգավորումները";
+
+"Tap to stop recording" = "Հպեք՝ ձայնագրությունը դադարեցնելու համար";
+
+"Click to stop recording" = "Կտտացրեք՝ ձայնագրությունը դադարեցնելու համար";
+
+"Auto-Detect" = "Ավտոմատ հայտնաբերել";
+
+"Click to record" = "Կտտացրեք՝ ձայնագրելու համար";
+
+"Start new recording" = "Սկսել նոր ձայնագրություն";
+
+"The recording was cancelled." = "Ձայնագրությունը չեղարկվել է։";
+
+"An internet connection is required" = "Պահանջվում է կապակցում համացանցին";
+
+"Tap to record" = "Հպեք՝ ձայնագրելու համար";
+
+"Recordings must be longer than 1s." = "Ձայնագրությունները պետք է 1 վ-ից երկար լինեն։";
+
+"To use Whisper, you need to allow ChatGPT to use your microphone." = "Whisper-ից օգտվելու համար պետք է թույլ տաք, որ ChatGPT-ն օգտագործի ձեր խոսափողը։";
+

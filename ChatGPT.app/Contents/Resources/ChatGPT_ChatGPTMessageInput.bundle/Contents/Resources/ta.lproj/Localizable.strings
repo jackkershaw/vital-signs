@@ -1,0 +1,90 @@
+"No connection" = "இணைப்பு இல்லை";
+
+"Continue Generating" = "உருவாக்குவதைத் தொடரவும்";
+
+"Send" = "அனுப்பவும்";
+
+"Switch to Voice mode" = "குரல் வடிவத்திற்கு மாற்றவும்";
+
+"Microphone access required" = "மைக்ரோஃபோன் அணுகல் தேவைப்படுகிறது";
+
+"Attach files" = "கோப்புகளை இணைக்கவும்";
+
+"Replace" = "மாற்றவும்";
+
+"Shows the voice recording interface and begins recording" = "குரல் பதிவு இடைமுகத்தைக் காட்டி பதிவுசெய்ய ஆரம்பிக்கும்";
+
+"Are you sure?" = "உறுதியாக சொல்கிறீர்களா?";
+
+"Scroll to bottom" = "கீழே வரை நகர்த்தவும்";
+
+"Fullscreen" = "முழுத்திரை";
+
+"File upload failed." = "கோப்பு பதிவேற்றம் தோல்வியடைந்தது.";
+
+"This chat uses an older version of your custom instructions" = "இந்த அரட்டை உங்கள் தனிப்பயன் அறிவுறுத்தல்களின் பழைய பதிப்பைப் பயன்படுத்துகிறது";
+
+"Get Plus to Chat" = "அரட்டையடிக்க Plus =ஐப் பெறுங்கள்";
+
+"Attach photos" = "புகைப்படங்களை இணைக்கவும்";
+
+"Image upload failed." = "படம் பதிவேற்றம் தோல்வியடைந்தது.";
+
+"Attached image" = "இணைக்கப்பட்ட படம்";
+
+"You need %@ to continue this chat because it has images." = "இந்த அரட்டையில் %@ படங்கள் உள்ளதால், அதைத் தொடர உங்களுக்கு  தேவை.";
+
+"You need %@ to continue this chat because it uses audio." = "இந்த அரட்டையை தொடர உங்களுக்கு %@ தேவை, ஏனெனில் இது ஆடியோவைப் பயன்படுத்துகிறது.";
+
+"Upload File" = "கோப்பை பதிவேற்றவும்";
+
+"You've reached your %@ limit." = "உங்கள் %@ வரம்பை அடைந்துவிட்டீர்கள்.";
+
+"You need %@ to continue this chat because this GPT requires it." = "இந்த அரட்டையைத் %@ தொடர உங்களுக்கு  தேவை, ஏனெனில் இந்த GPTக்கு இது தேவைப்படுகிறது.";
+
+"You need %@ to continue this chat because it uses audio." = "இந்த அரட்டையை %@தொடர உங்களுக்கு  தேவை, ஏனெனில் இது ஆடியோவைப் பயன்படுத்துகிறது.";
+
+"Message ChatGPT" = "ChatGPT -க்கு உரைசெய்தி அனுப்பவும்";
+
+"You need %@ to continue this chat because this GPT requires it." = "இந்த அரட்டையைத் தொடர உங்களுக்கு %@ தேவை, ஏனெனில் இந்த GPTக்கு இது தேவைப்படுகிறது.";
+
+"New Message" = "புதிய செய்தி";
+
+"Remove attachment" = "இணைப்பை அகற்றவும்";
+
+"Image attachment failed." = "பட இணைப்பு தோல்வியடைந்தது.";
+
+"You need %@ to continue this chat because it uses tools." = "இந்த அரட்டையை தொடர உங்களுக்கு %@ தேவை, ஏனெனில் இது கருவிகளைப் பயன்படுத்துகிறது.";
+
+"If you cancel the text conversion you will lose the recording." = "உரை உரையாடலை நீங்கள் இரத்து செய்தால், பதிவை இழந்து விடுவீர்கள்.";
+
+"Message" = "செய்தி";
+
+"You need %@ to continue this chat because it has attachments." = "இந்த அரட்டையில் %@ இணைப்புகள் இருப்பதால், அதைத் தொடர உங்களுக்கு  தேவை.";
+
+"You need %@ to continue this chat because it uses tools." = "இந்த அரட்டையை %@ தொடர உங்களுக்கு தேவை, ஏனெனில் இது கருவிகளைப் பயன்படுத்துகிறது.";
+
+"You've reached your %@ limit." = "உங்கள்  வரம்பை அடை%@ ந்துவிட்டீர்கள்.";
+
+"Dictation" = "சொல்வதெழுதல்";
+
+"To continue, you’ll need to replace the current attachment." = "தொடருவதற்கு, தற்போதைய இணைப்பை நீங்கள் மாற்றவேண்டும்.";
+
+"Edit selection" = "தேர்வை திருத்தவும்";
+
+"This chat is currently unavailable" = "இந்த அரட்டை தற்போது கிடைக்கவில்லை";
+
+"Editing message" = "செய்தியை திருத்துதல்";
+
+"Stop Generating" = "உருவாக்குவதை நிறுத்தவும்";
+
+"Edit image" = "படத்தை திருத்தவும்";
+
+"Replace attachment?" = "இணைப்பை மாற்றவா?";
+
+"Confirm" = "உறுதிப்படுத்தவும்";
+
+"Stop" = "நிறுத்தவும்";
+
+"Failed, retry?" = "தோல்வியடைந்துவிட்டது, மீண்டும் முயற்சிக்கவா?";
+

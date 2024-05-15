@@ -1,0 +1,48 @@
+"Menu" = "Izvēlne";
+
+"Unable to load GPT." = "Nevar ielādēt GPT.";
+
+"Rename" = "Pārsaukt";
+
+"ChatGPT" = "ChatGPT";
+
+"Keep in Sidebar" = "Paturēt sānu joslā";
+
+"Memory Off" = "Atmiņa izslēgta";
+
+"See less" = "Skatīt mazāk";
+
+"Your workspace owner hasn't approved this GPT" = "Tavas darba kopijas īpašnieks nav apstiprinājis šo GPT";
+
+"Share" = "Koplietot";
+
+"%@ requires memory to be on. Adjust in **settings**." = "%@ ir nepieciešama ieslēgta atmiņa. Pielāgo to **iestatījumos**.";
+
+"Temporary Chat" = "Pagaidu tērzētava";
+
+"Explore GPTs" = "Izpētīt GPT";
+
+"%lld more" = "Vēl %lld";
+
+"Manage Chat" = "Pārvaldīt tērzētavu";
+
+"This GPT is no longer available." = "Šis GPT vairs nav pieejams.";
+
+"Share GPT" = "Koplietot GPT";
+
+"Title" = "Nosaukums";
+
+"No results for **%@**" = "Nav atrastu rezultātu **%@**";
+
+"Upgrade Plan" = "Uzlabot plānu";
+
+"Remove From Sidebar" = "Noņemt no sānu joslas";
+
+"Rename Chat" = "Pārsaukt tērzētavu";
+
+"Archive" = "Arhivēt";
+
+"ChatGPT %@" = "ChatGPT %@";
+
+"Review GPT" = "Pārskatīt GPT";
+

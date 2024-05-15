@@ -1,0 +1,18 @@
+"There is a problem with your account info. Please try signing out then in." = "May problema sa impormasyon ng account mo. Subukang mag-sign out at mag-sign in ulit.";
+
+"The response is invalid. Please try again." = "Hindi valid ang sagot. Pakisubukan ulit.";
+
+"This content may violate our content policy. Please try again with different content." = "Maaaring lumalabag ang content na ito sa aming patakaran sa content. Pakisubukan ulit gamit ang ibang content.";
+
+"Unsupported content" = "Hindi suportadong content";
+
+"The server is having problems. Please try again later. (%lld, %@)" = "Nagkakaproblema ang server. Pakisubukan ulit mamaya. (%lld, %@)";
+
+"You've made too many requests. Please try again later. (429, %@)" = "Masyado ka nang maraming kahilingan. Pakisubukan ulit mamaya. (429, %@)";
+
+"The server is overloaded. Please try again later." = "Na-overload ang server. Pakisubukan ulit mamaya.";
+
+"There is a problem with your request. (%lld, %@)" = "May problema sa kahilingan mo. (%lld, %@)";
+
+"System error" = "System error";
+

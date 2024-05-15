@@ -1,0 +1,48 @@
+"Your workspace owner hasn't approved this GPT" = "Vlastník pracovného priestoru neschválil tento model GPT.";
+
+"Upgrade Plan" = "Upgradovať tarifu";
+
+"Title" = "Nadpis";
+
+"Temporary Chat" = "Dočasný čet";
+
+"ChatGPT" = "ChatGPT";
+
+"Remove From Sidebar" = "Odstrániť z bočného panelu";
+
+"Unable to load GPT." = "Nepodarilo sa načítať model GPT.";
+
+"This GPT is no longer available." = "Tento model GPT už nie je dostupný.";
+
+"Review GPT" = "Skontrolovať GPT";
+
+"%@ requires memory to be on. Adjust in **settings**." = "%@ vyžaduje zapnutie pamäte. Zmeň to v **nastaveniach**.";
+
+"No results for **%@**" = "Pre **%@** sa nenašli žiadne výsledky";
+
+"See less" = "Zobraziť menej";
+
+"Archive" = "Archivovať";
+
+"Memory Off" = "Pamäť je vypnutá";
+
+"Share" = "Zdieľať";
+
+"Keep in Sidebar" = "Ponechať na bočnom paneli";
+
+"Share GPT" = "Zdieľať GPT";
+
+"Manage Chat" = "Spravovať čet";
+
+"Menu" = "Ponuka";
+
+"Rename Chat" = "Premenovať čet";
+
+"%lld more" = "Ešte %lld";
+
+"Rename" = "Premenovať";
+
+"Explore GPTs" = "Preskúmať modely GPT";
+
+"ChatGPT %@" = "ChatGPT %@";
+

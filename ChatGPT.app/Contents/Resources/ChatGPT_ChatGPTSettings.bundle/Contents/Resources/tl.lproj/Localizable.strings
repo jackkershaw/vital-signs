@@ -1,0 +1,178 @@
+"Confirm Export" = "Kumpirmahin ang Pag-export";
+
+"Export Data" = "I-export ang Data";
+
+"Free Plan" = "Libreng Plan";
+
+"Error updating setting. Please try again later" = "Nagka-error sa pag-update ng mga setting. Pakisubukan ulit mamaya";
+
+"This workspace is private and opted out of training." = "Ang workspace na ito ay pribado at tumanggi sa pagsasanay.";
+
+"Could not update the memory setting. Please try again later." = "Hindi ma-update ang setting ng memory. Pakisubukan ulit mamaya.";
+
+"None" = "Wala";
+
+"Customize ChatGPT" = "I-customize ang ChatGPT";
+
+"Your account has been queued for deletion." = "Nakapila na ang account mo para sa pag-delete.";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "I-save ang mga bagong chat sa device na ito sa iyong history. Ang mga hindi naka-save na chat ay ide-delete mula sa mga system namin sa loob ng 30 araw. Hindi nagsi-sync sa mga device ang setting na ito. [Alamin ang higit pa](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "Para sa pinakamagagandang resulta, piliin ang wikang pangunahin mong ginagamit. Kung hindi ito nakalista, maaaring suportado pa rin ito sa pamamagitan ng awtomatikong pag-detect.";
+
+"Help" = "Help";
+
+"Today" = "Ngayong araw";
+
+"Improve voice for everyone" = "I-improve ang boses para sa lahat";
+
+"Subscription" = "Subscription";
+
+"Search Archive" = "Maghanap sa Archive";
+
+"Error deleting all chats" = "Nagka-error sa pag-delete ng lahat ng chat";
+
+"Archived conversations will be available here" = "Magiging available dito ang mga naka-archive na pag-uusap";
+
+"ChatGPT Enterprise" = "ChatGPT Enterprise";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "Hindi ka makakagawa ng mga pagbabago sa iyong subscription sa loob ng app na ito, dahil binili mo ang subscription na ito sa ibang platform.";
+
+"Archive All Chats" = "I-archive ang Lahat ng Chat";
+
+"All your chats will be cleared from history. This cannot be undone." = "Maki-clear ang lahat ng chat mo sa history. Hindi na ito mababawi.";
+
+"All your chats will be archived. This cannot be undone." = "Maa-archive ang lahat ng chat mo. Hindi na ito mababawi.";
+
+"Subscription Cancellation" = "Kanselasyon ng Subscription";
+
+"Voice" = "Boses";
+
+"We couldn't load your archived chats" = "Hindi namin ma-load ang iyong mga naka-archive na chat";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Magbahagi ng audio mula sa mga voice chat mo para ma-improve at sanayin ang mga modelo namin. Ini-improve nito ang kalidad ng mga voice chat para sa lahat. [Alamin ang higit pa](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "Maaari mo lang i-delete ang iyong account kung nag-log in ka sa loob ng huling 10 minuto.\n\nMag-log in muli at pagkatapos, bumalik dito para magpatuloy.";
+
+"Improve the model for everyone" = "I-improve ang modelo para sa lahat";
+
+"Could not archive all chats" = "Hindi ma-archive ang lahat ng chat";
+
+"Yesterday" = "Kahapon";
+
+"Data Controls" = "Mga Kontrol ng Data";
+
+"Help Center" = "Help Center";
+
+"ChatGPT Team" = "ChatGPT Team";
+
+"No archived chats" = "Walang naka-archive na chat";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "Nagka-error sa pag-delete ng account mo. Pakisubukan ulit. Kung magpapatuloy ang problema, bisitahin ang help.openai.com.";
+
+"Dark" = "Dark";
+
+"Unarchive" = "I-unarchive";
+
+"Delete All Chats" = "I-delete ang Lahat ng Chat";
+
+"Desktop Launcher" = "Desktop Launcher";
+
+"Chat history" = "History ng chat";
+
+"View" = "Tingnan";
+
+"Are you sure?" = "Sigurado ka ba?";
+
+"Haptic Feedback" = "Haptic Feedback";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Pahintulutan ang iyong content na magamit upang sanayin ang aming mga modelo, na ginagawang mas mahusay ang ChatGPT para sa iyo at para sa lahat ng gumagamit nito. Ginagawa namin ang mga hakbang upang protektahan ang iyong privacy. [Alamin ang higit pa](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "Magiging mas kapaki-pakinabang ang ChatGPT habang nakikipag-chat ka, sa pagkuha ng mga detalye at kagustuhan para maiangkop ang mga sagot nito sa iyo. [Alamin ang higit pa](%@)\n\nPara maintindihan kung ano ang naaalala ng ChatGPT o turuan ito ng bago, makipag-chat lang dito:\n\n• \"Tandaan na gusto ko ng maiikling sagot.\"\n• \"May bago akong tuta!\"\n• \"Ano ang naaalala mo tungkol sa akin?\"\n• \"Saan tayo natapos sa huling proyekto ko?\"";
+
+"Light" = "Light";
+
+"Main Language" = "Pangunahing Wika";
+
+"Workspace" = "Workspace";
+
+"Off" = "Naka-off";
+
+"Error archiving all chats" = "Nagka-error sa pag-archive ng lahat ng chat";
+
+"Speech" = "Pagsasalita";
+
+"System" = "System";
+
+"ChatGPT Plus" = "ChatGPT Plus";
+
+"On" = "Naka-on";
+
+"We were unable to process your export at this time. Please try again later." = "Hindi namin naproseso ang pag-export mo sa oras na ito. Pakisubukan ulit mamaya.";
+
+"Upgrade to ChatGPT Plus" = "Mag-upgrade sa ChatGPT Plus";
+
+"Always show ChatGPT in dock" = "Palaging ipakita ang ChatGPT sa dock";
+
+"Successfully exported data. You should receive an email shortly with your data." = "Matagumpay na na-export ang data. Dapat may matanggap kang email sa ilang sandali kasama ang data mo.";
+
+"Archived Chats" = "Mga Naka-archive na Chat";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "I-save ang mga bagong chat sa device na ito sa history mo at payagang magamit ang mga ito para ma-improve ang aming mga modelo. Ang mga hindi naka-save na chat ay ide-delete mula sa mga system namin sa loob ng 30 araw. Hindi nagsi-sync sa mga device ang setting na ito. [Alamin ang higit pa](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Recent login required" = "Kinakailangan ang kamakailang login";
+
+"Keep ChatGPT on top" = "Panatilihing nasa itaas ang ChatGPT";
+
+"Conversation not found" = "Hindi mahanap ang pag-uusap";
+
+"Manage workspace" = "I-manage ang workspace";
+
+"Could not unarchive conversation. Please try again later." = "Hindi ma-unarchive ang pag-uusap. Pakisubukan ulit mamaya.";
+
+"Delete Account" = "I-delete ang Account";
+
+"Manage Subscriptions" = "I-manage ang mga Subscription";
+
+"Manage Memory" = "I-manage ang Memory";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "Hindi makakansela ng pag-delete sa iyong account ang anumang aktibong in-app subscription. Makakansela mo ang mga subscription na ito sa iyong mga setting ng Apple ID.";
+
+"Could not delete all chats" = "Hindi ma-delete ang lahat ng chat";
+
+"Restore purchases" = "I-restore ang mga pagbili";
+
+"New Features" = "Mga Bagong Feature";
+
+"Could not delete conversation. Please try again later." = "Hindi ma-delete ang pag-uusap. Pakisubukan ulit mamaya.";
+
+"Memory" = "Memory";
+
+"Privacy Policy" = "Patakaran sa Privacy";
+
+"ChatGPT for %@" = "ChatGPT para sa %@";
+
+"Chat History & Training" = "History ng Chat at Pagsasanay";
+
+"App Language" = "Wika ng App";
+
+"About" = "Tungkol dito";
+
+"Color Scheme" = "Color Scheme";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "Ang mga detalye ng iyong account at mga pag-uusap ay isasama sa pag-export.\n\nIpapadala ang data sa iyong nakarehistrong email sa isang nada-download na file.\n\nMaaaring magtagal ang pagproseso. Aabisuhan ka kapag handa na ito.";
+
+"Email" = "Email";
+
+"Terms of Use" = "Mga Tuntunin ng Paggamit";
+
+"Keyboard Shortcut" = "Keyboard Shortcut";
+
+"Chat training" = "Pagsasanay sa chat";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "Permanente ang pag-delete sa account mo at hindi na mababawi. Aalisin ang lahat ng iba mo pang data, kabilang ang profile, mga pag-uusap, at paggamit ng API.\n\nHindi mo na magagamit ulit ang parehong email o numero ng telepono para sa bagong account.\n\nKung gumagamit ka ng ChatGPT sa API, ide-delete din ang access na ito.";
+
+"App" = "App";
+
+"Email missing!" = "Nawawala ang email!";
+

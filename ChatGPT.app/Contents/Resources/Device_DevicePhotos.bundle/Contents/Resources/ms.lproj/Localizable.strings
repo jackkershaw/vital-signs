@@ -1,0 +1,16 @@
+"Expected a file URL, but received a non-file URL" = "Menjangkakan URL fail, tetapi menerima URL bukan fail";
+
+"Expected a non-file URL, but received a file URL" = "Menjangkakan URL bukan fail, tetapi menerima URL fail";
+
+"Photos Access Denied" = "Akses Foto Dinafikan";
+
+"Please try again later.\n\n(%@)" = "Sila cuba sebentar lagi.\n\n(%@)";
+
+"Image conversion failed" = "Penukaran imej gagal";
+
+"Enable photo library access in Settings to save photos." = "Dayakan akses pustaka foto dalam Tetapan untuk menyimpan foto.";
+
+"Not authorized" = "Tidak diberi kebenaran";
+
+"Failed to Save Image" = "Gagal untuk Simpan Imej";
+

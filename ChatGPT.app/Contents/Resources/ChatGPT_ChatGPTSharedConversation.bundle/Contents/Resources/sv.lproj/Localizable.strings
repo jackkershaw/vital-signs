@@ -1,0 +1,26 @@
+"Shared Link Title" = "Titel på delad länk";
+
+"The shared conversation does not exist." = "Det delade samtalet existerar inte.";
+
+"Shared conversation" = "Delat samtal";
+
+"Shared Link Owner" = "Ägare till delad länk";
+
+"Continue" = "Fortsätt";
+
+"Report" = "Anmäl";
+
+"This conversation may reflect the link creator’s custom instructions, which aren’t shared and can meaningfully change how the model responds." = "Det här samtalet kan återspegla länkskaparens anpassade instruktioner, som inte delas och som i betydande utsträckning kan påverka hur modellen svarar.";
+
+"Help and FAQ" = "Hjälp och vanliga frågor";
+
+"Shared conversation is invalid." = "Det delade samtalet är ogiltigt.";
+
+"Failed to load shared conversation." = "Det gick inte att ladda det delade samtalet.";
+
+"Failed to determine model." = "Det gick inte att fastställa modell.";
+
+"Shared Link Date" = "Datum när länken delades";
+
+"Menu" = "Meny";
+

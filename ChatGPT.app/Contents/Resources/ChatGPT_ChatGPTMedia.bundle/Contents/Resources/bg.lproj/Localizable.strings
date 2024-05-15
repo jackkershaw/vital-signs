@@ -1,0 +1,70 @@
+"Front camera selected, tap to toggle to rear" = "Избрана е предна камера, докоснете, за да превключите към задната";
+
+"Bad response" = "Лош отговор";
+
+"Good response" = "Добър отговор";
+
+"Copied" = "Копирано!";
+
+"Camera access is restricted on this device. Please check your parental control or system settings." = "Достъпът до камерата е ограничен на това устройство. Моля, проверете родителския контрол или системните настройки.";
+
+"This file has expired." = "Този файл е изтекъл.";
+
+"Download complete" = "Изтеглянето е завършено";
+
+"Select camera device" = "Изберете устройство с камера";
+
+"Failed to load image" = "Неуспешно зареждане на изображението";
+
+"Flash auto, tap to toggle on" = "Автоматична светкавица, докоснете, за да включите";
+
+"Flash on, tap to toggle off" = "Светкавицата е включена, докоснете, за да я изключите";
+
+"Camera Access Restricted" = "Достъпът до камерата е ограничен";
+
+"Select an area to edit" = "Изберете област, която да редактирате";
+
+"Learn more" = "Научете повече";
+
+"Flash off, tap to toggle to auto" = "Светкавицата е изключена, докоснете, за да превключите на автоматично";
+
+"Redo" = "Изпълнете отново";
+
+"Image saved" = "Изображението е запазено";
+
+"The file was not found." = "Файлът не е намерен.";
+
+"More" = "Повече";
+
+"The file download failed. Please try again later." = "Неуспешно изтегляне на файл. Моля, опитайте отново по-късно.";
+
+"Undo" = "Отменете";
+
+"Pick photo" = "Изберете снимка";
+
+"Rear camera selected, tap to toggle to front" = "Избрана е задна камера, докоснете, за да превключите към предната";
+
+"Back" = "Назад";
+
+"Next" = "Следващ";
+
+"Camera Access Denied" = "Достъпът до камерата е отказан";
+
+"Thank you for your feedback!" = "Благодарим ви за обратната връзка!";
+
+"Dismiss" = "Отхвърляне";
+
+"Prompt" = "Подкана";
+
+"This file is not available." = "Този файл не е наличен.";
+
+"View prompt" = "Преглед на подкана";
+
+"Select" = "Изберете";
+
+"Annotate" = "Добавете обяснителна бележка";
+
+"Enable camera access in Settings to take photos." = "Разрешете достъпа до камерата в Настройки, за да правите снимки.";
+
+"Annotate by drawing on the image" = "Добавете обяснение, като рисувате върху изображението";
+

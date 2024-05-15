@@ -1,0 +1,76 @@
+"GPT-4 Capabilities" = "GPT-4 võimalused";
+
+"Generate images using DALL•E" = "Piltide genereerimine DALL· E abil";
+
+"Browse the internet to find answers" = "Vastuste leidmiseks sirvige internetti";
+
+"Browse the internet to find answers" = "Vastuste leidmiseks sirvige Internetti";
+
+"Error loading customizations. Please try again later." = "Viga kohanduste laadimisel. Proovige hiljem uuesti.";
+
+"How would you like ChatGPT to respond?" = "Kuidas te soovite, et ChatGPT vastaks?";
+
+"Generate images using DALL•E" = "DALL· E abil piltide genereerimine";
+
+"Customize ChatGPT" = "Kohandage ChatGPT-d";
+
+"Enable for new chats" = "Luba uued vestlused";
+
+"Error updating state for customizations. Please try again later." = "Error updating state for customizations. Please try again later.";
+
+"Execute code using Code Interpreter" = "Käivitage kood koodi tõlgendaja abil";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Kas olete kindel, et soovite muudatused hüljata?\nKõik teie tehtud muudatused lähevad kaotsi.";
+
+"Browsing" = "Sirvimine";
+
+"Thought starters" = "Mõttekäivitajad";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Kohandatud juhiseid kohaldatakse kõigile uutele vestlustele. [Uuri lähemalt](chat-preferences-disclosures)";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Mida soovite, et ChatGPT teie kohta teaks, et ta saaks pakkuda paremaid vastuseid?";
+
+"Error updating state for customizations. Please try again later." = "Viga kohanduste oleku uuendamisel. Proovige hiljem uuesti.";
+
+"Code" = "Kood";
+
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Kas olete kindel, et soovite oma muudatustest loobuda?\nKõik tehtud muudatused lähevad kaotsi.";
+
+"DALL•E" = "DALL· E";
+
+"Execute code using Code Interpreter" = "Käivitage koodi tõlgendaja abil kood";
+
+"Keep editing" = "Jätka redigeerimist";
+
+"Choose which tools can be used with GPT-4." = "Valige, milliseid tööriistu saab GPT-4-ga kasutada";
+
+"Discard changes" = "Loobu muudatustest";
+
+"Unsaved changes" = "Salvestamata muudatused";
+
+"Saving Custom Instructions" = "Salvestatakse kohandatud juhiseid";
+
+"Show tips" = "Näita näpunäiteid";
+
+"Error loading customizations. Please try again later." = "Error loading customizations. Please try again later.";
+
+"Customize ChatGPT" = "ChatGPT kohandamine";
+
+"Discard changes" = "Hülga muudatused";
+
+"Error saving custom instructions" = "Viga kohandatud juhiste salvestamisel";
+
+"An unknown error occurred. Please try again later" = "Ilmnes tundmatu tõrge. Proovige hiljem uuesti.";
+
+"Save" = "Salvesta";
+
+"Enable for new chats" = "Luba uute vestluste jaoks";
+
+"GPT-4 Capabilities" = "GPT-4 võimekused";
+
+"Custom Instructions Enabled or Disabled" = "Kohandatud juhised Lubatud või Keelatud";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Mida te soovite, et ChatGPT teie kohta teaks, et pakkuda paremaid vastuseid?";
+
+"How would you like ChatGPT to respond?" = "Kuidas soovite, et ChatGPT vastaks?";
+

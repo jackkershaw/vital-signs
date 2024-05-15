@@ -1,0 +1,70 @@
+"This file is not available." = "ဤဖိုင်ကို မရရှိနိုင်ပါ။";
+
+"Failed to load image" = "ပုံတင်ရန် မအောင်မြင်ပါ";
+
+"Good response" = "တုံ့ပြန်ချက် ကောင်း";
+
+"View prompt" = "တုံ့ပြန်ညွှန်ကြားချက် ကြည့်ရန်";
+
+"Flash off, tap to toggle to auto" = "ဖလက်ရှ်ပိတ်ပါ၊ အလိုအလျောက် ပြောင်းရန် နှိပ်ပါ";
+
+"The file was not found." = "ဖိုင်ကို ရှာမတွေ့ပါ။";
+
+"Flash auto, tap to toggle on" = "အလိုအလျောက် ဖလက်ရှ်၊ ဖွင့်ရန် နှိပ်ပါ";
+
+"Annotate by drawing on the image" = "ပုံပေါ်တွင် ရေးဆွဲတင်ခြင်းဖြင့် မှတ်သားပါ";
+
+"Camera Access Denied" = "ကင်မရာအသုံးပြုခွင့်ကို ငြင်းပယ်ထားသည်";
+
+"Annotate" = "မှတ်သား";
+
+"Prompt" = "အချက်ပေး";
+
+"This file has expired." = "ဤဖိုင် သက်တမ်းကုန် သွားပါပြီ။";
+
+"Camera Access Restricted" = "ကင်မရာအသုံးပြုခွင့်ကို ကန့်သတ်ထားသည်";
+
+"Enable camera access in Settings to take photos." = "ဓာတ်ပုံရိုက်ရန် ဆက်တင်များတွင် ကင်မရာ အသုံးပြုခွင့် ပေးပါ။";
+
+"Undo" = "ပြင်ဆင်ထားသည်ကိုဖျက်ရန်";
+
+"Select an area to edit" = "ပြုပြင်ရန် ဧရိယာတစ်ခုကို ရွေးပါ";
+
+"Thank you for your feedback!" = "သင်၏ အကြံပြုချက် အတွက် ကျေးဇူးတင်ပါသည်။";
+
+"Bad response" = "တုံ့ပြန်ချက် မကောင်း";
+
+"Flash on, tap to toggle off" = "ဖလက်ရှ်ကိုဖွင့်ပါ၊ ပိတ်ရန် နှိပ်ပါ";
+
+"Redo" = "ပြန်ပြင်ရန်";
+
+"The file download failed. Please try again later." = "ဖိုင်ဒေါင်းလုဒ် မအောင်မြင်ပါ။ နောက်မှ ပြန်လုပ်ဆောင်ပါ။";
+
+"Select camera device" = "ကင်မရာကို ‌ရွေးချယ်ရန်";
+
+"Front camera selected, tap to toggle to rear" = "ရှေ့ကင်မရာကို ရွေးချယ်ထားသည်။ အနောက်ကင်မရာသို့ ပြောင်းရန် နှိပ်ပါ";
+
+"Pick photo" = "ဓာတ်ပုံကို ရွေးပါ";
+
+"Next" = "နောက်";
+
+"Camera access is restricted on this device. Please check your parental control or system settings." = "ဤကိရိယာတွင် ကင်မရာ အသုံးပြုခွင့်ကို ကန့်သတ် ထားသည်။ သင့်မိဘ ထိန်းချုပ်မှု သို့မဟုတ် စနစ် ဆက်တင်များကို စစ်ဆေးပါ။";
+
+"Image saved" = "ပုံကို သိမ်းဆည်းပြီး";
+
+"More" = "နောက်ထပ်";
+
+"Select" = "ရွေးချယ်ပါ";
+
+"Copied" = "ကူးယူသည်";
+
+"Download complete" = "ဒေါင်းလုဒ် ပြီးပါပြီ";
+
+"Back" = "နောက်သို့";
+
+"Rear camera selected, tap to toggle to front" = "အနောက်ကင်မရာကို ရွေးချယ်ထားပြီး၊ ရှေ့ကင်မရာသို့ ပြောင်းရန် နှိပ်ပါ";
+
+"Dismiss" = "ပယ်ရန်";
+
+"Learn more" = "ပိုမိုသိရှိရန်";
+

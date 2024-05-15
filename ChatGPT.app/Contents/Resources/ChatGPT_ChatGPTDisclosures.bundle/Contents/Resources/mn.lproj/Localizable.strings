@@ -1,0 +1,150 @@
+"No model training" = "Загвар сургалт алга";
+
+"Improve voice chats for everyone" = "Дуут чатыг хүн бүрд зориулж сайжруул";
+
+"Get Started" = "Эхэлцгээе";
+
+"Help improve voice" = "Дуу хоолойг сайжруулахад тусална уу";
+
+"By default, chats in this workspace are not used to train our AI models." = "Өгөгдмөлөөр, энэ ажлын талбар дахь чатууд нь манай хиймэл оюун ухааны загваруудыг сургахад ашиглагддаггүй.";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "ChatGPT нь хүн, газар, баримтын талаар буруу мэдээлэл өгч болно.";
+
+"Language is auto-detected" = "Автоматаар хэл танина";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Хэрэв үргэлжлүүлэхийг хүсэхгүй байгаа бол, хүссэн үедээ тохиргоо руу орж хуваалцалтыг зогсоож болно.\n\n[Нэмэлт мэдээлэл авах](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Share" = "Хуваалцах";
+
+"Temporary Chats won’t be used to improve our models." = "Манай загварыг сайжруулахад түр чат ашиглагдахгүй.";
+
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "Таныг тусгай заавраа засах бүрд таны үүсгэсэн бүх шинэ чатуудад өөрчлөлт үйлчилнэ. Хуучин яриа шинэчлэгдэхгүй.";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "Бид урьдчилан сэргийлэх арга хэмжээ авдаг хэдий ч, ChatGPT танд буруу мэдээлэл өгч болно. Энэ нь зөвлөгөө өгөхөд зориулагдаагүй.";
+
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "Удирдлага таны гарт байна. Тодорхой санах ойг хянаж, устга, бүр эхнээс нь дахин эхлүүл, эсвэл тохиргоо хэсгээс уг онцлогийг идэвхгүй болго.";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "Энэ төхөөрөмж дээрх шинэ чатууд нь чатын түүх дээр гарч ирэх эсэх, манай системийг сайжруулахад ашиглах эсэхийг шийдээрэй.";
+
+"Refine DALL·E Images" = "DALL·E зургийн сайжруулалт";
+
+"Not in history" = "Чатын түүхэнд алга";
+
+"Chat with voice" = "Дуутай чатлах";
+
+"Manage what it remembers" = "Чатын юу санахыг удирдах";
+
+"Active for new chats" = "Шинэ чатад идэвхтэй";
+
+"Help improve our models" = "Манай загваруудыг сайжруулахад тусална уу";
+
+"Don't Share" = "Бүү хуваалц";
+
+"Edit the full image" = "Бүтэн зургийг засах";
+
+"Taking steps to protect privacy" = "Хувийн нууцыг хамгаалах арга хэмжээ авах";
+
+"Share audio from future voice chats to improve and train our models." = "Манай загваруудыг сайжруулах, сургахын тулд цаашдын дуут чатын аудиог хуваалцаарай.";
+
+"Welcome to\nChatGPT" = "ChatGPT-д\nтавтай морилно уу";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "Эндээс та манай сүүлийн үеийн загваруудыг илүү олон функцүүдтэй, хязгаарлалт багатай ашиглах боломжтой.";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "Өөрийн чатын түүх дэх дуу хоолойн галиглал харах. Аудио клип хадгалагдахгүй.";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "Дуут чатыг сайжруулахын тулд, манай баг аудиог хянаж болно. Бид загваруудаа сургахад ашигладаг аудио дахь хувийн мэдээллийн хэмжээг багасгах арга хэмжээ авдаг.";
+
+"Chats may be reviewed by our AI trainers to improve our systems." = "Системийг сайжруулахын тулд манай хиймэл оюун ухааны сургагчид таны чатыг хянаж болно.";
+
+"Follows custom instructions" = "Тусгай зааврыг дагаж мөрдөх";
+
+"ChatGPT can be inaccurate" = "ChatGPT алдаа гаргаж болно";
+
+"Tap Select, highlight the area, and describe changes in chat." = "Сонгох дээр дарж, талбайг тодруулж, чат дахь өөрчлөлтийг тайлбарлана уу.";
+
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "ChatGPT нь дэлгэрэнгүй мэдээлэл, сонголтыг тогтмол санах тул, таныг чатлах явцад улам их тус болно.";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "ChatGPT нь асуултад хариулах, суралцахад тань туслах, код бичих, цугтаа ухаан санаагаа уралдуулах гэх мэт олон зүйлсийг хийж чадна.";
+
+"Control your chat history" = "Чатын түүхээ хянах";
+
+"Don’t share sensitive info" = "Нууц мэдээллийг бүү хуваалц";
+
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "Чатынхаа талаар тодорхой мэдээлэл, удирдамж өгөх замаар ChatGPT-тэй хийх харилцаагаа тусгайлан тохируул.";
+
+"Check your facts" = "Баримтаа шалгах";
+
+"Hands-free" = "Гар сул горим";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "Өөрт тохирсон илүү дээр хариулт авахын тулд ажилладаг салбар, албан тушаал, эсвэл тодорхой төслүүдийн талаар дэлгэрэнгүй мэдээлэл өгнө үү.";
+
+"Welcome to ChatGPT" = "ChatGPT-д тавтай морил";
+
+"Welcome to the %@ workspace" = "%@ ажлын талбарт тавтай морилно уу";
+
+"You’re in control" = "Удирдлага таны гарт байна";
+
+"Memory off" = "Санах ой унтарсан";
+
+"Continue" = "Үргэлжлүүлэх";
+
+"Keep the conversation going" = "Яриагаа үргэлжлүүлээд бай";
+
+"Now you can have spoken conversations with GPTs." = "Та одоо GPT-тэй яриа өрнүүлэх боломжтой боллоо.";
+
+"Temporary Chat" = "Түр чат";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "Таны чатын түүхэнд түр чат харагдахгүй. Аюулгүй байдлын үүднээс, таны чатын хуулбарыг бид 30 хүртэл хоног хадгалж болно.";
+
+"Picture perfect" = "Өөгүй төгс";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "Түр чатад байх үед ChatGPT нь санах ойг ашиглаж эсвэл үүсгэхгүй. Тусгай заавруудыг идэвхжүүлсэн бол үргэлжлүүлэн мөрдөгдөнө.";
+
+"Custom Instructions will still be followed if you have them enabled." = "Тусгай заавруудыг идэвхжүүлсэн бол үргэлжлүүлэн мөрдөгдөнө.";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "Унадаг дугуйгаа засах, хоолны жор бүтээх, эсвэл нарийн төвөгтэй графикыг шинжлэхийн тулд зураг ашиглаж үзээрэй.";
+
+"Chat without having to look at your screen." = "Дэлгэцээ харахгүйгээр чатлах.";
+
+"Now you can have spoken conversations with ChatGPT." = "Та одоо ChatGPT-тэй яриа өрнүүлэх боломжтой боллоо.";
+
+"Tap Edit and describe changes in chat." = "Засах дээр дарж, чат дахь өөрчлөлтийг тайлбарлана уу.";
+
+"Chats are saved" = "Чат хадгалагдсан";
+
+"Start with a photo" = "Гэрэл зургаас эхэл";
+
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "ChatGPT нь чатуудаас юу сурснаа өөр хоорондоо дамжуулж, танд илүү хамаатай хариулт өгөх боломжтой болно.";
+
+"Ask away" = "Асуулт асуух";
+
+"Chat with images" = "Зурагтай чатлах";
+
+"Just start talking" = "Зүгээр л ярьж эхэл";
+
+"Select an area of the image to edit" = "Засах зургийн талбайг сонгоно уу";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "Илүү нарийвчлалтай илрүүлэхийн тулд, Тохиргоо хэсэгт дуртай хэлээ зааж өгч болно.";
+
+"More helpful over time" = "Урт хугацаандаа илүү тустай";
+
+"Welcome to your company's workspace" = "Компанийнхаа ажлын талбарт тавтай морилно уу";
+
+"Choose a voice" = "Дуу хоолой сонгох";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "Энэхүү албан ёсны апп нь үнэгүй бөгөөд таны чатын түүхийг төхөөрөмжүүдийн хооронд синхрончилж, OpenAI-н сүүлийн үеийн загварын сайжруулалтуудыг танд хүргэнэ.";
+
+"Made for use at work" = "Ажил дээр ашиглах зориулалттай";
+
+"Built for business" = "Бизнесийн төлөө бүтээсэн";
+
+"Snap a picture to ask ChatGPT about the world around you." = "ChatGPT-ээс эргэн тойрныхоо ертөнцийн талаар асуухын тулд зураг аваарай.";
+
+"ChatGPT now has memory across chats" = "ChatGPT одоо чатын санах ойтой боллоо";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "Таны өгөх заавар манай загваруудыг илүү сайжруулна. Таны өгөгдлийг хэрхэн ашиглах талаар нэмэлт мэдээлэл авахыг хүсвэл, манай [Тусламжийн төв](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) рүү орно уу.";
+
+"Learn more" = "Нэмэлт мэдээлэл авах";
+
+"Introducing\nCustom Instructions" = "Тусгай заавар\nТанилцуулах";
+

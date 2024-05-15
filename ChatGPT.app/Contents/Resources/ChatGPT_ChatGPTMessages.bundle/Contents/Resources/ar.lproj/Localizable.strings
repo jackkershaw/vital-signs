@@ -1,0 +1,74 @@
+"How would you rate this GPT?" = "ما تقييمك لنموذج GPT هذا؟";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "يحتفظ ChatGPT بالملفات لفترة زمنية محدودة. ابدأ محادثة جديدة أو قم بتحميل ملفًا جديدًا لمواصلة المحادثة.";
+
+"Decline" = "رفض";
+
+"You" = "أنت";
+
+"A GPT" = "نموذج GPT";
+
+"Analysis" = "تحليل";
+
+"Memories updated" = "تم تحديث الذاكرات";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "جاري تحميل ^[%lld مرفقًا](inflect: true)...";
+
+"Save File As…" = "حفظ الملف في صورة...";
+
+"Loading…" = "جاري التحميل...";
+
+"Memory updated" = "تم تحديث الذاكرة";
+
+"Quick Look" = "نظرة سريعة";
+
+"Please try again later.%@" = "يرجى المحاولة مرة أخرى لاحقًا.%@";
+
+"Deny" = "منع";
+
+"#%lld row" = "صف رقم %lld";
+
+"Change Model" = "تغيير النموذج";
+
+"Response rating failed." = "تعذر تقييم الإجابة.";
+
+"Read Aloud" = "القراءة بصوت مسموع";
+
+"Sign in to %@" = "تسجيل الدخول إلى %@";
+
+"Failed, retry?" = "تعذر التنفيذ، هل ترغب في إعادة المحاولة؟";
+
+"Selection" = "التحديد";
+
+"Always allow" = "السماح دائمًا";
+
+"Manage memories" = "إدارة الذاكرات";
+
+"File expired" = "ملف منتهي الصلاحية";
+
+"Continue Generating" = "مواصلة الإجابة";
+
+"Stop Generating" = "إيقاف الإجابة";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "لم يعد هذا الملف متاحًا. ابدأ محادثة جديدة أو قم بتحميل ملفًا جديدًا لمواصلة المحادثة.";
+
+"Select Text" = "تحديد نص";
+
+"Upgraded response" = "إجابة محسنة";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "تمت كتابته باستخدام نموذج الذكاء الاصطناعي الأكثر كفاءة لدينا، وهو GPT-4، والمتوفر في ChatGPT Plus";
+
+"Bad" = "سيئ";
+
+"\"%@\" cell" = "خلية \"%@\"";
+
+"Regenerate" = "الإجابة مرة أخرى";
+
+"\"%@\" column" = "عمود \"%@\"";
+
+"File unavailable" = "الملف غير متاح";
+
+"Edit" = "تحرير";
+
+"Your most recent request failed. Please retry!" = "تعذر إرسال آخر طلب لك. يرجى إعادة المحاولة.";
+

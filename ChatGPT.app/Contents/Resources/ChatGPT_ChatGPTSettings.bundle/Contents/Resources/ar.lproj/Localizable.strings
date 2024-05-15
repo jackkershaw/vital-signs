@@ -1,0 +1,178 @@
+"App Language" = "لغة التطبيق";
+
+"Off" = "غير مفعل";
+
+"Upgrade to ChatGPT Plus" = "الترقية إلى ChatGPT Plus";
+
+"Could not unarchive conversation. Please try again later." = "تعذر إلغاء أرشفة المحادثة. يرجى المحاولة مرة أخرى لاحقًا.";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "حفظ الدردشات الجديدة التي تمت على هذا الجهاز في سجلك. وسيتم حذف الدردشات غير المحفوظة من أنظمتنا في غضون 30 يومًا. ولا تجري مزامنة هذا الإعداد بين الأجهزة. [تعرف على المزيد](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"ChatGPT for %@" = "ChatGPT لأنظمة %@";
+
+"Memory" = "الذاكرة";
+
+"Successfully exported data. You should receive an email shortly with your data." = "تم تصدير البيانات بنجاح. ستتلقى رسالة بريد إلكتروني تحتوي على بياناتك بعد قليل.";
+
+"New Features" = "ميزات جديدة";
+
+"Confirm Export" = "تأكيد التصدير";
+
+"On" = "مفعل";
+
+"Are you sure?" = "هل أنت متأكد؟";
+
+"Export Data" = "تصدير البيانات";
+
+"Recent login required" = "مطلوب تسجيل دخول حديث";
+
+"Could not delete conversation. Please try again later." = "تعذر حذف المحادثة. يرجى المحاولة مرة أخرى لاحقًا.";
+
+"Error updating setting. Please try again later" = "حدث خطأ أثناء تحديث الإعدادات. يرجى المحاولة مرة أخرى لاحقًا.";
+
+"Dark" = "داكن";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "شارك الصوت من الدردشات الصوتية التي ستجرى لاحقًا لتحسين نماذجنا وتدريبها. سيؤدي ذلك إلى تحسين جودة الدردشات الصوتية لجميع المستخدمين. [تعرف على المزيد](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Yesterday" = "أمس";
+
+"Archive All Chats" = "أرشفة جميع الدردشات";
+
+"Desktop Launcher" = "مُشغل سطح المكتب";
+
+"Keep ChatGPT on top" = "إبقاء ChatGPT في المقدمة";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "يمكنك فقط حذف حسابك إذا قمت بتسجيل الدخول خلال العشر دقائق الماضية.\n\nيرجى إعادة تسجيل الدخول، ثم العودة هنا للمتابعة.";
+
+"Voice" = "الصوت";
+
+"Free Plan" = "الخطة Free";
+
+"Delete Account" = "حذف الحساب";
+
+"Terms of Use" = "شروط الاستخدام";
+
+"We couldn't load your archived chats" = "تعذر تحميل الدردشات المؤرشفة الخاصة بك";
+
+"ChatGPT Enterprise" = "ChatGPT Enterprise";
+
+"Archived conversations will be available here" = "ستكون المحادثات المؤرشفة متاحة هنا";
+
+"Could not update the memory setting. Please try again later." = "تعذر تحديث إعدادات الذاكرة. يرجى المحاولة مرة أخرى لاحقًا.";
+
+"No archived chats" = "لا توجد دردشات مؤرشفة";
+
+"We were unable to process your export at this time. Please try again later." = "لم نتمكن من معالجة عملية التصدير الخاصة بك في الوقت الحالي. يرجى إعادة المحاولة لاحقًا.";
+
+"Chat training" = "التدريب على الدردشة";
+
+"All your chats will be cleared from history. This cannot be undone." = "سيتم مسح جميع الدردشات من سجلك. لا يمكن التراجع عن هذا الإجراء.";
+
+"Search Archive" = "البحث في الأرشيف";
+
+"Could not delete all chats" = "تعذر حذف جميع الدردشات";
+
+"Email missing!" = "البريد الإلكتروني غير موجود.";
+
+"ChatGPT Team" = "ChatGPT Team";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "يُعد حذف حسابك إجراءً دائمًا ولا يمكن التراجع عنه. سيتم إزالة جميع بياناتك، بما في ذلك ملف التعريف والمحادثات واستخدام واجهة برمجة التطبيقات (API).\n\nلا يمكنك استخدام البريد الإلكتروني أو رقم الهاتف نفسه مرة أخرى لإنشاء حساب جديد.\n\nإذا كنت تستخدم ChatGPT مع واجهة برمجة التطبيقات (API)، فسيتم أيضًا حذف إمكانية الوصول إلى هذه الخاصية.";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "سيصبح ChatGPT أكثر فائدة مع مواصلة الدردشة معه، حيث يجمع التفاصيل والتفضيلات لتخصيص إجاباته. [تعرف على المزيد](%@)\n\nلفهم ما يتذكره ChatGPT أو لتعليمه شيئًا جديدًا، كل ما عليك فعله هو الدردشة معه:\n\n• \"تذكر أنني أحب الإجابات المختصرة.\"\n• \"لقد أصبح لدي جرو مؤخرًا.\"\n• \"ما الذي تتذكره عني؟\"\n• \"أين توقفنا في مشروعي الأخير؟\"";
+
+"Manage Memory" = "إدارة الذاكرة";
+
+"Subscription Cancellation" = "إلغاء الاشتراك";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "لا يمكنك إجراء تغييرات على اشتراكك داخل هذا التطبيق لأنك اشتريت هذا الاشتراك من تطبيق آخر.";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "اسمح باستخدام محتواك لتحسين نماذجنا وتدريبها، ما يجعل ChatGPT أفضل لك ولكل من يستخدمه. ونحن نتخذ إجراءات لحماية خصوصيتك. [تعرف على المزيد](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"App" = "التطبيق";
+
+"Data Controls" = "عناصر التحكم في البيانات";
+
+"Archived Chats" = "الدردشات المؤرشفة";
+
+"Keyboard Shortcut" = "اختصارات لوحة المفاتيح";
+
+"Your account has been queued for deletion." = "لقد تم وضع حسابك في قائمة الحذف.";
+
+"Color Scheme" = "مظهر الألوان";
+
+"Main Language" = "اللغة الأساسية";
+
+"Email" = "البريد الإلكتروني";
+
+"Delete All Chats" = "حذف جميع الدردشات";
+
+"This workspace is private and opted out of training." = "مساحة العمل هذه خاصة وغير مشاركة في التدريب.";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "سيتم تضمين تفاصيل حسابك ومحادثاتك في عملية التصدير.\n\nسيتم إرسال البيانات إلى بريدك الإلكتروني المسجل في ملف يمكن تنزيله.\n\nقد تستغرق عملية التصدير بعض الوقت. سيتم إعلامك عندما تكون جاهزة.";
+
+"Privacy Policy" = "سياسة الخصوصية";
+
+"Subscription" = "الاشتراك";
+
+"Customize ChatGPT" = "تخصيص ChatGPT";
+
+"All your chats will be archived. This cannot be undone." = "ستتم أرشفة جميع الدردشات. ولا يمكن التراجع عن هذا الإجراء.";
+
+"ChatGPT Plus" = "ChatGPT Plus";
+
+"Always show ChatGPT in dock" = "إظهار ChatGPT دائمًا في شريط الأدوات";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "لن يؤدي حذف حسابك إلى إلغاء أي اشتراكات نشطة داخل التطبيق. يمكنك إلغاء هذه الاشتراكات من خلال إعدادات معرف Apple ID خاصتك.";
+
+"Manage workspace" = "إدارة مساحة العمل";
+
+"Light" = "فاتح";
+
+"Manage Subscriptions" = "إدارة الاشتراكات";
+
+"About" = "معلومات عن التطبيق";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "حدث خطأ أثناء حذف حسابك. يرجى المحاولة مرة أخرى. إذا استمرت المشكلة، يرجى زيارتنا على help.openai.com.";
+
+"System" = "النظام";
+
+"Help Center" = "مركز المساعدة";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "للحصول على أفضل النتائج، حدد اللغة التي تتحدث بها في أغلب الوقت. إذا لم تكن موجودة بالقائمة، فربما تكون مدعومة باستخدام الاكتشاف التلقائي.";
+
+"View" = "عرض";
+
+"Error archiving all chats" = "حدث خطأ أثناء أرشفة جميع الدردشات";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "حفظ الدردشات الجديدة التي تمت على هذا الجهاز في سجلك والسماح باستخدامها لتحسين نماذجنا. سيتم حذف الدردشات غير المحفوظة من أنظمتنا في غضون 30 يومًا. ولا تجري مزامنة هذا الإعداد بين الأجهزة. [تعرف على المزيد](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Help" = "التعليمات";
+
+"Speech" = "الكلام";
+
+"None" = "لا يوجد";
+
+"Chat History & Training" = "سجلات الدردشات والتدريب";
+
+"Haptic Feedback" = "الخواص الحسية";
+
+"Improve voice for everyone" = "تحسين جودة الصوت للجميع";
+
+"Could not archive all chats" = "تعذر أرشفة جميع الدردشات";
+
+"Restore purchases" = "استعادة العناصر التي تم شراؤها";
+
+"Improve the model for everyone" = "تحسين النموذج للجميع";
+
+"Today" = "اليوم";
+
+"Unarchive" = "إلغاء الأرشفة";
+
+"Error deleting all chats" = "حدث خطأ أثناء حذف جميع الدردشات";
+
+"Workspace" = "مساحة العمل";
+
+"Chat history" = "سجل الدردشة";
+
+"Conversation not found" = "لم يتم العثور على المحادثة";
+

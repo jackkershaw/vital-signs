@@ -1,0 +1,82 @@
+"Image attachment failed." = "Attēla pievienošana neizdevās.";
+
+"Are you sure?" = "Vai esi pārliecināts?";
+
+"Edit image" = "Rediģēt attēlu";
+
+"Get Plus to Chat" = "Iegūsti Plus, lai tērzētu";
+
+"New Message" = "Jauns ziņojums";
+
+"Continue Generating" = "Turpināt ģenerēšanu";
+
+"You need %@ to continue this chat because it has attachments." = "You need %@ to continue this chat because it has attachments.";
+
+"Attached image" = "Pievienots attēls";
+
+"Attach photos" = "Pievienot fotoattēlus";
+
+"You need %@ to continue this chat because this GPT requires it." = "You need %@ to continue this chat because this GPT requires it.";
+
+"Scroll to bottom" = "Ritināt līdz apakšai";
+
+"To continue, you’ll need to replace the current attachment." = "Lai turpinātu, tev būs nepieciešams aizstāt esošo pielikumu.";
+
+"Replace" = "Aizstāt";
+
+"Dictation" = "Diktēšana";
+
+"Send" = "Sūtīt";
+
+"Upload File" = "Augšupielādēt failu";
+
+"Fullscreen" = "Pilnekrāns";
+
+"Replace attachment?" = "Aizstāt pielikumu?";
+
+"You need %@ to continue this chat because it uses audio." = "You need %@ to continue this chat because it uses audio.";
+
+"You've reached your %@ limit." = "You've reached your %@ limit.";
+
+"Attach files" = "Pievienot failus";
+
+"Message ChatGPT" = "Sūtīt ziņojumu ChatGPT";
+
+"Stop" = "Apturēt";
+
+"If you cancel the text conversion you will lose the recording." = "Ja atcelsi teksta pārveidošanu, zaudēsi ierakstu.";
+
+"Image upload failed." = "Attēla augšupielāde neizdevās.";
+
+"You need %@ to continue this chat because it uses tools." = "You need %@ to continue this chat because it uses tools.";
+
+"File upload failed." = "Faila augšupielāde neizdevās.";
+
+"This chat is currently unavailable" = "This chat is currently unavailable";
+
+"Stop Generating" = "Pārtraukt ģenerēšanu";
+
+"Microphone access required" = "Microphone access required";
+
+"Shows the voice recording interface and begins recording" = "Parāda balss ierakstīšanas saskarni un sāk ierakstīšanu";
+
+"Edit selection" = "Rediģēt atlasi";
+
+"Switch to Voice mode" = "Pārslēgt uz balss režīmu";
+
+"Remove attachment" = "Noņemt pielikumu";
+
+"Failed, retry?" = "Neizdevās, mēģināt vēlreiz?";
+
+"This chat uses an older version of your custom instructions" = "Šī tērzētava izmanto vecāku tavu pielāgoto norāžu versiju";
+
+"No connection" = "No connection";
+
+"Message" = "Ziņojums";
+
+"Confirm" = "Apstiprināt";
+
+"You need %@ to continue this chat because it has images." = "You need %@ to continue this chat because it has images.";
+
+"Editing message" = "Rediģē ziņojumu";
+

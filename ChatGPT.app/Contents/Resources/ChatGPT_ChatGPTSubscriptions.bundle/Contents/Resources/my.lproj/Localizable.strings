@@ -1,0 +1,36 @@
+"Access to advanced features" = "အဆင့်မြင့် လုပ်ဆောင်ချက်များကို ဝင်သုံးခွင့်";
+
+"Access to %@" = "%@ကို ဝင်သုံးခွင့်";
+
+"The purchase is pending and will be processed once payment has been confirmed." = "ဝယ်ယူမှုကို ဆိုင်းငံ့ထားပြီး ငွေပေးချေမှုကို အတည်ပြုပြီးသည်နှင့် စီမံဆောင်ရွက်ပါမည်။";
+
+"This subscription is associated with another OpenAI account.\n\nPlease login with that account to access it, or visit help.openai.com for support." = "ဤလစဉ်ကြေးသွင်းမှုသည် အခြား OpenAI အကောင့်နှင့် ဆက်စပ်နေသည်။\n\nသုံးစွဲရန် ထိုအကောင့်ဖြင့် ဝင်ရောက်ပါ သို့မဟုတ် အကူအညီအတွက် help.openai.com သို့သွားပါ။";
+
+"The purchase was unsuccessful. Please try again later." = "ဝယ်ယူမှု မအောင်မြင်ခဲ့ပါ။ နောက်မှ ပြန်လုပ်ဆောင်ပါ။";
+
+"In-app purchases are currently unavailable. Please try again later." = "အက်ပ်အတွင်း ဝယ်ယူမှုများကို လောလောဆယ် မရရှိနိုင်ပါ။ နောက်မှ ပြန်လုပ်ဆောင်ပါ။";
+
+"month" = "လ";
+
+"year" = "နှစ်";
+
+"Due to high demand, we've temporarily paused upgrades." = "ဝယ်လိုအား မြင့်မားမှုကြောင့် အဆင့်မြှင့်တင်မှုများကို ခေတ္တ ရပ်ထားပါသည်။";
+
+"Access our most powerful model and advanced features" = "ကျွန်ုပ်တို့၏ အစွမ်းထက်ဆုံး မော်ဒယ်နှင့် အဆင့်မြင့် လုပ်ဆောင်ချက်များကို ဝင်သုံးပါ";
+
+"Error code: %@" = "အမှား ကုဒ်-%@";
+
+"Get ChatGPT Plus" = "ChatGPT Plus ကို ရယူပါ";
+
+"week" = "ပတ်";
+
+"Advanced data analysis, vision, web browsing, and file uploads" = "အဆင့်မြင့် ဒေတာဆန်းစစ်မှု၊ အမြင်၊ ဝဘ်ဆိုဒ် ရှာဖွေကြည့်ရှုခြင်းနှင့် ဖိုင်အပ်လုဒ်တင်ခြင်း";
+
+"Auto-renews for %@/%@ until canceled" = "မပယ်ဖျက်မချင်း %@/%@ အတွက် အလိုအလျောက် သက်တမ်းတိုးပါမည်";
+
+"Upgrade to Plus" = "Plus သို့ အဆင့်မြှင့်ပါ";
+
+"DALL·E image generation" = "DALL·E ဓာတ်ပုံ ဖြစ်ပေါ်လာခြင်း";
+
+"Create and use custom GPTs" = "စိတ်ကြိုက် GPTများ ဖန်တီး အသုံးပြုပါ";
+

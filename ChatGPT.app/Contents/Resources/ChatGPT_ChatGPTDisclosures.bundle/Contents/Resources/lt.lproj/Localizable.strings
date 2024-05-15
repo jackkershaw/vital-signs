@@ -1,0 +1,150 @@
+"ChatGPT will carry what it learns between chats, allowing it to provide more relevant responses." = "„ChatGPT“ perduos tai, ką sužinos iš pokalbių, ir galės pateikti tinkamesnius atsakymus.";
+
+"Hands-free" = "Laisvų rankų funkcija";
+
+"Taking steps to protect privacy" = "Veiksmai privatumui apsaugoti";
+
+"Customize your interactions with ChatGPT by providing specific details and guidelines for your chats." = "Pritaikykite savo sąveikas su „ChatGPT“ pateikdami konkrečius pokalbių duomenis ir gaires.";
+
+"Get Started" = "Pradėti naudotis";
+
+"View voice transcriptions in your history. Audio clips aren’t stored." = "Savo istorijoje peržiūrėkite balso transkripcijas. Garso klipai nesaugomi.";
+
+"Whenever you edit your custom instructions, they'll take effect in all new chats you create. Older conversations won't be updated." = "Kai redaguosite pasirinktines instrukcijas, jos įsigalios visuose jūsų sukurtuose naujuose pokalbiuose. Senesni pasikalbėjimai nebus atnaujinti.";
+
+"Language is auto-detected" = "Kalba aptinkama automatiškai";
+
+"Choose a voice" = "Pasirinkti balsą";
+
+"If you don’t want to continue, you can stop sharing any time in settings.\n\n[Learn More](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Jei nenorite tęsti, nuostatose galite bet kada sustabdyti bendrinimą.\n\n[Sužinokite daugiau](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Keep the conversation going" = "Tęskite pasikalbėjimą";
+
+"Welcome to your company's workspace" = "Sveikiname prisijungus prie savo įmonės darbo vietos";
+
+"You can specify a preferred language in Settings for a more accurate detection." = "Jei norite nustatyti tiksliau, nuostatose galite nurodyti pageidaujamą kalbą.";
+
+"Now you can have spoken conversations with ChatGPT." = "Dabar galite kalbėtis su „ChatGPT“ sakytine kalba.";
+
+"Here you can use our latest models, with more capabilities, and fewer limits." = "Čia galėsite naudoti naujausius mūsų modelius, turinčius daugiau galimybių ir mažiau apribojimų.";
+
+"Picture perfect" = "Kaip paveikslėlis";
+
+"Start with a photo" = "Pradėkite nuo nuotraukos";
+
+"Temporary Chat" = "Laikinas pokalbis";
+
+"While in a Temporary Chat, ChatGPT won’t use or create memories. Custom Instructions will still be followed if you have them enabled." = "Vykstant laikinam pokalbiui, „ChatGPT“ nenaudos ir nekurs atminčių. Pasirinktinės instrukcijos vis tiek bus taikomos, jei įjungta jų funkcija.";
+
+"Snap a picture to ask ChatGPT about the world around you." = "Padarykite momentinę nuotrauką ir paklauskite „ChatGPT“ apie jus supantį pasaulį.";
+
+"While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice." = "Nors naudojame apsaugos priemones, „ChatGPT“ gali pateikti netikslią informaciją. Jis nėra skirtas patarti.";
+
+"You’re in control. Review and delete specific memories, restart from scratch, or turn the feature off in settings." = "Viską valdote jūs. Peržiūrėkite ir pašalinkite konkrečias atmintis, atnaujinkite nuo pradžios arba išjunkite funkciją nuostatose.";
+
+"Welcome to\nChatGPT" = "Sveikiname prisijungus prie\n„ChatGPT“";
+
+"Provide context about your industry, role, or specific projects to get better answers tailored to you." = "Pateikite savo sektoriaus, vaidmens ar konkrečių projektų kontekstą, kad gautumėte jums pritaikytus geresnius atsakymus.";
+
+"Built for business" = "Sukurta verslui";
+
+"Decide whether new chats on this device will appear in your history and be used to improve our systems." = "Nuspręskite, ar nauji pokalbiai šiame įrenginyje bus rodomi jūsų istorijoje ir bus naudojami mūsų sistemoms tobulinti.";
+
+"Tap Select, highlight the area, and describe changes in chat." = "Bakstelėkite „Pasirinkti“, paryškinkite sritį ir aprašykite pokalbio pakeitimus.";
+
+"Custom Instructions will still be followed if you have them enabled." = "Pasirinktinės instrukcijos vis tiek bus taikomos, jei įjungta jų funkcija.";
+
+"Follows custom instructions" = "Taikomos pasirinktinės instrukcijos";
+
+"Welcome to the %@ workspace" = "Sveikiname prisijungus prie %@ darbo vietos";
+
+"Don’t share sensitive info" = "Nebendrinkite slaptos informacijos";
+
+"Chats are saved" = "Pokalbiai įrašomi";
+
+"ChatGPT can be inaccurate" = "„ChatGPT“ gali būti netikslus";
+
+"ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more." = "„ChatGPT“ gali atsakyti į klausimus, padėti jums mokytis, parašyti kodą, kartu telkti idėjas ir atlikti dar daugiau dalykų.";
+
+"Try using photos to fix your bike, create a recipe, or analyze complex graphs." = "Nuotraukas bandykite naudoti dviračiui taisyti, receptui kurti ar sudėtiniams grafikams analizuoti.";
+
+"Help improve our models" = "Padėkite tobulinti mūsų modelius";
+
+"More helpful over time" = "Ilgainiui taps naudingesnis";
+
+"Don't Share" = "Nebendrinti";
+
+"Refine DALL·E Images" = "Patobulinkite DALL·E vaizdus";
+
+"Temporary chats won’t appear in your history. For safety purposes, we may keep a copy of your chat for up to 30 days." = "Laikini pokalbiai jūsų istorijoje nebus rodomi. Saugumo sumetimais galime saugoti jūsų pokalbio kopiją iki 30 dienų.";
+
+"Share audio from future voice chats to improve and train our models." = "Bendrinkite būsimųjų pokalbių balsu garsą, kad mes galėtume tobulinti ir treniruoti savo modelius.";
+
+"To improve voice chats, our team may review audio. We take steps to reduce the amount of personal information in audio used to train our models." = "Norėdama pagerinti pokalbius balsu, mūsų komanda gali peržiūrėti garso įrašus. Stengiamės sumažinti asmeninės informacijos kiekį garso įrašuose, kurie naudojami mūsų modeliams treniruoti.";
+
+"Tap Edit and describe changes in chat." = "Bakstelėkite „Redaguoti“ ir aprašykite pokalbio pakeitimus.";
+
+"ChatGPT now has memory across chats" = "„ChatGPT“ dabar turi visų pokalbių atmintį";
+
+"Active for new chats" = "Aktyvios naujiems pokalbiams";
+
+"Just start talking" = "Tiesiog pradėkite kalbėti";
+
+"Manage what it remembers" = "Valdykite tai, ką jis įsimena";
+
+"Learn more" = "Sužinokite daugiau";
+
+"Chat with images" = "Kalbėtis naudojant vaizdus";
+
+"Now you can have spoken conversations with GPTs." = "Dabar galite kalbėtis su GPT sakytine kalba.";
+
+"Temporary Chats won’t be used to improve our models." = "Laikini pokalbiai nebus naudojami mūsų modeliams tobulinti.";
+
+"Welcome to ChatGPT" = "Sveikiname prisijungus prie ChatGPT“";
+
+"Introducing\nCustom Instructions" = "Pristatome\npasirinktines instrukcijas";
+
+"This official app is free, syncs your history across devices, and brings you the latest model improvements from OpenAI." = "Ši nemokama oficiali programėlė sinchronizuoja jūsų istoriją visuose įrenginiuose ir pateikia naujausius „OpenAI“ modelio patobulinimus.";
+
+"By default, chats in this workspace are not used to train our AI models." = "Pagal numatytąsias nuostatas pokalbiai šioje darbo vietoje nenaudojami mūsų dirbtinio intelekto modeliams treniruoti.";
+
+"Share" = "Bendrinti";
+
+"Memory off" = "Atmintis išjungta";
+
+"Continue" = "Tęsti";
+
+"Ask away" = "Vis tiek klausti";
+
+"Not in history" = "Nėra istorijoje";
+
+"ChatGPT may provide inaccurate information about people, places, or facts." = "„ChatGPT“ gali pateikti netikslią informaciją apie žmones, vietas ar faktus.";
+
+"Chats may be reviewed by our AI trainers to improve our systems." = "Pokalbius gali peržiūrėti mūsų dirbtinio intelekto instruktoriai, kad pagerintų mūsų sistemas.";
+
+"Edit the full image" = "Redaguoti visą vaizdą";
+
+"Improve voice chats for everyone" = "Pagerinkite visų naudotojų pokalbius balsu";
+
+"Chat with voice" = "Kalbėtis balsu";
+
+"Help improve voice" = "Padėkite pagerinti balsą";
+
+"Control your chat history" = "Valdykite savo pokalbių istoriją";
+
+"Made for use at work" = "Skirta naudoti darbe";
+
+"Chat without having to look at your screen." = "Kalbėkitės nežiūrėdami į savo ekraną.";
+
+"Select an area of the image to edit" = "Pasirinkite redaguotiną vaizdo sritį";
+
+"Your instructions will make our models better. Visit our [Help Center](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) to learn more about how your data will be used." = "Jūsų instrukcijos pagerins mūsų modelius. Apsilankykite mūsų [Pagalbos centre](https://help.openai.com/en/articles/8096356-chat-preference-for-chatgpt) ir sužinokite daugiau apie tai, kaip bus naudojami jūsų duomenys.";
+
+"ChatGPT will become more helpful as you chat, continually remembering details and preferences." = "„ChatGPT“ bus naudingesnis, kai kalbėsitės, nes jis nuolat įsimins duomenis ir parinktis.";
+
+"Check your facts" = "Patikrinkite faktus";
+
+"You’re in control" = "Viską valdote jūs";
+
+"No model training" = "Nėra modelio mokymo";
+

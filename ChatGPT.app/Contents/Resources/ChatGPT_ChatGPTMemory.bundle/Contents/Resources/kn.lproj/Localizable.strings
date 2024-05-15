@@ -1,0 +1,40 @@
+"Clear Memory" = "ನೆನಪನ್ನು ಅಳಿಸಿ";
+
+"%@'s memories" = "%@ರ ಮೆಮೊರಿಗಳು";
+
+"Clear ChatGPT’s memory" = "ChatGPTನ ನೆನಪನ್ನು ತೆರವುಗೊಳಿಸಿ";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ ನಿಮ್ಮ ಚಾಟ್‌ಗಳಿಂದ ನೆನಪಿಸಿಕೊಂಡ ಎಲ್ಲವನ್ನೂ ಮರೆತುಬಿಡುತ್ತದೆ. ಇದನ್ನು ಮರುಕಳಿಸಲಾಗುವುದಿಲ್ಲ.";
+
+"No memories" = "ಮೆಮೊರಿಗಳು ಇಲ್ಲ";
+
+"Error deleting memory" = "ನೆನಪು ಅಳಿಸುವಲ್ಲಿ ದೋಷ";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "ನೀವು %@ರೊಂದಿಗೆ ಚಾಟ್ ಮಾಡುವಾಗ, ಅದು ನೆನಪಿಸಿಕೊಳ್ಳುವ ವಿವರಗಳು ಮತ್ತು ಆದ್ಯತೆಗಳನ್ನು ಇಲ್ಲಿ ತೋರಿಸಲಾಗುತ್ತದೆ.";
+
+"Error loading GPTs" = "GPT ಗಳನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ತಪ್ಪಾಗಿದೆ";
+
+"Open menu to select which GPT to show memories for" = "ಯಾವ GPT ಗಾಗಿ ಮೆಮೊರಿಗಳನ್ನು ತೋರಿಸಬೇಕೆಂದು ಆಯ್ಕೆ ಮಾಡಲು ಮೆನು ತೆರೆಯಿರಿ";
+
+"Select a GPT" = "GPT ಆಯ್ಕೆ ಮಾಡಿ";
+
+"Are you sure?" = "ನೀವು ಖಚಿತವಾಗಿರುವಿರಾ?";
+
+"Memory is disabled" = "ನೆನಪು ನಿಷ್ಕ್ರಿಯಗೊಂಡಿದೆ";
+
+"Error loading memories" = "ಮೆಮೊರಿಗಳನ್ನು ಲೋಡ್ ಮಾಡುವಾಗ ದೋಷ";
+
+"Turn On" = "ಆನ್ ಮಾಡಿ";
+
+"%@ won't use or create memories" = "%@ ನೆನಪುಗಳನ್ನು ಬಳಸುವುದಿಲ್ಲ ಅಥವಾ ರಚಿಸುವುದಿಲ್ಲ";
+
+"Could not reset memory. Please try again later." = "ನೆನಪನ್ನು ಮರುಹೊಂದಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.";
+
+"Search memories" = "ನೆನಪನ್ನು ಹುಡುಕಿ";
+
+"Learn More" = "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ";
+
+"Memory" = "ನೆನಪು";
+
+"Clear this GPT's memory" = "ಈ GPTಯ ನೆನಪು ಅನ್ನು ತೆರವುಗೊಳಿಸಿ";
+

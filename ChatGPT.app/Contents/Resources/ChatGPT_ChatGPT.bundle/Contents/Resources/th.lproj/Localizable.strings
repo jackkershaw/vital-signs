@@ -1,0 +1,16 @@
+"Your most recent request failed. Please try again." = "คำขอล่าสุดของคุณไม่สำเร็จ โปรดลองอีกครั้ง";
+
+"You do not have access to this app yet!" = "คุณยังไม่มีสิทธิ์เข้าถึงแอปนี้";
+
+"Received an empty response from ChatGPT. Please try again." = "ได้รับคำตอบจาก ChatGPT เป็นค่าว่าง โปรดลองอีกครั้ง";
+
+"You do not have access to the Desktop app yet. You can still use ChatGPT at %@" = "คุณยังไม่มีสิทธิ์เข้าถึงแอปสำหรับเดสก์ท็อป แต่ยังสามารถใช้ ChatGPT ได้ที่ %@";
+
+"Can't determine the right ChatGPT model to use. Please try again." = "ไม่สามารถระบุโมเดล ChatGPT ที่เหมาะสมให้ได้ โปรดลองอีกครั้ง";
+
+"Did not receive a response from ChatGPT. Please try again." = "ไม่ได้รับคำตอบจาก ChatGPT โปรดลองอีกครั้ง";
+
+"You do not have access to this app yet. You can still use ChatGPT at %@" = "คุณยังไม่มีสิทธิ์เข้าถึงแอปนี้ แต่ยังคงสามารถใช้ ChatGPT ได้ที่%@";
+
+"You are logged out. Please open the ChatGPT app to log in." = "คุณลงชื่อออกแล้ว โปรดเปิดแอป ChatGPT เพื่อลงชื่อเข้าใช้";
+

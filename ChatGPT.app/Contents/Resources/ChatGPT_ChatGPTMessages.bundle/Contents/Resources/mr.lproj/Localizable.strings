@@ -1,0 +1,74 @@
+"Bad" = "वाईट";
+
+"You" = "तुम्ही";
+
+"Regenerate" = "पुन्हा निर्माण करा";
+
+"#%lld row" = "#%lld पंक्ती";
+
+"Please try again later.%@" = "कृपया नंतर पुन्हा प्रयत्न करा. %@";
+
+"Analysis" = "विश्लेषण";
+
+"Select Text" = "मजकूर निवडणे";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "आमच्या सर्वात सक्षम मॉडेलसह लिहिलेले, GPT-4, ChatGPT Plus वर उपलब्ध आहे";
+
+"Deny" = "नाही म्हणा";
+
+"\"%@\" cell" = "\"%@\" सेल";
+
+"Stop Generating" = "उत्पन्न करणे थांबवा";
+
+"Loading…" = "लोड करत आहे...";
+
+"Edit" = "सुधारणे";
+
+"Always allow" = "नेहमी परवानगी द्या";
+
+"Your most recent request failed. Please retry!" = "तुमची सर्वात अलीकडील विनंती अयशस्वी झाली. कृपया पुन्हा प्रयत्न करा!";
+
+"A GPT" = "A GPT";
+
+"Sign in to %@" = "%@ मध्ये साइन इन करा";
+
+"Selection" = "निवड";
+
+"Failed, retry?" = "अयशस्वी, पुन्हा प्रयत्न करायचे?";
+
+"Memories updated" = "आठवणी अद्यतन केल्या";
+
+"Continue Generating" = "निर्माण करणे सुरू ठेवा";
+
+"Manage memories" = "मेमरी व्यवस्थापित करा";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "अपलोड करत आहे ^[%lld संलग्नक](inflect: true)…";
+
+"Change Model" = "मॉडेल बदला";
+
+"Read Aloud" = "मोठ्याने वाचा";
+
+"Quick Look" = "झटपट पहा";
+
+"Save File As…" = "फाइल म्हणून जतन करा...";
+
+"File expired" = "फाइल कालबाह्य झाली";
+
+"\"%@\" column" = "\"%@\" कॉलम्स";
+
+"Memory updated" = "मेमरी अद्यतन केली";
+
+"Response rating failed." = "प्रतिसाद रेटिंग अयशस्वी.";
+
+"File unavailable" = "फाइल अनुपलब्ध";
+
+"Upgraded response" = "श्रेणीसुधारित केलेला प्रतिसाद";
+
+"How would you rate this GPT?" = "तुम्ही या GPT ला कसे रेट कराल?";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT केवळ मर्यादित वेळेसाठी फायली ठेवते. तुमचे संभाषण सुरू ठेवण्यासाठी नवीन संभाषण सुरू करा किंवा नवीन फाइल अपलोड करा.";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "ही फाइल यापुढे उपलब्ध नाही. तुमचे संभाषण सुरू ठेवण्यासाठी नवीन संभाषण सुरू करा किंवा नवीन फाइल अपलोड करा.";
+
+"Decline" = "नकार";
+

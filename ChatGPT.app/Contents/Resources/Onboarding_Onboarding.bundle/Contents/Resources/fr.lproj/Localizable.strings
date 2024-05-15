@@ -1,0 +1,96 @@
+"Something went wrong. Please try again." = "Un problème est survenu. Veuillez réessayer.";
+
+"Something went wrong. Sign out and try again." = "Un problème est survenu. Veuillez vous déconnecter et réessayer.";
+
+"Resend code" = "Renvoyer le code";
+
+"Phone number" = "Numéro de téléphone";
+
+"Your email is not yet verified. Please check your email inbox." = "Votre adresse e-mail n’a pas encore été validée. Veuillez vérifier votre boîte de réception.";
+
+"error" = "erreur";
+
+"Birthday" = "Date de naissance";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "Pour toute assistance, veuillez consulter le [guide de validation des numéros de téléphone](https://help.openai.com/articles/6613520-phone-verification).";
+
+"Enter the code we just sent to your number ending in **%@" = "Saisissez le code que nous venons de vous envoyer au numéro se terminant par **%@";
+
+"Email resent!" = "E-mail envoyé de nouveau !";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "Nos [conditions d’utilisation](https://openai.com/policies/terms-of-use) ne nous permettent pas de créer votre compte.";
+
+"Please choose a valid date for your birthday." = "Veuillez donner une date de naissance valide.";
+
+"There was a problem, please try again. (%@)" = "Un problème est survenu, veuillez réessayer. (%@)";
+
+"There was a problem verifying your phone number. %@" = "Un problème s’est produit lors de la vérification de votre numéro de téléphone. %@";
+
+"You have made too many attempts. Please try again later." = "Vous avez lancé trop de demandes. Veuillez réessayer plus tard.";
+
+"Please provide a phone number for verification." = "Veuillez fournir un numéro de téléphone pour vérification.";
+
+"There was a problem, please try again." = "Un problème est survenu, veuillez réessayer.";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "En cliquant sur \"Continuer\", vous confirmez que vous avez le consentement de vos parents ou de votre tuteur pour utiliser ChatGPT, vous acceptez nos [conditions d’utilisation](https://openai.com/policies/terms-of-use)et vous reconnaissez avoir pris connaissance de notre [politique de confidentialité](https://openai.com/policies/privacy-policy).";
+
+"Open Mail App" = "Ouvrir l’application de courrier";
+
+"Resend email" = "Renvoyer un e-mail";
+
+"Please solve this puzzle so we know you're a person." = "Veuillez résoudre cette énigme pour confirmer que vous n’êtes pas un bot.";
+
+"Last name" = "Nom";
+
+"I've verified my email" = "J’ai validé mon adresse e-mail";
+
+"Select your area code" = "Sélectionner votre code de zone";
+
+"There was a problem verifying the code. %@" = "Un problème s’est produit lors de la vérification de votre code. %@";
+
+"Select your Birthday" = "Sélectionner votre date de naissance";
+
+"Your account could not be created. Please try again. %@" = "Votre compte n'a pas pu être créé. Veuillez réessayer. %@";
+
+"Code" = "Code";
+
+"First name" = "Prénom";
+
+"Verify your email" = "Validation de l’adresse e-mail";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Un problème s'est produit. Le compte a déjà été créé mais n'a pas pu être actualisé. Veuillez vous déconnecter et vous reconnecter.";
+
+"Continue" = "Continuer";
+
+"Please check your internet connection and retry." = "Veuillez vérifier votre connexion Internet et réessayer.";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Problème avec votre connexion Internet. Veuillez réessayer. (%lld)";
+
+"Failed to load required information." = "Impossible de charger les informations requises.";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "En cliquant sur \"Continuer\", vous acceptez nos [conditions d’utilisation](https://openai.com/policies/terms-of-use) et vous reconnaissez avoir pris connaissance de notre [politique de confidentialité](https://openai.com/policies/privacy-policy) et de son [addendum pour la Corée](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Verify phone number" = "Vérification du numéro de téléphone";
+
+"Verify you're human" = "Vérification que vous n’êtes pas un bot";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "Les informations concernant les pays n'ont pas pu être récupérées. Veuillez vérifier votre connexion Internet et redémarrer l'appli. %@";
+
+"Area code" = "Code zone";
+
+"Finish creating your OpenAI account" = "Terminer la création de votre compte OpenAI";
+
+"Sorry, we aren't able to create your account" = "Désolé, nous n’avons pas pu créer votre compte.";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "En cliquant sur \"Continuer\", vous confirmez que vous avez le consentement de vos parents ou de votre tuteur pour utiliser ChatGPT, vous acceptez nos [conditions d’utilisation](https://openai.com/policies/terms-of-use)et vous reconnaissez avoir pris connaissance de notre [politique de confidentialité](https://openai.com/policies/privacy-policy) et de notre [addendum pour la Corée](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "Les informations requises n'ont pas pu être récupérées. Veuillez vérifier votre connexion Internet et redémarrer l'appli. (%@)";
+
+"Tell us about you." = "Dites-nous en un peu plus sur vous.";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "En cliquant sur \"Continuer\", vous acceptez nos [conditions d’utilisation](https://openai.com/policies/terms-of-use) et vous reconnaissez avoir pris connaissance de notre [politique de confidentialité](https://openai.com/policies/privacy-policy).";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "Un problème s'est produit. Veuillez redémarrer l'appli, ou vous déconnecter et réessayer.";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "Nous avons envoyé un e-mail à l’adresse %@.\nCliquez sur le lien contenu dans le message pour commencer.";
+

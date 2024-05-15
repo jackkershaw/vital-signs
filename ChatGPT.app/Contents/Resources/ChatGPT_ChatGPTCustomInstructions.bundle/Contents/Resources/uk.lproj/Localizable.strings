@@ -1,0 +1,52 @@
+"Are you sure you want to discard your changes?\nAny changes you made will be lost." = "Справді відхилити зміни?\nБудь-які внесені зміни буде втрачено.";
+
+"How would you like ChatGPT to respond?" = "Як би ви хотіли, щоб ChatGPT відповідав?";
+
+"Unsaved changes" = "Незбережені зміни";
+
+"Error saving custom instructions" = "Помилка збереження спеціальних інструкцій";
+
+"GPT-4 Capabilities" = "Можливості GPT-4";
+
+"Error updating state for customizations. Please try again later." = "Помилка оновлення стану для налаштувань. Повторіть спробу пізніше.";
+
+"Code" = "Код";
+
+"Show tips" = "Показати поради";
+
+"Keep editing" = "Продовжити редагування";
+
+"An unknown error occurred. Please try again later" = "Сталася невідома помилка. Повторіть спробу пізніше";
+
+"Error loading customizations. Please try again later." = "Помилка завантаження налаштувань. Повторіть спробу пізніше.";
+
+"What would you like ChatGPT to know about you to provide better responses?" = "Що б ви хотіли, щоб ChatGPT знав про вас, аби надавати вам кращі відповіді?";
+
+"Choose which tools can be used with GPT-4." = "Виберіть, які інструменти можна використовувати з GPT-4.";
+
+"Browsing" = "Перегляд вебсторінок";
+
+"Browse the internet to find answers" = "Переглядайте інтернет-сторінки, щоб знайти відповіді";
+
+"Custom Instructions Enabled or Disabled" = "Спеціальні інструкції ввімкнено або вимкнено";
+
+"Execute code using Code Interpreter" = "Виконуйте код за допомогою інтерпретатора кодів";
+
+"DALL•E" = "DALL•E";
+
+"Saving Custom Instructions" = "Збереження спеціальних інструкцій";
+
+"Save" = "Зберегти";
+
+"Custom instructions will be applied to all new chats. [Learn more](chat-preferences-disclosures)" = "Спеціальні інструкції застосовуватимуться до всіх нових чатів. [Докладніше](chat-preferences-disclosures)";
+
+"Enable for new chats" = "Увімкнути для нових чатів";
+
+"Discard changes" = "Відхилити зміни";
+
+"Generate images using DALL•E" = "Створюйте зображення за допомогою DALL·E";
+
+"Thought starters" = "Ідеї для початку роботи";
+
+"Customize ChatGPT" = "Налаштуйте ChatGPT";
+

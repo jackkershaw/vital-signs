@@ -1,0 +1,18 @@
+"%@ code block: %@" = "Блокирање кода %@: %@";
+
+"Reloads the image" = "Поново учитава слику";
+
+"Good Response" = "Добар Одговор";
+
+"Shows the image" = "Приказује слику";
+
+"The file download failed. Please try again later." = "Преузимање датотеке није успело. Покушај поново касније.";
+
+"Save to Photos" = "Сачувај у фотографијама";
+
+"Share" = "Дели";
+
+"Bad Response" = "Лош Одговор";
+
+"Copied!" = "Копирано!";
+

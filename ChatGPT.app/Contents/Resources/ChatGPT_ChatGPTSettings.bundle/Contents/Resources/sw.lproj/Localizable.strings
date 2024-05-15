@@ -1,0 +1,180 @@
+"Dark" = "Giza";
+
+"Share audio from future voice chats to improve and train our models. This improves the quality of voice chats for everyone. [Learn more](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)" = "Ruhusu sauti kutoka kwa chati yako ya sauti itumike kuboresha na kufunza miundo yetu. Hii inaboresha ubora wa chati za sauti kwa kila mtu. [Pata maelezo zaidi](https://help.openai.com/en/articles/8400625-voice-chat-faq#h_0173d3c9e3)";
+
+"Successfully exported data. You should receive an email shortly with your data." = "Data imefaulu kuhamishwa. Utapokea baruapepe iliyo na data yako hivi karibuni.";
+
+"Off" = "Imezimwa";
+
+"Chat training" = "Mafunzo ya chati";
+
+"Workspace" = "Eneo la kazi";
+
+"Error archiving all chats" = "Hitilafu katika kuweka chati zote kwenye kumbukumbu";
+
+"All your chats will be cleared from history. This cannot be undone." = "Chati zako zote zitafutwa kwenye historia. Hii haiwezi kutenduliwa.";
+
+"Error deleting all chats" = "Hitilafu katika kufuta chati zote";
+
+"Help Center" = "Kituo cha Usaidizi";
+
+"Keyboard Shortcut" = "Njia ya Mkato ya Kibodi";
+
+"Voice" = "Sauti";
+
+"Delete All Chats" = "Futa Chati Zote";
+
+"Keep ChatGPT on top" = "Weka ChatGPT juu";
+
+"ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. [Learn more](%@)\n\nTo understand what ChatGPT remembers or teach it something new, just chat with it:\n\n• “Remember that I like concise responses.”\n• “I just got a puppy!”\n• “What do you remember about me?”\n• “Where did we leave off on my last project?”" = "ChatGPT itakusaidia zaidi unapochati, kupata maelezo na mapendeleo ili kurekebisha majibu yake kwako. [Pata maelezo zaidi](%@)\n\nIli kuelewa yale ambayo ChatGPT inakumbuka au kuifundisha kitu kipya, chati nayo:\n\n• \"Kumbuka huwa ninapenda majibu mafupi\n• \"Nimepata mbwa mdogo hivi majuzi!\"\n• \"Unakumbuka nini kunihusu?\"\n• \"Tuliachia wapi mradi wangu wa mwisho?\"";
+
+"For best results, select the language you mainly speak. If it’s not listed, it may still be supported via auto-detection." = "Kwa matokeo bora zaidi, chagua lugha unayozungumza zaidi. Ikiwa haijaorodheshwa, bado inaweza kuruhusiwa kupitia ugunduzi wa kiotomatiki.";
+
+"Speech" = "Usemi";
+
+"We were unable to process your export at this time. Please try again later." = "Hatukuweza kuchakata uhamishaji wako kwa wakati huu. Tafadhali jaribu tena baadaye.";
+
+"Yesterday" = "Jana";
+
+"Manage Memory" = "Dhibiti Kumbukumbu";
+
+"Conversation not found" = "Mazungumzo hayajapatikana";
+
+"Free Plan" = "Mpango Usiolipiwa";
+
+"You may only delete your account if you have logged in within the last 10 minutes.\n\nPlease log in again, then return here to continue." = "Unaweza tu kufuta akaunti yako ikiwa umeingia ndani ya dakika 10 zilizopita. Tafadhali ingia tena, kisha urudi hapa ili kuendelea.";
+
+"ChatGPT Enterprise" = "ChatGPT Enterprise";
+
+"Save new chats on this device to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Hifadhi chati mpya kwenye kifaa hiki kwenye historia yako na uziruhusu zitumike kuboresha miundo yetu. Chati ambazo hazijahifadhiwa zitafutwa kwenye mifumo yetu ndani ya siku 30. Mpangilio huu haulandanishi kwenye vifaa vyote. [Pata maelezo zaidi](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"App Language" = "Lugha ya Programu";
+
+"About" = "Kuhusu";
+
+"Successfully exported data. You should receive an email shortly with your data." = "Data imefaulu kutumwa. Utapokea baruapepe iliyo na data yako hivi karibuni.";
+
+"Deleting your account will not cancel any active in-app subscriptions. You can cancel these subscriptions in your Apple ID settings." = "Kufuta akaunti yako hakutaghairi usajili wowote unaotumika wa ndani ya programu. Unaweza kughairi usajili Huu katika mipangilio ya kitambulisho chako cha Apple.";
+
+"Manage workspace" = "Dhibiti eneokazi";
+
+"Your account details and conversations will be included in the export.\n\nThe data will be sent to your registered email in a downloadable file.\n\nProcessing may take some time. You'll be notified when it's ready." = "Maelezo na mazungumzo ya akaunti yako yatajumuishwa katika uhamishaji. Data itatumwa kwa baruapepe yako iliyosajiliwa katika faili inayoweza kupakuliwa. Uchakataji unaweza kuchukua muda. Utaarifiwa inapokuwa tayari.";
+
+"Delete Account" = "Futa Akaunti";
+
+"New Features" = "Vipengele Vipya";
+
+"We couldn't load your archived chats" = "Hatukuweza kupakia chati zako zilizohifadhiwa kwenye kumbukumbu";
+
+"Save new chats on this device to your history. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across devices. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Hifadhi chati mpya kwenye kifaa hiki kwenye historia yako. Chati ambazo hazijahifadhiwa zitafutwa kwenye mifumo yetu ndani ya siku 30. Mpangilio huu hausawazishi kwenye vifaa vyote. [Pata maelezo zaidi](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Color Scheme" = "Mpango wa Rangi";
+
+"Desktop Launcher" = "Kizinduaji cha Kompyuta";
+
+"Could not unarchive conversation. Please try again later." = "Haikuweza kuondoa mazungumzo kwenye kumbukumbu. Tafadhali jaribu tena baadaye.";
+
+"ChatGPT Team" = "ChatGPT Team";
+
+"Archived conversations will be available here" = "Mazungumzo yaliyohifadhiwa kwenye kumbukumbu yatapatikana hapa";
+
+"Are you sure?" = "Una uhakika?";
+
+"Subscription Cancellation" = "Kughairi Usajili";
+
+"App" = "Programu";
+
+"Recent login required" = "Uingiaji wa hivi majuzi unahitajika";
+
+"Confirm Export" = "Thibitisha uhamishaji";
+
+"This workspace is private and opted out of training." = "Eneo la kazi ni la faragha na umechagua kutochangia mafunzo.";
+
+"No archived chats" = "Chati Zilizohifadhiwa";
+
+"Terms of Use" = "Masharti ya matumizi";
+
+"Chat history" = "Historia ya chati";
+
+"Restore purchases" = "Rejesha ununuzi";
+
+"Your account has been queued for deletion." = "Akaunti yako imepangwa kufutwa.";
+
+"Could not update the memory setting. Please try again later." = "Haikuweza kusasisha mpangilio wa kumbukumbu. Tafadhali jaribu tena baadaye.";
+
+"Archived Chats" = "Chati Zilizohifadhiwa";
+
+"Customize ChatGPT" = "Binafsisha ChatGPT";
+
+"Error updating setting. Please try again later" = "Hitilafu imetokea katika kusasisha mpangilio. Tafadhali jaribu tena baadaye";
+
+"All your chats will be archived. This cannot be undone." = "Chati zako zote zitahifadhiwa kwenye historia. Hii haiwezi kutenduliwa.";
+
+"Could not delete conversation. Please try again later." = "Haikuweza kufuta mazungumzo. Tafadhali jaribu tena baadaye.";
+
+"Archive All Chats" = "Hifadhi chati zote";
+
+"ChatGPT Plus" = "ChatGPT Plus";
+
+"Deleting your account is permanent and cannot be undone. All your data, including profile, conversations, and API usage, will be removed.\n\nYou cannot reuse the same email or phone number for a new account.\n\nIf you've been using ChatGPT with the API, this access will also be deleted." = "Kufuta akaunti yako ni hatua ya kudumu na haiwezi kutenduliwa. Data zako zote, ikiwa ni pamoja na wasifu, mazungumzo, na matumizi ya API, zitaondolewa.\n\nHuwezi kutumia tena barua pepe ileile au nambari ya simu kwa akaunti mpya.\n\nIkiwa umekuwa ukitumia ChatGPT kupitia API, ufikiaji huu pia utafutwa.";
+
+"Memory" = "Kumbukumbu";
+
+"There was an error with your account deletion. Please try again. If the problem continues, please visit us at help.openai.com." = "Kumekuwa na hitilafu wakati wa kufuta akaunti. Tafadhali jaribu tena. Tatizo likiendelea, tafadhali tembelea help.openai.com.";
+
+"Upgrade to ChatGPT Plus" = "Boresha hadi ChatGPT Plus";
+
+"System" = "Mfumo";
+
+"Help" = "Usaidizi";
+
+"None" = "Hamna";
+
+"Privacy Policy" = "Sera ya Faragha";
+
+"You can't make changes to your subscription inside this app, because you purchased this subscription on another platform." = "Huwezi kufanya mabadiliko kwenye usajili wako ndani ya programu hii, kwa sababu ulinunua usajili huu kwenye mfumo mwingine.";
+
+"Export Data" = "Hamisha Data";
+
+"Data Controls" = "Vidhibiti vya Data";
+
+"Could not archive all chats" = "Haikuweza kuhifadhi chati zote kwenye kumbukumbu";
+
+"Email" = "Baruapepe";
+
+"Light" = "Mwanga";
+
+"View" = "Tazama";
+
+"Manage Subscriptions" = "Dhibiti Usajili";
+
+"Search Archive" = "Tafuta kwenye Kumbukumbu";
+
+"Today" = "Leo";
+
+"Subscription" = "Usajili";
+
+"Could not delete all chats" = "Haikuweza kufuta chati zote";
+
+"Always show ChatGPT in dock" = "Onyesha ChatGPT kila wakati kwenye dock";
+
+"ChatGPT for %@" = "ChatGPT ya %@";
+
+"On" = "Imewashwa";
+
+"Improve the model for everyone" = "Boresha muundo kwa kila mtu";
+
+"Chat History & Training" = "Mafunzo na Historia ya Chati";
+
+"Unarchive" = "Tendua hifadhi";
+
+"Haptic Feedback" = "Vitufe vya Kugusa";
+
+"Improve voice for everyone" = "Boresha sauti kwa kila mtu";
+
+"Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. [Learn more](https://help.openai.com/en/articles/7730893-data-controls-faq)" = "Ruhusu maudhui yako yatumike kufunza miundo yetu, ambayo huboresha ChatGPT kwako na kwa kila mtu anayeitumia. Tunachukua hatua za kulinda faragha yako.[Pata maelezo zaidi](https://help.openai.com/en/articles/7730893-data-controls-faq)";
+
+"Main Language" = "Lugha Kuu";
+
+"Email missing!" = "Baruapepe haipo!";
+

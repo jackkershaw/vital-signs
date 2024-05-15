@@ -1,0 +1,34 @@
+"There was a problem starting the recording." = "ਰਿਕਾਰਡਿੰਗ ਨੂੰ ਸ਼ੁਰੂ ਕਰਨ ਵਿੱਚ ਇੱਕ ਦਿੱਕਤ ਆਈ।";
+
+"Click to stop recording" = "ਰਿਕਾਰਡਿੰਗ ਰੋਕਣ ਲਈ ਕਲਿੱਕ ਕਰੋ";
+
+"Open Settings" = "ਸੈਟਿੰਗਾਂ ਖੋਲ੍ਹੋ";
+
+"Auto-Detect" = "ਸਵੈ-ਪਛਾਣ";
+
+"Retry transcription" = "ਪ੍ਰਤੀਲਿਪੀ ਲਈ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ";
+
+"Recordings must be longer than 1s." = "ਰਿਕਾਰਡਿੰਗਾਂ 1s ਤੋਂ ਵੱਧ ਦੀਆਂ ਹੋਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ।";
+
+"Tap to record" = "ਰਿਕਾਰਡ ਕਰਨ ਲਈ ਟੈਪ ਕਰੋ";
+
+"There was an unexpected error. %@" = "ਇੱਕ ਅਣਕਿਆਸੀ ਤਰੁੱਟੀ ਆਈ। %@";
+
+"To use Whisper, you need to allow ChatGPT to use your microphone." = "Whisper ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ, ਤੁਹਾਨੂੰ ChatGPT ਨੂੰ ਆਪਣਾ ਮਾਈਕ੍ਰੋਫੋਨ ਵਰਤਣ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣ ਦੀ ਲੋੜ ਹੈ।";
+
+"The recording could not be processed. Please check your internet connection. (%lld)" = "ਰਿਕਾਰਡਿੰਗ ਦੀ ਪ੍ਰਕਿਰਿਆ ਨਹੀਂ ਹੋ ਸਕੀ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ। (%lld)";
+
+"Converting to text…" = "ਟੈਕਸਟ ਵਿੱਚ ਬਦਲ ਰਿਹਾ ਹੈ...";
+
+"Click to record" = "ਰਿਕਾਰਡ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ";
+
+"An internet connection is required" = "ਇੱਕ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਦੀ ਲੋੜ ਹੈ";
+
+"The recording was cancelled." = "ਰਿਕਾਰਡਿੰਗ ਰੱਦ ਕਰ ਦਿੱਤੀ ਗਈ।";
+
+"Start new recording" = "ਨਵੀਂ ਰਿਕਾਰਡਿੰਗ ਸ਼ੁਰੂ ਕਰੋ";
+
+"Tap to stop recording" = "ਰਿਕਾਰਡਿੰਗ ਬੰਦ ਕਰਨ ਲਈ ਟੈਪ ਕਰੋ";
+
+"There was a problem with the recording." = "ਰਿਕਾਰਡਿੰਗ ਵਿੱਚ ਇੱਕ ਦਿੱਕਤ ਆਈ।";
+

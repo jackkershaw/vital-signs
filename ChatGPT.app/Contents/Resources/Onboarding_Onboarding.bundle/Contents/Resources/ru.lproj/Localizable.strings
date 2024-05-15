@@ -1,0 +1,96 @@
+"First name" = "Имя";
+
+"Something went wrong. Sign out and try again." = "Что-то пошло не так. Выйдите из системы и повторите попытку.";
+
+"Select your Birthday" = "Выберите свой день рождения";
+
+"Something went wrong. Please try again." = "Что-то пошло не так. Повторите попытку.";
+
+"There was a problem, please try again. (%@)" = "Возникла проблема, попробуйте еще раз. (%@)";
+
+"Verify you're human" = "Подтвердите, что вы человек";
+
+"There was a problem verifying your phone number. %@" = "При проверке вашего номера телефона возникла проблема. %@";
+
+"Tell us about you." = "Расскажите нам о себе.";
+
+"There was a problem, please try again." = "Возникла проблема, попробуйте еще раз.";
+
+"Code" = "Код";
+
+"Please choose a valid date for your birthday." = "Выберите действительную дату вашего дня рождения.";
+
+"Email resent!" = "Письмо отправлено повторно!";
+
+"Birthday" = "День рождения";
+
+"Resend email" = "Отправить электронное письмо повторно";
+
+"Verify phone number" = "Подтвердите номер телефона";
+
+"Continue" = "Продолжить";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "Мы отправили электронное письмо на адрес %@.\nНажмите на ссылку внутри, чтобы начать.";
+
+"Finish creating your OpenAI account" = "Завершите создание учетной записи OpenAI";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "Не удалось получить информацию о странах. Проверьте подключение к интернету и перезапустите приложение. %@";
+
+"Sorry, we aren't able to create your account" = "К сожалению, нам не удалось создать вашу учетную запись";
+
+"I've verified my email" = "Я подтвердил свой адрес электронной почты";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Нажимая «Продолжить», вы подтверждаете, что у вас есть согласие родителей или опекунов на использование ChatGPT, вы соглашаетесь с нашими [условиями](https://openai.com/policies/terms-of-use) и подтверждаете, что ознакомились с нашей [политикой конфиденциальности](https://openai.com/policies/privacy-policy).";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Нажимая «Продолжить», вы соглашаетесь с нашими [условиями](https://openai.com/policies/terms-of-use) и подтверждаете, что ознакомились с нашей [политикой конфиденциальности](https://openai.com/policies/privacy-policy).";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "За справкой обратитесь к [руководству по проверке телефона](https://help.openai.com/articles/6613520-phone-verification).";
+
+"Select your area code" = "Выберите код своего региона";
+
+"Phone number" = "Номер телефона";
+
+"Resend code" = "Отправить код еще раз";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Нажимая «Продолжить», вы соглашаетесь с нашими [условиями](https://openai.com/policies/terms-of-use) и подтверждаете, что ознакомились с нашей [политикой конфиденциальности](https://openai.com/policies/privacy-policy) и ее [дополнением для Кореи](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Your account could not be created. Please try again. %@" = "Не удалось создать вашу учетную запись. Попробуйте еще раз. %@";
+
+"error" = "ошибка";
+
+"Last name" = "Фамилия";
+
+"Your email is not yet verified. Please check your email inbox." = "Ваш адрес электронной почты еще не подтвержден. Проверьте свой почтовый ящик.";
+
+"Area code" = "Код региона";
+
+"Open Mail App" = "Открыть почтовое приложение";
+
+"Please check your internet connection and retry." = "Проверьте подключение к интернету и повторите попытку.";
+
+"Verify your email" = "Подтвердите ваш электронный адрес";
+
+"You have made too many attempts. Please try again later." = "Вы сделали слишком много попыток. Повторите попытку позже";
+
+"Please solve this puzzle so we know you're a person." = "Решите эту головоломку, чтобы мы знали, что вы человек.";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "Мы не можем создать вашу учетную запись из-за наших [условий использования](https://openai.com/policies/terms-of-use).";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Что-то пошло не так. Учетная запись уже создана, но ее не удается обновить. Выйдите из системы и войдите снова.";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Нажимая «Продолжить», вы подтверждаете, что у вас есть согласие родителя или опекуна на использование ChatGPT, вы соглашаетесь с нашими [условиями](https://openai.com/policies/terms-of-use) и подтверждаете, что ознакомились с нашей [политикой конфиденциальности](https://openai.com/policies/privacy-policy) и ее [дополнением для Кореи](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Failed to load required information." = "Не удалось загрузить требуемую информацию.";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "Не удалось получить требуемую информацию. Проверьте подключение к интернету и перезапустите приложение. (%@)";
+
+"There was a problem verifying the code. %@" = "При проверке кода возникла проблема. %@";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Возникла проблема с вашим интернет-соединением. Повторите попытку. (%lld)";
+
+"Enter the code we just sent to your number ending in **%@" = "Введите код, который мы только что отправили на ваш номер, заканчивающийся на **%@";
+
+"Please provide a phone number for verification." = "Укажите номер телефона для проверки.";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "Что-то пошло не так. Перезапустите приложение или выйдите из системы и повторите попытку.";
+

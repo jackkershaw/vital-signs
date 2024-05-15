@@ -1,0 +1,74 @@
+"Continue Generating" = "જનરેટ કરવાનું ચાલુ રાખો";
+
+"Failed, retry?" = "નિષ્ફળ, ફરી પ્રયાસ કરીએ કરવું છે?";
+
+"Regenerate" = "પુનર્જીવિત કરો";
+
+"Decline" = "નકાર";
+
+"Sign in to %@" = "%@ માં સાઇન ઇન કરો";
+
+"ChatGPT only keeps files for a limited amount of time. Start a new conversation or upload a new file to continue your conversation." = "ChatGPT માત્ર મર્યાદિત સમય માટે ફાઇલો રાખે છે. તમારી વાતચીત ચાલુ રાખવા માટે નવી વાતચીત શરૂ કરો અથવા નવી ફાઇલ અપલોડ કરો.";
+
+"Selection" = "પસંદગી";
+
+"\"%@\" cell" = "\"%@\" સેલ";
+
+"File unavailable" = "ફાઇલ અનુપલબ્ધ";
+
+"Analysis" = "વિશ્લેષણ";
+
+"Your most recent request failed. Please retry!" = "તમારી સૌથી તાજેતરની વિનંતી નિષ્ફળ થઈ. કૃપા કરીને ફરી પ્રયાસ કરો!";
+
+"Please try again later.%@" = "કૃપા કરીને પછીથી ફરી પ્રયાસ કરો.%@";
+
+"\"%@\" column" = "\"%@\" કૉલમ";
+
+"Change Model" = "મોડલ બદલો";
+
+"Read Aloud" = "મોટેથી વાંચો";
+
+"Always allow" = "હંમેશા મંજૂરી આપો";
+
+"Bad" = "ખરાબ";
+
+"Stop Generating" = "જનરેટ કરવાનું બંધ કરો";
+
+"This file is no longer available. Start a new conversation or upload a new file to continue your conversation." = "આ ફાઇલ હવે ઉપલબ્ધ નથી. તમારી વાતચીત ચાલુ રાખવા માટે એક નવી વાતચીત શરૂ કરો અથવા નવી ફાઇલ અપલોડ કરો.";
+
+"Edit" = "એડિટ કરો";
+
+"Loading…" = "લોડ કરી રહ્યું છે...";
+
+"Select Text" = "ટેક્સ્ટ પસંદ કરો";
+
+"Uploading ^[%lld attachments](inflect: true)…" = "^[%lld અટેચમેન્ટ્સ](inflect: true) અપલોડ કરી રહ્યાં છીએ…";
+
+"Memory updated" = "મેમરી અપડેટ કરી";
+
+"File expired" = "ફાઇલની સમયસીમા સમાપ્ત";
+
+"Written with our most capable model, GPT-4, available on ChatGPT Plus" = "અમારા સૌથી સક્ષમ મોડેલ, GPT-4 સાથે લખાયેલ, ChatGPT Plus પર ઉપલબ્ધ છે";
+
+"How would you rate this GPT?" = "તમે આ GPT ને કેવી રીતે રેટ કરશો?";
+
+"Quick Look" = "Quick Look";
+
+"Manage memories" = "મેમરી મેનેજ કરો";
+
+"Upgraded response" = "અપગ્રેડ કરેલ પ્રતિસાદ";
+
+"Save File As…" = "ફાઇલ આ રીતે સાચવો...";
+
+"Deny" = "નામંજૂર કરો";
+
+"You" = "તમે";
+
+"A GPT" = "એક GPT";
+
+"#%lld row" = "#%lld પંક્તિ";
+
+"Response rating failed." = "ફીડબેક રેટિંગ નિષ્ફળ થયું.";
+
+"Memories updated" = "મેમરી અપડેટ કરી";
+

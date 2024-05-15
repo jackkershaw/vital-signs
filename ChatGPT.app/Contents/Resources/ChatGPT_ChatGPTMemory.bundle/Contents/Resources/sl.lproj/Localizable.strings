@@ -1,0 +1,40 @@
+"Memory is disabled" = "Pomnilnik je onemogočen";
+
+"No memories" = "Ni pomnilnikov";
+
+"Clear Memory" = "Počisti pomnilnik";
+
+"%@'s memories" = "Pomnilniki %@";
+
+"Are you sure?" = "Ste prepričani?";
+
+"Error loading memories" = "Napaka pri nalaganju pomnilnikov";
+
+"Could not reset memory. Please try again later." = "Pomnilnika ni bilo mogoče ponastaviti. Poskusite znova pozneje.";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ bo pozabil vse, kar si je zapomnil iz vaših klepetov. Tega ni mogoče preklicati.";
+
+"Open menu to select which GPT to show memories for" = "Odprite meni, da izberete, za kateri GPT bodo prikazani pomnilniki";
+
+"%@ won't use or create memories" = "%@ ne bo uporabljal ali ustvarjal pomnilnikov";
+
+"Clear ChatGPT’s memory" = "Počisti pomnilnik ChatGPT-ja";
+
+"Search memories" = "Preišči pomnilnike";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "Ko klepetate s %@, bodo tukaj prikazane podrobnosti in nastavitve, ki si jih zapomni.";
+
+"Learn More" = "Več o tem";
+
+"Select a GPT" = "Izberite GPT";
+
+"Turn On" = "Vklopi";
+
+"Memory" = "Pomnilnik";
+
+"Clear this GPT's memory" = "Počisti pomnilnik tega GPT-ja";
+
+"Error loading GPTs" = "Napaka pri nalaganju GPT-jev";
+
+"Error deleting memory" = "Napaka pri izbrisu pomnilnika";
+

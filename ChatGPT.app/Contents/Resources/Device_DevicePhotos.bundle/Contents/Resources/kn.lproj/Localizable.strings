@@ -1,0 +1,16 @@
+"Expected a non-file URL, but received a file URL" = "ಕಡತ ಅಲ್ಲದ URL ಅನ್ನು ನಿರೀಕ್ಷಿಸಲಾಗಿದೆ, ಆದರೆ ಕಡತ URL ಅನ್ನು ಸ್ವೀಕರಿಸಲಾಗಿದೆ";
+
+"Enable photo library access in Settings to save photos." = "ಫೋಟೋಗಳನ್ನು ಉಳಿಸಲು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಫೋಟೋ ಲೈಬ್ರರಿ ಪ್ರವೇಶವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.";
+
+"Expected a file URL, but received a non-file URL" = "ಕಡತ URL ಅನ್ನು ನಿರೀಕ್ಷಿಸಲಾಗಿದೆ, ಆದರೆ ಕಡತ ಅಲ್ಲದ URL ಅನ್ನು ಸ್ವೀಕರಿಸಲಾಗಿದೆ";
+
+"Photos Access Denied" = "ಚಿತ್ರಗಳ ಪ್ರವೇಶವನ್ನು ನಿರಾಕರಿಸಲಾಗಿದೆ";
+
+"Failed to Save Image" = "ಚಿತ್ರವನ್ನು ಉಳಿಸಲು ವಿಫಲವಾಗಿದೆ";
+
+"Please try again later.\n\n(%@)" = "ದಯವಿಟ್ಟು ನಂತರ ಪ್ರಯತ್ನಿಸಿ.\n\n(%@)";
+
+"Not authorized" = "ಅಧಿಕೃತವಾಗಿಲ್ಲ";
+
+"Image conversion failed" = "ಚಿತ್ರ ಪರಿವರ್ತನೆ ವಿಫಲವಾಗಿದೆ";
+

@@ -1,0 +1,94 @@
+"You have made too many attempts. Please try again later." = "Masyado ka nang maraming kahilingan. Pakisubukan ulit mamaya.";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "Nagpadala kami ng email sa %@. I-click ang link sa loob para magsimula.";
+
+"There was a problem verifying the code. %@" = "Nagkaproblema sa pag-verify ng code. %@";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Sa pag-click ng \"Magpatuloy,\" sumasang-ayon ka sa aming [Mga Tuntunin](https://openai.com/policies/terms-of-use) at kinikilala ang aming [Patakaran sa Privacy](https://openai.com/policies/privacy-policy) at ang [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum) nito.";
+
+"Birthday" = "Kaarawan";
+
+"Open Mail App" = "Buksan ang Mail App";
+
+"Email resent!" = "Ipinadala ulit ang email!";
+
+"Resend email" = "Ipadala ulit ang email";
+
+"Sorry, we aren't able to create your account" = "Paumanhin, hindi namin magawa ang account mo";
+
+"Phone number" = "Numero ng telepono";
+
+"Verify your email" = "I-verify ang email mo";
+
+"error" = "error";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Sa pag-click ng \"Magpatuloy,\" kinukumpirma mong may pahintulot ka ng magulang o tagapag-alaga na gumamit ng ChatGPT, sumasang-ayon sa aming [Mga Tuntunin](https://openai.com/policies/terms-of-use) at kinikilala ang aming [Patakaran sa Privacy](https://openai.com/policies/privacy-policy).";
+
+"Please choose a valid date for your birthday." = "Pumili ng valid na petsa para sa kaarawan mo.";
+
+"Please check your internet connection and retry." = "I-check ang iyong koneksyon sa internet at subukan ulit.";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "Nagkaproblema. Paki-restart ang app, o mag-sign out at subukan ulit.";
+
+"Something went wrong. Sign out and try again." = "Nagkaproblema. Mag-sign out at subukan ulit.";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Nagkaproblema. Nagawa na ang account pero hindi ma-refresh. Mag-sign out at mag-sign in ulit.";
+
+"Please provide a phone number for verification." = "Magbigay ng numero ng telepono para sa beripikasyon.";
+
+"Verify you're human" = "I-verify na tao ka";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Sa pag-click ng \"Magpatuloy,\" kinukumpirma mong may pahintulot ka ng magulang o tagapag-alaga na gumamit ng ChatGPT, sumasang-ayon sa aming [Mga Tuntunin](https://openai.com/policies/terms-of-use) at kinikilala ang aming [Patakaran sa Privacy](https://openai.com/policies/privacy-policy) at ang [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum) nito.";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Sa pag-click ng \"Magpatuloy,\" sumasang-ayon ka sa aming [Mga Tuntunin](https://openai.com/policies/terms-of-use) at kinikilala ang aming [Patakaran sa Privacy](https://openai.com/policies/privacy-policy).";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "Hindi makuha ang kinakailangang impormasyon. I-check ang iyong koneksyon sa internet at i-restart ang app. (%@)";
+
+"There was a problem, please try again. (%@)" = "Nagkaproblema, pakisubukan ulit. (%@)";
+
+"Your email is not yet verified. Please check your email inbox." = "Hindi pa beripikado ang email mo. Pakitingnan ang iyong email inbox.";
+
+"Enter the code we just sent to your number ending in **%@" = "Ilagay ang ipinadala naming code sa iyong numero na nagtatapos sa **%@";
+
+"There was a problem, please try again." = "Nagkaproblema, pakisubukan ulit.";
+
+"Code" = "Code";
+
+"Verify phone number" = "I-verify ang numero ng telepono";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Nagkaproblema sa iyong koneksyon sa internet. Pakisubukan ulit. (%lld)";
+
+"There was a problem verifying your phone number. %@" = "Nagkaproblema sa pag-verify ng iyong numero ng telepono. %@";
+
+"Failed to load required information." = "Hindi ma-load ang kinakailangang impormasyon.";
+
+"Something went wrong. Please try again." = "Nagkaproblema. Pakisubukan ulit mamaya.";
+
+"Please solve this puzzle so we know you're a person." = "I-solve ang puzzle na ito para malaman namin isa kang tao.";
+
+"Area code" = "Area code";
+
+"Select your Birthday" = "Piliin ang Kaarawan mo";
+
+"Last name" = "Apelyido";
+
+"I've verified my email" = "Na-verify ko ang aking email";
+
+"First name" = "Pangalan";
+
+"Select your area code" = "Piliin ang area code mo";
+
+"Your account could not be created. Please try again. %@" = "Hindi magawa ang iyong account. Pakisubukan ulit. %@";
+
+"Continue" = "Magpatuloy";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "Hindi makuha ang mga bansa. I-check ang iyong koneksyon sa internet at i-restart ang app. %@";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "Hindi namin magagawa ang account mo dahil sa aming [Mga Tuntunin ng Paggamit](https://openai.com/policies/terms-of-use).";
+
+"Resend code" = "Ipadala ulit ang code";
+
+"Tell us about you." = "Sabihin sa amin ang tungkol sa sarili mo.";
+
+"Finish creating your OpenAI account" = "Tapusin ang paggawa ng OpenAI account mo";
+

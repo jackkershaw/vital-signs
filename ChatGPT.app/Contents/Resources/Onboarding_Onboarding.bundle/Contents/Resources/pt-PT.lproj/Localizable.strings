@@ -1,0 +1,96 @@
+"Select your area code" = "Selecione o seu indicativo";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "Enviámos um e-mail para %@. \nClique na ligação no interior para começar.";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "Não foi possível pesquisar as informações necessárias. Verifique a ligação à internet e reinicie a app. (%@)";
+
+"Something went wrong. Please try again." = "Algo correu mal. Tente novamente.";
+
+"Please check your internet connection and retry." = "Verifique a sua ligação à internet e tente novamente.";
+
+"Tell us about you." = "Fale-nos de si.";
+
+"There was a problem verifying your phone number. %@" = "Ocorreu um problema ao verificar o seu número de telefone. %@";
+
+"Verify phone number" = "Verifique o número de telefone";
+
+"There was a problem, please try again." = "Ocorreu um problema, tente novamente.";
+
+"Please choose a valid date for your birthday." = "Escolha uma data válida para o seu aniversário.";
+
+"Open Mail App" = "Abrir a app de e-mail";
+
+"Last name" = "Apelido";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "Algo correu mal. Reinicie a app ou termine sessão e tente novamente.";
+
+"Your email is not yet verified. Please check your email inbox." = "O seu e-mail ainda não foi verificado. Verifique a sua caixa de e-mail.";
+
+"Please solve this puzzle so we know you're a person." = "Resolva este puzzle para sabermos que é uma pessoa.";
+
+"Please provide a phone number for verification." = "Disponibilize um número de telefone para verificação.";
+
+"Continue" = "Continuar";
+
+"Resend email" = "Reenviar e-mail";
+
+"Enter the code we just sent to your number ending in **%@" = "Introduza o código que enviámos para o seu número terminado em **%@";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Ocorreu um problema com a sua ligação à internet. Tente novamente. (%lld)";
+
+"Sorry, we aren't able to create your account" = "Pedimos desculpa, não foi possível criar a sua conta";
+
+"Area code" = "Indicativo";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Ao clicar em \"Continuar\", concorda com os nossos [Termos](https://openai.com/policies/terms-of-use) e reconhece a nossa [Política de privacidade](https://openai.com/policies/privacy-policy) e a [adenda para a Coreia](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"There was a problem, please try again. (%@)" = "Ocorreu um problema, tente novamente. (%@)";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "Não foi possível pesquisar países. Verifique a ligação à internet e reinicie a app.%@";
+
+"There was a problem verifying the code. %@" = "Ocorreu um problema ao verificar o código. %@";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "Para obter ajuda, consulte o [guia de verificação de telefone](https://help.openai.com/articles/6613520-phone-verification).";
+
+"Finish creating your OpenAI account" = "Concluir a criação da sua conta OpenAI";
+
+"First name" = "Nome";
+
+"Resend code" = "Reenviar código";
+
+"error" = "erro";
+
+"I've verified my email" = "Verifiquei o meu e-mail";
+
+"Birthday" = "Aniversário";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "Não podemos criar a sua conta devido aos nossos [Termos de utilização](https://openai.com/policies/terms-of-use).";
+
+"Verify your email" = "Verifique o seu e-mail";
+
+"Code" = "Código";
+
+"Select your Birthday" = "Selecione o seu aniversário";
+
+"Phone number" = "Número de telefone";
+
+"Failed to load required information." = "Falha ao carregar a informação necessária.";
+
+"Your account could not be created. Please try again. %@" = "Não foi possível criar a sua conta. Tente novamente. %@";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Ao clicar em \"Continuar\", confirma que tem autorização parental ou de um tutor para utilizar o ChatGPT, concorda com os nossos [Termos](https://openai.com/policies/terms-of-use) e reconhece a nossa [Política de privacidade](https://openai.com/policies/privacy-policy).";
+
+"Verify you're human" = "Verifique que é humano";
+
+"Something went wrong. Sign out and try again." = "Algo correu mal. Termine sessão e tente novamente.";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Algo correu mal. A conta já foi criada, mas não foi possível atualizá-la. Termine sessão e inicie sessão novamente.";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Ao clicar em \"Continuar\", confirma que tem autorização parental ou de um tutor para utilizar o ChatGPT, concorda com os nossos [Termos](https://openai.com/policies/terms-of-use) e reconhece a nossa [Política de privacidade](https://openai.com/policies/privacy-policy) e a [adenda para a Coreia](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"You have made too many attempts. Please try again later." = "Fez demasiadas tentativas. Tente novamente mais tarde.";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Ao clicar em \"Continuar\", concorda com os nossos [Termos](https://openai.com/policies/terms-of-use) e reconhece a nossa [Política de privacidade](https://openai.com/policies/privacy-policy).";
+
+"Email resent!" = "E-mail reenviado!";
+

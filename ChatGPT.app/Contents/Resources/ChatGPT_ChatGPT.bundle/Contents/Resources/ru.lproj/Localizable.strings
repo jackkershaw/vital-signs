@@ -1,0 +1,16 @@
+"Did not receive a response from ChatGPT. Please try again." = "Вы не получили ответ от ChatGPT. Попробуйте еще раз.";
+
+"Received an empty response from ChatGPT. Please try again." = "Вы получили пустой ответ от ChatGPT. Попробуйте еще раз.";
+
+"You do not have access to the Desktop app yet. You can still use ChatGPT at %@" = "У вас пока нет доступа к настольному приложению. Вы по-прежнему можете использовать ChatGPT на %@";
+
+"You do not have access to this app yet. You can still use ChatGPT at %@" = "У вас пока нет доступа к этому приложению. Вы по-прежнему можете использовать ChatGPT на %@";
+
+"You are logged out. Please open the ChatGPT app to log in." = "Вы вышли из системы. Откройте приложение ChatGPT, чтобы войти.";
+
+"Your most recent request failed. Please try again." = "Ваш последний запрос не прошел. Попробуйте еще раз.";
+
+"You do not have access to this app yet!" = "У вас еще нет доступа к этому приложению!";
+
+"Can't determine the right ChatGPT model to use. Please try again." = "Не удается определить подходящую модель ChatGPT для использования. Попробуйте еще раз.";
+

@@ -1,0 +1,26 @@
+"Shared Link Date" = "Date du lien partagé";
+
+"Failed to determine model." = "Impossible de déterminer le modèle.";
+
+"Continue" = "Continuer";
+
+"Shared Link Title" = "Titre du lien partagé";
+
+"Shared conversation is invalid." = "La conversation partagée n’est pas valide.";
+
+"This conversation may reflect the link creator’s custom instructions, which aren’t shared and can meaningfully change how the model responds." = "Cette conversation est susceptible de refléter les instructions personnalisées du créateur du lien, qui ne sont pas partagées et peuvent modifier de manière significative la manière dont le modèle répond.";
+
+"Report" = "Signaler";
+
+"Shared Link Owner" = "Propriétaire du lien partagé";
+
+"The shared conversation does not exist." = "La conversation partagée n’existe pas.";
+
+"Menu" = "Menu";
+
+"Shared conversation" = "Conversation partagée";
+
+"Help and FAQ" = "Aide et FAQ";
+
+"Failed to load shared conversation." = "Impossible de charger la conversation partagée.";
+

@@ -1,0 +1,40 @@
+"Clear Memory" = "Pastro kujtesën";
+
+"Error deleting memory" = "Gabim gjatë fshirjes së kujtesës";
+
+"Are you sure?" = "A je i sigurt?";
+
+"Clear this GPT's memory" = "Pastro kujtesën e këtij GPT-je";
+
+"Error loading GPTs" = "Gabim gjatë ngarkimit të GPT-ve";
+
+"Memory" = "Kujtesa";
+
+"Error loading memories" = "Gabim gjatë ngarkimit të kujtimeve";
+
+"%@'s memories" = "kujtimet e %@";
+
+"Open menu to select which GPT to show memories for" = "Hap menynë për të zgjedhur se për cilën GPT do të shfaqen kujtimet";
+
+"Select a GPT" = "Zgjidh një GPT";
+
+"Clear ChatGPT’s memory" = "Pastro kujtesën e ChatGPT-së";
+
+"Turn On" = "Aktivizo";
+
+"%@ will forget everything it has remembered from your chats. This cannot be undone." = "%@ do të harrojë gjithçka që mban mend nga bisedat e tua. Kjo s’mund të zhbëhet.";
+
+"No memories" = "Nuk ka kujtime";
+
+"As you chat with %@, the details and preferences it remembers will be shown here." = "Teksa bisedon me %@, detajet dhe preferencat që mban mend do të shfaqen këtu.";
+
+"Learn More" = "Mëso më shumë";
+
+"Search memories" = "Kërko kujtime";
+
+"Memory is disabled" = "Kujtesa është e çaktivizuar";
+
+"Could not reset memory. Please try again later." = "Memoria nuk mund të rivendosej. Provo përsëri më vonë.";
+
+"%@ won't use or create memories" = "%@ nuk do të përdorë apo krijojë kujtime";
+

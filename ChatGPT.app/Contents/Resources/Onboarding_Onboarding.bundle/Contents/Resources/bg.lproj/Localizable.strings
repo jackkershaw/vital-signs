@@ -1,0 +1,96 @@
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "За помощ, моля, вижте [ръководството за потвърждаване на телефон](https://help.openai.com/articles/6613520-phone-verification).";
+
+"Please provide a phone number for verification." = "Моля, предоставете телефонен номер за проверка.";
+
+"You have made too many attempts. Please try again later." = "Направихте твърде много опити. Моля, опитайте отново по-късно.";
+
+"Tell us about you." = "Разкажете ни за вас.";
+
+"There was a problem verifying the code. %@" = "Възникна проблем при проверката на кода. %@";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Когато щракнете върху „Продължете“, вие се съгласявате с нашите [Условия](https://openai.com/policies/terms-of-use) и потвърждавате нашата [Политика за защита на личните данни](https://openai.com/policies/privacy-policy).";
+
+"There was a problem verifying your phone number. %@" = "Възникна проблем при потвърждаването на телефонния ви номер. %@";
+
+"Select your Birthday" = "Изберете своя рожден ден";
+
+"Code" = "Код";
+
+"Enter the code we just sent to your number ending in **%@" = "Въведете кода, който току-що изпратихме на вашия номер, завършващ на **%@";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Когато щракнете върху „Продължете“, вие се съгласявате с нашите [Условия](https://openai.com/policies/terms-of-use) и потвърждавате съгласието си с нашата [Политика за защита на личните данни](https://openai.com/policies/privacy-policy) и [Допълнението за Корея](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Select your area code" = "Изберете вашия регионален код";
+
+"Finish creating your OpenAI account" = "Завършете създаването на своя OpenAI акаунт";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "Необходимата информация не може да се извлече. Проверете интернет връзката и рестартирайте този ап. (%@)";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Имаше проблем с интернет връзката ви. Моля, опитайте отново. (%lld)";
+
+"error" = "грешка";
+
+"There was a problem, please try again." = "Възникна проблем, моля опитайте отново.";
+
+"Verify your email" = "Потвърдете своя имейл";
+
+"Please choose a valid date for your birthday." = "Моля, изберете валидна дата за вашия рожден ден.";
+
+"Your email is not yet verified. Please check your email inbox." = "Вашият имейл все още не е потвърден. Моля, проверете входящата си поща.";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "Информацията за държавите не може да се извлече. Проверете интернет връзката и рестартирайте този ап. %@";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Когато щракнете върху „Продължете“, вие потвърждавате, че имате съгласието на родител или настойник да използвате ChatGPT, приемате нашите [Условия](https://openai.com/policies/terms-of-use) и потвърждавате нашата [Политика за защита на личните данни](https://openai.com/policies/privacy-policy) и нейното [Допълнение за Корея](https://openai.com/policies/kr-privacy-policy-addendum).";
+
+"Resend code" = "Код за препращане";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "Не можем да създадем ваш акаунт поради нашите [Условия за ползване](https://openai.com/policies/terms-of-use).";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "Изпратихме имейл на %@.\nКликнете върху връзката в имейла, за да започнете.";
+
+"Phone number" = "Телефонен номер";
+
+"Sorry, we aren't able to create your account" = "За съжаление не можем да създадем ваш акаунт";
+
+"I've verified my email" = "Потвърдих имейла си";
+
+"Something went wrong. Sign out and try again." = "Нещо се обърка. Излезте и опитайте отново.";
+
+"Last name" = "Фамилия";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "Нещо се обърка. Моля, рестартирайте този ап или излезте и опитайте отново.";
+
+"There was a problem, please try again. (%@)" = "Възникна проблем, моля опитайте отново. (%@)";
+
+"Open Mail App" = "Отваряне на ап за поща";
+
+"Area code" = "Код на населеното място";
+
+"Please solve this puzzle so we know you're a person." = "Решете тази загадка, за да сме сигурни, че сте човек.";
+
+"Verify phone number" = "Потвърдете телефонния номер";
+
+"Please check your internet connection and retry." = "Моля, проверете вашата интернет връзка и опитайте отново.";
+
+"Resend email" = "Изпратете отново имейла";
+
+"Verify you're human" = "Потвърдете, че сте човек";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Нещо се обърка. Акаунтът вече е създаден, но не може да бъде обновен. Моля, излезте и влезте отново.";
+
+"First name" = "Собствено име";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Когато щракнете върху „Продължете“, вие потвърждавате, че имате съгласието на родител или настойник да използвате ChatGPT, приемате нашите [Условия](https://openai.com/policies/terms-of-use) и потвърждавате нашата [Политика за защита на личните данни](https://openai.com/policies/privacy-policy).";
+
+"Email resent!" = "Повторно изпращане на имейл!";
+
+"Failed to load required information." = "Неуспешно зареждане на необходимата информация.";
+
+"Birthday" = "Рожден ден";
+
+"Continue" = "Продължете";
+
+"Something went wrong. Please try again." = "Нещо се обърка. Моля, опитайте отново.";
+
+"Your account could not be created. Please try again. %@" = "Вашият акаунт не можа да бъде създаден. Моля, опитайте отново. %@";
+

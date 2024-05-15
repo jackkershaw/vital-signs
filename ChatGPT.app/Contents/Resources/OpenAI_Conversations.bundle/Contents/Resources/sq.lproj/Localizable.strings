@@ -1,0 +1,124 @@
+"Error browsing" = "Gabim në shfletim";
+
+"Unsupported content" = "Përmbajtje e pambështetur";
+
+"Invalid citation" = "Citim i pavlefshëm";
+
+"Visited the web" = "Vizitoi uebin";
+
+"Stopped" = "Ndaloi";
+
+"Talking to %@" = "Duke folur me %@";
+
+"Stopped talking to site" = "Ndaloi së foluri me faqen";
+
+"Stopped browsing" = "Ndaloi shfletimin";
+
+"Finished analyzing" = "Analizimi përfundoi";
+
+"Talked to %@" = "Foli me %@";
+
+"Creating image" = "Duke krijuar imazh";
+
+"site" = "faqe";
+
+"Visiting %@" = "Duke vizituar %@";
+
+"Stopped researching" = "I ndaloi kërkimet";
+
+"Error researching" = "Gabim gjatë kërkimit";
+
+"Analyzing" = "Duke analizuar";
+
+"Searching “%@”" = "Duke kërkuar “%@”";
+
+"Unable to find citation ID" = "ID-ja e citimit nuk mund të gjendet";
+
+"You declined this action" = "E refuzove këtë veprim";
+
+"Archive" = "Arkivo";
+
+"an external site" = "një faqe të jashtme";
+
+"Read document" = "Lexo dokumentin";
+
+"Starting action" = "Duke filluar veprimin";
+
+"Stopped reading document" = "E ndaloi leximin e dokumentit";
+
+"Reading document" = "Duke lexuar dokumentin";
+
+"Unable to generate URL" = "URL-ja nuk mund të gjenerohet";
+
+"Any created memories will be retained." = "Çdo kujtim i krijuar do të ruhet.";
+
+"Read %@" = "Lexo %@";
+
+"Stopped creating image" = "E ndaloi krijimin e imazhit";
+
+"Search stopped" = "Kërkimi ndaloi";
+
+"Error creating images" = "Gabim në krijimin e imazheve";
+
+"Making a research plan" = "Duke bërë një plan kërkimi";
+
+"This can't be undone." = "Kjo nuk mund të zhbëhet.";
+
+"Creating %lld images…" = "Duke krijuar %lld imazhe...";
+
+"Reading documents" = "Duke lexuar dokumentet";
+
+"Unable to find metadata" = "Nuk mund të gjenden meta të dhënat";
+
+"Searching" = "Duke kërkuar";
+
+"Stopped analyzing" = "Ndaloi analizimin";
+
+"Delete Chat" = "Fshi bisedën";
+
+"Creating 1 image…" = "Po krijohet 1 imazh…";
+
+"Error creating image" = "Gabim në krijimin e imazhit";
+
+"Are you sure you want to archive this chat?\nYou can view archived chats in Settings" = "Je i sigurt që dëshiron ta arkivosh këtë bisedë?\nMund të shikoni bisedat e arkivuara te \"Cilësimet\".";
+
+"Searched %lld sites" = "Searched %lld sites";
+
+"Error reading document" = "Gabim gjatë leximit të dokumentit";
+
+"Doing research with Bing" = "Bërja e kërkimit me Bing";
+
+"Visited %lld sites" = "Vizitoi%lld sajte";
+
+"Searched 1 site" = "Searched 1 site";
+
+"Writing prompts…" = "Duke shkruar kërkesa…";
+
+"Error talking to %@" = "Gabim në bisedën me %@";
+
+"Read %lld documents" = "Lexo %lld dokumente";
+
+"Browsing %@" = "Duke shfletuar %@";
+
+"Error analyzing" = "Gabim në analizim";
+
+"Archive Chat" = "Arkivo bisedën";
+
+"Search failed" = "Kërkimi dështoi";
+
+"Reading %@" = "Duke lexuar %@";
+
+"Stopped talking to %@" = "Ndaloi së foluri me %@";
+
+"Read documents" = "Lexo dokumentet";
+
+"Visited %@" = "Vizitoi %@";
+
+"Stopped reading documents" = "E ndaloi leximin e dokumenteve";
+
+"Research complete" = "Hulumtimi ka përfunduar";
+
+"Error reading documents" = "Gabim në leximin e dokumenteve";
+
+"System error" = "Gabim sistemi";
+

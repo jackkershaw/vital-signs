@@ -1,0 +1,170 @@
+"Save to Photos" = "Фотосуреттерге сақтау";
+
+"Tap to connect" = "Қосылу үшін түртіңіз";
+
+"Flip camera to the front" = "Камераны алдына ауыстырыңыз";
+
+"Click to send manually" = "Қолмен жіберу үшін басыңыз";
+
+"Unable to send response. Please try again." = "Жауап жіберу мүмкін емес. Қайталап көріңіз.";
+
+"Speak now" = "Сөйлеңіз";
+
+"Connected" = "Қосылды";
+
+"Go forward 15 seconds" = "15 секунд алға";
+
+"%lld." = "%lld.";
+
+"Idle" = "Әрекетсіз";
+
+"Tap to send manually" = "Қолмен жіберу үшін түртіңіз";
+
+"Voice chat ended" = "Дауыстық чат аяқталды";
+
+"Connect" = "Қосу";
+
+"Grace Period for %@s" = "Рұқсат етілген кешігу %@ сек";
+
+"See more information about voice research" = "Дауыс зерттеуі туралы қосымша ақпаратты көру";
+
+"Other" = "Басқа";
+
+"Start speaking" = "Сөйлей бастау";
+
+"Enable microphone access in Settings" = "Параметрлерде микрофонды пайдалануға рұқсат беріңіз";
+
+"Listening intently" = "Мұқият тыңдап тұр";
+
+"Submit feedback" = "Пікір жіберу";
+
+"Click to activate" = "Іске қосу үшін басыңыз";
+
+"Tap to cancel" = "Бас тарту үшін түртіңіз";
+
+"Connection failed, tap to retry" = "Қосылмады, қайталау үшін түртіңіз";
+
+"Thank you!" = "Рақмет!";
+
+"Take picture" = "Суретке түсіру";
+
+"You chose to share your audio from voice chats to improve and train our models. This includes audio from your microphone when the model is thinking or speaking. You can stop sharing in settings." = "Үлгілерімізді жақсарту және үйрету үшін дауыстық чаттарыңыздағы аудионы бөлісуді таңдадыңыз. Бұған үлгі ойланып немесе сөйлеп жатқан кездегі микрофоныңыздан шығатын аудио кіреді. Бөлісуді параметрлерде тоқтатуға болады.";
+
+"Select all that apply" = "Сәйкес келетіннің барлығын белгілеңіз";
+
+"Click to interrupt" = "Үзу үшін басыңыз";
+
+"Close" = "Жабу";
+
+"Connecting" = "Қосылуда";
+
+"Voice feedback: give thumbs up" = "Дауыстық пікір: жоғары қараған бас бармақпен бағалау";
+
+"Flip camera to the rear" = "Камераны артына ауыстырыңыз";
+
+"Choose a voice" = "Дауыс таңдаңыз";
+
+"It interrupted me" = "Маған кедергі келтірді";
+
+"Voice chat ended after " = "Дауыстық чат мынадан кейін аяқталды:";
+
+"Hold for manual control" = "Қолмен басқару үшін басып тұрыңыз";
+
+"Helping improve voice" = "Дауысты жақсартуға көмектесуде";
+
+"Excellent" = "Керемет";
+
+"Lost" = "Жоғалды";
+
+"Stop listening" = "Тыңдауды тоқтату";
+
+"Unable to review action" = "Әрекетті тексеру мүмкін емес";
+
+"Listening" = "Тыңдап тұр";
+
+"Release to send" = "Жіберу үшін босатыңыз";
+
+"Pick photo" = "Сурет таңдау";
+
+"Speaking" = "Сөйлеуде";
+
+"On for training" = "Үйрету үшін қосылды";
+
+"Voice feedback: give thumbs down" = "Дауыстық пікір: төмен қараған бас бармақпен бағалау";
+
+"Click to cancel" = "Бас тарту үшін басыңыз";
+
+"Restart" = "Қайта бастау";
+
+"Connecting." = "Қосылуда.";
+
+"Select %@" = "%@ таңдау";
+
+"Error: '%@'" = "Қате: %@";
+
+"Voice mode" = "Дауыстық режим";
+
+"Play" = "Ойнату";
+
+"Connection failed, click to retry" = "Қосылмады, қайталау үшін басыңыз";
+
+"Resume listening" = "Тыңдауды жалғастыру";
+
+"Unknown" = "Белгісіз";
+
+"Tap to dismiss" = "Жабу үшін түртіңіз";
+
+"Paused" = "Уақытша тоқтатылды";
+
+"I didn’t like the responses" = "Маған жауаптар ұнамады";
+
+"Good" = "Жақсы";
+
+"Audio issues" = "Дыбысқа қатысты мәселелер";
+
+"Poor connection" = "Байланыс сапасы нашар";
+
+"Go backward 15 seconds" = "15 секунд артқа";
+
+"Click to connect" = "Қосылу үшін басыңыз";
+
+"•" = "•";
+
+"%lldms" = "%lldмсек";
+
+"Poor" = "Нашар";
+
+"Close camera" = "Камераны жабу";
+
+"Tap to interrupt" = "Үзу үшін түртіңіз";
+
+"Unselect %@" = "%@ таңдаудан бас тарту";
+
+"Failed to connect" = "Қосылу мүмкін болмады";
+
+"Thinking" = "Ойлануда";
+
+"Open camera" = "Камераны ашу";
+
+"Unknown error" = "Белгісіз қате";
+
+"What went wrong?" = "Несі дұрыс болмады?";
+
+"It misheard me" = "Мені дұрыс естімеді";
+
+"Tap to activate" = "Іске қосу үшін түртіңіз";
+
+"Connecting.." = "Қосылуда…";
+
+"Speak to keep active" = "Белсенділігін сақтау үшін сөйлеңіз";
+
+"Learn more" = "Көбірек білу";
+
+"You can change this later." = "Мұны кейінірек өзгертуге болады.";
+
+"Finish speaking to send" = "Жіберу үшін сөйлеуді аяқтаңыз";
+
+"Pause" = "Уақытша тоқтату";
+
+"Halted" = "Тоқтатылды";
+

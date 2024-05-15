@@ -1,0 +1,52 @@
+"No actions are available for this GPT" = "Няма налични действия за този GPT";
+
+"Please try again later.\n\n(%@)" = "Моля, опитайте отново по-късно.\n\n(%@)";
+
+"This chat uses an older version of your custom instructions." = "Този чат използва по-стара версия на инструкциите по ваш избор.";
+
+"Capabilities" = "Възможности";
+
+"Report GPT" = "Докладвайте GPT";
+
+"No connected accounts are available for this GPT." = "Няма налични свързани акаунти за този GPT.";
+
+"Always" = "Винаги";
+
+"None" = "Нито един";
+
+"Error loading connected accounts.\n\n(%@)" = "Грешка при зареждането на свързани акаунти.\n\n(%@)";
+
+"Model Info" = "Информация за модела";
+
+"Actions" = "Действия";
+
+"Ask" = "Попитайте";
+
+"Manage which 3rd-party accounts can be accessed by %@." = "Управлявайте кои акаунти на трети страни могат да бъдат достъпни от %@.";
+
+"Report" = "Докладвайте";
+
+"Failed to update setting, retry?" = "Неуспешно актуализиране на настройката, опитайте отново?";
+
+"Select which websites are allowed to see data from conversations with %@." = "Изберете кои уебсайтове могат да виждат данни от разговори с %@.";
+
+"Privacy Policy" = "Политика за защита на личните данни";
+
+"Custom instructions" = "Инструкции по ваш избор";
+
+"Confirm Logout" = "Потвърдете излизане";
+
+"Are you sure you want to log out of %@?" = "Сигурен(на) ли сте, че искате да излезете от %@?";
+
+"Accounts" = "Акаунти";
+
+"Privacy & Safety" = "Защита на личните данни и безопасност";
+
+"Description" = "Описание";
+
+"Error loading action settings" = "Грешка при зареждане на настройките за действие";
+
+"Connected Accounts" = "Свързани акаунти";
+
+"Report Conversation" = "Докладване на разговор";
+

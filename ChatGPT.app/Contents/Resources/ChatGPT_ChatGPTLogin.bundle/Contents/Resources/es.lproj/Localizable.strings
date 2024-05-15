@@ -1,0 +1,70 @@
+"Let’s collaborate" = "Colaboremos";
+
+"Failed to validate id token." = "Error al validar el token de identificación.";
+
+"Sign in failed" = "Error al iniciar sesión";
+
+"Let’s discover" = "Descubramos algo";
+
+"PKCE not allowed." = "PKCE no permitido.";
+
+"Terms of Use" = "Condiciones de uso";
+
+"Privacy Policy" = "Política de privacidad";
+
+"Let’s go" = "Vamos";
+
+"Renew failed." = "Error al renovar.";
+
+"Request cancelled." = "Solicitud cancelada.";
+
+"Sign up with email" = "Registrarse con correo electrónico";
+
+"No sign in info found. Please sign in." = "No se ha encontrado información para iniciar sesión. Inicia sesión.";
+
+"Continue with Google" = "Continuar con Google";
+
+"Let’s explore" = "Exploremos";
+
+"Store failed." = "Error al guardar.";
+
+"Let’s chit-chat" = "Charlemos un poco";
+
+"There is a problem with the server. Please try again later." = "Hay un problema con el servidor. Vuelve a intentarlo más tarde.";
+
+"Unknown other error." = "Otro error desconocido.";
+
+"Let’s invent" = "Inventemos algo";
+
+"Let’s create" = "Creemos algo";
+
+"Let’s brainstorm" = "Hagamos una lluvia de ideas";
+
+"Unknown error." = "Error desconocido.";
+
+"Something went wrong." = "Algo ha salido mal.";
+
+"Missing bundle id." = "Falta el identificador del paquete.";
+
+"Sign in request was cancelled." = "Se ha cancelado la solicitud de inicio de sesión.";
+
+"Something went wrong. Please make sure your device date and time is correct, and that 'Set Automatically' is toggled on under 'Settings → General → Date & Time'." = "Algo ha salido mal. Asegúrate de que la fecha y la hora de tu dispositivo son correctas y de que la opción «Ajustar automáticamente» está activada en «Configuración → General → Fecha y hora».";
+
+"Let’s design" = "Diseñemos algo";
+
+"No refresh token found." = "No se ha encontrado ningún token de actualización.";
+
+"There was a problem contacting Apple servers. Please try again. (%lld)" = "Ha habido un problema al contactar con los servidores de Apple. Vuelve a intentarlo. (%lld)";
+
+"Invalid invite url." = "URL de invitación no válida.";
+
+"There was a problem clearing sign in info. Please try again." = "Ha habido un problema al procesar la información de inicio de sesión. Vuelve a intentarlo.";
+
+"There was a problem. Please restart the app." = "Ha habido un problema. Reinicia la aplicación.";
+
+"There was a problem saving sign in info. Please try again." = "Ha habido un problema al guardar la información de inicio de sesión. Vuelve a intentarlo.";
+
+"No authorization code found." = "No se ha encontrado ningún código de autorización.";
+
+"Revoke failed." = "Error al revocar.";
+

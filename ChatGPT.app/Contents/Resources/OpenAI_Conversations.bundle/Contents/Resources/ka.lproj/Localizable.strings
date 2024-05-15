@@ -1,0 +1,124 @@
+"Doing research with Bing" = "მოძიება Bing-ით";
+
+"Visiting %@" = "მონახულების პროცესშია %@";
+
+"Reading %@" = "%@ წაკითხვის პროცესშია";
+
+"Stopped analyzing" = "გაანალიზება შეწყდა";
+
+"Error creating images" = "შეცდომა სურათების შექმნისას";
+
+"Unable to generate URL" = "ვებ-მისამართის გენერირება ვერ ხერხდება";
+
+"You declined this action" = "თქვენ ამ ქმედებაზე უარი თქვით";
+
+"Unsupported content" = "მხარდაუჭერელი კონტენტი";
+
+"Any created memories will be retained." = "ყველა შექმნილი მეხსიერება შეინახება.";
+
+"Unable to find citation ID" = "ციტატის საიდენტიფიკაციო კოდის მოძებნა არ ხერხდება";
+
+"Error researching" = "შეცდომა მოძიებისას";
+
+"Archive Chat" = "ჩატის დაარქივება";
+
+"Invalid citation" = "არასწორი ციტატა";
+
+"Read document" = "წაიკითხე დოკუმენტი";
+
+"Searching “%@”" = "იძებნება „%@“";
+
+"Stopped researching" = "კვლევა შეწყდა";
+
+"Writing prompts…" = "მოთხოვნა იწერება…";
+
+"Error reading document" = "შეცდომა დოკუმენტის წაკითხვისას";
+
+"Error analyzing" = "შეცდომა გაანალიზებისას";
+
+"Error talking to %@" = "შეცდომა %@-თან საუბრისას";
+
+"Analyzing" = "აანალიზებს";
+
+"Creating image" = "იქმნება სურათი";
+
+"Stopped" = "შეწყდა";
+
+"Search stopped" = "ძებნა შეწყდა";
+
+"Read %lld documents" = "წაიკითხე %lld დოკუმენტი";
+
+"System error" = "სისტემური შეცდომა";
+
+"an external site" = "გარე ვებსაიტი";
+
+"Creating 1 image…" = "იქმნება 1 სურათი…";
+
+"Error browsing" = "შეცდომა ძებნისას";
+
+"Research complete" = "კვლევა დასრულებულია";
+
+"Search failed" = "ვერ მოიძებნა";
+
+"Starting action" = "ქმედება იწყება";
+
+"Stopped talking to site" = "ვებსაიტთან საუბარი შეწყდა";
+
+"Error reading documents" = "შეცდომა დოკუმენტების წაკითხვისას";
+
+"Stopped reading document" = "დოკუმენტის წაკითხვა შეწყდა";
+
+"Visited %@" = "მონახულებულია %@";
+
+"Creating %lld images…" = "იქმნება %lld სურათი…";
+
+"Finished analyzing" = "გაანალიზება დასრულდა";
+
+"Stopped browsing" = "ძებნა შეწყდა";
+
+"This can't be undone." = "ამ მოქმედების გაუქმება ვეღარ მოხერხდება.";
+
+"Browsing %@" = "%@ ძებნის პროცესშია";
+
+"Read %@" = "წაიკითხე %@";
+
+"Visited %lld sites" = "მონახულებულია %lld ვებსაიტი";
+
+"Unable to find metadata" = "მეტამონაცემების მოძებნა ვერ ხერხდება";
+
+"Searched %lld sites" = "Searched %lld sites";
+
+"Reading document" = "მიმდინარეობს დოკუმენტის წაკითხვა";
+
+"Talking to %@" = "საუბარი %@-თან";
+
+"Are you sure you want to archive this chat?\nYou can view archived chats in Settings" = "ნამდვილად გსურთ ამ ჩატის დაარქივება?\nდაარქივებული ჩატების ნახვა შესაძლებელია პარამეტრებში";
+
+"Searched 1 site" = "Searched 1 site";
+
+"Read documents" = "წაიკითხე დოკუმენტები";
+
+"Making a research plan" = "მიმდინარეობს კვლევის გეგმის შედგენა";
+
+"Searching" = "მიმდინარეობს ძიება";
+
+"Stopped creating image" = "სურათის შექმნა შეწყდა";
+
+"Stopped talking to %@" = "%@-თან საუბარი შეწყდა";
+
+"Stopped reading documents" = "დოკუმენტების წაკითხვა შეწყდა";
+
+"Talked to %@" = "საუბარი %@-თან";
+
+"site" = "ვებსაიტი";
+
+"Archive" = "დაარქივება";
+
+"Visited the web" = "მონახულებულია ვები";
+
+"Reading documents" = "მიმდინარეობს დოკუმენტების წაკითხვა";
+
+"Error creating image" = "შეცდომა სურათის შექმნისას";
+
+"Delete Chat" = "ჩატის წაშლა";
+

@@ -1,0 +1,18 @@
+/* Error message when intended ChatGPT model can't be determined */
+"Can't determine the right ChatGPT model to use. Please try again." = "Can't determine the right ChatGPT model to use. Please try again.";
+
+/* Error message when the user needs to retry a request */
+"Did not receive a response from ChatGPT. Please try again." = "Did not receive a response from ChatGPT. Please try again.";
+
+/* Error message when the ChatGPT service provides an unexpected response */
+"Received an empty response from ChatGPT. Please try again." = "Received an empty response from ChatGPT. Please try again.";
+
+/* Error message when the user is logged out of their account and needs to log in */
+"You are logged out. Please open the ChatGPT app to log in." = "You are logged out. Please open the ChatGPT app to log in.";
+
+/* Message shown to user when they can't access the app */
+"You do not have access to this app yet!" = "You do not have access to this app yet!";
+
+/* Error message when the user needs to retry a request */
+"Your most recent request failed. Please try again." = "Your most recent request failed. Please try again.";
+

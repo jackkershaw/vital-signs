@@ -1,0 +1,96 @@
+"There was a problem verifying your phone number. %@" = "Pri overovaní telefónneho čísla sa vyskytol problém. %@";
+
+"Birthday" = "Dátum narodenia";
+
+"Resend code" = "Znova poslať kód";
+
+"Something went wrong. Sign out and try again." = "Niekde sa stala chyba. Odhlás sa a skús to znova.";
+
+"Verify phone number" = "Overenie telefónneho čísla";
+
+"Finish creating your OpenAI account" = "Dokonči vytvorenie svojho účtu OpenAI";
+
+"Code" = "Kód";
+
+"Select your Birthday" = "Vyber svoj dátum narodenia";
+
+"There was a problem, please try again. (%@)" = "Vyskytol sa problém, skús to znova. (%@)";
+
+"Resend email" = "Znova poslať e-mail";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Kliknutím na Pokračovať potvrdzuješ, že máš súhlas rodiča alebo zákonného zástupcu s používaním služby ChatGPT, vyjadruješ súhlas s našimi [podmienkami](https://openai.com/policies/terms-of-use) a berieš na vedomie naše [zásady ochrany osobných údajov](https://openai.com/policies/privacy-policy).";
+
+"We can't create your account due to our [Terms of Use](https://openai.com/policies/terms-of-use)." = "Účet nemôžeme vytvoriť vzhľadom na naše [podmienky používania](https://openai.com/policies/terms-of-use).";
+
+"Your account could not be created. Please try again. %@" = "Účet nebolo možné vytvoriť. Skús to znova. %@";
+
+"I've verified my email" = "Svoj e-mail som overil/-a";
+
+"Continue" = "Pokračovať";
+
+"There was a problem verifying the code. %@" = "Pri overovaní kódu sa vyskytol problém. %@";
+
+"First name" = "Meno";
+
+"Please solve this puzzle so we know you're a person." = "Vyrieš túto hádanku, aby sme vedeli, že si človek.";
+
+"Verify your email" = "Overenie tvojho e-mailu";
+
+"Your email is not yet verified. Please check your email inbox." = "E-mail zatiaľ nebol overený. Skontroluj si e-mailovú schránku.";
+
+"Something went wrong. Please try again." = "Niekde sa stala chyba. Skús to znova.";
+
+"For help, please see the [phone verification guide](https://help.openai.com/articles/6613520-phone-verification)." = "Pomoc nájdeš v [návode na overenie telefónneho čísla](https://help.openai.com/articles/6613520-phone-verification).";
+
+"Required information could not be fetched. Please check your internet connection and restart the app. (%@)" = "Nepodarilo sa načítať požadované informácie. Skontroluj svoje internetové pripojenie a reštartuj aplikáciu. (%@)";
+
+"Something went wrong. Please restart the app, or sign out and try again." = "Niekde sa stala chyba. Reštartuj aplikáciu alebo sa odhlás a skús to znova.";
+
+"Last name" = "Priezvisko";
+
+"Something went wrong. The account has already been created but could not be refreshed. Please sign out and sign back in." = "Niekde sa stala chyba. Účet už bol vytvorený, ale nedá sa obnoviť. Odhlás sa a znova sa prihlás.";
+
+"Verify you're human" = "Overenie, či si človek";
+
+"Open Mail App" = "Otvoriť e-mailovú aplikáciu";
+
+"Email resent!" = "E-mail sa znova odoslal.";
+
+"Please check your internet connection and retry." = "Skontroluj svoje internetové pripojenie a skús to znova.";
+
+"Please choose a valid date for your birthday." = "Vyber platný dátum narodenia.";
+
+"You have made too many attempts. Please try again later." = "Vykonal/-a si príliš veľa pokusov. Skús to znova neskôr.";
+
+"Area code" = "Predvoľba";
+
+"There was a problem, please try again." = "Vyskytol sa problém, skús to znova.";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy)." = "Kliknutím na Pokračovať vyjadruješ súhlas s našimi [podmienkami](https://openai.com/policies/terms-of-use) a berieš na vedomie naše [zásady ochrany osobných údajov](https://openai.com/policies/privacy-policy).";
+
+"Enter the code we just sent to your number ending in **%@" = "Zadaj kód, ktorý sme ti práve poslali na číslo končiace sa na **%@";
+
+"Countries could not be fetched. Please check your internet connection and restart the app. %@" = "Nepodarilo sa načítať krajiny. Skontroluj svoje internetové pripojenie a reštartuj aplikáciu. %@";
+
+"error" = "chyba";
+
+"Tell us about you." = "Povedz nám o sebe.";
+
+"Select your area code" = "Vyber svoju predvoľbu";
+
+"Sorry, we aren't able to create your account" = "Ľutujeme, nemohli sme vytvoriť tvoj účet.";
+
+"Phone number" = "Telefónne číslo";
+
+"We sent an email to %@.\nClick on the link inside to get started." = "Poslali sme e-mail na adresu %@.\nAk chceš začať, klikni na odkaz, ktorý je v ňom uvedený.";
+
+"There was a problem with your internet connection. Please try again. (%lld)" = "Vyskytol sa problém s internetovým pripojením. Skús to znova. (%lld)";
+
+"By clicking \"Continue\", you agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Kliknutím na Pokračovať vyjadruješ súhlas s našimi [podmienkami](https://openai.com/policies/terms-of-use) a berieš na vedomie naše [zásady ochrany osobných údajov](https://openai.com/policies/privacy-policy), ako aj [kórejský dodatok](https://openai.com/policies/kr-privacy-policy-addendum) k nim.";
+
+"By clicking \"Continue\", you confirm that you have parental or guardian consent to use ChatGPT, agree to our [Terms](https://openai.com/policies/terms-of-use) and acknowledge our [Privacy Policy](https://openai.com/policies/privacy-policy) and its [Korea addendum](https://openai.com/policies/kr-privacy-policy-addendum)." = "Kliknutím na Pokračovať potvrdzuješ, že máš súhlas rodiča alebo zákonného zástupcu s používaním služby ChatGPT, vyjadruješ súhlas s našimi [podmienkami](https://openai.com/policies/terms-of-use) a berieš na vedomie naše [zásady ochrany osobných údajov](https://openai.com/policies/privacy-policy), ako aj [kórejský dodatok](https://openai.com/policies/kr-privacy-policy-addendum) k nim.";
+
+"Please provide a phone number for verification." = "Zadaj telefónne číslo na overenie.";
+
+"Failed to load required information." = "Nepodarilo sa načítať požadované informácie.";
+
