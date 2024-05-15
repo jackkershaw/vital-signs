@@ -196,6 +196,8 @@ From here it is very easy to create new posts, just click the “add new post”
 - Add a featured image - this is the image that will show on the homepage, as well as at the top of the article. Landscape images work best here. Make sure to add alt text, for accessibility reasons.
 - Add a PDF - If you want to add something as a pdf, you should add it as a post within Wordpress, making sure to set the category to the appropriate issue or leaflets, and then add PDF as a tag (this means it will display on the issues page). There is also now an area on the posts screen where you can upload PDFs. PDFs should be uploaded here rather than in the body of the post.
 
+![Add pdf ACF Dialog box](readme-images/pdf-acf.png)
+
 - Separate from the usual "posts" icon, you will find another called "pages". Inside this, you will find the about page.
 
 ![About page](readme-images/image-2.png)
