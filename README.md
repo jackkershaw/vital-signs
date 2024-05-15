@@ -4,7 +4,6 @@
 [Vercel Deploy](https://vercel.com/jones58s-projects/vital-signs/settings/domains)
 [Live site](https://www.vitalsignsmag.org/)
 [Are.na inspo here](https://www.are.na/jack-kershaw/vitalsigns)
-and [use this website built in nextjs as a guide](https://www.stylist.co.uk/)
 
 # Planning
 
