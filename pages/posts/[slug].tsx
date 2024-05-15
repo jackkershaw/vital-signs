@@ -80,10 +80,10 @@ export default function Post({ post, posts }) {
             <PostBody content={post.content} />
             {/* only show if pdf exists on page */}
             {post.pdf?.pdf?.node?.mediaItemUrl && (
-              <div className="-mt-14 -pt-14 mx-auto max-w-2xl pb-14">
-                <div className="flex flex-row justify-between ">
+              <div className=" mx-auto max-w-2xl pb-10">
+                <div className="flex flex-row justify-end">
                   <a
-                    className="text-customRed-800 hover:text-customRed-950 active:text-customRed-500 font-sans font-bold pb-8"
+                    className="text-customRed-800 hover:text-customRed-950 active:text-customRed-500 font-sans font-bold pb-4 text"
                     aria-label="link to view PDF full screen"
                     href={post.pdf.pdf.node.mediaItemUrl}
                     target="_blankl"
