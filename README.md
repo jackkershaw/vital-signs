@@ -159,6 +159,9 @@ const sentence = excerpt.split(/[.()]/)[0].trim().concat(".");
   - Displayed this as an embed, with an anchor tag to view the pdf full screen. Unfortunately, the download attribute doesn't work anymore for Chrome and Firefox on cross-origin requests, but a full screen view is usually more than sufficient. Social share icons for the articles will prove invaluable here.
   - Edited instructions for the client on how to upload PDF posts.
 
+- Set up on Google Search Console to allow indexing of the site and recording queries.
+- Activated CDN and caching on the Wordpress backend through SiteGround.
+
 # Running on your machine
 
 ## Run the Frontend (Next.js) in development mode:
