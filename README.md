@@ -161,6 +161,7 @@ const sentence = excerpt.split(/[.()]/)[0].trim().concat(".");
 
 - Set up on Google Search Console to allow indexing of the site and recording queries.
 - Activated CDN and caching on the Wordpress backend through SiteGround.
+- Edit Get all PDFs so it fetches all posts with the "Issues" category rather than the "PDFs" tag.
 
 # Running on your machine
 
@@ -197,7 +198,7 @@ From here it is very easy to create new posts, just click the “add new post”
 - Add an excerpt (this is one sentence about the article - can just be first line from the article – which will be displayed on the homepage). If more than one sentence is written, it will get clipped automatically to one sentence.
 - Add a category (make sure to just add one here, and make sure “uncategorized” is deselected)
 - Add a featured image - this is the image that will show on the homepage, as well as at the top of the article. Landscape images work best here. Make sure to add alt text, for accessibility reasons.
-- Add a PDF - If you want to add something as a pdf, you should add it as a post within Wordpress, making sure to set the category to the appropriate issue or leaflets, and then add PDF as a tag (this means it will display on the issues page). There is also now an area on the posts screen where you can upload PDFs. PDFs should be uploaded here rather than in the body of the post.
+- Add a PDF/Issue - If you want to add something as a pdf, you should add it as a post within Wordpress, making sure to set the category to the appropriate issue or leaflets, and then add Issues as the category (this means it will display on the issues page). There is also now an area on the posts screen where you can upload PDFs. PDFs should be uploaded here rather than in the body of the post.
 
 ![Add pdf ACF Dialog box](readme-images/pdf-acf.png)
 

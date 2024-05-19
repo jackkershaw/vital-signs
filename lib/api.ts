@@ -260,7 +260,7 @@ export async function getAllPDFs() {
   const data = await fetchAPI(
     `
     query AllPosts {
-      posts(first: 10000, where: { orderby: { field: DATE, order: DESC }, tag: "pdf"}) {
+      posts(first: 10000, where: { orderby: { field: DATE, order: DESC }, categoryName: "Issues" }) {
         edges {
           node {
             title
