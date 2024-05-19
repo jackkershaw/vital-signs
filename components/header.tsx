@@ -33,6 +33,7 @@ export default function Header() {
                 alt="logo"
                 fill
                 className="object-contain object-center"
+                sizes="(100vw, 100vh)"
               />
             </div>
           </Link>
