@@ -162,7 +162,6 @@ const sentence = excerpt.split(/[.()]/)[0].trim().concat(".");
 - Set up on Google Search Console to allow indexing of the site and recording queries.
 - Activated CDN and caching on the Wordpress backend through SiteGround.
 - Edit Get all PDFs so it fetches all posts with the "Issues" category rather than the "PDFs" tag.
-- One of the early testers for the website alerted me that PDFs weren't loading properly in the Samsung Internet Browser. I knew this was due to CORS, so I fixed this by enabling it in the Next.JS config file using [this guide](https://vercel.com/guides/how-to-enable-cors).
 
 # Running on your machine
 
