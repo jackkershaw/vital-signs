@@ -97,6 +97,11 @@ export default function Post({ post, posts }) {
                   height="800px"
                   url={post.pdf.pdf.node.mediaItemUrl}
                 />
+                <iframe
+                  src={post.pdf.pdf.node.mediaItemUrl}
+                  width="100%"
+                  height="800"
+                ></iframe>
               </div>
             )}
           </article>
