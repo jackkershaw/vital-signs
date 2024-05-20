@@ -91,12 +91,19 @@ export default function Post({ post, posts }) {
                     View Full Screen
                   </a>
                 </div>
-                <embed
-                  src={post.pdf.pdf.node.mediaItemUrl}
+                <object
+                  data={post.pdf.pdf.node.mediaItemUrl}
                   type="application/pdf"
                   width="100%"
-                  height="800px"
-                ></embed>
+                  height="600px"
+                >
+                  <embed
+                    src={post.pdf.pdf.node.mediaItemUrl}
+                    type="application/pdf"
+                    width="100%"
+                    height="800px"
+                  ></embed>
+                </object>
               </div>
             )}
           </article>

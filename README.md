@@ -162,8 +162,9 @@ const sentence = excerpt.split(/[.()]/)[0].trim().concat(".");
 - Set up on Google Search Console to allow indexing of the site and recording queries.
 - Activated CDN and caching on the Wordpress backend through SiteGround.
 - Edit Get all PDFs so it fetches all posts with the "Issues" category rather than the "PDFs" tag.
-
-# Running on your machine
+- The client noticed there was a problem updating/deleting posts on Wordpress and there being quite a big delay for this to update on the site. I tested this for myself and realised the issue could be fixed by triggering a site rebuild on Vercel. I fixed this by using WP Webhooks - a Wordpress plugin - and adding Vercel Deploy Hooks to trigger a rebuild when posts are created, updated or deleted on Wordpress. This provided a quick and easy way to trigger a site rebuild, without worrying about authentication or API routes.
+- Next I had an issue displaying PDFs on the Mobile site,
+  # Running on your machine
 
 ## Run the Frontend (Next.js) in development mode:
 
