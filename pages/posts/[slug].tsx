@@ -12,6 +12,7 @@ import {
   getPostAndMorePosts,
 } from "../../lib/api";
 import { useEffect } from "react";
+import { PDFObject } from "react-pdfobject";
 
 export default function Post({ post, posts }) {
   const router = useRouter();
@@ -91,19 +92,11 @@ export default function Post({ post, posts }) {
                     View Full Screen
                   </a>
                 </div>
-                <object
-                  data={post.pdf.pdf.node.mediaItemUrl}
-                  type="application/pdf"
+                <PDFObject
                   width="100%"
-                  height="600px"
-                >
-                  <embed
-                    src={post.pdf.pdf.node.mediaItemUrl}
-                    type="application/pdf"
-                    width="100%"
-                    height="800px"
-                  ></embed>
-                </object>
+                  height="800px"
+                  url={post.pdf.pdf.node.mediaItemUrl}
+                />
               </div>
             )}
           </article>

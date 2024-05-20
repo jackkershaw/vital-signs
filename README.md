@@ -163,8 +163,9 @@ const sentence = excerpt.split(/[.()]/)[0].trim().concat(".");
 - Activated CDN and caching on the Wordpress backend through SiteGround.
 - Edit Get all PDFs so it fetches all posts with the "Issues" category rather than the "PDFs" tag.
 - The client noticed there was a problem updating/deleting posts on Wordpress and there being quite a big delay for this to update on the site. I tested this for myself and realised the issue could be fixed by triggering a site rebuild on Vercel. I fixed this by using WP Webhooks - a Wordpress plugin - and adding Vercel Deploy Hooks to trigger a rebuild when posts are created, updated or deleted on Wordpress. This provided a quick and easy way to trigger a site rebuild, without worrying about authentication or API routes.
-- Next I had an issue displaying PDFs on the Mobile site,
-  # Running on your machine
+- One of the early testers for the website alerted me that PDFs weren't loading properly in the Samsung mobile browser. I downloaded the browser on my device to reproduce the problem, and tried it in Chrome, getting a similar result. I initially thought this was a CORS issue with the PDFs being hosted on the Wordpress backend rather than on the Vercel frontend, so i attempted to fix it with the help of the Vercel docs. This didn't work so i searched for the next solution. As a Firefox user, I didn't realise there is an issue with viewing PDFs on mobile (a lot of browsers don't support it)
+
+# Running on your machine
 
 ## Run the Frontend (Next.js) in development mode:
 
