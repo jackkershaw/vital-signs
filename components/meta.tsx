@@ -38,7 +38,7 @@ export default function Meta() {
       <title>Vital Signs</title>
 
       {/* Twitter Meta Tags */}
-      <meta name="twitter:card" content="/images/banner-draft.png" />
+      <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="Vital Signs Magazine" />
       <meta
         name="twitter:description"
