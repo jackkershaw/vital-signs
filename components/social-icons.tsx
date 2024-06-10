@@ -1,6 +1,6 @@
 export default function SocialIcons() {
   return (
-    <div className="flex flex-row lg:items-end justify-start lg:justify-between space-x-10 lg:space-x-10 pb-4 lg:pb-0 text-3xl">
+    <div className="flex flex-row lg:items-end justify-between space-x-5 lg:space-x-10 pb-4 lg:pb-0 text-3xl">
       <a
         href="https://www.facebook.com/profile.php?id=615594488741147"
         target="_blank"
