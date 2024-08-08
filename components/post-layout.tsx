@@ -2,7 +2,6 @@ import Header from "./header";
 import Footer from "./footer";
 import Head from "next/head";
 import { m, LazyMotion, domAnimation } from "framer-motion";
-import { SpeedInsights } from "@vercel/speed-insights/next";
 export default function Layout({ children }) {
   return (
     <div>
@@ -13,7 +12,6 @@ export default function Layout({ children }) {
           content={"A Health Workers’ Magazine For a New Society"}
         />
       </Head>
-      <SpeedInsights />
       <Header />
       <LazyMotion features={domAnimation}>
         <m.div
@@ -42,7 +40,6 @@ export default function Layout({ children }) {
           </main>
         </m.div>
       </LazyMotion>
-
       <Footer />
     </div>
   );
