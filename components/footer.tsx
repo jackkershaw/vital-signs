@@ -28,7 +28,7 @@ export default function Footer() {
           <p className="py-2 lg:py-0">
             Source on{" "}
             <a
-              href="https://github.com/jones58/vital-signs"
+              href="https://github.com/jackkershaw/vital-signs"
               target="_blank"
               className="font-bold text-customRed-800 hover:text-customRed-950 active:text-customRed-500"
               aria-label="link to the Vital Signs Magazine GitHub repository"
