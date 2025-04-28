@@ -11,7 +11,6 @@
     "@types/node": "^20.11.24",
     "@types/react": "^18.2.61",
     "@types/react-dom": "^18.2.19",
-    "@vercel/speed-insights": "^1.0.10",
     "classnames": "^2.5.1",
     "date-fns": "^3.3.1",
     "eslint-config-next": "^14.1.0",
@@ -22,8 +21,7 @@
     "react-dom": "^18.2.0",
     "react-pdfobject": "^1.2.0",
     "sharp": "^0.33.2",
-    "typescript": "^5.3.3",
-    "vercel": "^41.6.2"
+    "typescript": "^5.3.3"
   },
   "devDependencies": {
     "@iconify/tailwind": "^0.1.4",
