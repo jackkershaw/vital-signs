@@ -12,12 +12,11 @@ const { protocol, hostname, port, pathname } = new URL(
 /** @type {import('next').NextConfig} */
 module.exports = {
   images: {
-    unoptimized: true,
     remotePatterns: [
       {
         protocol: "https",
         hostname: "vitalsignscontenteditor.co.uk",
-        pathname: "/wp-content/uploads/**",
+        pathname: "/**",
       },
     ],
   },
