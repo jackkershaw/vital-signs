@@ -17,8 +17,7 @@ module.exports = {
       {
         protocol: "https",
         hostname: "vitalsignscontenteditor.co.uk",
-        port: "",
-        pathname: "/**",
+        pathname: "/wp-content/uploads/**",
       },
     ],
   },
