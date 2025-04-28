@@ -25,6 +25,7 @@ export default function Events({ content, featuredImage }: Props) {
               alt={featuredImage?.node.altText}
               className="object-cover object-center pb-8 lg:pb-0"
               fill
+              unoptimized
             />
           </div>
           <div>
