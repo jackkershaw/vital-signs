@@ -20,6 +20,18 @@
   @apply active:text-customRed-500;
 }
 
+.content a span {
+  @apply text-customRed-800;
+  @apply hover:text-customRed-950;
+  @apply active:text-customRed-500;
+}
+
+.content span a {
+  @apply text-customRed-800;
+  @apply hover:text-customRed-950;
+  @apply active:text-customRed-500;
+}
+
 .content ul,
 .content ol {
   @apply pl-4;
